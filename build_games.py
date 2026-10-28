@@ -63,7 +63,7 @@ def display(name):
     name = clean(name)
     while LABELS.search(name):
         name = LABELS.sub("", name).strip()
-    name = re.sub(r"^EA SPORTS (?!FC\b)", "", name, flags=re.I)  # "EA SPORTS Madden NFL 27" = Madden NFL 27
+    name = re.sub(r"^EA SPORTS (?!FC\b|College Football\b)", "", name, flags=re.I)  # "EA SPORTS Madden NFL 27" = Madden NFL 27; FC and College Football keep it, it is their name
     words = re.findall(r"[A-Za-z][A-Za-z']*", name)
     shouting = sum(w.isupper() and len(w) > 1 for w in words) > len(words) / 2
 

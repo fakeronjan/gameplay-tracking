@@ -2962,8 +2962,8 @@
   ]
  },
  {
-  "id": "college-football-26",
-  "name": "College Football 26",
+  "id": "ea-sports-college-football-26",
+  "name": "EA Sports College Football 26",
   "first": "2025-07-07",
   "last": "2025-08-24",
   "days": [
@@ -2982,7 +2982,7 @@
     "id": "psn-played:PPSA25859_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "College Football 26",
+    "name": "EA Sports College Football 26",
     "minutes": 3283,
     "earned": null,
     "total": null,
@@ -3003,8 +3003,8 @@
   ]
  },
  {
-  "id": "college-football-25",
-  "name": "College Football 25",
+  "id": "ea-sports-college-football-25",
+  "name": "EA Sports College Football 25",
   "first": "2024-07-15",
   "last": "2025-07-06",
   "days": [
@@ -3024,7 +3024,7 @@
     "id": "psn-played:PPSA04184_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "College Football 25",
+    "name": "EA Sports College Football 25",
     "minutes": 7419,
     "earned": null,
     "total": null,
