@@ -199,7 +199,7 @@ def ps_scan():
                               "trophy": is_trophy_capture(f), "text": None}
         if c["trophy"] and c["text"] is None:
             unread.append((rel, f))
-    if unread:  # macOS Vision text recognition, local/banner_ocr (built from local/scripts/banner_ocr.swift)
+    if unread:  # macOS Vision text recognition: swiftc -O -o local/banner_ocr tools/banner_ocr.swift
         listing = HERE / "local" / "ocr_paths.txt"
         listing.write_text("\n".join(str(f) for _, f in unread))
         read = json.loads(subprocess.run([str(HERE / "local" / "banner_ocr"), str(listing)],
