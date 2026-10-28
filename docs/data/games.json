@@ -21,6 +21,22 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-05-10",
+    "2026-10-27"
+   ],
+   "Xbox": [
+    "2007-12-05",
+    "2010-08-28",
+    "2011-01-30",
+    "2011-02-20",
+    "2019-02-09",
+    "2019-02-10",
+    "2019-02-18",
+    "2021-05-23"
+   ]
+  },
   "hours": 7.9,
   "hours_estimated": true,
   "sessions": 2,
@@ -129,6 +145,23 @@
    "Nintendo",
    "PlayStation"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-11-30",
+    "2019-12-01",
+    "2019-12-08"
+   ],
+   "PlayStation": [
+    "2015-05-19",
+    "2015-06-15",
+    "2017-12-02",
+    "2023-01-09",
+    "2026-10-08",
+    "2026-10-12",
+    "2026-10-16",
+    "2026-10-24"
+   ]
+  },
   "hours": 34.5,
   "hours_estimated": false,
   "sessions": 32,
@@ -241,6 +274,30 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-09-20",
+    "2014-11-19",
+    "2014-11-21",
+    "2014-12-24",
+    "2014-12-27",
+    "2014-12-28",
+    "2014-12-29",
+    "2014-12-30",
+    "2014-12-31",
+    "2015-01-02",
+    "2015-01-03",
+    "2022-07-16",
+    "2025-12-26",
+    "2026-10-03"
+   ],
+   "Xbox": [
+    "2021-12-28",
+    "2022-01-17",
+    "2022-03-18",
+    "2022-06-18"
+   ]
+  },
   "hours": 163.2,
   "hours_estimated": false,
   "sessions": 131,
@@ -348,6 +405,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2026-09-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -398,6 +460,29 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-01-26",
+    "2024-02-02",
+    "2024-02-03",
+    "2024-02-04",
+    "2024-02-10",
+    "2024-02-11",
+    "2024-02-17",
+    "2024-02-24",
+    "2024-02-26",
+    "2024-02-27",
+    "2024-02-29",
+    "2024-03-01",
+    "2024-03-02",
+    "2024-03-03",
+    "2024-03-04",
+    "2024-03-17",
+    "2024-03-30",
+    "2024-04-04",
+    "2026-09-07"
+   ]
+  },
   "hours": 109.5,
   "hours_estimated": false,
   "sessions": 81,
@@ -446,6 +531,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-08-13",
+    "2026-08-16",
+    "2026-08-28",
+    "2026-09-04",
+    "2026-09-06"
+   ]
+  },
   "hours": 11.6,
   "hours_estimated": false,
   "sessions": 9,
@@ -491,6 +585,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-06-02",
+    "2026-09-04"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 3,
@@ -560,6 +660,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-09-04"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 1,
@@ -612,6 +717,19 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-05-14",
+    "2016-05-20",
+    "2016-05-27",
+    "2016-05-29",
+    "2016-05-30",
+    "2016-05-31",
+    "2017-09-10",
+    "2022-07-08",
+    "2026-08-30"
+   ]
+  },
   "hours": 26.2,
   "hours_estimated": false,
   "sessions": 23,
@@ -693,6 +811,23 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-01-13",
+    "2010-01-16",
+    "2010-01-30",
+    "2010-02-15",
+    "2010-02-20",
+    "2010-02-21",
+    "2011-11-12",
+    "2011-11-13",
+    "2012-07-30",
+    "2020-07-01",
+    "2022-07-16",
+    "2022-07-17",
+    "2026-08-30"
+   ]
+  },
   "hours": 11.6,
   "hours_estimated": true,
   "sessions": 12,
@@ -745,6 +880,19 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-01-22",
+    "2023-02-11",
+    "2026-08-16"
+   ],
+   "Xbox": [
+    "2022-05-02",
+    "2022-05-07",
+    "2022-05-15",
+    "2022-05-30"
+   ]
+  },
   "hours": 38.5,
   "hours_estimated": false,
   "sessions": 10,
@@ -804,6 +952,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-07-05",
+    "2026-08-03",
+    "2026-08-13"
+   ]
+  },
   "hours": 3.9,
   "hours_estimated": false,
   "sessions": 4,
@@ -849,6 +1004,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-13",
+    "2026-08-12"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 3,
@@ -893,6 +1054,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-07-11"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -1104,6 +1270,178 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-03-20",
+    "2020-03-21",
+    "2020-03-22",
+    "2020-03-24",
+    "2020-03-25",
+    "2020-03-28",
+    "2020-03-29",
+    "2020-04-01",
+    "2020-04-02",
+    "2020-04-03",
+    "2020-04-04",
+    "2020-04-05",
+    "2020-04-06",
+    "2020-04-07",
+    "2020-04-08",
+    "2020-04-10",
+    "2020-04-11",
+    "2020-04-12",
+    "2020-04-14",
+    "2020-04-15",
+    "2020-04-16",
+    "2020-04-17",
+    "2020-04-18",
+    "2020-04-19",
+    "2020-04-22",
+    "2020-04-23",
+    "2020-04-25",
+    "2020-04-26",
+    "2020-04-30",
+    "2020-05-02",
+    "2020-05-09",
+    "2020-05-12",
+    "2020-05-15",
+    "2020-05-18",
+    "2020-05-23",
+    "2020-07-05",
+    "2020-11-08",
+    "2020-11-26",
+    "2021-01-30",
+    "2021-02-15",
+    "2021-02-20",
+    "2021-03-07",
+    "2021-03-13",
+    "2022-03-25",
+    "2022-03-29",
+    "2022-04-03",
+    "2022-04-04",
+    "2022-04-07",
+    "2022-04-10",
+    "2022-04-11",
+    "2022-04-12",
+    "2022-04-13",
+    "2022-04-14",
+    "2022-04-16",
+    "2022-04-17",
+    "2022-04-18",
+    "2022-04-19",
+    "2022-04-20",
+    "2022-04-21",
+    "2022-04-22",
+    "2022-04-23",
+    "2022-04-25",
+    "2022-04-26",
+    "2022-04-28",
+    "2022-04-29",
+    "2022-04-30",
+    "2022-05-01",
+    "2022-05-02",
+    "2022-05-03",
+    "2022-05-04",
+    "2022-05-05",
+    "2022-05-06",
+    "2022-05-07",
+    "2022-05-08",
+    "2022-05-13",
+    "2022-05-14",
+    "2022-05-15",
+    "2022-05-16",
+    "2022-05-18",
+    "2022-05-19",
+    "2022-05-20",
+    "2022-05-21",
+    "2022-05-22",
+    "2022-05-23",
+    "2022-05-24",
+    "2022-05-27",
+    "2022-05-28",
+    "2022-05-30",
+    "2022-05-31",
+    "2022-06-01",
+    "2022-06-02",
+    "2022-06-03",
+    "2022-06-04",
+    "2022-06-05",
+    "2022-06-06",
+    "2022-06-07",
+    "2022-06-08",
+    "2022-06-09",
+    "2022-06-10",
+    "2022-06-11",
+    "2022-06-12",
+    "2022-06-13",
+    "2022-06-17",
+    "2022-06-18",
+    "2022-06-19",
+    "2022-06-20",
+    "2022-06-21",
+    "2022-06-22",
+    "2022-06-23",
+    "2022-06-25",
+    "2022-06-26",
+    "2022-06-27",
+    "2022-06-28",
+    "2022-06-30",
+    "2022-07-02",
+    "2022-07-03",
+    "2022-07-04",
+    "2022-07-10",
+    "2022-07-11",
+    "2022-07-14",
+    "2022-07-17",
+    "2022-07-21",
+    "2022-07-28",
+    "2022-07-29",
+    "2022-07-30",
+    "2022-07-31",
+    "2022-08-01",
+    "2022-08-02",
+    "2022-08-03",
+    "2022-08-06",
+    "2022-08-07",
+    "2022-08-15",
+    "2022-08-19",
+    "2022-08-21",
+    "2022-08-26",
+    "2022-08-28",
+    "2022-09-01",
+    "2022-09-02",
+    "2022-09-03",
+    "2022-09-04",
+    "2022-09-05",
+    "2022-09-18",
+    "2022-10-04",
+    "2022-10-10",
+    "2022-10-31",
+    "2022-11-01",
+    "2022-11-13",
+    "2022-12-01",
+    "2022-12-02",
+    "2022-12-11",
+    "2023-05-16",
+    "2023-05-29",
+    "2023-06-06",
+    "2023-06-09",
+    "2023-06-16",
+    "2023-06-19",
+    "2023-07-04",
+    "2023-07-07",
+    "2023-07-15",
+    "2023-08-01",
+    "2023-08-08",
+    "2024-03-01",
+    "2024-03-03",
+    "2024-07-04",
+    "2025-02-01",
+    "2025-06-08",
+    "2026-02-09",
+    "2026-07-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -1139,6 +1477,14 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2026-06-09",
+    "2026-06-26",
+    "2026-06-28",
+    "2026-07-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -1171,6 +1517,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2026-07-02"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -1209,6 +1560,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-12-04",
+    "2025-12-05",
+    "2025-12-06",
+    "2025-12-07",
+    "2025-12-09",
+    "2026-01-10",
+    "2026-07-02"
+   ]
+  },
   "hours": 6.6,
   "hours_estimated": false,
   "sessions": 11,
@@ -1257,6 +1619,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-09-22",
+    "2024-06-24",
+    "2024-07-14",
+    "2024-09-02",
+    "2026-06-26"
+   ]
+  },
   "hours": 9.7,
   "hours_estimated": false,
   "sessions": 13,
@@ -1325,6 +1696,37 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-01-05",
+    "2019-01-06",
+    "2019-01-07"
+   ],
+   "PlayStation": [
+    "2013-04-13",
+    "2014-07-19",
+    "2014-07-22",
+    "2014-07-24",
+    "2014-07-25",
+    "2014-07-26",
+    "2014-07-27",
+    "2014-08-03",
+    "2014-08-16",
+    "2016-05-11",
+    "2016-05-15",
+    "2016-05-29",
+    "2016-05-31",
+    "2016-06-10",
+    "2016-06-22",
+    "2016-06-25",
+    "2026-06-12",
+    "2026-06-13"
+   ],
+   "Xbox": [
+    "2022-01-09",
+    "2022-02-06"
+   ]
+  },
   "hours": 22.5,
   "hours_estimated": false,
   "sessions": 29,
@@ -1407,6 +1809,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-06-09"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": 2,
@@ -1453,6 +1860,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-05-26",
+    "2026-05-30",
+    "2026-06-09"
+   ]
+  },
   "hours": 4.5,
   "hours_estimated": false,
   "sessions": 4,
@@ -1497,6 +1911,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-05-25"
+   ]
+  },
   "hours": 1.9,
   "hours_estimated": false,
   "sessions": 1,
@@ -1558,6 +1977,30 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-02-16",
+    "2025-05-25",
+    "2025-11-08",
+    "2025-11-16",
+    "2026-05-24"
+   ],
+   "Steam": [
+    "2021-07-30",
+    "2021-12-17",
+    "2021-12-28"
+   ],
+   "Xbox": [
+    "2021-05-14",
+    "2021-05-16",
+    "2021-05-21",
+    "2021-05-30",
+    "2021-06-26",
+    "2022-12-31",
+    "2023-03-25",
+    "2023-04-14"
+   ]
+  },
   "hours": 22.2,
   "hours_estimated": false,
   "sessions": 6,
@@ -1628,6 +2071,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-04-24",
+    "2026-05-23"
+   ]
+  },
   "hours": 1.7,
   "hours_estimated": false,
   "sessions": 3,
@@ -1675,6 +2124,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-06-19",
+    "2026-05-03"
+   ],
+   "Xbox": [
+    "2019-02-17"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -1733,6 +2191,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-03-27",
+    "2026-05-03"
+   ]
+  },
   "hours": 3.1,
   "hours_estimated": false,
   "sessions": 4,
@@ -1777,6 +2241,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-05-03"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": 1,
@@ -1830,6 +2299,20 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-04-10",
+    "2020-04-24",
+    "2022-07-08",
+    "2022-07-09",
+    "2022-07-10",
+    "2023-06-19",
+    "2023-07-08",
+    "2023-07-29",
+    "2024-01-08",
+    "2026-05-03"
+   ]
+  },
   "hours": 17.9,
   "hours_estimated": false,
   "sessions": 25,
@@ -1945,6 +2428,46 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-06-20",
+    "2020-06-29"
+   ],
+   "PlayStation": [
+    "2008-09-27",
+    "2008-09-28",
+    "2008-10-01",
+    "2008-10-05",
+    "2008-10-08",
+    "2008-10-11",
+    "2008-10-12",
+    "2009-02-07",
+    "2009-02-08",
+    "2009-02-09",
+    "2009-03-01",
+    "2009-03-02",
+    "2009-03-03",
+    "2009-03-05",
+    "2009-04-05",
+    "2009-07-09",
+    "2009-09-06",
+    "2009-11-16",
+    "2009-11-29",
+    "2009-12-07",
+    "2010-05-10",
+    "2010-06-13",
+    "2010-07-15",
+    "2011-06-17",
+    "2020-11-07",
+    "2020-11-08",
+    "2026-05-02"
+   ],
+   "Xbox": [
+    "2019-06-08",
+    "2021-10-02",
+    "2022-01-03"
+   ]
+  },
   "hours": 9.7,
   "hours_estimated": false,
   "sessions": 6,
@@ -2044,6 +2567,28 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-09-27",
+    "2025-09-28",
+    "2025-10-11",
+    "2025-12-14",
+    "2026-02-01",
+    "2026-02-16",
+    "2026-02-21",
+    "2026-02-22",
+    "2026-02-24",
+    "2026-02-27",
+    "2026-02-28",
+    "2026-03-01",
+    "2026-03-04",
+    "2026-03-08",
+    "2026-03-15",
+    "2026-04-18",
+    "2026-04-20",
+    "2026-04-24"
+   ]
+  },
   "hours": 68.1,
   "hours_estimated": false,
   "sessions": 55,
@@ -2092,6 +2637,16 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-04-06",
+    "2025-04-13",
+    "2026-04-12"
+   ],
+   "Xbox": [
+    "2022-06-20"
+   ]
+  },
   "hours": 18.8,
   "hours_estimated": false,
   "sessions": 13,
@@ -2149,6 +2704,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-04-12"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -2258,6 +2818,67 @@
    "PlayStation",
    "Steam"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2024-04-03",
+    "2024-04-04",
+    "2024-04-06",
+    "2024-04-11",
+    "2024-04-13",
+    "2024-04-14",
+    "2024-04-20",
+    "2024-04-21",
+    "2024-04-22",
+    "2024-04-23",
+    "2024-04-25",
+    "2024-05-05",
+    "2024-05-09",
+    "2024-05-10",
+    "2024-05-11",
+    "2024-05-12",
+    "2024-05-13",
+    "2024-05-19",
+    "2024-05-20",
+    "2024-06-07",
+    "2024-06-09",
+    "2024-06-10",
+    "2024-06-11",
+    "2024-06-13",
+    "2024-06-14",
+    "2024-07-04",
+    "2024-07-05",
+    "2024-07-06",
+    "2024-07-07",
+    "2024-09-01",
+    "2024-12-16"
+   ],
+   "PlayStation": [
+    "2024-02-27",
+    "2024-03-08",
+    "2024-03-19",
+    "2024-03-20",
+    "2024-03-22",
+    "2024-03-24",
+    "2024-03-25",
+    "2024-03-26",
+    "2024-03-30",
+    "2025-01-30"
+   ],
+   "Steam": [
+    "2024-12-21",
+    "2024-12-27",
+    "2024-12-29",
+    "2025-01-01",
+    "2025-01-03",
+    "2025-01-12",
+    "2025-01-30",
+    "2025-01-31",
+    "2025-02-09",
+    "2025-02-25",
+    "2025-03-15",
+    "2026-04-04"
+   ]
+  },
   "hours": 87.4,
   "hours_estimated": false,
   "sessions": 22,
@@ -2328,6 +2949,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-02-16",
+    "2026-03-29"
+   ]
+  },
   "hours": 7.1,
   "hours_estimated": false,
   "sessions": 12,
@@ -2375,6 +3002,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-11-02",
+    "2024-11-24",
+    "2024-12-01",
+    "2026-03-29"
+   ]
+  },
   "hours": 12.2,
   "hours_estimated": false,
   "sessions": 9,
@@ -2432,6 +3067,11 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2026-03-21"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -2465,6 +3105,14 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2026-03-21"
+   ],
+   "Xbox": [
+    "2023-05-06"
+   ]
+  },
   "hours": 1.4,
   "hours_estimated": false,
   "sessions": null,
@@ -2512,6 +3160,14 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2015-11-16",
+    "2015-12-23",
+    "2015-12-26",
+    "2026-03-21"
+   ]
+  },
   "hours": 2.9,
   "hours_estimated": false,
   "sessions": null,
@@ -2559,6 +3215,28 @@
    "PlayStation",
    "Steam"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-02-11",
+    "2023-02-14",
+    "2023-03-04",
+    "2023-03-05",
+    "2023-03-11",
+    "2023-03-26",
+    "2023-04-01",
+    "2023-04-02",
+    "2023-04-03",
+    "2023-04-04",
+    "2023-04-05",
+    "2023-04-16",
+    "2023-04-19",
+    "2023-04-22",
+    "2025-07-06"
+   ],
+   "Steam": [
+    "2026-03-21"
+   ]
+  },
   "hours": 107.5,
   "hours_estimated": false,
   "sessions": 77,
@@ -2631,6 +3309,14 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2024-12-31",
+    "2025-01-15",
+    "2025-01-18",
+    "2026-03-21"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": null,
@@ -2670,6 +3356,22 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-10-11"
+   ],
+   "PlayStation": [
+    "2023-02-05",
+    "2023-02-11"
+   ],
+   "Steam": [
+    "2026-03-21"
+   ],
+   "Xbox": [
+    "2021-08-29",
+    "2023-01-29"
+   ]
+  },
   "hours": 5.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -2754,6 +3456,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-02",
+    "2024-06-23",
+    "2026-03-20"
+   ]
+  },
   "hours": 7.3,
   "hours_estimated": false,
   "sessions": 15,
@@ -2802,6 +3511,16 @@
    "Nintendo",
    "Steam"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2023-09-15",
+    "2023-09-16",
+    "2025-06-21"
+   ],
+   "Steam": [
+    "2026-03-19"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": null,
@@ -2854,6 +3573,21 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-02-19",
+    "2018-02-23",
+    "2018-02-27",
+    "2018-03-06",
+    "2018-04-05"
+   ],
+   "Steam": [
+    "2026-03-19"
+   ],
+   "Xbox": [
+    "2021-10-24"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": null,
@@ -2911,6 +3645,11 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2026-03-19"
+   ]
+  },
   "hours": 2.4,
   "hours_estimated": false,
   "sessions": null,
@@ -2944,6 +3683,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2018-04-29",
+    "2024-01-11",
+    "2026-02-15"
+   ]
+  },
   "hours": 8.0,
   "hours_estimated": false,
   "sessions": 13,
@@ -3008,6 +3754,18 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-01-31",
+    "2016-02-16",
+    "2016-03-20",
+    "2016-07-15",
+    "2020-04-25",
+    "2020-12-27",
+    "2024-06-17",
+    "2026-01-08"
+   ]
+  },
   "hours": 99.9,
   "hours_estimated": false,
   "sessions": 139,
@@ -3070,6 +3828,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-07-21",
+    "2017-07-22",
+    "2020-09-07",
+    "2020-10-04",
+    "2021-12-23",
+    "2026-01-01"
+   ]
+  },
   "hours": 5.1,
   "hours_estimated": false,
   "sessions": 16,
@@ -3124,6 +3892,21 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-04-26",
+    "2025-05-03",
+    "2025-05-10",
+    "2025-05-12",
+    "2025-05-17",
+    "2025-05-18",
+    "2025-05-24",
+    "2025-05-30",
+    "2025-05-31",
+    "2025-06-01",
+    "2026-01-01"
+   ]
+  },
   "hours": 34.0,
   "hours_estimated": false,
   "sessions": 23,
@@ -3169,6 +3952,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-12-24",
+    "2025-12-26"
+   ]
+  },
   "hours": 1.5,
   "hours_estimated": false,
   "sessions": 3,
@@ -3216,6 +4005,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-12-22",
+    "2025-12-24",
+    "2025-12-25",
+    "2025-12-26"
+   ]
+  },
   "hours": 20.3,
   "hours_estimated": false,
   "sessions": 12,
@@ -3261,6 +4058,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-12-20",
+    "2025-12-22"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": 2,
@@ -3310,6 +4113,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-04-04",
+    "2010-04-10",
+    "2010-04-11",
+    "2010-04-16",
+    "2010-04-17",
+    "2025-12-14"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": 1,
@@ -3368,6 +4181,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-11-18",
+    "2020-09-06",
+    "2025-12-07"
+   ]
+  },
   "hours": 4.8,
   "hours_estimated": false,
   "sessions": 10,
@@ -3413,6 +4233,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-11-19",
+    "2025-11-23"
+   ]
+  },
   "hours": 9.2,
   "hours_estimated": false,
   "sessions": 4,
@@ -3470,6 +4296,26 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-07-21"
+   ],
+   "PlayStation": [
+    "2022-08-05",
+    "2025-10-20",
+    "2025-10-26"
+   ],
+   "Xbox": [
+    "2021-04-12",
+    "2021-04-14",
+    "2021-04-17",
+    "2021-04-18",
+    "2021-05-02",
+    "2021-05-14",
+    "2021-05-15",
+    "2022-12-22"
+   ]
+  },
   "hours": 26.1,
   "hours_estimated": false,
   "sessions": 3,
@@ -3545,6 +4391,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2011-11-02",
+    "2011-11-05",
+    "2011-11-06",
+    "2011-11-26",
+    "2011-11-27",
+    "2025-10-20"
+   ]
+  },
   "hours": 2.9,
   "hours_estimated": true,
   "sessions": 3,
@@ -3602,6 +4458,23 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-10-01",
+    "2024-10-15",
+    "2024-10-20",
+    "2024-10-25",
+    "2024-10-26",
+    "2024-11-01",
+    "2024-11-02",
+    "2024-11-03",
+    "2024-12-13",
+    "2024-12-14",
+    "2025-09-21",
+    "2025-09-24",
+    "2025-09-28"
+   ]
+  },
   "hours": 43.5,
   "hours_estimated": false,
   "sessions": 25,
@@ -3653,6 +4526,18 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-02-24",
+    "2010-03-05",
+    "2010-03-07",
+    "2010-03-22",
+    "2015-11-07",
+    "2022-07-15",
+    "2022-07-16",
+    "2025-09-13"
+   ]
+  },
   "hours": 11.6,
   "hours_estimated": true,
   "sessions": 12,
@@ -3699,6 +4584,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-08-10",
+    "2025-08-24"
+   ]
+  },
   "hours": 2.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -3747,6 +4638,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-07-07",
+    "2025-07-13",
+    "2025-08-10",
+    "2025-08-16",
+    "2025-08-24"
+   ]
+  },
   "hours": 54.7,
   "hours_estimated": false,
   "sessions": 34,
@@ -3796,6 +4696,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-07-15",
+    "2024-07-17",
+    "2024-07-19",
+    "2024-07-20",
+    "2024-07-29",
+    "2025-07-06"
+   ]
+  },
   "hours": 123.7,
   "hours_estimated": false,
   "sessions": 101,
@@ -3840,6 +4750,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2025-06-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -3872,6 +4787,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2025-06-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -3931,6 +4851,39 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-09-06",
+    "2013-09-15",
+    "2013-09-21",
+    "2013-09-22",
+    "2013-09-26",
+    "2013-09-28",
+    "2013-09-29",
+    "2013-10-02",
+    "2013-10-12",
+    "2013-10-13",
+    "2013-10-24",
+    "2013-10-26",
+    "2013-11-03",
+    "2014-02-19",
+    "2014-02-22",
+    "2014-02-23",
+    "2014-02-24",
+    "2014-02-28",
+    "2014-03-01",
+    "2014-03-04",
+    "2016-04-19",
+    "2016-08-28",
+    "2016-12-11",
+    "2016-12-18",
+    "2020-04-04",
+    "2025-05-17"
+   ],
+   "Xbox": [
+    "2021-12-11"
+   ]
+  },
   "hours": 53.4,
   "hours_estimated": false,
   "sessions": 135,
@@ -4012,6 +4965,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2025-05-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -4044,6 +5002,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2025-05-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -4081,6 +5044,17 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-11-21",
+    "2014-12-08",
+    "2014-12-11",
+    "2014-12-14"
+   ],
+   "Xbox": [
+    "2025-05-11"
+   ]
+  },
   "hours": 7.7,
   "hours_estimated": false,
   "sessions": 14,
@@ -4141,6 +5115,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2018-06-03",
+    "2025-04-27"
+   ],
+   "Xbox": [
+    "2022-02-06"
+   ]
+  },
   "hours": 18.4,
   "hours_estimated": false,
   "sessions": 29,
@@ -4202,6 +5185,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-04-18",
+    "2025-04-20",
+    "2025-04-21",
+    "2025-04-22",
+    "2025-04-26"
+   ]
+  },
   "hours": 11.8,
   "hours_estimated": false,
   "sessions": 7,
@@ -4246,6 +5238,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-04-26"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": 2,
@@ -4292,6 +5289,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-08-31",
+    "2022-09-05",
+    "2025-04-13"
+   ]
+  },
   "hours": 3.8,
   "hours_estimated": false,
   "sessions": 6,
@@ -4342,6 +5346,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-04-04",
+    "2016-04-30",
+    "2016-05-01",
+    "2025-03-04",
+    "2025-04-10",
+    "2025-04-12",
+    "2025-04-13"
+   ]
+  },
   "hours": 5.7,
   "hours_estimated": false,
   "sessions": 11,
@@ -4400,6 +5415,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-03-09",
+    "2025-03-30",
+    "2025-04-05"
+   ]
+  },
   "hours": 21.8,
   "hours_estimated": false,
   "sessions": 12,
@@ -4465,6 +5487,32 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-07-20",
+    "2017-12-26",
+    "2017-12-30",
+    "2018-01-06",
+    "2023-06-13",
+    "2023-11-21",
+    "2025-01-24",
+    "2025-01-25",
+    "2025-01-26",
+    "2025-01-28",
+    "2025-01-29",
+    "2025-02-01",
+    "2025-02-04",
+    "2025-02-06",
+    "2025-02-08",
+    "2025-02-12",
+    "2025-02-13",
+    "2025-02-14",
+    "2025-02-16",
+    "2025-02-17",
+    "2025-02-18",
+    "2025-03-09"
+   ]
+  },
   "hours": 83.0,
   "hours_estimated": false,
   "sessions": 56,
@@ -4540,6 +5588,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-02-21",
+    "2025-02-22",
+    "2025-02-28",
+    "2025-03-01",
+    "2025-03-02",
+    "2025-03-03",
+    "2025-03-04"
+   ]
+  },
   "hours": 30.2,
   "hours_estimated": false,
   "sessions": 13,
@@ -4594,6 +5653,23 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-08-11",
+    "2018-08-12"
+   ],
+   "PlayStation": [
+    "2012-11-01",
+    "2012-11-09",
+    "2012-11-10",
+    "2025-02-14",
+    "2025-02-20"
+   ],
+   "Xbox": [
+    "2021-02-15",
+    "2021-04-25"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 3,
@@ -4665,6 +5741,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2025-02-09",
+    "2025-02-19"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 3,
@@ -4711,6 +5793,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-03-11",
+    "2024-04-13",
+    "2025-02-19"
+   ]
+  },
   "hours": 1.5,
   "hours_estimated": false,
   "sessions": 5,
@@ -4756,6 +5845,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-04-27",
+    "2025-01-20"
+   ]
+  },
   "hours": 2.3,
   "hours_estimated": false,
   "sessions": 3,
@@ -4817,6 +5912,30 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-03-04",
+    "2019-12-14",
+    "2019-12-15",
+    "2020-01-19",
+    "2020-01-20",
+    "2020-02-15",
+    "2020-02-16"
+   ],
+   "PlayStation": [
+    "2015-04-24",
+    "2015-05-17",
+    "2015-05-25",
+    "2015-05-28",
+    "2015-05-30",
+    "2015-05-31",
+    "2016-05-11",
+    "2024-12-31"
+   ],
+   "Xbox": [
+    "2021-12-27"
+   ]
+  },
   "hours": 30.3,
   "hours_estimated": false,
   "sessions": 50,
@@ -4902,6 +6021,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-09-05",
+    "2024-12-30"
+   ],
+   "Xbox": [
+    "2021-12-11"
+   ]
+  },
   "hours": 3.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -4965,6 +6093,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-08-30",
+    "2024-08-31",
+    "2024-09-09",
+    "2024-09-11",
+    "2024-09-12",
+    "2024-10-17",
+    "2024-12-05"
+   ]
+  },
   "hours": 26.2,
   "hours_estimated": false,
   "sessions": 29,
@@ -5009,6 +6148,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-11-22"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 1,
@@ -5056,6 +6200,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-08",
+    "2022-07-09",
+    "2022-07-10",
+    "2024-11-03"
+   ]
+  },
   "hours": 5.3,
   "hours_estimated": false,
   "sessions": 9,
@@ -5115,6 +6267,28 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-02-05",
+    "2017-02-19",
+    "2019-04-21",
+    "2019-09-15"
+   ],
+   "PlayStation": [
+    "2022-10-02",
+    "2022-10-03",
+    "2024-10-27"
+   ],
+   "Xbox": [
+    "2021-05-16",
+    "2021-05-23",
+    "2021-07-17",
+    "2021-07-26",
+    "2021-07-27",
+    "2021-07-31",
+    "2022-03-05"
+   ]
+  },
   "hours": 22.2,
   "hours_estimated": false,
   "sessions": 4,
@@ -5197,6 +6371,11 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2024-10-17"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -5231,6 +6410,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-09-05",
+    "2022-09-17",
+    "2022-10-02",
+    "2024-09-02"
+   ]
+  },
   "hours": 12.8,
   "hours_estimated": false,
   "sessions": 9,
@@ -5275,6 +6462,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-09-02"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 1,
@@ -5319,6 +6511,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-08-16"
+   ]
+  },
   "hours": 0.8,
   "hours_estimated": false,
   "sessions": 1,
@@ -5372,6 +6569,20 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-09-07",
+    "2023-09-08",
+    "2023-09-09",
+    "2023-10-07",
+    "2023-10-11",
+    "2023-12-20",
+    "2024-01-22",
+    "2024-05-22",
+    "2024-05-26",
+    "2024-08-13"
+   ]
+  },
   "hours": 63.8,
   "hours_estimated": false,
   "sessions": 81,
@@ -5416,6 +6627,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-08-12"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -5460,6 +6676,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-08-10"
+   ]
+  },
   "hours": 0.8,
   "hours_estimated": false,
   "sessions": 2,
@@ -5536,6 +6757,34 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-07-22",
+    "2018-07-29",
+    "2018-08-04"
+   ],
+   "PlayStation": [
+    "2024-07-27",
+    "2024-07-30"
+   ],
+   "Steam": [
+    "2023-03-18",
+    "2023-03-26",
+    "2023-04-30"
+   ],
+   "Xbox": [
+    "2021-03-26",
+    "2021-04-11",
+    "2021-04-12",
+    "2021-04-15",
+    "2021-04-25",
+    "2021-05-09",
+    "2021-05-16",
+    "2021-12-06",
+    "2021-12-26",
+    "2023-01-27"
+   ]
+  },
   "hours": 35.7,
   "hours_estimated": false,
   "sessions": 4,
@@ -5622,6 +6871,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-04-14",
+    "2015-04-24",
+    "2015-04-26",
+    "2015-05-09",
+    "2024-06-24"
+   ]
+  },
   "hours": 12.8,
   "hours_estimated": false,
   "sessions": 18,
@@ -5684,6 +6942,30 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-03-07",
+    "2009-03-08",
+    "2009-03-21",
+    "2010-05-08",
+    "2010-05-21",
+    "2010-05-23",
+    "2016-02-05",
+    "2016-02-17",
+    "2018-06-16",
+    "2021-09-18",
+    "2024-06-21"
+   ],
+   "Xbox": [
+    "2011-05-04",
+    "2011-05-08",
+    "2011-05-14",
+    "2012-02-21",
+    "2019-08-11",
+    "2019-08-12",
+    "2022-03-18"
+   ]
+  },
   "hours": 24.2,
   "hours_estimated": false,
   "sessions": 36,
@@ -5780,6 +7062,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-09-22",
+    "2023-09-24",
+    "2024-06-13"
+   ]
+  },
   "hours": 1.7,
   "hours_estimated": false,
   "sessions": 7,
@@ -5824,6 +7113,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-06-11"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -5878,6 +7172,21 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2024-05-23",
+    "2024-05-24",
+    "2024-05-25",
+    "2024-05-26",
+    "2024-05-27",
+    "2024-06-02",
+    "2024-06-03",
+    "2024-06-04",
+    "2024-06-05",
+    "2024-06-06",
+    "2024-06-07"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -5918,6 +7227,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-03-07",
+    "2024-03-08",
+    "2024-03-09",
+    "2024-03-31",
+    "2024-04-07",
+    "2024-05-05",
+    "2024-05-12"
+   ],
+   "Xbox": [
+    "2021-12-29"
+   ]
+  },
   "hours": 15.5,
   "hours_estimated": false,
   "sessions": 16,
@@ -5976,6 +7299,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-05-02",
+    "2024-05-03"
+   ]
+  },
   "hours": 1.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -6032,6 +7361,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2024-04-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -6065,6 +7399,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-03-04",
+    "2024-04-13"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -6114,6 +7454,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2024-03-15",
+    "2024-03-16",
+    "2024-03-17",
+    "2024-03-18",
+    "2024-03-26",
+    "2024-04-13"
+   ]
+  },
   "hours": 13.2,
   "hours_estimated": false,
   "sessions": 10,
@@ -6166,6 +7516,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-05-14",
+    "2023-10-21",
+    "2023-11-04",
+    "2024-03-23"
+   ],
+   "Xbox": [
+    "2021-10-24",
+    "2023-03-04",
+    "2023-04-28",
+    "2023-05-06"
+   ]
+  },
   "hours": 6.6,
   "hours_estimated": false,
   "sessions": 5,
@@ -6226,6 +7590,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-08-26",
+    "2023-09-07",
+    "2024-01-19",
+    "2024-03-08"
+   ]
+  },
   "hours": 16.6,
   "hours_estimated": false,
   "sessions": 19,
@@ -6273,6 +7645,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-08",
+    "2024-01-05",
+    "2024-01-09",
+    "2024-01-29"
+   ]
+  },
   "hours": 8.7,
   "hours_estimated": false,
   "sessions": 10,
@@ -6318,6 +7698,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-01-13",
+    "2023-11-19"
+   ]
+  },
   "hours": 7.7,
   "hours_estimated": false,
   "sessions": 8,
@@ -6364,6 +7750,13 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2023-11-17",
+    "2023-11-18",
+    "2023-11-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -6416,6 +7809,31 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-06-09",
+    "2020-06-12",
+    "2020-06-13",
+    "2020-06-20",
+    "2020-09-13",
+    "2022-04-10",
+    "2022-04-15",
+    "2022-07-28",
+    "2022-07-30",
+    "2022-08-15",
+    "2022-09-10",
+    "2022-09-24",
+    "2022-10-09",
+    "2022-10-16",
+    "2022-10-23",
+    "2022-11-06",
+    "2022-11-07",
+    "2022-11-13",
+    "2022-11-14",
+    "2022-11-19",
+    "2023-11-07"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -6448,6 +7866,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2023-11-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -6480,6 +7903,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-10-22"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": 1,
@@ -6528,6 +7956,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-08-09",
+    "2014-08-10",
+    "2014-08-11",
+    "2023-10-06",
+    "2023-10-17"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": 3,
@@ -6584,6 +8021,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2023-09-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -6616,6 +8058,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-09-09"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 1,
@@ -6664,6 +8111,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-02-04",
+    "2023-02-17",
+    "2023-02-26",
+    "2023-03-04",
+    "2023-08-09"
+   ]
+  },
   "hours": 3.0,
   "hours_estimated": false,
   "sessions": 7,
@@ -6726,6 +8182,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-09-09",
+    "2022-11-06",
+    "2022-11-19",
+    "2023-01-06",
+    "2023-06-07",
+    "2023-08-08"
+   ]
+  },
   "hours": 23.1,
   "hours_estimated": false,
   "sessions": 27,
@@ -6777,6 +8243,18 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-05-06",
+    "2017-12-29",
+    "2018-01-26",
+    "2018-02-09",
+    "2020-03-13",
+    "2020-03-19",
+    "2020-04-10",
+    "2023-08-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -6818,6 +8296,22 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-07-16"
+   ],
+   "Steam": [
+    "2020-04-03",
+    "2020-04-24",
+    "2020-05-08",
+    "2021-05-21"
+   ],
+   "Xbox": [
+    "2021-05-30",
+    "2021-06-26",
+    "2023-03-04"
+   ]
+  },
   "hours": 15.9,
   "hours_estimated": false,
   "sessions": 1,
@@ -6887,6 +8381,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-23"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": 1,
@@ -6931,6 +8430,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-23"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -6989,6 +8493,25 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2023-05-12",
+    "2023-05-13",
+    "2023-05-14",
+    "2023-05-15",
+    "2023-05-16",
+    "2023-05-17",
+    "2023-05-20",
+    "2023-05-21",
+    "2023-05-26",
+    "2023-05-27",
+    "2023-05-29",
+    "2023-06-10",
+    "2023-06-11",
+    "2023-06-12",
+    "2023-06-17"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7022,6 +8545,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-09",
+    "2023-06-12"
+   ]
+  },
   "hours": 1.5,
   "hours_estimated": false,
   "sessions": 2,
@@ -7066,6 +8595,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-06-12"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -7098,6 +8632,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-05-14"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": 1,
@@ -7149,6 +8688,18 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-07-04",
+    "2019-07-05",
+    "2019-12-31",
+    "2020-05-09",
+    "2020-05-23",
+    "2020-05-25",
+    "2020-06-08",
+    "2023-05-07"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7181,6 +8732,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2023-05-06"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7229,6 +8785,27 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-03-04",
+    "2017-03-06",
+    "2017-03-07",
+    "2017-03-10",
+    "2017-03-12",
+    "2017-03-16",
+    "2017-03-17",
+    "2017-03-18",
+    "2017-03-19",
+    "2017-03-25",
+    "2017-03-26",
+    "2017-08-26",
+    "2018-03-30",
+    "2021-02-28",
+    "2022-07-24",
+    "2022-07-30",
+    "2023-05-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7261,6 +8838,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-04-23"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 1,
@@ -7325,6 +8907,19 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-09",
+    "2023-01-16",
+    "2023-01-22",
+    "2023-01-27",
+    "2023-02-04",
+    "2023-02-05",
+    "2023-02-11",
+    "2023-02-12",
+    "2023-02-13"
+   ]
+  },
   "hours": 5.5,
   "hours_estimated": false,
   "sessions": 15,
@@ -7383,6 +8978,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-02-15",
+    "2023-01-29"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7428,6 +9029,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2023-01-29"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -7461,6 +9067,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-01-24",
+    "2023-01-28"
+   ]
+  },
   "hours": 3.9,
   "hours_estimated": false,
   "sessions": null,
@@ -7504,6 +9116,23 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-06-13",
+    "2009-09-04",
+    "2009-09-05"
+   ],
+   "Xbox": [
+    "2007-01-20",
+    "2007-01-21",
+    "2007-01-25",
+    "2007-01-30",
+    "2019-02-20",
+    "2019-06-08",
+    "2020-11-27",
+    "2023-01-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7571,6 +9200,23 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-09-19"
+   ],
+   "PlayStation": [
+    "2013-04-13",
+    "2023-01-22"
+   ],
+   "Xbox": [
+    "2009-07-19",
+    "2010-08-15",
+    "2010-08-16",
+    "2010-08-28",
+    "2011-01-30",
+    "2020-11-21"
+   ]
+  },
   "hours": 1.1,
   "hours_estimated": false,
   "sessions": null,
@@ -7679,6 +9325,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-11-20"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": null,
@@ -7723,6 +9374,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-11-17"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": null,
@@ -7773,6 +9429,17 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-02-14",
+    "2016-02-18",
+    "2016-03-20",
+    "2016-08-21",
+    "2019-03-10",
+    "2019-09-15",
+    "2022-11-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7807,6 +9474,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-10-02",
+    "2022-10-08",
+    "2022-11-11"
+   ]
+  },
   "hours": 5.0,
   "hours_estimated": false,
   "sessions": 2,
@@ -7857,6 +9531,17 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2022-03-30",
+    "2022-04-01",
+    "2022-04-02",
+    "2022-07-15",
+    "2022-07-17",
+    "2022-07-24",
+    "2022-10-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7892,6 +9577,14 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-09-21",
+    "2020-04-13",
+    "2022-10-15",
+    "2022-10-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7935,6 +9628,22 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2022-07-30",
+    "2022-07-31",
+    "2022-08-04",
+    "2022-08-16",
+    "2022-08-18",
+    "2022-08-21",
+    "2022-08-28",
+    "2022-09-03",
+    "2022-09-17",
+    "2022-09-24",
+    "2022-09-25",
+    "2022-09-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -7967,6 +9676,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-09-05"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": null,
@@ -8025,6 +9739,14 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-09-05"
+   ],
+   "Xbox": [
+    "2021-04-11"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -8094,6 +9816,23 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-01-23",
+    "2013-01-26",
+    "2013-02-02",
+    "2013-02-04",
+    "2013-02-06",
+    "2013-02-07",
+    "2013-02-08",
+    "2013-02-09",
+    "2013-02-10",
+    "2022-07-24",
+    "2022-08-07",
+    "2022-08-21",
+    "2022-08-22"
+   ]
+  },
   "hours": 17.1,
   "hours_estimated": false,
   "sessions": 5,
@@ -8150,6 +9889,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-08-20"
+   ]
+  },
   "hours": 1.9,
   "hours_estimated": false,
   "sessions": null,
@@ -8196,6 +9940,14 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-08-05"
+   ],
+   "Xbox": [
+    "2022-02-20"
+   ]
+  },
   "hours": 2.4,
   "hours_estimated": false,
   "sessions": 2,
@@ -8255,6 +10007,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-22",
+    "2022-07-23",
+    "2022-07-24"
+   ]
+  },
   "hours": 7.3,
   "hours_estimated": false,
   "sessions": 3,
@@ -8299,6 +10058,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-24"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -8345,6 +10109,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-08-11",
+    "2016-08-19",
+    "2022-07-23"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": 3,
@@ -8422,6 +10193,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-06-28",
+    "2014-06-29",
+    "2014-06-30",
+    "2014-07-01",
+    "2014-07-06",
+    "2022-07-17"
+   ],
+   "Xbox": [
+    "2021-02-13",
+    "2021-02-14"
+   ]
+  },
   "hours": 10.3,
   "hours_estimated": false,
   "sessions": 11,
@@ -8488,6 +10273,21 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-01-13",
+    "2015-01-14",
+    "2015-01-16",
+    "2015-01-17",
+    "2015-01-19",
+    "2015-01-30",
+    "2022-07-17"
+   ],
+   "Xbox": [
+    "2019-02-11",
+    "2019-03-04"
+   ]
+  },
   "hours": 67.7,
   "hours_estimated": false,
   "sessions": 65,
@@ -8549,6 +10349,16 @@
    "Nintendo",
    "PlayStation"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-07-28"
+   ],
+   "PlayStation": [
+    "2018-01-21",
+    "2018-01-25",
+    "2022-07-17"
+   ]
+  },
   "hours": 1.9,
   "hours_estimated": false,
   "sessions": 5,
@@ -8609,6 +10419,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-03-01",
+    "2009-03-29",
+    "2013-11-15",
+    "2022-07-17"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -8694,6 +10512,30 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-10-17"
+   ],
+   "PlayStation": [
+    "2014-05-03",
+    "2014-05-10",
+    "2014-05-11",
+    "2014-05-16",
+    "2014-05-17",
+    "2016-05-11",
+    "2022-07-17"
+   ],
+   "Xbox": [
+    "2021-01-18",
+    "2021-01-20",
+    "2021-01-21",
+    "2021-01-22",
+    "2021-01-23",
+    "2021-01-31",
+    "2021-02-01",
+    "2021-02-07"
+   ]
+  },
   "hours": 15.5,
   "hours_estimated": false,
   "sessions": 20,
@@ -8786,6 +10628,21 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-09-11",
+    "2014-09-13",
+    "2014-09-27",
+    "2014-09-28",
+    "2014-10-04",
+    "2014-10-11",
+    "2014-10-12",
+    "2014-10-13",
+    "2014-10-14",
+    "2014-12-08",
+    "2022-07-16"
+   ]
+  },
   "hours": 183.0,
   "hours_estimated": false,
   "sessions": 160,
@@ -8848,6 +10705,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-03-21",
+    "2010-03-27",
+    "2010-03-28",
+    "2018-04-20",
+    "2018-04-29",
+    "2022-07-13"
+   ]
+  },
   "hours": 2.7,
   "hours_estimated": false,
   "sessions": 8,
@@ -8914,6 +10781,21 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-12-02",
+    "2009-12-03",
+    "2009-12-09",
+    "2009-12-27",
+    "2009-12-30",
+    "2010-01-23",
+    "2010-01-30",
+    "2018-04-29",
+    "2018-06-03",
+    "2018-06-09",
+    "2022-07-13"
+   ]
+  },
   "hours": 1.9,
   "hours_estimated": false,
   "sessions": 5,
@@ -9008,6 +10890,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-13"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -9054,6 +10941,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-09",
+    "2022-07-10",
+    "2022-07-11"
+   ]
+  },
   "hours": 4.2,
   "hours_estimated": false,
   "sessions": 3,
@@ -9098,6 +10992,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2022-07-10"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -9147,6 +11046,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-07-26",
+    "2020-08-01",
+    "2020-08-02",
+    "2020-08-09",
+    "2020-09-04",
+    "2022-07-08"
+   ]
+  },
   "hours": 7.8,
   "hours_estimated": false,
   "sessions": 8,
@@ -9220,6 +11129,17 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2020-09-13"
+   ],
+   "Xbox": [
+    "2020-09-13",
+    "2021-07-27",
+    "2021-07-28",
+    "2022-07-04"
+   ]
+  },
   "hours": 31.9,
   "hours_estimated": false,
   "sessions": null,
@@ -9289,6 +11209,23 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-08-16",
+    "2020-08-22",
+    "2020-08-23",
+    "2020-08-24",
+    "2020-08-27",
+    "2020-12-18",
+    "2020-12-25",
+    "2021-03-29",
+    "2021-03-30",
+    "2021-08-14",
+    "2022-04-21",
+    "2022-04-23",
+    "2022-06-05"
+   ]
+  },
   "hours": 29.6,
   "hours_estimated": false,
   "sessions": 49,
@@ -9333,6 +11270,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2022-06-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -9365,6 +11307,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2022-05-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -9410,6 +11357,26 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-08-30",
+    "2016-09-01",
+    "2016-09-02",
+    "2016-09-05",
+    "2016-09-08",
+    "2016-09-09",
+    "2016-09-10",
+    "2016-09-11"
+   ],
+   "Steam": [
+    "2020-03-03"
+   ],
+   "Xbox": [
+    "2022-02-27",
+    "2022-03-06",
+    "2022-05-15"
+   ]
+  },
   "hours": 5.9,
   "hours_estimated": false,
   "sessions": null,
@@ -9466,6 +11433,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-04-30"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -9500,6 +11472,14 @@
    "Nintendo",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-12-26"
+   ],
+   "Xbox": [
+    "2022-04-03"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": null,
@@ -9545,6 +11525,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-04-03"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -9577,6 +11562,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-03-18"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": null,
@@ -9609,6 +11599,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-02-27"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": null,
@@ -9649,6 +11644,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-04-04",
+    "2020-06-23",
+    "2020-11-08"
+   ],
+   "Xbox": [
+    "2020-11-12",
+    "2020-11-28",
+    "2020-11-29",
+    "2020-12-01",
+    "2022-02-06"
+   ]
+  },
   "hours": 5.4,
   "hours_estimated": false,
   "sessions": 3,
@@ -9712,6 +11721,18 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-01-31",
+    "2015-06-14",
+    "2015-07-29",
+    "2015-10-25",
+    "2021-04-17"
+   ],
+   "Xbox": [
+    "2022-02-06"
+   ]
+  },
   "hours": 22.8,
   "hours_estimated": false,
   "sessions": 14,
@@ -9771,6 +11792,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-04-25",
+    "2022-01-09",
+    "2022-02-06"
+   ]
+  },
   "hours": 2.2,
   "hours_estimated": false,
   "sessions": null,
@@ -9803,6 +11831,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-02-06"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": null,
@@ -9835,6 +11868,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-01-30"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": null,
@@ -9867,6 +11905,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-01-09"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": null,
@@ -9899,6 +11942,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2022-01-03"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": null,
@@ -9934,6 +11982,14 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-11-06",
+    "2011-11-11",
+    "2011-11-13",
+    "2022-01-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -9979,6 +12035,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-12-29"
+   ]
+  },
   "hours": 4.2,
   "hours_estimated": false,
   "sessions": null,
@@ -10013,6 +12074,14 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-04-10"
+   ],
+   "Xbox": [
+    "2021-12-28"
+   ]
+  },
   "hours": 1.4,
   "hours_estimated": false,
   "sessions": 1,
@@ -10072,6 +12141,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-11-14",
+    "2021-11-29",
+    "2021-12-28"
+   ]
+  },
   "hours": 2.8,
   "hours_estimated": false,
   "sessions": null,
@@ -10104,6 +12180,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-12-27"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -10138,6 +12219,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-12-09",
+    "2021-06-27",
+    "2021-12-27"
+   ]
+  },
   "hours": 3.2,
   "hours_estimated": false,
   "sessions": null,
@@ -10170,6 +12258,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-12-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -10202,6 +12295,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-12-14"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": null,
@@ -10237,6 +12335,14 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-11-14",
+    "2011-12-03",
+    "2011-12-04",
+    "2021-12-14"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -10283,6 +12389,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-12-11",
+    "2021-12-14"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -10319,6 +12431,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-09-12",
+    "2021-09-18",
+    "2021-10-02",
+    "2021-10-03",
+    "2021-12-11"
+   ]
+  },
   "hours": 11.2,
   "hours_estimated": false,
   "sessions": null,
@@ -10351,6 +12472,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-11-14"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -10383,6 +12509,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-10-31"
+   ]
+  },
   "hours": 0.8,
   "hours_estimated": false,
   "sessions": null,
@@ -10417,6 +12548,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-10-16",
+    "2021-10-24",
+    "2021-10-31"
+   ]
+  },
   "hours": 1.1,
   "hours_estimated": false,
   "sessions": null,
@@ -10450,6 +12588,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-10-10",
+    "2021-10-24"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": null,
@@ -10482,6 +12626,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-10-03"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": null,
@@ -10517,6 +12666,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-10-18"
+   ],
+   "Xbox": [
+    "2021-07-18",
+    "2021-10-02"
+   ]
+  },
   "hours": 12.9,
   "hours_estimated": false,
   "sessions": 1,
@@ -10564,6 +12722,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-08-03",
+    "2021-08-09",
+    "2021-08-27"
+   ]
+  },
   "hours": 5.4,
   "hours_estimated": false,
   "sessions": null,
@@ -10610,6 +12775,26 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-09-10",
+    "2015-09-12",
+    "2017-12-09",
+    "2017-12-26",
+    "2018-01-01",
+    "2018-01-04",
+    "2018-01-06",
+    "2018-01-08",
+    "2020-11-22",
+    "2021-05-31",
+    "2021-06-10"
+   ],
+   "Xbox": [
+    "2019-02-17",
+    "2019-02-18",
+    "2021-08-07"
+   ]
+  },
   "hours": 109.1,
   "hours_estimated": false,
   "sessions": 87,
@@ -10669,6 +12854,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2019-02-07",
+    "2019-06-09",
+    "2021-07-02"
+   ]
+  },
   "hours": 13.3,
   "hours_estimated": false,
   "sessions": null,
@@ -10703,6 +12895,14 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2018-04-08"
+   ],
+   "Xbox": [
+    "2021-07-01"
+   ]
+  },
   "hours": 5.6,
   "hours_estimated": false,
   "sessions": null,
@@ -10748,6 +12948,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-06-27",
+    "2021-06-30"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": null,
@@ -10781,6 +12987,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-12-01",
+    "2021-06-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -10815,6 +13027,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-01-20",
+    "2007-02-24",
+    "2021-06-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -10860,6 +13079,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-06-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -10892,6 +13116,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2021-06-08"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -10966,6 +13195,30 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-01-21",
+    "2012-01-29",
+    "2012-03-10",
+    "2012-03-17",
+    "2012-03-18",
+    "2012-03-26",
+    "2012-04-16",
+    "2012-04-17",
+    "2012-04-19",
+    "2012-04-21",
+    "2012-04-22",
+    "2012-04-26",
+    "2012-04-27",
+    "2012-04-28"
+   ],
+   "Xbox": [
+    "2019-02-20",
+    "2019-03-10",
+    "2021-05-30",
+    "2021-05-31"
+   ]
+  },
   "hours": 6.3,
   "hours_estimated": true,
   "sessions": null,
@@ -11024,6 +13277,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-05-30"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -11063,6 +13321,18 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-03-21",
+    "2007-03-23",
+    "2007-05-09",
+    "2007-06-09",
+    "2007-06-17",
+    "2007-06-20",
+    "2019-02-19",
+    "2021-05-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11108,6 +13378,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-05-14"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -11140,6 +13415,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-04-25"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -11172,6 +13452,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-04-25"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -11204,6 +13489,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-04-15"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -11236,6 +13526,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-04-11"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": null,
@@ -11268,6 +13563,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-04-11"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -11308,6 +13608,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-02-24"
+   ],
+   "Xbox": [
+    "2010-12-03",
+    "2010-12-04",
+    "2010-12-07",
+    "2010-12-13",
+    "2010-12-21",
+    "2011-01-02",
+    "2021-03-24"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11365,6 +13679,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-03-23"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": null,
@@ -11399,6 +13718,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-01-10",
+    "2021-01-16",
+    "2021-03-23"
+   ]
+  },
   "hours": 8.0,
   "hours_estimated": false,
   "sessions": null,
@@ -11437,6 +13763,18 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-04-04"
+   ],
+   "Xbox": [
+    "2021-02-15",
+    "2021-02-20",
+    "2021-02-21",
+    "2021-02-27",
+    "2021-03-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11487,6 +13825,18 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-10-04",
+    "2020-10-07",
+    "2020-11-08"
+   ],
+   "Xbox": [
+    "2020-11-13",
+    "2020-11-14",
+    "2021-03-20"
+   ]
+  },
   "hours": 10.6,
   "hours_estimated": false,
   "sessions": 5,
@@ -11544,6 +13894,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-03-20"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11579,6 +13934,14 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-03-26",
+    "2011-05-16",
+    "2011-05-22",
+    "2021-02-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11624,6 +13987,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-02-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11662,6 +14030,18 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-08-28",
+    "2020-11-11"
+   ],
+   "Xbox": [
+    "2020-11-14",
+    "2020-11-28",
+    "2020-12-04",
+    "2021-01-23"
+   ]
+  },
   "hours": 22.7,
   "hours_estimated": false,
   "sessions": 17,
@@ -11734,6 +14114,14 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-06-19"
+   ],
+   "Xbox": [
+    "2021-01-20"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 1,
@@ -11781,6 +14169,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-11-21",
+    "2020-12-06",
+    "2021-01-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11815,6 +14210,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-11-27",
+    "2020-11-28",
+    "2021-01-10"
+   ]
+  },
   "hours": 3.5,
   "hours_estimated": false,
   "sessions": null,
@@ -11847,6 +14249,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2021-01-08"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": null,
@@ -11879,6 +14286,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-12-31"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -11911,6 +14323,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-12-31"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": null,
@@ -11955,6 +14372,25 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-01-13",
+    "2018-01-14"
+   ],
+   "PlayStation": [
+    "2015-10-12"
+   ],
+   "Xbox": [
+    "2010-10-20",
+    "2010-10-29",
+    "2010-12-05",
+    "2010-12-06",
+    "2010-12-14",
+    "2010-12-15",
+    "2012-05-08",
+    "2020-12-24"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": 2,
@@ -12056,6 +14492,30 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-03-10",
+    "2012-03-11",
+    "2012-03-14",
+    "2012-04-05",
+    "2012-04-06",
+    "2012-04-08",
+    "2012-08-07",
+    "2012-08-09",
+    "2012-08-10",
+    "2012-08-11",
+    "2012-08-12",
+    "2012-09-09",
+    "2012-09-30",
+    "2012-12-16",
+    "2016-04-19"
+   ],
+   "Xbox": [
+    "2020-12-08",
+    "2020-12-12",
+    "2020-12-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12115,6 +14575,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-03-04"
+   ],
+   "Xbox": [
+    "2016-02-14",
+    "2020-12-04"
+   ]
+  },
   "hours": 0.8,
   "hours_estimated": false,
   "sessions": 1,
@@ -12172,6 +14641,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-11-28"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -12217,6 +14691,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-11-28"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -12252,6 +14731,14 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-03-30",
+    "2006-04-01",
+    "2006-04-02",
+    "2020-11-24"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12297,6 +14784,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-11-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12335,6 +14827,18 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-08-03"
+   ],
+   "Xbox": [
+    "2011-06-30",
+    "2011-07-15",
+    "2011-09-14",
+    "2011-10-09",
+    "2020-11-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12393,6 +14897,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2019-02-10",
+    "2020-11-13"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": null,
@@ -12426,6 +14936,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-02-14",
+    "2020-11-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12458,6 +14974,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-11-12"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -12490,6 +15011,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-11-11"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 1,
@@ -12534,6 +15060,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-11-08"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -12578,6 +15109,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-11-08"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -12626,6 +15162,15 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-10-01",
+    "2020-10-02",
+    "2020-10-03",
+    "2020-10-09",
+    "2020-10-11"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12661,6 +15206,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-09-18",
+    "2020-10-04"
+   ],
+   "Xbox": [
+    "2019-02-10"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 2,
@@ -12721,6 +15275,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-08-02",
+    "2020-08-09",
+    "2020-09-05",
+    "2020-09-28"
+   ]
+  },
   "hours": 11.0,
   "hours_estimated": false,
   "sessions": 12,
@@ -12765,6 +15327,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-09-18"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -12797,6 +15364,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-09-12"
+   ]
+  },
   "hours": 0.8,
   "hours_estimated": false,
   "sessions": null,
@@ -12831,6 +15403,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-05-08",
+    "2020-09-06",
+    "2020-09-07"
+   ]
+  },
   "hours": 4.3,
   "hours_estimated": false,
   "sessions": 8,
@@ -12884,6 +15463,20 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-07-08",
+    "2015-07-12",
+    "2015-07-16",
+    "2015-07-17",
+    "2015-08-25",
+    "2016-04-30",
+    "2016-05-06",
+    "2016-07-15",
+    "2018-02-18",
+    "2020-09-06"
+   ]
+  },
   "hours": 11.4,
   "hours_estimated": false,
   "sessions": 25,
@@ -12936,6 +15529,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-04-04",
+    "2020-04-06",
+    "2020-06-07",
+    "2020-07-18",
+    "2020-08-27"
+   ],
+   "Xbox": [
+    "2019-09-16",
+    "2019-09-20",
+    "2020-02-27"
+   ]
+  },
   "hours": 12.3,
   "hours_estimated": false,
   "sessions": 11,
@@ -12993,6 +15600,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-08-27"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -13041,6 +15653,16 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-04-24",
+    "2020-05-25",
+    "2020-07-01"
+   ],
+   "Xbox": [
+    "2020-02-27"
+   ]
+  },
   "hours": 8.5,
   "hours_estimated": false,
   "sessions": 7,
@@ -13099,6 +15721,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-06-20",
+    "2020-06-21"
+   ]
+  },
   "hours": 2.9,
   "hours_estimated": false,
   "sessions": 3,
@@ -13143,6 +15771,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-06-20"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13177,6 +15810,13 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-06-14",
+    "2020-06-19",
+    "2020-06-20"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13209,6 +15849,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-06-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13245,6 +15890,15 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-03-31",
+    "2017-08-11",
+    "2017-09-17",
+    "2020-05-25",
+    "2020-06-08"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13277,6 +15931,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2020-05-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13311,6 +15970,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-09-10",
+    "2020-04-11",
+    "2020-04-21"
+   ]
+  },
   "hours": 3.9,
   "hours_estimated": false,
   "sessions": 7,
@@ -13373,6 +16039,29 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-10-27",
+    "2017-11-01",
+    "2017-11-02",
+    "2017-11-03",
+    "2017-11-10",
+    "2017-11-11",
+    "2017-12-25",
+    "2017-12-30",
+    "2017-12-31",
+    "2018-01-01",
+    "2018-03-17",
+    "2018-03-31",
+    "2018-04-06",
+    "2018-04-14",
+    "2018-04-27",
+    "2018-04-29",
+    "2018-06-17",
+    "2020-04-16",
+    "2020-04-18"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13407,6 +16096,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2020-03-31",
+    "2020-04-04",
+    "2020-04-05"
+   ]
+  },
   "hours": 2.2,
   "hours_estimated": false,
   "sessions": 5,
@@ -13452,6 +16148,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-03-15",
+    "2020-03-22"
+   ]
+  },
   "hours": 1.1,
   "hours_estimated": false,
   "sessions": null,
@@ -13484,6 +16186,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-03-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13518,6 +16225,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-02-24",
+    "2007-03-03",
+    "2020-03-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13563,6 +16277,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-03-15"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -13595,6 +16314,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2020-03-09"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": null,
@@ -13630,6 +16354,15 @@
    "Nintendo",
    "Steam"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-11-16"
+   ],
+   "Steam": [
+    "2016-11-05",
+    "2020-03-08"
+   ]
+  },
   "hours": 4.8,
   "hours_estimated": false,
   "sessions": null,
@@ -13701,6 +16434,38 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2012-09-26",
+    "2012-09-28",
+    "2012-09-29",
+    "2012-10-05",
+    "2012-10-06",
+    "2012-10-07",
+    "2012-10-10",
+    "2012-10-12",
+    "2012-10-13",
+    "2012-10-14",
+    "2012-10-15",
+    "2012-10-18",
+    "2012-10-20",
+    "2012-10-29",
+    "2012-11-03",
+    "2012-11-04",
+    "2012-11-19",
+    "2012-12-11",
+    "2012-12-14",
+    "2014-03-16",
+    "2014-04-18",
+    "2015-05-22",
+    "2015-10-24",
+    "2015-10-26",
+    "2015-10-27",
+    "2015-10-28",
+    "2015-11-01",
+    "2020-03-04"
+   ]
+  },
   "hours": 135.2,
   "hours_estimated": false,
   "sessions": null,
@@ -13738,6 +16503,18 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-09-05",
+    "2018-05-28"
+   ],
+   "Xbox": [
+    "2019-08-20",
+    "2019-09-17",
+    "2019-09-22",
+    "2020-01-10"
+   ]
+  },
   "hours": 2.6,
   "hours_estimated": false,
   "sessions": 2,
@@ -13822,6 +16599,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-12-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13856,6 +16638,13 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-11-16",
+    "2019-11-17",
+    "2019-11-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13894,6 +16683,17 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-09-21",
+    "2019-09-22",
+    "2019-09-29",
+    "2019-10-05",
+    "2019-10-06",
+    "2019-10-13",
+    "2019-10-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13926,6 +16726,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-10-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13958,6 +16763,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2019-09-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -13990,6 +16800,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2019-08-13"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": null,
@@ -14023,6 +16838,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2019-03-10",
+    "2019-08-12"
+   ]
+  },
   "hours": 3.6,
   "hours_estimated": false,
   "sessions": null,
@@ -14060,6 +16881,16 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-06-16",
+    "2019-06-18",
+    "2019-06-24",
+    "2019-06-26",
+    "2019-07-03",
+    "2019-07-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14092,6 +16923,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-06-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14124,6 +16960,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-05-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14165,6 +17006,21 @@
    "Nintendo",
    "PlayStation"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-05-17"
+   ],
+   "PlayStation": [
+    "2012-06-16",
+    "2012-06-17",
+    "2012-06-18",
+    "2012-06-23",
+    "2012-06-24",
+    "2012-06-27",
+    "2012-06-29",
+    "2012-06-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14221,6 +17077,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-02-17"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14253,6 +17114,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2019-02-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14285,6 +17151,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2019-01-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14317,6 +17188,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-12-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14363,6 +17239,13 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-11-18",
+    "2018-11-19",
+    "2018-11-25"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14406,6 +17289,22 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-10-05",
+    "2018-10-09",
+    "2018-10-10",
+    "2018-10-12",
+    "2018-10-14",
+    "2018-10-17",
+    "2018-10-20",
+    "2018-10-26",
+    "2018-10-28",
+    "2018-11-02",
+    "2018-11-04",
+    "2018-11-08"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14441,6 +17340,14 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-07-21",
+    "2018-09-16",
+    "2018-10-02",
+    "2018-10-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14479,6 +17386,17 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-04-04",
+    "2017-04-06",
+    "2017-04-09",
+    "2017-04-14",
+    "2017-04-22",
+    "2017-04-23",
+    "2018-09-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14512,6 +17430,12 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-08-11",
+    "2018-08-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14551,6 +17475,18 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-07-21",
+    "2017-07-23",
+    "2017-07-29",
+    "2017-12-31",
+    "2018-03-08",
+    "2018-03-14",
+    "2018-04-01",
+    "2018-08-07"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14584,6 +17520,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2018-06-29",
+    "2018-07-22"
+   ]
+  },
   "hours": 15.2,
   "hours_estimated": false,
   "sessions": 16,
@@ -14616,6 +17558,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2018-07-13"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": 1,
@@ -14651,6 +17598,15 @@
    "Nintendo",
    "PlayStation"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-10-06"
+   ],
+   "PlayStation": [
+    "2018-05-26",
+    "2018-06-16"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": 2,
@@ -14708,6 +17664,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-05-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14744,6 +17705,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-10-13",
+    "2014-11-12",
+    "2014-11-16",
+    "2015-01-04",
+    "2018-05-28"
+   ]
+  },
   "hours": 2.2,
   "hours_estimated": false,
   "sessions": 7,
@@ -14805,6 +17775,16 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-04-01",
+    "2018-04-10",
+    "2018-04-14",
+    "2018-04-29",
+    "2018-05-11",
+    "2018-05-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14850,6 +17830,24 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-08-26",
+    "2017-09-30",
+    "2017-10-01",
+    "2017-10-10",
+    "2017-10-11",
+    "2017-10-18",
+    "2017-10-21",
+    "2017-10-28",
+    "2017-10-29",
+    "2017-11-04",
+    "2017-11-05",
+    "2017-11-08",
+    "2017-11-10",
+    "2018-04-29"
+   ]
+  },
   "hours": 37.8,
   "hours_estimated": false,
   "sessions": 27,
@@ -14919,6 +17917,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-03-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -14953,6 +17956,14 @@
    "Nintendo",
    "Steam"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-03-08"
+   ],
+   "Steam": [
+    "2016-01-23"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": null,
@@ -14998,6 +18009,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-06-19",
+    "2018-02-28"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 3,
@@ -15030,6 +18047,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-02-11"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15063,6 +18085,12 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-01-28",
+    "2018-02-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15095,6 +18123,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2018-02-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15142,6 +18175,26 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-09-24",
+    "2017-09-25",
+    "2017-10-03",
+    "2017-10-08",
+    "2017-10-09",
+    "2017-10-10",
+    "2017-10-22",
+    "2017-11-13",
+    "2017-11-17",
+    "2017-11-18",
+    "2017-11-26",
+    "2017-12-10",
+    "2018-01-20",
+    "2018-01-21",
+    "2018-01-26",
+    "2018-01-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15176,6 +18229,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-08-27",
+    "2017-09-01",
+    "2018-01-14"
+   ]
+  },
   "hours": 1.6,
   "hours_estimated": false,
   "sessions": 4,
@@ -15211,6 +18271,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-09-01",
+    "2017-09-02",
+    "2017-09-04",
+    "2018-01-14"
+   ]
+  },
   "hours": 3.4,
   "hours_estimated": false,
   "sessions": 5,
@@ -15255,6 +18323,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2018-01-14"
+   ]
+  },
   "hours": 0.5,
   "hours_estimated": false,
   "sessions": 1,
@@ -15299,6 +18372,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2018-01-04"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": 1,
@@ -15343,6 +18421,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-12-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15375,6 +18458,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2017-12-05"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 2,
@@ -15420,6 +18508,12 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-09-02",
+    "2017-09-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15457,6 +18551,16 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-05-26",
+    "2017-05-28",
+    "2017-06-07",
+    "2017-06-17",
+    "2017-08-19",
+    "2017-08-26"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15489,6 +18593,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-08-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15525,6 +18634,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-09-26",
+    "2017-07-22",
+    "2017-07-23",
+    "2017-07-28",
+    "2017-08-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15556,6 +18674,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2017-01-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15587,6 +18710,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2016-12-29"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15619,6 +18747,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-10-22",
+    "2016-12-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15650,6 +18784,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2016-11-26"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15683,6 +18822,13 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-08-14",
+    "2016-11-22",
+    "2016-11-24"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15714,6 +18860,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2016-11-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15754,6 +18905,20 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-09-11",
+    "2015-09-12",
+    "2015-09-13",
+    "2015-09-18",
+    "2015-09-24",
+    "2015-09-26",
+    "2015-09-27",
+    "2015-10-12",
+    "2016-01-23",
+    "2016-11-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15785,6 +18950,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2016-10-29"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15823,6 +18993,18 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-09-24",
+    "2016-10-01",
+    "2016-10-06",
+    "2016-10-09",
+    "2016-10-11",
+    "2016-10-13",
+    "2016-10-14",
+    "2016-10-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15866,6 +19048,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2016-08-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15899,6 +19086,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-02-15",
+    "2016-07-17",
+    "2016-08-21"
+   ]
+  },
   "hours": 5.8,
   "hours_estimated": false,
   "sessions": null,
@@ -15933,6 +19127,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-07-08",
+    "2016-08-06",
+    "2016-08-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -15968,6 +19169,14 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-12-01",
+    "2006-12-02",
+    "2006-12-03",
+    "2016-08-06"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16015,6 +19224,13 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2016-07-10",
+    "2016-07-17",
+    "2016-07-23"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16054,6 +19270,21 @@
    "Steam",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-06-24",
+    "2016-06-26",
+    "2016-06-29",
+    "2016-06-30",
+    "2016-07-02"
+   ],
+   "Steam": [
+    "2014-12-29"
+   ],
+   "Xbox": [
+    "2016-03-04"
+   ]
+  },
   "hours": 15.9,
   "hours_estimated": false,
   "sessions": 10,
@@ -16123,6 +19354,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-06-22"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 1,
@@ -16169,6 +19405,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-02-17",
+    "2013-02-26",
+    "2016-05-31"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16213,6 +19456,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-05-08",
+    "2016-05-27"
+   ]
+  },
   "hours": 2.7,
   "hours_estimated": false,
   "sessions": 4,
@@ -16258,6 +19507,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-01-31",
+    "2016-05-14"
+   ]
+  },
   "hours": 1.4,
   "hours_estimated": false,
   "sessions": 2,
@@ -16302,6 +19557,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-04-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16334,6 +19594,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-10-21",
+    "2016-04-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16393,6 +19659,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-04-21",
+    "2013-12-28",
+    "2013-12-29",
+    "2014-01-31",
+    "2016-04-05"
+   ]
+  },
   "hours": 5.2,
   "hours_estimated": false,
   "sessions": 4,
@@ -16463,6 +19738,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-12-23",
+    "2016-01-31",
+    "2016-04-02"
+   ]
+  },
   "hours": 48.4,
   "hours_estimated": false,
   "sessions": 11,
@@ -16507,6 +19789,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-02-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16539,6 +19826,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-02-14"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": null,
@@ -16572,6 +19864,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-03-31",
+    "2016-02-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16617,6 +19915,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2016-02-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16650,6 +19953,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-08-15",
+    "2016-02-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16696,6 +20005,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-01-10",
+    "2016-02-07"
+   ]
+  },
   "hours": 1.0,
   "hours_estimated": false,
   "sessions": 2,
@@ -16740,6 +20055,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-01-25"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16771,6 +20091,11 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2016-01-23"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": null,
@@ -16808,6 +20133,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-10-22",
+    "2015-10-24",
+    "2015-10-26",
+    "2015-10-30",
+    "2015-11-07",
+    "2015-11-08",
+    "2016-01-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16839,6 +20175,11 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2016-01-12"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": null,
@@ -16870,6 +20211,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-01-10"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -16915,6 +20261,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-12-23",
+    "2016-01-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -16946,6 +20298,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2016-01-09"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -16990,6 +20347,11 @@
   "families": [
    "Steam"
   ],
+  "days_by_family": {
+   "Steam": [
+    "2015-12-27"
+   ]
+  },
   "hours": 1.4,
   "hours_estimated": false,
   "sessions": null,
@@ -17021,6 +20383,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-11-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17058,6 +20425,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-12-02",
+    "2014-12-05",
+    "2015-02-07",
+    "2015-03-28",
+    "2015-05-31",
+    "2015-07-28",
+    "2015-11-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17089,6 +20467,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-08-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17120,6 +20503,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-06-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17151,6 +20539,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-06-20"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -17195,6 +20588,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-05-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": 2,
@@ -17242,6 +20640,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-10-07",
+    "2014-10-08",
+    "2015-04-24",
+    "2015-04-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17274,6 +20680,12 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-04-08",
+    "2015-04-11"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17308,6 +20720,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-04-11"
+   ],
+   "Xbox": [
+    "2011-09-10",
+    "2011-09-14"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": 2,
@@ -17377,6 +20798,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-03-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17408,6 +20834,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-03-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17439,6 +20870,11 @@
   "families": [
    "Nintendo"
   ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-02-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -17471,6 +20907,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-01-24",
+    "2015-02-08"
+   ]
+  },
   "hours": 8.8,
   "hours_estimated": false,
   "sessions": 8,
@@ -17516,6 +20958,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-02-01",
+    "2015-02-08"
+   ]
+  },
   "hours": 3.1,
   "hours_estimated": false,
   "sessions": 4,
@@ -17560,6 +21008,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-02-07"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -17604,6 +21057,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-02-07"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 4,
@@ -17654,6 +21112,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-12-08",
+    "2012-12-09",
+    "2012-12-16",
+    "2013-07-27",
+    "2014-12-30",
+    "2015-01-04",
+    "2015-01-18"
+   ]
+  },
   "hours": 9.7,
   "hours_estimated": false,
   "sessions": 8,
@@ -17710,6 +21179,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-01-14"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -17767,6 +21241,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2015-01-06",
+    "2015-01-10"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 4,
@@ -17811,6 +21291,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-12-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": 2,
@@ -17856,6 +21341,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-11-18",
+    "2014-12-21"
+   ]
+  },
   "hours": 4.2,
   "hours_estimated": false,
   "sessions": 16,
@@ -17900,6 +21391,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-12-13"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -17944,6 +21440,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-12-13"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 2,
@@ -17988,6 +21489,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-12-08"
+   ]
+  },
   "hours": 4.0,
   "hours_estimated": false,
   "sessions": 8,
@@ -18032,6 +21538,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-12-02"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 2,
@@ -18076,6 +21587,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-11-09"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 2,
@@ -18120,6 +21636,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-11-09"
+   ]
+  },
   "hours": 0.9,
   "hours_estimated": false,
   "sessions": 2,
@@ -18166,6 +21687,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-10-07",
+    "2014-10-08",
+    "2014-10-12"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": 4,
@@ -18210,6 +21738,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-10-07"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -18254,6 +21787,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-10-07"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -18299,6 +21837,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-03-06",
+    "2014-10-03"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -18356,6 +21900,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-09-08",
+    "2014-09-15"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 3,
@@ -18411,6 +21961,22 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-08-19",
+    "2014-08-22",
+    "2014-08-24",
+    "2014-08-25",
+    "2014-08-26",
+    "2014-08-27",
+    "2014-08-29",
+    "2014-08-31",
+    "2014-09-01",
+    "2014-09-02",
+    "2014-09-06",
+    "2014-09-15"
+   ]
+  },
   "hours": 31.7,
   "hours_estimated": false,
   "sessions": 19,
@@ -18457,6 +22023,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-09-09",
+    "2014-09-10",
+    "2014-09-14"
+   ]
+  },
   "hours": 10.1,
   "hours_estimated": false,
   "sessions": 6,
@@ -18501,6 +22074,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-09-02"
+   ]
+  },
   "hours": 0.6,
   "hours_estimated": false,
   "sessions": 1,
@@ -18545,6 +22123,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-08-16"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": 2,
@@ -18590,6 +22173,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-08-11",
+    "2014-08-16"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 2,
@@ -18637,6 +22226,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-06-30",
+    "2013-07-12",
+    "2014-07-30",
+    "2014-08-09"
+   ]
+  },
   "hours": 3.6,
   "hours_estimated": false,
   "sessions": 3,
@@ -18694,6 +22291,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-07-26",
+    "2014-07-27"
+   ]
+  },
   "hours": 0.4,
   "hours_estimated": false,
   "sessions": 2,
@@ -18738,6 +22341,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-06-13"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -18782,6 +22390,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-05-20"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 1,
@@ -18838,6 +22451,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-05-10"
+   ]
+  },
   "hours": 0.7,
   "hours_estimated": false,
   "sessions": 1,
@@ -18887,6 +22505,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-10-31",
+    "2013-11-03",
+    "2013-11-16",
+    "2013-11-17",
+    "2013-11-23",
+    "2014-04-24"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -18931,6 +22559,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-03-26",
+    "2014-03-29"
+   ]
+  },
   "hours": 1.4,
   "hours_estimated": false,
   "sessions": 2,
@@ -18976,6 +22610,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-03-21",
+    "2014-03-23"
+   ]
+  },
   "hours": 1.2,
   "hours_estimated": false,
   "sessions": 3,
@@ -19020,6 +22660,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-03-04"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -19071,6 +22716,18 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-03-16",
+    "2013-03-18",
+    "2013-03-19",
+    "2013-03-31",
+    "2014-02-02",
+    "2014-02-09",
+    "2014-02-21",
+    "2014-02-22"
+   ]
+  },
   "hours": 5.5,
   "hours_estimated": false,
   "sessions": 7,
@@ -19128,6 +22785,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-02-08",
+    "2014-02-17"
+   ]
+  },
   "hours": 1.6,
   "hours_estimated": false,
   "sessions": 2,
@@ -19173,6 +22836,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-02-06",
+    "2014-02-07"
+   ]
+  },
   "hours": 0.9,
   "hours_estimated": false,
   "sessions": 2,
@@ -19217,6 +22886,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2014-01-12"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -19261,6 +22935,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-12-30"
+   ]
+  },
   "hours": 0.1,
   "hours_estimated": false,
   "sessions": 1,
@@ -19305,6 +22984,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-12-15"
+   ]
+  },
   "hours": 0.2,
   "hours_estimated": false,
   "sessions": 1,
@@ -19337,6 +23021,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-11-22"
+   ]
+  },
   "hours": 0.3,
   "hours_estimated": false,
   "sessions": 1,
@@ -19381,6 +23070,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-11-17"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19412,6 +23106,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-11-16"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": 1,
@@ -19456,6 +23155,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-11-15"
+   ]
+  },
   "hours": 0.0,
   "hours_estimated": false,
   "sessions": 1,
@@ -19505,6 +23209,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-08-16",
+    "2013-08-30",
+    "2013-08-31",
+    "2013-09-02",
+    "2013-09-11",
+    "2013-09-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19536,6 +23250,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-08-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19567,6 +23286,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2013-07-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19606,6 +23330,19 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-10-02",
+    "2012-10-23",
+    "2012-12-06",
+    "2012-12-21",
+    "2012-12-27",
+    "2013-01-19",
+    "2013-04-14",
+    "2013-04-20",
+    "2013-05-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19638,6 +23375,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-05-27",
+    "2012-11-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19685,6 +23428,28 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-05-07",
+    "2012-05-08",
+    "2012-05-10",
+    "2012-05-20",
+    "2012-05-28",
+    "2012-05-30",
+    "2012-07-22",
+    "2012-08-11",
+    "2012-10-23",
+    "2012-10-29"
+   ],
+   "Xbox": [
+    "2011-05-04",
+    "2011-05-05",
+    "2011-05-07",
+    "2011-06-15",
+    "2011-07-01",
+    "2012-01-11"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19745,6 +23510,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-09-28",
+    "2012-10-06",
+    "2012-10-08",
+    "2012-10-10",
+    "2012-10-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19779,6 +23553,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-10-02"
+   ],
+   "Xbox": [
+    "2010-11-20",
+    "2010-12-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19826,6 +23609,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-09-03",
+    "2012-09-08",
+    "2012-09-14",
+    "2012-09-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19872,6 +23663,27 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-06-13",
+    "2012-06-14",
+    "2012-06-15",
+    "2012-06-20",
+    "2012-06-21",
+    "2012-06-27",
+    "2012-07-30"
+   ],
+   "Xbox": [
+    "2011-10-14",
+    "2011-10-15",
+    "2011-10-16",
+    "2011-10-22",
+    "2011-10-29",
+    "2011-11-05",
+    "2011-11-09",
+    "2012-05-08"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19926,6 +23738,21 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-04-28",
+    "2012-04-30",
+    "2012-05-19",
+    "2012-06-09",
+    "2012-07-01",
+    "2012-07-04",
+    "2012-07-08",
+    "2012-07-09",
+    "2012-07-10",
+    "2012-07-11",
+    "2012-07-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19957,6 +23784,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-06-08"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -19996,6 +23828,19 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-03-11",
+    "2012-03-12",
+    "2012-03-13",
+    "2012-03-14",
+    "2012-03-17",
+    "2012-03-22",
+    "2012-03-28",
+    "2012-04-08",
+    "2012-05-28"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20027,6 +23872,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-05-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20060,6 +23910,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-04-19",
+    "2012-04-28",
+    "2012-04-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20092,6 +23949,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-02-27",
+    "2012-03-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20123,6 +23986,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2012-03-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20154,6 +24022,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2011-12-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20186,6 +24059,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2011-09-25",
+    "2011-10-02"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20231,6 +24110,25 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-12-06",
+    "2007-12-08",
+    "2007-12-09",
+    "2007-12-10",
+    "2010-08-18",
+    "2010-08-19",
+    "2010-08-29",
+    "2010-08-30",
+    "2010-09-01",
+    "2010-09-03",
+    "2010-09-24",
+    "2010-09-25",
+    "2010-09-26",
+    "2010-10-02",
+    "2011-09-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20276,6 +24174,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-09-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20313,6 +24216,16 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-07-13",
+    "2011-07-25",
+    "2011-07-29",
+    "2011-07-31",
+    "2011-08-21",
+    "2011-09-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20349,6 +24262,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-11-04",
+    "2010-11-05",
+    "2010-12-16",
+    "2011-04-09",
+    "2011-09-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20384,6 +24306,14 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-02-11",
+    "2011-02-12",
+    "2011-03-20",
+    "2011-08-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20428,6 +24358,23 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-10-06",
+    "2010-10-08",
+    "2010-10-10",
+    "2010-10-15",
+    "2010-10-16",
+    "2010-10-20",
+    "2011-01-02",
+    "2011-01-07",
+    "2011-01-08",
+    "2011-01-15",
+    "2011-02-03",
+    "2011-03-13",
+    "2011-07-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20460,6 +24407,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-06-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20493,6 +24445,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-05-16",
+    "2011-05-22"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20538,6 +24496,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-11-04",
+    "2011-04-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20574,6 +24538,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-03-23",
+    "2011-03-27",
+    "2011-03-28",
+    "2011-03-29",
+    "2011-03-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20610,6 +24583,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2011-01-19",
+    "2011-01-21",
+    "2011-01-22",
+    "2011-01-23",
+    "2011-02-01"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20642,6 +24624,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2011-01-05",
+    "2011-01-26"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20674,6 +24662,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-11-18"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20712,6 +24705,17 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-10-31",
+    "2010-11-01",
+    "2010-11-02",
+    "2010-11-06",
+    "2010-11-07",
+    "2010-11-08",
+    "2010-11-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20745,6 +24749,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-11-04",
+    "2010-11-05"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20777,6 +24787,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-10-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20811,6 +24826,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-10-04",
+    "2010-10-05",
+    "2010-10-08"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20847,6 +24869,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-09-07",
+    "2010-09-10",
+    "2010-09-20",
+    "2010-09-22",
+    "2010-09-25"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20879,6 +24910,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2010-09-25"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20915,6 +24951,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-03-31",
+    "2007-05-13",
+    "2007-05-14",
+    "2010-08-30",
+    "2010-09-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20962,6 +25007,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-06-10",
+    "2010-06-13",
+    "2010-08-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -20993,6 +25045,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-08-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21029,6 +25086,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-07-13",
+    "2010-07-14",
+    "2010-07-17",
+    "2010-07-18",
+    "2010-07-19",
+    "2010-08-01"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21061,6 +25128,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-06-10",
+    "2010-06-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21095,6 +25168,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-05-01",
+    "2010-05-23",
+    "2010-05-25",
+    "2010-05-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21129,6 +25210,14 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-07-08",
+    "2009-07-09",
+    "2010-01-19",
+    "2010-05-09"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21161,6 +25250,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-04-25",
+    "2010-05-01"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21205,6 +25300,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-03-18",
+    "2010-03-20"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21236,6 +25337,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-02-21"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21272,6 +25378,16 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2010-01-31",
+    "2010-02-01",
+    "2010-02-03",
+    "2010-02-04",
+    "2010-02-06",
+    "2010-02-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21303,6 +25419,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2009-12-27"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21344,6 +25465,20 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2008-10-31",
+    "2008-11-01",
+    "2008-11-08",
+    "2008-12-29",
+    "2009-05-16",
+    "2009-09-18",
+    "2009-11-08",
+    "2009-11-14",
+    "2009-11-28",
+    "2009-11-29"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21376,6 +25511,12 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-10-13",
+    "2009-11-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21413,6 +25554,17 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-08-30",
+    "2009-08-31",
+    "2009-09-04",
+    "2009-09-07",
+    "2009-09-28",
+    "2009-09-30",
+    "2009-10-12"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21448,6 +25600,16 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-09-20"
+   ],
+   "Xbox": [
+    "2007-06-19",
+    "2007-06-21",
+    "2007-07-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21495,6 +25657,15 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-08-29"
+   ],
+   "Xbox": [
+    "2007-08-26",
+    "2007-10-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21539,6 +25710,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-08-17"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21570,6 +25746,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-08-08"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21603,6 +25784,13 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-07-30",
+    "2009-07-31",
+    "2009-08-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21634,6 +25822,11 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-07-10"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21673,6 +25866,20 @@
    "PlayStation",
    "Xbox"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-03-15",
+    "2009-03-23",
+    "2009-03-29",
+    "2009-03-31",
+    "2009-05-14"
+   ],
+   "Xbox": [
+    "2008-11-23",
+    "2008-12-09",
+    "2009-01-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21721,6 +25928,15 @@
   "families": [
    "PlayStation"
   ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-03-19",
+    "2009-03-20",
+    "2009-03-22",
+    "2009-03-24",
+    "2009-03-29"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21752,6 +25968,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2009-01-30"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21799,6 +26020,26 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-07-23",
+    "2007-07-24",
+    "2007-07-26",
+    "2007-08-09",
+    "2007-08-13",
+    "2007-08-19",
+    "2007-08-20",
+    "2007-09-01",
+    "2007-09-07",
+    "2007-10-03",
+    "2007-10-20",
+    "2007-10-24",
+    "2007-10-28",
+    "2007-12-14",
+    "2007-12-31",
+    "2008-01-07"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21831,6 +26072,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-11-23"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21863,6 +26109,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-11-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21896,6 +26147,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-10-16",
+    "2007-10-24"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21930,6 +26187,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-09-27",
+    "2007-10-10",
+    "2007-10-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21962,6 +26226,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-10-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -21994,6 +26263,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-10-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22027,6 +26301,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-08-16",
+    "2007-08-19"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22063,6 +26343,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-07-21",
+    "2007-07-22",
+    "2007-07-28",
+    "2007-07-29",
+    "2007-08-01"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22099,6 +26388,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-07-11",
+    "2007-07-21",
+    "2007-07-22",
+    "2007-07-29",
+    "2007-07-31"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22137,6 +26435,17 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-07-09",
+    "2007-07-11",
+    "2007-07-12",
+    "2007-07-13",
+    "2007-07-14",
+    "2007-07-16",
+    "2007-07-17"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22170,6 +26479,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-06-03",
+    "2007-06-06"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22203,6 +26518,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-06-02",
+    "2007-06-03"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22244,6 +26565,20 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-10-15",
+    "2006-10-23",
+    "2006-10-26",
+    "2006-11-06",
+    "2006-11-07",
+    "2006-11-13",
+    "2007-01-03",
+    "2007-01-19",
+    "2007-02-13",
+    "2007-05-18"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22277,6 +26612,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-03-28",
+    "2007-03-31"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22310,6 +26651,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-03-14",
+    "2007-03-16"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22343,6 +26690,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-03-04",
+    "2007-03-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22375,6 +26728,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-02-24"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22411,6 +26769,15 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-05-15",
+    "2006-05-21",
+    "2006-06-08",
+    "2006-07-15",
+    "2007-02-23"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22445,6 +26812,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-02-01",
+    "2007-02-10",
+    "2007-02-13"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22477,6 +26851,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-02-04"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22511,6 +26890,13 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-10-28",
+    "2006-10-29",
+    "2006-11-15"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22544,6 +26930,12 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-11-08",
+    "2006-11-14"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22576,6 +26968,11 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {
+   "Xbox": [
+    "2006-04-07"
+   ]
+  },
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22606,6 +27003,7 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {},
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22636,6 +27034,7 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {},
   "hours": null,
   "hours_estimated": false,
   "sessions": null,
@@ -22666,6 +27065,7 @@
   "families": [
    "Xbox"
   ],
+  "days_by_family": {},
   "hours": null,
   "hours_estimated": false,
   "sessions": null,

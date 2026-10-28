@@ -343,6 +343,8 @@ def build():
             # Only entries with activity count as platforms played: owning DOOM (2016) on Steam
             # without playing it doesn't make Steam a platform for DOOM
             "families": sorted({e["family"] for e in es if e["days"] or e["earned"] or e["minutes"]}),
+            "days_by_family": {f: sorted({d for e in es if e["family"] == f for d in e["days"]})
+                               for f in sorted({e["family"] for e in es if e["days"]})},
             "hours": round(sum(mins) / 60, 1) if mins else None,
             "hours_estimated": any(e.get("estimated") for e in es),
             "sessions": sum(e.get("sessions") or 0 for e in es) or None,
