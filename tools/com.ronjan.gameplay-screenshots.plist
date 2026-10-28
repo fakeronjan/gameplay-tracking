@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.ronjan.gameplay-screenshots</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/ronjan/code/fakeronjan/games/gameplay-tracking/.venv/bin/python</string>
+        <string>/Users/ronjan/code/fakeronjan/games/gameplay-tracking/tools/sync_screenshots.py</string>
+    </array>
+
+    <!-- Hourly: new screenshots land in subfolders, which WatchPaths on the archive roots
+         wouldn't see. The script exits at once when nothing changed. -->
+    <key>StartInterval</key>
+    <integer>3600</integer>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/ronjan/code/fakeronjan/games/gameplay-tracking/local/sync.err.log</string>
+</dict>
+</plist>
