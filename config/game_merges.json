@@ -154,7 +154,8 @@
   "psn-played:CUSA01846_00": "Street Fighter IV + Super Street Fighter IV + Ultra Street Fighter IV",
   "psn-played:CUSA14836_00": "Catherine + Catherine: Full Body",
   "psn-played:CUSA01316_00": "Retro City Rampage",
-  "psn-played:CUSA00419_00": "Grand Theft Auto V"
+  "psn-played:CUSA00419_00": "Grand Theft Auto V",
+  "xbox:thesurfshop19:1279330257": "LEGO Star Wars II: The Original Trilogy"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
  "exclude": {
