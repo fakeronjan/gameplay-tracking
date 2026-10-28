@@ -503,5 +503,35 @@
   "source_name": "Bloodstained Ritual of the Night",
   "title_id": "0100BF500207C000",
   "art": "https://img-eshop.cdn.nintendo.net/i/f8a2669c22241e9775fd2663f66ac9f6ac4d10bd03929f382cd2db97a4a2780e.jpg"
+ },
+ "6852C8A221AE506052C1B18E08D71DDC": {
+  "name": "Star Fox",
+  "title_id": "0400E88025B1A000",
+  "source": "Ronjan (not in titledb yet)"
+ },
+ "4E9028EB8202CA9EEE4F7F33BD14487B": {
+  "name": "Star Fox",
+  "title_id": "0400BED027B42000",
+  "source": "Ronjan (not in titledb yet)",
+  "note": "Demo, combined with the full game at Ronjan's request (exception to dropping demos)"
+ },
+ "620DEDD799C167AA5DC21748D308AA77": {
+  "name": "Rhythm Heaven Groove",
+  "title_id": "0100D9F01D474000",
+  "source": "decoded_titledb",
+  "art": "https://img-eshop.cdn.nintendo.net/i/d05a7c4dbdf49ebd9f28564876c78b8a8073d6659dd5476ca4c7e142f1e3647b.jpg"
+ },
+ "2A1FB921003961F7A6B12A2A7A1629DC": {
+  "name": "Animal Crossing: New Horizons",
+  "title_id": "01006F8002326000",
+  "source": "decoded_titledb",
+  "note": "Nintendo Switch 2 Edition capture",
+  "art": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg"
+ },
+ "9A9B6E0371D34263D6B6577F9CBA54D5": {
+  "name": "Metroid Dread",
+  "title_id": "010093801237C000",
+  "source": "decoded_titledb",
+  "art": "https://img-eshop.cdn.nintendo.net/i/924b1b82bc75719dba325773795096359df9e6b4be0de77efa90b0e3039c6fff.jpg"
  }
 }

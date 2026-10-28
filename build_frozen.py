@@ -82,17 +82,27 @@ def build_xbox():
     save("xbox.json", {"accounts": accounts})
 
 
+# Original Switch: <date+time><2-digit seq>-<32 hex game id>; Switch 2 appends "L" to the id
+SWITCH_FILE = re.compile(r"(\d{14})\d\d-([0-9A-F]{32})(L?)\.(jpg|mp4)")
+
+
 def build_switch():
     names = json.loads((CONFIG / "switch_game_names.json").read_text())
     file_overrides = json.loads((CONFIG / "switch_overrides.json").read_text())["file_overrides"]
-    games = defaultdict(lambda: {"captures": [], "ids": set()})
-    dropped = 0
+    games = defaultdict(lambda: {"captures": [], "ids": set(), "consoles": set()})
+    dropped, unrecognized, unnamed = 0, [], defaultdict(int)
     for f in sorted(SWITCH_DIR.rglob("*")):
-        m = re.fullmatch(r"(\d{14})\d\d-([0-9A-F]{32})\.(jpg|mp4)", f.name)
-        if not m:
+        if not f.is_file() or f.name == ".DS_Store":
             continue
-        stamp, game_id, ext = m.groups()
+        m = SWITCH_FILE.fullmatch(f.name)
+        if not m:
+            unrecognized.append(str(f.relative_to(SWITCH_DIR)))
+            continue
+        stamp, game_id, switch2, ext = m.groups()
         game_id = file_overrides.get(f.name, {}).get("game_id", game_id)
+        if game_id not in names:
+            unnamed[game_id] += 1
+            continue
         info = names[game_id]
         if info.get("exclude"):
             dropped += 1
@@ -101,10 +111,18 @@ def build_switch():
         when = datetime.strptime(stamp, "%Y%m%d%H%M%S").isoformat()  # console local time
         games[name]["captures"].append({"time": when, "video": ext == "mp4"})
         games[name]["ids"].add(game_id)
+        games[name]["consoles"].add("Switch 2" if switch2 else "Switch")
+    # Never skip silently: a new filename format or an unnamed game stops the build
+    if unrecognized or unnamed:
+        raise SystemExit("Switch screenshots need attention:\n"
+                         + "".join(f"  unrecognized file: {u}\n" for u in unrecognized)
+                         + "".join(f"  no name for game id {g} ({n} files); add it to config/switch_game_names.json\n"
+                                   for g, n in unnamed.items()))
     for g in games.values():
         g["captures"].sort(key=lambda c: c["time"])
-        g["art"] = next((names[i]["art"] for i in sorted(g["ids"]) if names[i].get("art")), None)
         g["ids"] = sorted(g["ids"])  # screenshot game IDs: stable even when a name is corrected
+        g["consoles"] = sorted(g["consoles"])
+        g["art"] = next((names[i]["art"] for i in g["ids"] if names[i].get("art")), None)
     print(f"switch: {len(games)} games, {sum(len(g['captures']) for g in games.values())} captures, {dropped} dropped")
     save("switch.json", {"note": "Capture times are the console's local time", "games": dict(games)})
 

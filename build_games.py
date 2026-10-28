@@ -191,7 +191,7 @@ def entries_and_unlocks():
                         "art": f"https://cdn.cloudflare.steamstatic.com/steam/apps/{appid}/header.jpg"}
 
     for name, g in load("switch.json")["games"].items():
-        entries[f"switch:{g['ids'][0]}"] = {"family": "Nintendo", "platform": "Switch", "name": name,
+        entries[f"switch:{g['ids'][0]}"] = {"family": "Nintendo", "platform": ", ".join(g.get("consoles", ["Switch"])), "name": name,
                                      "days": [c["time"][:10] for c in g["captures"]], "minutes": None,
                                      "earned": None, "total": None, "captures": len(g["captures"]), "art": g.get("art")}
 

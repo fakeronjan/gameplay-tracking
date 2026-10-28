@@ -2922,10 +2922,23 @@
     {
      "time": "2025-06-08T09:35:13",
      "video": false
+    },
+    {
+     "time": "2026-02-09T21:12:02",
+     "video": false
+    },
+    {
+     "time": "2026-07-05T10:43:47",
+     "video": false
     }
    ],
+   "consoles": [
+    "Switch",
+    "Switch 2"
+   ],
    "ids": [
-    "02CB906EA538A35643C1E1484C4B947D"
+    "02CB906EA538A35643C1E1484C4B947D",
+    "2A1FB921003961F7A6B12A2A7A1629DC"
    ]
   },
   "Arcade Archives Punch-Out!!": {
@@ -2940,6 +2953,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "F3DCFE5993801D2BE14298CE367DB8EA"
    ]
@@ -2951,6 +2967,9 @@
      "time": "2019-12-14T13:53:17",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "EAD9CDD267F449963C89657382E411AE"
@@ -3512,6 +3531,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "EE327B3F1EA16B12FE45F55BCABC4BD6"
    ]
@@ -3536,6 +3558,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "F95B57762E79CABDA198AE6BBDC6C7D5"
    ]
@@ -3547,6 +3572,9 @@
      "time": "2020-05-30T12:10:04",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "E733C7B7CE26121F1DA0EA525A683779"
@@ -3571,6 +3599,9 @@
      "time": "2020-06-29T13:22:27",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "2B08E10BF731D9ACC704BC8E92D161E7"
@@ -3664,6 +3695,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "CCFE55975D68069E990E9064D7B828A9"
    ]
@@ -3680,6 +3714,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "77F563570B41119477BD7F46D88F9D6D"
    ]
@@ -3691,6 +3728,9 @@
      "time": "2019-09-19T21:56:40",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "A9FE9E68808541188F574D03CFFB26A2"
@@ -3836,6 +3876,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "75A32021BE3512D7AA96B2D72F764411"
    ]
@@ -3847,6 +3890,9 @@
      "time": "2018-10-17T19:23:19",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "5855558AA8FCD2E87BC21377436CFBF0"
@@ -3940,6 +3986,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "79127164CA4A94F74187421B24A3AA8D"
    ]
@@ -3960,6 +4009,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "48A5A467593C21DFC93CCCF18D91FCE1"
    ]
@@ -3975,6 +4027,9 @@
      "time": "2018-02-04T15:48:55",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "915FF2ADBDF999D66F96486295DB4C9E"
@@ -3992,6 +4047,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "71F6E1DDAFD065C345B3DC4D0DCAFD71"
    ]
@@ -4008,6 +4066,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "062DD3BC3CF59885A6762E5A30A14CD1"
    ]
@@ -4023,6 +4084,9 @@
      "time": "2018-02-04T15:33:59",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "3BE52CBB2C0B225168723895C1D1525E"
@@ -4076,6 +4140,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "8C2319A8FEBE37EA272B508676E3EA1F"
    ]
@@ -4123,6 +4190,9 @@
      "time": "2019-01-07T08:58:39",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "2EDAD642AF6CA11E5629A6E387F51A08"
@@ -4184,6 +4254,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "C7D8C4153CC9802713604F54C53304E0"
    ]
@@ -4199,6 +4272,9 @@
      "time": "2018-08-12T20:01:17",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "22A4BDEA5363AAA24F931D5AF2926082"
@@ -4243,6 +4319,9 @@
      "time": "2018-05-13T12:15:35",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "B20FAEC679A3A9320864DC374CFB9713"
@@ -4344,6 +4423,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "25A3BB4DBF243A95E54BF8E131AA488D"
    ]
@@ -4367,6 +4449,9 @@
      "time": "2017-09-03T13:32:41",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "9600BAE614E6833B1A261F5FB229CDBA"
@@ -4492,6 +4577,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "16851BE00BC6068871FE49D98876D6C5"
    ]
@@ -4524,8 +4612,34 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "BA8E0FCB931BBA7F76DCA06732EF9A07"
+   ]
+  },
+  "Metroid Dread": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/924b1b82bc75719dba325773795096359df9e6b4be0de77efa90b0e3039c6fff.jpg",
+   "captures": [
+    {
+     "time": "2026-09-19T15:34:50",
+     "video": false
+    },
+    {
+     "time": "2026-09-19T15:44:13",
+     "video": false
+    },
+    {
+     "time": "2026-09-19T15:44:25",
+     "video": false
+    }
+   ],
+   "consoles": [
+    "Switch"
+   ],
+   "ids": [
+    "9A9B6E0371D34263D6B6577F9CBA54D5"
    ]
   },
   "Mutant Football League: Dynasty Edition": {
@@ -4535,6 +4649,9 @@
      "time": "2019-07-28T10:03:45",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "397E926E404E20DA88FBBB5C4694B75A"
@@ -4828,6 +4945,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "72CA1DED7AF149F87216AAA92ACC6ECE"
    ]
@@ -4859,6 +4979,9 @@
      "time": "2024-04-14T10:47:29",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "030CC84A0859ABD745D45D5F8AAD9975"
@@ -4900,6 +5023,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "93C1C73A3BAF9123A15B9B24886B634B"
    ]
@@ -4911,6 +5037,9 @@
      "time": "2018-03-08T21:22:45",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "8D0431B7EC842E9F2D1F69F8B6F05255"
@@ -4956,6 +5085,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "3C15B8B5FCFF64D185612CFC684FD589"
    ]
@@ -4967,6 +5099,9 @@
      "time": "2018-02-11T17:03:40",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "D4DFEB2A86C8E2A460B41C59FCEB784E"
@@ -7044,6 +7179,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "4C6AC866CC8D349A4295D5465906CD91"
    ]
@@ -7059,6 +7197,9 @@
      "time": "2019-09-15T09:41:34",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "DECD6107E5477CFA2919C447E5B68FF0"
@@ -7084,6 +7225,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "97192DA636D7EF47BA0C75EA649A4F7A"
    ]
@@ -7095,6 +7239,9 @@
      "time": "2022-05-22T10:46:05",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "7CBCCE282CD36658AB28471FB4791102"
@@ -7236,6 +7383,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "3C66B776DB1AA06323037049FACD96D3"
    ]
@@ -7280,6 +7430,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "5F25EBBAB5987964E56ADA5BBDDE9DF2"
    ]
@@ -7307,6 +7460,9 @@
      "time": "2020-06-08T20:13:58",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "0585E865DFB68B5298F19360A730EDB3",
@@ -7693,8 +7849,26 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "F71343E393314FD6E37E8D19DA678A69"
+   ]
+  },
+  "Rhythm Heaven Groove": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/d05a7c4dbdf49ebd9f28564876c78b8a8073d6659dd5476ca4c7e142f1e3647b.jpg",
+   "captures": [
+    {
+     "time": "2026-07-02T23:41:44",
+     "video": false
+    }
+   ],
+   "consoles": [
+    "Switch"
+   ],
+   "ids": [
+    "620DEDD799C167AA5DC21748D308AA77"
    ]
   },
   "Saints Row: The Third - The Full Package": {
@@ -7704,6 +7878,9 @@
      "time": "2019-05-17T20:43:24",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "E07BDE1FE8CFE9211D83FAAAE431E334"
@@ -7724,6 +7901,9 @@
      "time": "2018-05-28T17:35:06",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "25B77E52575617C0C2E4A4E0A346538C"
@@ -8189,6 +8369,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "F8D087CFC849713C76A06A954E9486D3"
    ]
@@ -8204,6 +8387,9 @@
      "time": "2018-11-16T20:38:38",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "E1A7E95F9E577242170CB3869DA3D3AF"
@@ -8221,6 +8407,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "42A65F67C20F2AF4737AE9D4D5A37ECB"
    ]
@@ -8236,6 +8425,9 @@
      "time": "2017-08-16T19:50:25",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "1628E0CE3F839127054B0EE36E28E52A"
@@ -8305,8 +8497,203 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "CBA841B50A92A904E313AE06DF4EF71A"
+   ]
+  },
+  "Star Fox": {
+   "art": null,
+   "captures": [
+    {
+     "time": "2026-06-09T16:20:00",
+     "video": false
+    },
+    {
+     "time": "2026-06-09T16:20:28",
+     "video": false
+    },
+    {
+     "time": "2026-06-09T16:21:52",
+     "video": false
+    },
+    {
+     "time": "2026-06-26T08:39:54",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:44:33",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:44:38",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:44:39",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:48:17",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:48:20",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:48:41",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:49:09",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:49:21",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:52:16",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T10:54:19",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:36:30",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:46:09",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:46:31",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:46:34",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:47:23",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:47:23",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:47:46",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:48:02",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:48:10",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:49:00",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:49:24",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:13",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:18",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:21",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:24",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:36",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:46",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:52:49",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:53:23",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:53:36",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:53:56",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:58:57",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:59:02",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:59:06",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:59:10",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T19:59:50",
+     "video": false
+    },
+    {
+     "time": "2026-06-28T20:00:08",
+     "video": false
+    },
+    {
+     "time": "2026-07-03T08:03:38",
+     "video": false
+    },
+    {
+     "time": "2026-07-03T08:05:46",
+     "video": false
+    },
+    {
+     "time": "2026-07-03T08:22:54",
+     "video": false
+    },
+    {
+     "time": "2026-07-03T08:46:50",
+     "video": false
+    }
+   ],
+   "consoles": [
+    "Switch 2"
+   ],
+   "ids": [
+    "4E9028EB8202CA9EEE4F7F33BD14487B",
+    "6852C8A221AE506052C1B18E08D71DDC"
    ]
   },
   "Stardew Valley": {
@@ -8341,6 +8728,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "C2B49A475DF5A340494292A1BD398579"
    ]
@@ -8360,6 +8750,9 @@
      "time": "2019-05-22T22:20:26",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "AF92B7A16C36C3E5DE1C76E5B20E0421"
@@ -8384,6 +8777,9 @@
      "time": "2020-09-18T22:13:19",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "45998392CB216ABF034EB6F98E399A06"
@@ -8521,6 +8917,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "502BADF490303E7A09F1BF58AD4341AB"
    ]
@@ -8556,6 +8955,9 @@
      "time": "2023-11-05T16:48:59",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "E5B04B40CFD924420DF6142200E473B4"
@@ -8616,6 +9018,9 @@
      "time": "2023-05-07T19:20:57",
      "video": true
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "BF19FBEA37724338D87F26F17A3B97B2"
@@ -9265,6 +9670,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "8AEDFF741E2D23FBED39474178692DAF"
    ]
@@ -9380,6 +9788,9 @@
      "time": "2018-11-08T20:42:28",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "099ECEEF904DB62AEE3A76A3137C241B"
@@ -10537,6 +10948,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "DD36EAD444102ED69B0AF6882696E2E7"
    ]
@@ -10556,6 +10970,9 @@
      "time": "2018-01-14T10:33:26",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "E379FBA8286DF865C869E0C23904F786"
@@ -10612,6 +11029,9 @@
      "time": "2022-10-16T21:18:52",
      "video": true
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "8F655652CF5441D7471D936F3F07324D"
@@ -10680,6 +11100,9 @@
      "time": "2022-10-30T09:54:30",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "C46BE5741BFDE75BA1110C84E61676BA"
@@ -10817,6 +11240,9 @@
      "video": true
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "05DC14F80A13996B94160CD375AFD506"
    ]
@@ -10828,6 +11254,9 @@
      "time": "2019-02-17T08:05:30",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "691C9B2C6D1F1E032DDC01FD026159FD"
@@ -11077,6 +11506,9 @@
      "video": true
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "F1C11A22FAEE3B82F21B330E1B786A39"
    ]
@@ -11152,6 +11584,9 @@
      "time": "2025-06-21T18:04:42",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "CD8DDEDFE332FE055C049150B035121B"
@@ -11408,6 +11843,9 @@
      "time": "2019-10-19T16:37:53",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "9129043EF2AAD7F1157CF852BACB8F7D"
@@ -12677,6 +13115,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "CC47F0DEC75C1FD3B1F95FA9F9D57667"
    ]
@@ -12705,6 +13146,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "2AF2C4CCD5F28D087B476BE33BFE1BF8"
    ]
@@ -12728,6 +13172,9 @@
      "time": "2025-06-21T16:28:39",
      "video": true
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "BDBA961F9C5E6E39D558A949E04CECEE"
@@ -12773,6 +13220,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "92EDE0C7C89D5ED13D0CA773BE080402"
    ]
@@ -12784,6 +13234,9 @@
      "time": "2018-12-16T16:57:45",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "A29C3926C7AC223A657F1415D1C1D797"
@@ -12845,6 +13298,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "A10B9E983E22D9175CE28F2275CEC8E6"
    ]
@@ -12901,6 +13357,9 @@
      "video": false
     }
    ],
+   "consoles": [
+    "Switch"
+   ],
    "ids": [
     "57BAD83C755627D5A5B86ED0AD437965"
    ]
@@ -12912,6 +13371,9 @@
      "time": "2019-12-26T17:07:28",
      "video": false
     }
+   ],
+   "consoles": [
+    "Switch"
    ],
    "ids": [
     "703BDEE72B19135DD048E644FC452DE6"

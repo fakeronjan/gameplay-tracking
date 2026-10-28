@@ -31,7 +31,7 @@ def main():
 
     shots = defaultdict(list)  # first screenshot game id of the row -> [(stamp, file)]
     for f in sorted(ARCHIVE.rglob("*.jpg")):
-        m = re.fullmatch(r"(\d{14})\d\d-([0-9A-F]{32})\.jpg", f.name)
+        m = re.fullmatch(r"(\d{14})\d\d-([0-9A-F]{32})L?\.jpg", f.name)  # Switch 2 adds "L"
         if not m:
             continue
         game_id = overrides.get(f.name, {}).get("game_id", m.group(2))
@@ -59,7 +59,7 @@ def main():
                      for i in range(PER_GAME)]
         entries = []
         for stamp, f in items:
-            name = f"{stamp}-{f.stem[-32:-24].lower()}.webp"
+            name = f"{stamp}-{f.stem.rstrip('L')[-32:-24].lower()}.webp"
             for kind, size in SIZES.items():
                 out = OUT / kind / name
                 if not out.exists():
@@ -71,9 +71,14 @@ def main():
                             "img": name})
         gallery[f"switch:{first_id[row]}"] = {"game": row, "total": len(by_row[row]), "shots": entries}
 
+    # Drop images no sample uses any more (a game's sample shifts when screenshots are added)
+    keep = {s["img"] for g in gallery.values() for s in g["shots"]}
+    stale = [p for kind in SIZES for p in (OUT / kind).glob("*.webp") if p.name not in keep]
+    for p in stale:
+        p.unlink()
     (OUT / "gallery.json").write_text(json.dumps(gallery, indent=1, ensure_ascii=False) + "\n")
     print(f"gallery: {len(gallery)} games, {sum(len(g['shots']) for g in gallery.values())} of "
-          f"{sum(g['total'] for g in gallery.values())} screenshots")
+          f"{sum(g['total'] for g in gallery.values())} screenshots; {len(stale)} stale images removed")
 
 
 if __name__ == "__main__":
