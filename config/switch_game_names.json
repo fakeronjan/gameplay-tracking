@@ -1,0 +1,347 @@
+{
+ "02CB906EA538A35643C1E1484C4B947D": {
+  "name": "Animal Crossing - New Horizons",
+  "source": "community_list"
+ },
+ "030CC84A0859ABD745D45D5F8AAD9975": {
+  "name": "Nintendo Switch Sports",
+  "source": "community_list"
+ },
+ "0585E865DFB68B5298F19360A730EDB3": {
+  "name": "Puyo Puyo Tetris",
+  "source": "community_list",
+  "note": "Ronjan owns JP and US versions; same game"
+ },
+ "05DC14F80A13996B94160CD375AFD506": {
+  "name": "Nintendo Switch Online - SNES",
+  "source": "community_list",
+  "display": "Switch Online SNES"
+ },
+ "062DD3BC3CF59885A6762E5A30A14CD1": {
+  "name": "FIFA 18",
+  "source": "community_list"
+ },
+ "099ECEEF904DB62AEE3A76A3137C241B": {
+  "name": "Super Mario Party",
+  "source": "community_list"
+ },
+ "1628E0CE3F839127054B0EE36E28E52A": {
+  "name": "Sonic Mania",
+  "source": "community_list"
+ },
+ "16851BE00BC6068871FE49D98876D6C5": {
+  "name": "Mario Kart 8 Deluxe",
+  "source": "community_list"
+ },
+ "22A4BDEA5363AAA24F931D5AF2926082": {
+  "name": "Hollow Knight",
+  "source": "community_list"
+ },
+ "25A3BB4DBF243A95E54BF8E131AA488D": {
+  "name": "LEGO City Undercover",
+  "source": "community_list"
+ },
+ "25B77E52575617C0C2E4A4E0A346538C": {
+  "name": "Shantae Half-Genie Hero",
+  "source": "community_list"
+ },
+ "2AF2C4CCD5F28D087B476BE33BFE1BF8": {
+  "name": "The Witcher 3: Wild Hunt — Complete Edition",
+  "source": "decoded_titledb",
+  "title_id": "0100BFE00E9CA000"
+ },
+ "2B08E10BF731D9ACC704BC8E92D161E7": {
+  "name": "Burnout Paradise Remastered",
+  "source": "decoded_titledb",
+  "title_id": "0100DBF01000A000"
+ },
+ "2EDAD642AF6CA11E5629A6E387F51A08": {
+  "name": "Guacamelee! Super Turbo Championship Edition",
+  "source": "decoded_titledb",
+  "title_id": "0100BAE00B470000"
+ },
+ "397E926E404E20DA88FBBB5C4694B75A": {
+  "name": "Mutant Football League: Dynasty Edition",
+  "source": "decoded_titledb",
+  "title_id": "0100C3E00ACAA000"
+ },
+ "3BE52CBB2C0B225168723895C1D1525E": {
+  "name": "Fire Emblem Warriors",
+  "source": "community_list"
+ },
+ "3C15B8B5FCFF64D185612CFC684FD589": {
+  "name": "Okami",
+  "source": "community_list"
+ },
+ "3C66B776DB1AA06323037049FACD96D3": {
+  "name": "Pokémon Sword",
+  "source": "community_list"
+ },
+ "42A65F67C20F2AF4737AE9D4D5A37ECB": {
+  "name": "Slay the Spire",
+  "source": "community_list"
+ },
+ "45998392CB216ABF034EB6F98E399A06": {
+  "name": "Super Mario 3D All-Stars",
+  "source": "community_list"
+ },
+ "48A5A467593C21DFC93CCCF18D91FCE1": {
+  "name": "Collection of Mana",
+  "source": "community_list"
+ },
+ "49836475DFF857BC5E1BCF2F3B61D2DE": {
+  "name": "Puyo Puyo Tetris",
+  "source": "screenshot",
+  "title_id": "010053D0001BE000",
+  "note": "Ronjan owns JP and US versions; same game"
+ },
+ "4BD4AA31AE7AB554989400890BB075F5": {
+  "name": "Live A Live (Demo)",
+  "source": "screenshot",
+  "title_id": "0100A5F017E9E000",
+  "exclude": "demo"
+ },
+ "4C6AC866CC8D349A4295D5465906CD91": {
+  "name": "Paper Mario - The Thousand-Year Door",
+  "source": "community_list"
+ },
+ "502BADF490303E7A09F1BF58AD4341AB": {
+  "name": "Super Mario Bros. 35",
+  "source": "community_list"
+ },
+ "50E2A11CE4BDDC72EF99DF78315D4938": {
+  "name": "Nintendo Switch",
+  "source": "community_list",
+  "exclude": "console menu"
+ },
+ "57BAD83C755627D5A5B86ED0AD437965": {
+  "name": "WHAT THE GOLF?",
+  "source": "decoded_titledb",
+  "title_id": "01002C000E35E000"
+ },
+ "5855558AA8FCD2E87BC21377436CFBF0": {
+  "name": "Child of Light",
+  "source": "community_list"
+ },
+ "5BB5C0DAC8FF51E1C76EDC6E659EA349": {
+  "name": "Sushi Striker - The Way of Sushido - Demo",
+  "source": "community_list",
+  "exclude": "demo"
+ },
+ "5F25EBBAB5987964E56ADA5BBDDE9DF2": {
+  "name": "Pokémon Let's Go Eevee",
+  "source": "community_list"
+ },
+ "691C9B2C6D1F1E032DDC01FD026159FD": {
+  "name": "Tetris 99",
+  "source": "community_list"
+ },
+ "703BDEE72B19135DD048E644FC452DE6": {
+  "name": "Yooka Laylee and the Impossible Lair",
+  "source": "community_list"
+ },
+ "71F6E1DDAFD065C345B3DC4D0DCAFD71": {
+  "name": "F-Zero 99",
+  "source": "community_list"
+ },
+ "72CA1DED7AF149F87216AAA92ACC6ECE": {
+  "name": "NBA 2K18 Legend Edition Gold",
+  "source": "decoded_titledb",
+  "title_id": "0100760002048000"
+ },
+ "75A32021BE3512D7AA96B2D72F764411": {
+  "name": "Celeste",
+  "source": "community_list"
+ },
+ "77F563570B41119477BD7F46D88F9D6D": {
+  "name": "Card Shark",
+  "source": "decoded_titledb",
+  "title_id": "0100E20012952000"
+ },
+ "79127164CA4A94F74187421B24A3AA8D": {
+  "name": "Clubhouse Games 51 Worldwide Classics",
+  "source": "community_list"
+ },
+ "7CBCCE282CD36658AB28471FB4791102": {
+  "name": "Pokémon Legends Arceus",
+  "source": "community_list"
+ },
+ "8AEDFF741E2D23FBED39474178692DAF": {
+  "name": "Super Mario Odyssey",
+  "source": "community_list"
+ },
+ "8C2319A8FEBE37EA272B508676E3EA1F": {
+  "name": "Guacamelee! 2",
+  "source": "decoded_titledb",
+  "title_id": "01007E100456C000"
+ },
+ "8D0431B7EC842E9F2D1F69F8B6F05255": {
+  "name": "Oh...Sir! The Insult Simulator",
+  "source": "decoded_titledb",
+  "title_id": "0100782005A44000"
+ },
+ "8F655652CF5441D7471D936F3F07324D": {
+  "name": "Nintendo Switch Online - NES",
+  "source": "community_list",
+  "display": "Switch Online NES"
+ },
+ "9129043EF2AAD7F1157CF852BACB8F7D": {
+  "name": "The Legend of Zelda Link's Awakening",
+  "source": "community_list"
+ },
+ "915FF2ADBDF999D66F96486295DB4C9E": {
+  "name": "Darkest Dungeon",
+  "source": "decoded_titledb",
+  "title_id": "01008F1008DA6000"
+ },
+ "92EDE0C7C89D5ED13D0CA773BE080402": {
+  "name": "Ultra Street Fighter II The Final Challengers",
+  "source": "community_list"
+ },
+ "93C1C73A3BAF9123A15B9B24886B634B": {
+  "name": "Octopath Traveller",
+  "source": "community_list"
+ },
+ "9600BAE614E6833B1A261F5FB229CDBA": {
+  "name": "Mario + Rabbids Kingdom Battle",
+  "source": "community_list"
+ },
+ "97192DA636D7EF47BA0C75EA649A4F7A": {
+  "name": "Pocket Card Jockey:Ride On!",
+  "source": "decoded_titledb",
+  "title_id": "010099501C132000"
+ },
+ "A10B9E983E22D9175CE28F2275CEC8E6": {
+  "name": "Untitled Goose Game",
+  "source": "community_list"
+ },
+ "A29C3926C7AC223A657F1415D1C1D797": {
+  "name": "Undertale",
+  "source": "community_list"
+ },
+ "A9FE9E68808541188F574D03CFFB26A2": {
+  "name": "Castle Crashers Remastered",
+  "source": "decoded_titledb",
+  "title_id": "010001300D14A000"
+ },
+ "AF92B7A16C36C3E5DE1C76E5B20E0421": {
+  "name": "Starlink - Battle for Atlas",
+  "source": "community_list"
+ },
+ "B20FAEC679A3A9320864DC374CFB9713": {
+  "name": "Kirby Star Allies",
+  "source": "community_list"
+ },
+ "BA8E0FCB931BBA7F76DCA06732EF9A07": {
+  "name": "Mario Tennis Aces",
+  "source": "community_list"
+ },
+ "BDBA961F9C5E6E39D558A949E04CECEE": {
+  "name": "Trombone Champ",
+  "source": "decoded_titledb",
+  "title_id": "010039F01AF5A000"
+ },
+ "BF19FBEA37724338D87F26F17A3B97B2": {
+  "name": "Super Mario Maker 2",
+  "source": "community_list"
+ },
+ "C2B49A475DF5A340494292A1BD398579": {
+  "name": "Stardew Valley",
+  "source": "community_list"
+ },
+ "C46BE5741BFDE75BA1110C84E61676BA": {
+  "name": "Nintendo Switch Online - Nintendo 64",
+  "source": "community_list",
+  "display": "Switch Online Nintendo 64"
+ },
+ "C7D8C4153CC9802713604F54C53304E0": {
+  "name": "Hades",
+  "source": "community_list"
+ },
+ "CBA841B50A92A904E313AE06DF4EF71A": {
+  "name": "Splatoon 2",
+  "source": "community_list"
+ },
+ "CC47F0DEC75C1FD3B1F95FA9F9D57667": {
+  "name": "The Legend of Zelda Tears of the Kingdom",
+  "source": "community_list"
+ },
+ "CCFA659F4857F96DDA29AFEDB2E166E6": {
+  "name": "Nintendo Switch",
+  "source": "community_list",
+  "exclude": "console menu"
+ },
+ "CCFE55975D68069E990E9064D7B828A9": {
+  "name": "Cadence of Hyrule",
+  "source": "community_list"
+ },
+ "CD8DDEDFE332FE055C049150B035121B": {
+  "name": "The Legend of Zelda - Echoes of Wisdom",
+  "source": "community_list"
+ },
+ "D4DFEB2A86C8E2A460B41C59FCEB784E": {
+  "name": "Oxenfree",
+  "source": "community_list"
+ },
+ "DD36EAD444102ED69B0AF6882696E2E7": {
+  "name": "Super Mario RPG",
+  "source": "decoded_titledb",
+  "title_id": "0100BC0018138000"
+ },
+ "DECD6107E5477CFA2919C447E5B68FF0": {
+  "name": "Phoenix Wright Ace Attorney Trilogy",
+  "source": "community_list"
+ },
+ "E07BDE1FE8CFE9211D83FAAAE431E334": {
+  "name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+  "source": "decoded_titledb",
+  "title_id": "0100DE600BEEE000"
+ },
+ "E1A7E95F9E577242170CB3869DA3D3AF": {
+  "name": "Sid Meier's Civilization VI",
+  "source": "community_list"
+ },
+ "E379FBA8286DF865C869E0C23904F786": {
+  "name": "Super Meat Boy",
+  "source": "decoded_titledb",
+  "title_id": "01004F8006A78000"
+ },
+ "E5B04B40CFD924420DF6142200E473B4": {
+  "name": "Super Mario Bros. Wonder",
+  "source": "community_list"
+ },
+ "E733C7B7CE26121F1DA0EA525A683779": {
+  "name": "Bug Fables - The Everlasting Sapling",
+  "source": "community_list"
+ },
+ "EAD9CDD267F449963C89657382E411AE": {
+  "name": "Baba is You",
+  "source": "community_list"
+ },
+ "EE327B3F1EA16B12FE45F55BCABC4BD6": {
+  "name": "Balatro",
+  "source": "community_list"
+ },
+ "F1C11A22FAEE3B82F21B330E1B786A39": {
+  "name": "The Legend of Zelda Breath of the Wild",
+  "source": "community_list"
+ },
+ "F3DCFE5993801D2BE14298CE367DB8EA": {
+  "name": "Arcade Archives PUNCH-OUT!!",
+  "source": "decoded_titledb",
+  "title_id": "01001530097F8000"
+ },
+ "F71343E393314FD6E37E8D19DA678A69": {
+  "name": "Retro Bowl",
+  "source": "decoded_titledb",
+  "title_id": "0100C5B016E30000"
+ },
+ "F8D087CFC849713C76A06A954E9486D3": {
+  "name": "Shovel Knight Treasure Trove",
+  "source": "community_list"
+ },
+ "F95B57762E79CABDA198AE6BBDC6C7D5": {
+  "name": "Bloodstained Ritual of the Night",
+  "source": "community_list"
+ }
+}

@@ -1,0 +1,53 @@
+name: Update Gameplay History
+
+on:
+  schedule:
+    - cron: '43 13 * * *'  # backstop, 13:43 UTC. The droplet (157.245.209.249) dispatches this at 10:43 UTC; GitHub's own cron starts hours late, see /opt/fleet-dispatch there
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write           # needed for git push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # PlayStation and Steam only. Xbox, Switch, and Miiverse are frozen
+      # imports built locally by build_frozen.py.
+      - name: Fetch PlayStation and Steam
+        env:
+          PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          PSN_NPSSO_EXPIRES: ${{ vars.PSN_NPSSO_EXPIRES }}
+        run: python update.py
+
+      # Runs even when one platform failed, so the other platform's data and
+      # status.json still land. The fetch step's failure still fails the run.
+      - name: Commit and push updated data
+        if: always()
+        run: |
+          git config user.name  "Gameplay Bot"
+          git config user.email "gameplay-bot@users.noreply.github.com"
+          git add docs/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update gameplay data $(date -u '+%Y-%m-%d')"
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed; retrying in 5s..."
+              sleep 5
+            done
+          fi

@@ -1,0 +1,1779 @@
+{
+ "games": {
+  "1059990": {
+   "achievements": {
+    "earned": [],
+    "total": 25
+   },
+   "icon": "ea5a576e8bb0844bd41c6332586256ddcbe50258",
+   "last_played": "2026-03-19T23:55:56Z",
+   "minutes": 19,
+   "name": "Trombone Champ"
+  },
+  "107100": {
+   "achievements": {
+    "earned": [],
+    "total": 24
+   },
+   "icon": "8377b4460f19465c261673f76f2656bdb3288273",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Bastion"
+  },
+  "1133760": {
+   "achievements": {
+    "earned": [],
+    "total": 37
+   },
+   "icon": "f7007ddabb9d8ab4408255c3336ae296fdc02b5e",
+   "last_played": null,
+   "minutes": 0,
+   "name": "CHRONO CROSS: THE RADICAL DREAMERS EDITION"
+  },
+  "1145360": {
+   "achievements": {
+    "earned": [],
+    "total": 49
+   },
+   "icon": "8a3fca36a00883e8066263ad35dd15d77a1f9abc",
+   "last_played": "2026-03-22T02:46:23Z",
+   "minutes": 1,
+   "name": "Hades"
+  },
+  "1147860": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Dust off your first game disk.",
+      "earned": "2026-03-21T14:22:22Z",
+      "id": "ACH_TASTE_TEST",
+      "name": "Taste Test",
+      "rarity": 97.2
+     }
+    ],
+    "total": 30
+   },
+   "icon": "fb3dc343dc41261963e049b1d38985a7c9d9df43",
+   "last_played": "2026-03-21T14:22:22Z",
+   "minutes": 4,
+   "name": "UFO 50"
+  },
+  "1147940": {
+   "achievements": null,
+   "icon": "6f766a8a48e637023b230b484b346efdaf34489a",
+   "last_played": "2026-03-19T23:59:42Z",
+   "minutes": 144,
+   "name": "3dSen"
+  },
+  "1148590": {
+   "achievements": {
+    "earned": [],
+    "total": 10
+   },
+   "icon": "420b8488badd2d6d1b853307df7a550b2d2c33e2",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM 64"
+  },
+  "1150690": {
+   "achievements": {
+    "earned": [],
+    "total": 84
+   },
+   "icon": "29c42e099c6527a041bf17812d140508fab9c387",
+   "last_played": null,
+   "minutes": 0,
+   "name": "OMORI"
+  },
+  "1173820": {
+   "achievements": {
+    "earned": [],
+    "total": 37
+   },
+   "icon": "7ed130e7b09843205b7d38cccef63a40cd9d09b3",
+   "last_played": null,
+   "minutes": 0,
+   "name": "FINAL FANTASY VI"
+  },
+  "1250410": {
+   "achievements": {
+    "earned": [],
+    "total": 43
+   },
+   "icon": "e374de450803dc212690bf721a14843a0dd2ad58",
+   "last_played": "2020-09-13T15:08:09Z",
+   "minutes": 465,
+   "name": "Microsoft Flight Simulator (2020)"
+  },
+  "1404850": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Have a Turtle appear in the leftmost column during a spin, then appear in the rightmost column during the next spin.",
+      "earned": "2024-12-31T21:10:35Z",
+      "id": "NEW_ACHIEVEMENT_6_12",
+      "name": "Turtle",
+      "rarity": 43.5
+     },
+     {
+      "detail": "Have a Ninja in your inventory but not appear for 3 spins in a row.",
+      "earned": "2025-01-01T03:39:32Z",
+      "id": "NEW_ACHIEVEMENT_5_4",
+      "name": "Ninja",
+      "rarity": 33.4
+     },
+     {
+      "detail": "Have a Hex of Midas trigger 3 spins in a row.",
+      "earned": "2025-01-16T02:01:47Z",
+      "id": "NEW_ACHIEVEMENT_4_7",
+      "name": "Hex of Midas",
+      "rarity": 28.5
+     },
+     {
+      "detail": "Have a Time Capsule add a different capsule.",
+      "earned": "2025-01-16T02:04:24Z",
+      "id": "NEW_ACHIEVEMENT_6_8",
+      "name": "Time Capsule",
+      "rarity": 48.2
+     },
+     {
+      "detail": "Have a Hex of Destruction trigger 3 spins in a row.",
+      "earned": "2025-01-19T02:08:34Z",
+      "id": "NEW_ACHIEVEMENT_4_3",
+      "name": "Hex of Destruction",
+      "rarity": 20.6
+     },
+     {
+      "detail": "Have a Hex of Thievery trigger 3 spins in a row.",
+      "earned": "2025-01-19T02:10:49Z",
+      "id": "NEW_ACHIEVEMENT_4_9",
+      "name": "Hex of Thievery",
+      "rarity": 14.9
+     }
+    ],
+    "total": 186
+   },
+   "icon": "ce8b9c2719ccf0fb47c3b97eb58f758913a268fd",
+   "last_played": "2026-03-22T03:00:40Z",
+   "minutes": 60,
+   "name": "Luck be a Landlord"
+  },
+  "1454400": {
+   "achievements": {
+    "earned": [],
+    "total": 637
+   },
+   "icon": "e0c68bbdb2813528f0802ef6751655e33a42c9bb",
+   "last_played": "2026-03-22T02:43:34Z",
+   "minutes": 0,
+   "name": "Cookie Clicker"
+  },
+  "1462040": {
+   "achievements": {
+    "earned": [],
+    "total": 63
+   },
+   "icon": "3cf19bc8fa3bc953d68a9b46b0a7555839188da0",
+   "last_played": null,
+   "minutes": 0,
+   "name": "FINAL FANTASY VII REMAKE INTERGRADE"
+  },
+  "1495860": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Submit your first dub",
+      "earned": "2021-07-30T13:51:26Z",
+      "id": "SUBMIT_FIRST_DUB",
+      "name": "And We're Rolling",
+      "rarity": 85.5
+     },
+     {
+      "detail": "Tie for the highest score in a round",
+      "earned": "2021-07-30T13:53:21Z",
+      "id": "WIN_ROUND_TIE",
+      "name": "Second Banana",
+      "rarity": 70.0
+     },
+     {
+      "detail": "Win a round with a response at least 90 characters in length",
+      "earned": "2021-07-30T13:53:27Z",
+      "id": "WIN_ROUND_LONG_RESPONSE",
+      "name": "Auteur",
+      "rarity": 63.1
+     },
+     {
+      "detail": "Receive no votes in a round",
+      "earned": "2021-07-30T13:55:34Z",
+      "id": "NO_VOTES",
+      "name": "Snubbed",
+      "rarity": 74.2
+     },
+     {
+      "detail": "Use sound effects in your dub",
+      "earned": "2021-07-30T13:57:16Z",
+      "id": "INLINE_SFX",
+      "name": "Foley Artist",
+      "rarity": 79.9
+     },
+     {
+      "detail": "Receive all of the votes in a round.",
+      "earned": "2021-07-30T13:58:06Z",
+      "id": "ALL_VOTES",
+      "name": "Toast of the Town",
+      "rarity": 66.5
+     },
+     {
+      "detail": "Submit your dub at the last second",
+      "earned": "2021-07-30T13:59:29Z",
+      "id": "LAST_SECOND_RESPONSE",
+      "name": "Nail-Biter",
+      "rarity": 71.9
+     },
+     {
+      "detail": "Complete your first game of What the Dub?!",
+      "earned": "2021-07-30T14:03:46Z",
+      "id": "COMPLETED_FIRST_GAME",
+      "name": "In the Can",
+      "rarity": 79.2
+     },
+     {
+      "detail": "Every word in a response starts with the same letter",
+      "earned": "2021-07-30T14:27:21Z",
+      "id": "EVERY_WORD_STARTS_SAME_LETTER",
+      "name": "Art House",
+      "rarity": 40.3
+     },
+     {
+      "detail": "Play two games in a row with the same players",
+      "earned": "2021-07-30T14:33:47Z",
+      "id": "SAME_PLAYERS_2_GAMES",
+      "name": "Cameo",
+      "rarity": 47.8
+     },
+     {
+      "detail": "Win a game after starting the last round in last place",
+      "earned": "2021-07-30T14:33:47Z",
+      "id": "WORST_TO_FIRST",
+      "name": "The Comeback Kid",
+      "rarity": 23.0
+     },
+     {
+      "detail": "Win a round with a one word answer",
+      "earned": "2021-12-17T21:55:46Z",
+      "id": "ONE_WORD_WINNER",
+      "name": "Tagline",
+      "rarity": 42.6
+     },
+     {
+      "detail": "Play 8 games",
+      "earned": "2021-12-17T22:38:15Z",
+      "id": "COMPLETED_8_GAMES",
+      "name": "Super 8",
+      "rarity": 28.4
+     },
+     {
+      "detail": "Win a game with double the points of the second place player",
+      "earned": "2021-12-28T19:22:39Z",
+      "id": "WIN_GAME_BY_2X",
+      "name": "Scene Stealer",
+      "rarity": 43.4
+     }
+    ],
+    "total": 30
+   },
+   "icon": "fa945cfbba16674bbed1f9e400e3746dbf26d112",
+   "last_played": "2021-12-28T20:02:05Z",
+   "minutes": 202,
+   "name": "What The Dub?!"
+  },
+  "1785650": {
+   "achievements": {
+    "earned": [],
+    "total": 39
+   },
+   "icon": "e2c6e070c1d48f9309dc48ee786bfd0b799d0604",
+   "last_played": null,
+   "minutes": 0,
+   "name": "TopSpin 2K25"
+  },
+  "1971650": {
+   "achievements": {
+    "earned": [],
+    "total": 33
+   },
+   "icon": "7a90088ff3b521a0edcbd414fcd88361dd3d8b45",
+   "last_played": "2026-03-22T03:07:36Z",
+   "minutes": 7,
+   "name": "OCTOPATH TRAVELER II"
+  },
+  "20540": {
+   "achievements": null,
+   "icon": "64946619217da497c9b29bc817bb40dd7d28c912",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Company of Heroes: Tales of Valor"
+  },
+  "208200": {
+   "achievements": {
+    "earned": [],
+    "total": 65
+   },
+   "icon": "00b2e4a81c7305be9203e17010d3a5ab51f53737",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM 3: BFG Edition"
+  },
+  "208580": {
+   "achievements": {
+    "earned": [],
+    "total": 57
+   },
+   "icon": "1c9e1a68198c15eb47b35c692fbfa5adeb7a6566",
+   "last_played": null,
+   "minutes": 0,
+   "name": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™"
+  },
+  "20900": {
+   "achievements": null,
+   "icon": "746d1cd48fb2e57d579b05b6e9eccba95859e549",
+   "last_played": null,
+   "minutes": 0,
+   "name": "The Witcher: Enhanced Edition"
+  },
+  "213670": {
+   "achievements": {
+    "earned": [],
+    "total": 50
+   },
+   "icon": "afad8295902080fb2aedd9aaabb3e21c10eecc85",
+   "last_played": "2014-12-29T23:16:46Z",
+   "minutes": 221,
+   "name": "South Park™: The Stick of Truth™"
+  },
+  "2139090": {
+   "achievements": null,
+   "icon": "d50087d22a8af5fc1aca12206e53c1c2e3df9077",
+   "last_played": "2024-10-17T22:31:44Z",
+   "minutes": 10,
+   "name": "Project ETHOS"
+  },
+  "2280": {
+   "achievements": {
+    "earned": [],
+    "total": 33
+   },
+   "icon": "3e5e70b1e0c4869dc3276b10b830f6ce9d341cf9",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM + DOOM II"
+  },
+  "228200": {
+   "achievements": null,
+   "icon": "df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Company of Heroes "
+  },
+  "2300": {
+   "achievements": null,
+   "icon": "ca71be262e191f3fdb2148f5ae56ff3e2ca340c2",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM II"
+  },
+  "237930": {
+   "achievements": {
+    "earned": [],
+    "total": 33
+   },
+   "icon": "b45dc369d45afe945d379e75545959f845094f92",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Transistor"
+  },
+  "2379780": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Reach Ante 4",
+      "earned": "2024-12-21T15:45:16Z",
+      "id": "BAL_01",
+      "name": "Ante Up!",
+      "rarity": 89.8
+     },
+     {
+      "detail": "Score 10,000 Chips in a single hand",
+      "earned": "2024-12-21T16:09:09Z",
+      "id": "BAL_16",
+      "name": "10K",
+      "rarity": 84.4
+     },
+     {
+      "detail": "Reach Ante 8",
+      "earned": "2024-12-21T16:21:28Z",
+      "id": "BAL_02",
+      "name": "Ante Upper!",
+      "rarity": 74.5
+     },
+     {
+      "detail": "Win a Run",
+      "earned": "2024-12-21T16:24:42Z",
+      "id": "BAL_03",
+      "name": "Heads Up",
+      "rarity": 71.6
+     },
+     {
+      "detail": "Get any poker hand to level 10",
+      "earned": "2024-12-21T16:30:35Z",
+      "id": "BAL_15",
+      "name": "Retrograde",
+      "rarity": 64.8
+     },
+     {
+      "detail": "Score 1,000,000 Chips in a single hand",
+      "earned": "2024-12-21T16:32:35Z",
+      "id": "BAL_17",
+      "name": "1,000K",
+      "rarity": 47.8
+     },
+     {
+      "detail": "Have 80 or more cards in your deck",
+      "earned": "2024-12-21T16:32:35Z",
+      "id": "BAL_20",
+      "name": "Big Hands",
+      "rarity": 19.8
+     },
+     {
+      "detail": "Win a run on at least Red Stake difficulty",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_04",
+      "name": "Low Stakes",
+      "rarity": 43.7
+     },
+     {
+      "detail": "Win a run on at least Black Stake difficulty",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_05",
+      "name": "Mid Stakes",
+      "rarity": 30.3
+     },
+     {
+      "detail": "Play at least 2500 Cards",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_07",
+      "name": "Card Player",
+      "rarity": 58.2
+     },
+     {
+      "detail": "Discard at least 2500 Cards",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_08",
+      "name": "Card Discarder",
+      "rarity": 48.5
+     },
+     {
+      "detail": "Play a Royal Flush",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_14",
+      "name": "Royale",
+      "rarity": 63.0
+     },
+     {
+      "detail": "Score 100,000,000 Chips in a single hand",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_18",
+      "name": "100,000K",
+      "rarity": 22.4
+     },
+     {
+      "detail": "Win a run without rerolling the shop",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_21",
+      "name": "You Get What You Get",
+      "rarity": 33.4
+     },
+     {
+      "detail": "Discover a Legendary Joker",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_24",
+      "name": "Legendary",
+      "rarity": 57.4
+     },
+     {
+      "detail": "Discover every Planet card",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_25",
+      "name": "Astronomy",
+      "rarity": 21.2
+     },
+     {
+      "detail": "Discover every Tarot card",
+      "earned": "2024-12-27T18:42:17Z",
+      "id": "BAL_26",
+      "name": "Cartomancy",
+      "rarity": 60.9
+     },
+     {
+      "detail": "Win a run in 12 or fewer rounds",
+      "earned": "2024-12-29T14:32:33Z",
+      "id": "BAL_11",
+      "name": "Speedrunner",
+      "rarity": 20.1
+     },
+     {
+      "detail": "Discover every Spectral card",
+      "earned": "2025-01-01T18:55:40Z",
+      "id": "BAL_27",
+      "name": "Clairvoyance",
+      "rarity": 29.6
+     },
+     {
+      "detail": "Have $400 or more during a single run",
+      "earned": "2025-01-03T22:35:14Z",
+      "id": "BAL_09",
+      "name": "Nest Egg",
+      "rarity": 16.6
+     },
+     {
+      "detail": "Win a run on at least Gold Stake difficulty",
+      "earned": "2025-01-12T19:22:12Z",
+      "id": "BAL_06",
+      "name": "High Stakes",
+      "rarity": 12.2
+     },
+     {
+      "detail": "Discover every Voucher",
+      "earned": "2025-01-30T14:18:46Z",
+      "id": "BAL_28",
+      "name": "Extreme Couponer",
+      "rarity": 6.0
+     },
+     {
+      "detail": "Break 2 Glass Cards in a single hand",
+      "earned": "2025-01-31T20:48:58Z",
+      "id": "BAL_13",
+      "name": "Shattered",
+      "rarity": 18.0
+     },
+     {
+      "detail": "Buy 5 Vouchers by the end of Ante 4",
+      "earned": "2025-02-09T20:50:08Z",
+      "id": "BAL_12",
+      "name": "ROI",
+      "rarity": 15.6
+     },
+     {
+      "detail": "Discover 100% of your collection",
+      "earned": "2025-02-26T01:50:57Z",
+      "id": "BAL_29",
+      "name": "Completionist",
+      "rarity": 4.3
+     },
+     {
+      "detail": "Complete any challenge run",
+      "earned": "2025-03-15T22:55:57Z",
+      "id": "BAL_22",
+      "name": "Rule Bender",
+      "rarity": 14.0
+     }
+    ],
+    "total": 31
+   },
+   "icon": "b6018068070ab0e23561694c11f7950dd6f4c752",
+   "last_played": "2026-04-05T02:43:14Z",
+   "minutes": 4190,
+   "name": "Balatro"
+  },
+  "246620": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Evolve your disease to become stronger",
+      "earned": "2015-11-17T02:15:47Z",
+      "id": "A_EvolveYourDisease",
+      "name": "Evolve your disease",
+      "rarity": 90.6
+     },
+     {
+      "detail": "Get your Plague on the RMS Watch List",
+      "earned": "2015-11-17T02:23:24Z",
+      "id": "A_RMSWatchList",
+      "name": "RMS Watch List",
+      "rarity": 89.3
+     },
+     {
+      "detail": "Smash a Blue cure bubble and slow down the Research Team",
+      "earned": "2015-11-17T02:25:00Z",
+      "id": "A_BottleSmasher",
+      "name": "Bottle Smasher",
+      "rarity": 89.7
+     },
+     {
+      "detail": "Discover the Projectile Vomiting combo",
+      "earned": "2015-11-17T02:28:48Z",
+      "id": "A_LongShot",
+      "name": "Long Shot",
+      "rarity": 62.3
+     },
+     {
+      "detail": "Discover the Oops symptom combo",
+      "earned": "2015-11-17T02:29:52Z",
+      "id": "A_UhOh",
+      "name": "Uh Oh",
+      "rarity": 50.5
+     },
+     {
+      "detail": "Discover the Public Defecation combo",
+      "earned": "2015-11-17T02:30:08Z",
+      "id": "A_BrownStreets",
+      "name": "Brown Streets",
+      "rarity": 20.2
+     },
+     {
+      "detail": "Discover the Waking Dead combo",
+      "earned": "2015-11-17T02:30:21Z",
+      "id": "A_Brainzzzz",
+      "name": "Brainzzzz",
+      "rarity": 67.1
+     },
+     {
+      "detail": "Win one game with any disease type and any difficulty",
+      "earned": "2015-11-17T02:30:36Z",
+      "id": "A_TheEndPlague",
+      "name": "The End Plague",
+      "rarity": 77.2
+     },
+     {
+      "detail": "Discover the Profuse Bleeding combo",
+      "earned": "2015-12-24T02:24:52Z",
+      "id": "A_RedRain",
+      "name": "Red Rain",
+      "rarity": 44.6
+     },
+     {
+      "detail": "Win a game with Bacteria on Normal Difficulty or higher",
+      "earned": "2015-12-24T02:26:16Z",
+      "id": "A_CompleteBacteria",
+      "name": "Bacteria Victory",
+      "rarity": 65.7
+     },
+     {
+      "detail": "Create a trojan plane and use it to infect a new country with the Neurax Worm",
+      "earned": "2015-12-26T14:58:13Z",
+      "id": "A_TrojanHorse",
+      "name": "Trojan Horse",
+      "rarity": 37.0
+     },
+     {
+      "detail": "Put humanity on Santa's naughty list",
+      "earned": "2015-12-26T15:29:24Z",
+      "id": "A_onthenaughtylist",
+      "name": "On The Naughty List",
+      "rarity": 2.1
+     }
+    ],
+    "total": 250
+   },
+   "icon": "9e39dcfd5a300732c16111b268853ef11a0ba4d0",
+   "last_played": "2026-03-22T02:48:51Z",
+   "minutes": 172,
+   "name": "Plague Inc: Evolved"
+  },
+  "250760": {
+   "achievements": {
+    "earned": [],
+    "total": 138
+   },
+   "icon": "a4df2557166453374519b64ed5ccef3f0a643f4e",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Shovel Knight: Treasure Trove"
+  },
+  "289070": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Put two units into a formation",
+      "earned": "2016-11-06T01:59:25Z",
+      "id": "NEW_ACHIEVEMENT_4_13",
+      "name": "Escort Service",
+      "rarity": 70.4
+     },
+     {
+      "detail": "Have 6 Improvements at one time.",
+      "earned": "2016-11-06T02:02:19Z",
+      "id": "NEW_ACHIEVEMENT_4_14",
+      "name": "If You Build It, They Will Come",
+      "rarity": 74.3
+     },
+     {
+      "detail": "Change your government",
+      "earned": "2020-03-08T12:20:26Z",
+      "id": "NEW_ACHIEVEMENT_4_20",
+      "name": "A Revolution Without Dancing",
+      "rarity": 73.4
+     }
+    ],
+    "total": 320
+   },
+   "icon": "9dc914132fec244adcede62fb8e7524a72a7398c",
+   "last_played": "2020-03-08T13:10:29Z",
+   "minutes": 289,
+   "name": "Sid Meier's Civilization VI"
+  },
+  "292030": {
+   "achievements": {
+    "earned": [],
+    "total": 78
+   },
+   "icon": "7b52d11edee478d652ef4e7103e00644bed2c74c",
+   "last_played": null,
+   "minutes": 0,
+   "name": "The Witcher 3: Wild Hunt — Remastered"
+  },
+  "32370": {
+   "achievements": null,
+   "icon": "018b6650c8de8c9c36d957cf6f8bc11d0c21d083",
+   "last_played": "2026-03-22T02:44:52Z",
+   "minutes": 86,
+   "name": "STAR WARS™ Knights of the Old Republic™"
+  },
+  "324710": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Choose To Play As Hamlet",
+      "earned": "2016-01-24T02:19:46Z",
+      "id": "ToBeHe",
+      "name": "To Be He",
+      "rarity": 58.1
+     },
+     {
+      "detail": "Describe Hamlet's Situation in Rhyming Verse",
+      "earned": "2016-01-24T02:23:12Z",
+      "id": "YoHamletSmellYaLater",
+      "name": "Yo Hamlet, Smell Ya Later!",
+      "rarity": 23.4
+     },
+     {
+      "detail": "Cheat at Solitaire",
+      "earned": "2016-01-24T02:24:47Z",
+      "id": "InactionMan",
+      "name": "Inaction Man",
+      "rarity": 47.1
+     }
+    ],
+    "total": 33
+   },
+   "icon": "0329ee658d47fefe92e32aa43459da6eb3abea1e",
+   "last_played": "2016-01-24T02:34:43Z",
+   "minutes": 19,
+   "name": "To Be or Not To Be"
+  },
+  "379720": {
+   "achievements": {
+    "earned": [],
+    "total": 54
+   },
+   "icon": "b6e72ff47d1990cb644700751eeeff14e0aba6dc",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM"
+  },
+  "391540": {
+   "achievements": null,
+   "icon": "2ce672b89b63ec1e70d2f12862e72eb4a33e9268",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Undertale"
+  },
+  "413410": {
+   "achievements": {
+    "earned": [],
+    "total": 38
+   },
+   "icon": "221f5116c2c1d46fa71a7b014b5e882334a2d0da",
+   "last_played": "2020-03-04T01:51:46Z",
+   "minutes": 3,
+   "name": "Danganronpa: Trigger Happy Havoc"
+  },
+  "413420": {
+   "achievements": {
+    "earned": [],
+    "total": 47
+   },
+   "icon": "912bb82c4ee0f7734ed28c97fde01a1371978896",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Danganronpa 2: Goodbye Despair"
+  },
+  "416690": {
+   "achievements": null,
+   "icon": "b00f068e1153997f129374084d7127451449f395",
+   "last_played": "2016-01-24T02:04:49Z",
+   "minutes": 25,
+   "name": "Oh...Sir! Prototype"
+  },
+  "417860": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Complete Chapter 1",
+      "earned": "2015-12-27T14:51:17Z",
+      "id": "CHAPTER1_COMPLETED",
+      "name": "2002",
+      "rarity": 68.4
+     },
+     {
+      "detail": "Complete Chapter 2",
+      "earned": "2015-12-27T14:55:37Z",
+      "id": "CHAPTER2_COMPLETED",
+      "name": "2003",
+      "rarity": 63.7
+     },
+     {
+      "detail": "Complete Chapter 3",
+      "earned": "2015-12-27T15:05:54Z",
+      "id": "CHAPTER3_COMPLETED",
+      "name": "2004",
+      "rarity": 60.9
+     },
+     {
+      "detail": "Complete Chapter 4",
+      "earned": "2015-12-27T15:05:54Z",
+      "id": "CHAPTER4_COMPLETED",
+      "name": "2005",
+      "rarity": 58.8
+     },
+     {
+      "detail": "Complete Chapter 5",
+      "earned": "2015-12-27T15:09:57Z",
+      "id": "CHAPTER5_COMPLETED",
+      "name": "2006",
+      "rarity": 56.9
+     }
+    ],
+    "total": 20
+   },
+   "icon": "51909ffd578abe91b984f60c9cfe90ec74845608",
+   "last_played": "2015-12-27T19:44:17Z",
+   "minutes": 86,
+   "name": "Emily is Away"
+  },
+  "419460": {
+   "achievements": null,
+   "icon": "4db26ebdcd6457ef42fa11f9aa39455ec1939a7a",
+   "last_played": "2016-01-13T04:29:48Z",
+   "minutes": 35,
+   "name": "That Dragon, Cancer"
+  },
+  "43110": {
+   "achievements": {
+    "earned": [],
+    "total": 48
+   },
+   "icon": "a70fe6dc214f24107d20596f3040dbfa220ed42d",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Metro 2033"
+  },
+  "442070": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Use both colors in a drawing. It’s easy!",
+      "earned": "2020-04-03T20:45:57Z",
+      "id": "DRAWFUL2_USE_BOTH_COLORS",
+      "name": "Happy Birthday Two Hues",
+      "rarity": 47.5
+     },
+     {
+      "detail": "Enter a drawing with more than 50 lines",
+      "earned": "2020-04-03T21:52:47Z",
+      "id": "DRAWFUL2_LOTS_OF_LINES",
+      "name": "Multiple Strokes",
+      "rarity": 34.3
+     },
+     {
+      "detail": "Choose a decoy answer",
+      "earned": "2020-04-03T21:58:51Z",
+      "id": "DRAWFUL2_CHOOSE_DECOY",
+      "name": "Wait, Why Are We Rewarding This?",
+      "rarity": 29.6
+     },
+     {
+      "detail": "Got a streak of 3",
+      "earned": "2020-04-24T20:45:01Z",
+      "id": "DRAWFUL2_BIG_STREAK",
+      "name": "Threestyle",
+      "rarity": 37.1
+     },
+     {
+      "detail": "Fool every other player with a title you write.",
+      "earned": "2020-05-08T20:46:05Z",
+      "id": "DRAWFUL2_FOOL_EVERY_OTHER_PLAYER",
+      "name": "Fool House",
+      "rarity": 36.5
+     }
+    ],
+    "total": 10
+   },
+   "icon": "a2aab99a9ec657f817aff247593b3310cae44288",
+   "last_played": "2021-05-21T21:23:29Z",
+   "minutes": 728,
+   "name": "Drawful 2"
+  },
+  "4560": {
+   "achievements": null,
+   "icon": "64946619217da497c9b29bc817bb40dd7d28c912",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Company of Heroes - Legacy Edition"
+  },
+  "462770": {
+   "achievements": {
+    "earned": [],
+    "total": 51
+   },
+   "icon": "75ed6f3b5fe1413ff42c21d2493a0e99c704ef2e",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Pyre"
+  },
+  "462780": {
+   "achievements": {
+    "earned": [],
+    "total": 43
+   },
+   "icon": "4616a0d94eb5864f2933fd0157bb60a27b14d5fe",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Darksiders Warmastered Edition"
+  },
+  "504230": {
+   "achievements": {
+    "earned": [],
+    "total": 32
+   },
+   "icon": "04cb7aa0b497a3962e6b1655b7fd81a2cc95d18b",
+   "last_played": "2026-03-20T00:54:27Z",
+   "minutes": 10,
+   "name": "Celeste"
+  },
+  "50620": {
+   "achievements": {
+    "earned": [],
+    "total": 43
+   },
+   "icon": "e429cee10d864faf2aae2ea9cd75e8e1942fbe08",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Darksiders"
+  },
+  "55110": {
+   "achievements": {
+    "earned": [],
+    "total": 58
+   },
+   "icon": "e59c7e741c05c9071176b270bdbb733afe55c751",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Red Faction: Armageddon"
+  },
+  "55230": {
+   "achievements": {
+    "earned": [],
+    "total": 83
+   },
+   "icon": "ec83645f13643999e7c91da75d418053d6b56529",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Saints Row: The Third"
+  },
+  "567640": {
+   "achievements": {
+    "earned": [],
+    "total": 41
+   },
+   "icon": "27e0b08d9506a81bc9f8d3a3616fb455106bfa68",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Danganronpa V3: Killing Harmony"
+  },
+  "637670": {
+   "achievements": {
+    "earned": [],
+    "total": 37
+   },
+   "icon": "4c46e1e68c28baed34216ccada78d1a8bc38560f",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Secret of Mana"
+  },
+  "654880": {
+   "achievements": {
+    "earned": [],
+    "total": 19
+   },
+   "icon": "7687276ef9fd90f2b427564620a358f66771a84d",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Dream Daddy: A Dad Dating Simulator"
+  },
+  "698780": {
+   "achievements": null,
+   "icon": "2bf8ed528d8f251428435a6f6ffc8e4e8e4b294c",
+   "last_played": "2018-04-08T19:29:54Z",
+   "minutes": 262,
+   "name": "Doki Doki Literature Club"
+  },
+  "782330": {
+   "achievements": {
+    "earned": [],
+    "total": 50
+   },
+   "icon": "14235f425d27ab3b83661ba14c17d22dc90e566b",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM Eternal"
+  },
+  "8930": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Discover an ancient ruin.",
+      "earned": "2012-09-26T23:36:11Z",
+      "id": "ACHIEVEMENT_ANCIENT_RUIN",
+      "name": "Treasure Hunter",
+      "rarity": 88.5
+     },
+     {
+      "detail": "Found a second city.",
+      "earned": "2012-09-26T23:40:50Z",
+      "id": "ACHIEVEMENT_SECOND_CITY",
+      "name": "Second City",
+      "rarity": 81.9
+     },
+     {
+      "detail": "Earn a Unit Promotion.",
+      "earned": "2012-09-26T23:53:53Z",
+      "id": "ACHIEVEMENT_UNIT_PROMOTE",
+      "name": "Moving on Up",
+      "rarity": 84.3
+     },
+     {
+      "detail": "Destroy an enemy unit in just one hit.",
+      "earned": "2012-09-26T23:59:18Z",
+      "id": "ACHIEVEMENT_ONEHITKILL",
+      "name": "It's Super Effective",
+      "rarity": 76.3
+     },
+     {
+      "detail": "Begin a Golden Age.",
+      "earned": "2012-09-29T02:41:10Z",
+      "id": "ACHIEVEMENT_GOLDEN_AGE",
+      "name": "Peace and Prosperity",
+      "rarity": 78.4
+     },
+     {
+      "detail": "Reach Ally Status with a City-State.",
+      "earned": "2012-09-29T03:31:16Z",
+      "id": "ACHIEVEMENT_CITYSTATE_ALLY",
+      "name": "Say Hello to My Little Friend",
+      "rarity": 71.0
+     },
+     {
+      "detail": "Build a Wonder.",
+      "earned": "2012-09-29T03:33:27Z",
+      "id": "ACHIEVEMENT_BUILD_WONDER",
+      "name": "Engineer",
+      "rarity": 76.7
+     },
+     {
+      "detail": "Embark a Unit.",
+      "earned": "2012-09-29T03:40:13Z",
+      "id": "ACHIEVEMENT_UNIT_EMBARK",
+      "name": "I'm on a Boat!",
+      "rarity": 75.8
+     },
+     {
+      "detail": "Fully Explore the Liberty Policy Track.",
+      "earned": "2012-09-29T03:50:38Z",
+      "id": "ACHIEVEMENT_POLICY_LIBERTY",
+      "name": "With Liberty and Justice for All",
+      "rarity": 54.4
+     },
+     {
+      "detail": "Be the first to explore and uncover 1000 tiles, across any number of playthroughs.",
+      "earned": "2012-09-29T03:54:52Z",
+      "id": "ACHIEVEMENT_1000TILES",
+      "name": "Marco Polo",
+      "rarity": 73.6
+     },
+     {
+      "detail": "Have another Civ beat you to completing a Wonder 10 times.",
+      "earned": "2012-09-29T16:19:31Z",
+      "id": "ACHIEVEMENT_SUCK_AT_WONDERS",
+      "name": "Seriously?!?",
+      "rarity": 71.7
+     },
+     {
+      "detail": "Upgrade a Unit.",
+      "earned": "2012-09-29T16:48:18Z",
+      "id": "ACHIEVEMENT_UNIT_UPGRADE",
+      "name": "Harder, Better, Faster, Stronger",
+      "rarity": 72.2
+     },
+     {
+      "detail": "Develop a city to produce more than 100 science per turn.",
+      "earned": "2012-10-06T02:16:23Z",
+      "id": "ACHIEVEMENT_CITY_100SCIENCE",
+      "name": "City of Science",
+      "rarity": 57.2
+     },
+     {
+      "detail": "Prove that the world is round by uncovering a connected loop of tiles around the circumference of the world.",
+      "earned": "2012-10-06T02:33:01Z",
+      "id": "ACHIEVEMENT_ROUND_WORLD",
+      "name": "Magellan",
+      "rarity": 44.4
+     },
+     {
+      "detail": "Develop a city to produce more than 100 gold per turn.",
+      "earned": "2012-10-06T04:00:57Z",
+      "id": "ACHIEVEMENT_CITY_100GOLD",
+      "name": "City of Gold",
+      "rarity": 53.3
+     },
+     {
+      "detail": "As Darius, start 5 Golden Ages in a single game.",
+      "earned": "2012-10-06T15:31:20Z",
+      "id": "ACHIEVEMENT_SPECIAL_ARCHAEMENNID",
+      "name": "From Archaemennid to Safavid",
+      "rarity": 7.0
+     },
+     {
+      "detail": "Annex a previously puppetted City-State.",
+      "earned": "2012-10-06T15:53:05Z",
+      "id": "ACHIEVEMENT_CITYSTATE_ANNEX",
+      "name": "Neighborhood Bully",
+      "rarity": 55.1
+     },
+     {
+      "detail": "Fully Explore the Rationalism Policy Track.",
+      "earned": "2012-10-06T17:05:37Z",
+      "id": "ACHIEVEMENT_POLICY_RATIONALISM",
+      "name": "Eighty-Eight Miles per Hour",
+      "rarity": 36.5
+     },
+     {
+      "detail": "Fully Explore the Commerce Policy Track.",
+      "earned": "2012-10-07T16:27:03Z",
+      "id": "ACHIEVEMENT_POLICY_COMMERCE",
+      "name": "Money Doesn't Grow on Trees",
+      "rarity": 37.6
+     },
+     {
+      "detail": "Drop a Nuke on another Civ.",
+      "earned": "2012-10-07T16:40:22Z",
+      "id": "ACHIEVEMENT_DROP_NUKE",
+      "name": "I Can Has Nukes?",
+      "rarity": 40.6
+     },
+     {
+      "detail": "Beat the game on the Settler difficulty level.",
+      "earned": "2012-10-07T17:52:58Z",
+      "id": "ACHIEVEMENT_DIFLEVEL_SETTLER",
+      "name": "Baby Steps",
+      "rarity": 16.1
+     },
+     {
+      "detail": "Beat the game on a Huge Map.",
+      "earned": "2012-10-07T17:52:58Z",
+      "id": "ACHIEVEMENT_MAPSIZE_HUGE",
+      "name": "Ruler of the Twelve Colonies ",
+      "rarity": 16.2
+     },
+     {
+      "detail": "Beat the game on an Earth-type Map.",
+      "earned": "2012-10-07T17:52:58Z",
+      "id": "ACHIEVEMENT_MAPTYPE_EARTH",
+      "name": "Battlefield Earth",
+      "rarity": 15.5
+     },
+     {
+      "detail": "Win a Space Victory.",
+      "earned": "2012-10-07T17:52:58Z",
+      "id": "ACHIEVEMENT_VICTORY_SPACE",
+      "name": "Go Boldly Where No Man Has Gone Before",
+      "rarity": 24.0
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Darius.",
+      "earned": "2012-10-07T17:52:58Z",
+      "id": "ACHIEVEMENT_WIN_DARIUS",
+      "name": "Age of Empire",
+      "rarity": 6.5
+     },
+     {
+      "detail": "Discover El Dorado",
+      "earned": "2012-10-11T00:35:50Z",
+      "id": "ACHIEVEMENT_SCENARIO_02_DISCOVER_EL_DORADO",
+      "name": "Raleigh's Road to Riches",
+      "rarity": 39.4
+     },
+     {
+      "detail": "Found a Pantheon.",
+      "earned": "2012-10-11T01:10:37Z",
+      "id": "ACHIEVEMENT_XP1_10",
+      "name": "Gad Zeus!",
+      "rarity": 56.8
+     },
+     {
+      "detail": "Found a Religion.",
+      "earned": "2012-10-12T22:49:37Z",
+      "id": "ACHIEVEMENT_XP1_11",
+      "name": "Propheteering",
+      "rarity": 50.5
+     },
+     {
+      "detail": "Fully Explore the Honor Policy Track.",
+      "earned": "2012-10-13T00:10:35Z",
+      "id": "ACHIEVEMENT_POLICY_HONOR",
+      "name": "Death Before Shame",
+      "rarity": 45.1
+     },
+     {
+      "detail": "Spread your Religion to an opponent with a Missionary.",
+      "earned": "2012-10-13T01:55:38Z",
+      "id": "ACHIEVEMENT_XP1_17",
+      "name": "Missionary Man",
+      "rarity": 43.8
+     },
+     {
+      "detail": "Completely defeat another Civ and remove them from the game.",
+      "earned": "2012-10-13T23:48:33Z",
+      "id": "ACHIEVEMENT_DESTROY_CIV",
+      "name": "Two Men Enter, One Man Leave",
+      "rarity": 58.3
+     },
+     {
+      "detail": "Develop a city to produce more than 100 culture per turn.",
+      "earned": "2012-10-14T02:26:22Z",
+      "id": "ACHIEVEMENT_CITY_100CULTURE",
+      "name": "City of Lights",
+      "rarity": 40.5
+     },
+     {
+      "detail": "Fully Explore the Order Policy Track.",
+      "earned": "2012-10-14T02:27:29Z",
+      "id": "ACHIEVEMENT_POLICY_ORDER",
+      "name": "With an Iron Fist",
+      "rarity": 11.9
+     },
+     {
+      "detail": "Beat the game on a Pangaea-type Map.",
+      "earned": "2012-10-14T03:00:52Z",
+      "id": "ACHIEVEMENT_MAPTYPE_PANGAEA",
+      "name": "Going It Old School",
+      "rarity": 15.2
+     },
+     {
+      "detail": "Win a Cultural Victory.",
+      "earned": "2012-10-14T03:00:52Z",
+      "id": "ACHIEVEMENT_VICTORY_CULTURE",
+      "name": "The Best State of a Republic",
+      "rarity": 20.4
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Elizabeth.",
+      "earned": "2012-10-14T03:00:52Z",
+      "id": "ACHIEVEMENT_WIN_ELIZABETH",
+      "name": "Video et Taceo",
+      "rarity": 9.1
+     },
+     {
+      "detail": "Use a Spy to gain influence with a City-State.",
+      "earned": "2012-10-14T22:45:50Z",
+      "id": "ACHIEVEMENT_XP1_14",
+      "name": "Smooth Talking",
+      "rarity": 37.6
+     },
+     {
+      "detail": "Fully Explore the Tradition Policy Track.",
+      "earned": "2012-10-14T23:15:11Z",
+      "id": "ACHIEVEMENT_POLICY_TRADITION",
+      "name": "Master of the House",
+      "rarity": 48.9
+     },
+     {
+      "detail": "Fully Explore the Autocracy Policy Track.",
+      "earned": "2012-10-15T01:14:10Z",
+      "id": "ACHIEVEMENT_POLICY_AUTOCRACY",
+      "name": "Diplomacy by Other Means",
+      "rarity": 11.0
+     },
+     {
+      "detail": "Beat the game on the Chieftain difficulty level.",
+      "earned": "2012-10-15T22:29:58Z",
+      "id": "ACHIEVEMENT_DIFLEVEL_CHIEFTAIN",
+      "name": "Taking off the Training Wheels",
+      "rarity": 27.1
+     },
+     {
+      "detail": "Beat the game on a Small Map.",
+      "earned": "2012-10-15T22:29:58Z",
+      "id": "ACHIEVEMENT_MAPSIZE_SMALL",
+      "name": "Living in Smallville",
+      "rarity": 27.0
+     },
+     {
+      "detail": "Beat the game on a Continents-type Map.",
+      "earned": "2012-10-15T22:29:58Z",
+      "id": "ACHIEVEMENT_MAPTYPE_CONTINENTS",
+      "name": "Plate Tectonics",
+      "rarity": 29.9
+     },
+     {
+      "detail": "Win a Domination Victory.",
+      "earned": "2012-10-15T22:29:58Z",
+      "id": "ACHIEVEMENT_VICTORY_DOMINATION",
+      "name": "Exterminate! Exterminate!",
+      "rarity": 28.2
+     },
+     {
+      "detail": "Beat the game on any difficulty as Attila.",
+      "earned": "2012-10-15T22:29:58Z",
+      "id": "ACHIEVEMENT_XP1_06",
+      "name": "Scourge of Everyone",
+      "rarity": 4.3
+     },
+     {
+      "detail": "Construct the Great Firewall Wonder.",
+      "earned": "2012-10-15T22:42:02Z",
+      "id": "ACHIEVEMENT_XP1_16",
+      "name": "Access Denied",
+      "rarity": 25.9
+     },
+     {
+      "detail": "Fully Explore the Piety Policy Track.",
+      "earned": "2012-10-16T03:06:55Z",
+      "id": "ACHIEVEMENT_POLICY_PIETY",
+      "name": "Lux Perpetua Luceat Eis",
+      "rarity": 31.4
+     },
+     {
+      "detail": "Find and kill an enemy Spy.",
+      "earned": "2012-10-18T14:50:23Z",
+      "id": "ACHIEVEMENT_XP1_15",
+      "name": "Whack a Mole",
+      "rarity": 35.1
+     },
+     {
+      "detail": "Lose dominant status in your Holy City to an opponent’s Religion.",
+      "earned": "2012-10-18T16:08:49Z",
+      "id": "ACHIEVEMENT_XP1_20",
+      "name": "Indoctrinated!",
+      "rarity": 22.3
+     },
+     {
+      "detail": "Fully Explore the Freedom Policy Track.",
+      "earned": "2012-10-18T16:26:40Z",
+      "id": "ACHIEVEMENT_POLICY_FREEDOM",
+      "name": "Freedom Isn't Free",
+      "rarity": 15.7
+     },
+     {
+      "detail": "Share intrigue with a player who previously shared intrigue with you.",
+      "earned": "2012-10-18T16:33:40Z",
+      "id": "ACHIEVEMENT_XP1_37",
+      "name": "Intelligence Network",
+      "rarity": 11.0
+     },
+     {
+      "detail": "Unlock all Social Policies, across any number of playthroughs.",
+      "earned": "2012-10-18T17:26:21Z",
+      "id": "ACHIEVEMENT_ALL_SOCIAL_POLICIES",
+      "name": "Enlightened Ruler",
+      "rarity": 4.0
+     },
+     {
+      "detail": "Fully Explore the Patronage Policy Track.",
+      "earned": "2012-10-18T17:26:21Z",
+      "id": "ACHIEVEMENT_POLICY_PATRONAGE",
+      "name": "Team Player",
+      "rarity": 26.3
+     },
+     {
+      "detail": "Beat the game on a Standard Map.",
+      "earned": "2012-10-18T17:52:39Z",
+      "id": "ACHIEVEMENT_MAPSIZE_STANDARD",
+      "name": "It's Standard Issue",
+      "rarity": 22.6
+     },
+     {
+      "detail": "Beat the game on an Archipelago-type Map.",
+      "earned": "2012-10-18T17:52:39Z",
+      "id": "ACHIEVEMENT_MAPTYPE_ARCHIPELAGO",
+      "name": "Island Hopping",
+      "rarity": 9.3
+     },
+     {
+      "detail": "Beat the game on any difficulty setting with only one city.",
+      "earned": "2012-10-18T17:52:39Z",
+      "id": "ACHIEVEMENT_ONECITY",
+      "name": "One to Rule Them All",
+      "rarity": 5.3
+     },
+     {
+      "detail": "As Gandhi, win a cultural victory with 3 or fewer cities in your empire.",
+      "earned": "2012-10-18T17:52:39Z",
+      "id": "ACHIEVEMENT_SPECIAL_BOLLYWOOD",
+      "name": "Bollywood",
+      "rarity": 2.9
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Gandhi.",
+      "earned": "2012-10-18T17:52:39Z",
+      "id": "ACHIEVEMENT_WIN_GANDHI",
+      "name": "Give Peace a Chance",
+      "rarity": 6.7
+     },
+     {
+      "detail": "Rush a Wonder as Egypt with a Great Engineer.",
+      "earned": "2012-10-20T16:25:42Z",
+      "id": "ACHIEVEMENT_SPECIAL_SPHINX",
+      "name": "Riddle of the Sphinx",
+      "rarity": 13.0
+     },
+     {
+      "detail": "Beat the game on a Duel Map.",
+      "earned": "2012-10-21T02:47:47Z",
+      "id": "ACHIEVEMENT_MAPSIZE_DUEL",
+      "name": "It's Just You and Me, Kid",
+      "rarity": 12.1
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Ramesses II.",
+      "earned": "2012-10-21T02:47:47Z",
+      "id": "ACHIEVEMENT_WIN_RAMESSES",
+      "name": "Amongst the Catacombs of Nephren-Ka",
+      "rarity": 10.0
+     },
+     {
+      "detail": "Fully explore the Tech Tree.",
+      "earned": "2012-10-30T00:27:38Z",
+      "id": "ACHIEVEMENT_ALL_TECHS",
+      "name": "We Have the Technology",
+      "rarity": 31.0
+     },
+     {
+      "detail": "As Wu Zetian, earn a Great General through battle.",
+      "earned": "2012-10-30T03:34:00Z",
+      "id": "ACHIEVEMENT_SPECIAL_SUNTZU",
+      "name": "Sun Tzu's Art of War",
+      "rarity": 14.7
+     },
+     {
+      "detail": "Beat the game on the Warlord difficulty level.",
+      "earned": "2012-11-03T23:36:00Z",
+      "id": "ACHIEVEMENT_DIFLEVEL_WARLORD",
+      "name": "The Alexman",
+      "rarity": 18.1
+     },
+     {
+      "detail": "Beat the game on a Tiny Map.",
+      "earned": "2012-11-03T23:36:00Z",
+      "id": "ACHIEVEMENT_MAPSIZE_TINY",
+      "name": "I Need More Elbow Room",
+      "rarity": 12.6
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Wu Zetian.",
+      "earned": "2012-11-03T23:36:00Z",
+      "id": "ACHIEVEMENT_WIN_WU",
+      "name": "A Woman's Work",
+      "rarity": 7.4
+     },
+     {
+      "detail": "Build all the Wonders, across any number of playthroughs.",
+      "earned": "2012-11-04T15:35:01Z",
+      "id": "ACHIEVEMENT_ALL_WONDERS",
+      "name": "The Wonder Years",
+      "rarity": 15.2
+     },
+     {
+      "detail": "Beat the game on a Large Map.",
+      "earned": "2012-11-04T22:36:10Z",
+      "id": "ACHIEVEMENT_MAPSIZE_LARGE",
+      "name": "Do You Want to Super Size That?",
+      "rarity": 13.4
+     },
+     {
+      "detail": "Beat the game on all standard map types and sizes.",
+      "earned": "2012-11-04T22:36:10Z",
+      "id": "ACHIEVEMENT_MAPS_ALL",
+      "name": "Gotta Catch 'Em All",
+      "rarity": 3.0
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Askia.",
+      "earned": "2012-11-04T22:36:10Z",
+      "id": "ACHIEVEMENT_WIN_ASKIA",
+      "name": "The African King",
+      "rarity": 5.5
+     },
+     {
+      "detail": "As Askia, conquer a city on another continent.",
+      "earned": "2012-11-05T00:07:27Z",
+      "id": "ACHIEVEMENT_SPECIAL_WARCANOE",
+      "name": "War Canoe Attack",
+      "rarity": 4.4
+     },
+     {
+      "detail": "Beat the game with all victory conditions.",
+      "earned": "2012-11-05T01:07:37Z",
+      "id": "ACHIEVEMENT_VICTORY_ALL",
+      "name": "To Stand the Test of Time",
+      "rarity": 8.5
+     },
+     {
+      "detail": "Win a Diplomatic Victory.",
+      "earned": "2012-11-05T01:07:37Z",
+      "id": "ACHIEVEMENT_VICTORY_DIPLO",
+      "name": "The Pen is Mightier",
+      "rarity": 16.4
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Alexander.",
+      "earned": "2012-11-05T01:07:37Z",
+      "id": "ACHIEVEMENT_WIN_ALEXANDER",
+      "name": "The Man Who Would Be King",
+      "rarity": 9.0
+     },
+     {
+      "detail": "Download a Mod.",
+      "earned": "2012-11-19T14:43:39Z",
+      "id": "ACHIEVEMENT_EXPANSIONIST",
+      "name": "Expansionist",
+      "rarity": 24.6
+     },
+     {
+      "detail": "Become the dominant Religion in an opponent’s Holy City.",
+      "earned": "2012-11-19T16:45:23Z",
+      "id": "ACHIEVEMENT_XP1_18",
+      "name": "Holier Than Thou",
+      "rarity": 29.6
+     },
+     {
+      "detail": "Play a game with a Mod.",
+      "earned": "2012-11-20T01:49:31Z",
+      "id": "ACHIEVEMENT_EXPERIMENTER",
+      "name": "Experimenter",
+      "rarity": 19.8
+     },
+     {
+      "detail": "Beat the game on the Prince difficulty level.",
+      "earned": "2012-11-20T02:58:16Z",
+      "id": "ACHIEVEMENT_DIFLEVEL_PRINCE",
+      "name": "Charming.  Really.",
+      "rarity": 19.7
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Ramkhamhaeng.",
+      "earned": "2012-11-20T02:58:16Z",
+      "id": "ACHIEVEMENT_WIN_RAMKHAMHAENG",
+      "name": "Empire of the East",
+      "rarity": 5.3
+     },
+     {
+      "detail": "Bomb an enemy city with a B-17.",
+      "earned": "2012-12-12T02:36:07Z",
+      "id": "ACHIEVEMENT_SPECIAL_B17",
+      "name": "Flying Fortress",
+      "rarity": 10.5
+     },
+     {
+      "detail": "Beat the game on any difficulty setting as Washington.",
+      "earned": "2012-12-15T03:19:30Z",
+      "id": "ACHIEVEMENT_WIN_WASHINGTON",
+      "name": "First in the Hearts of Your Countrymen",
+      "rarity": 11.9
+     },
+     {
+      "detail": "Fully explore the Aesthetics Policy track.",
+      "earned": "2014-03-16T17:00:14Z",
+      "id": "ACHIEVEMENT_XP2_48",
+      "name": "Artistic License",
+      "rarity": 20.8
+     },
+     {
+      "detail": "Build a longhouse in a city with at least 4 unchopped forests in its radius.",
+      "earned": "2014-04-19T03:43:26Z",
+      "id": "ACHIEVEMENT_SPECIAL_LONGHOUSE",
+      "name": "People of the Longhouse",
+      "rarity": 10.2
+     },
+     {
+      "detail": "Raze 100 Barbarian camps, across any number of playthroughs.",
+      "earned": "2015-05-22T20:50:40Z",
+      "id": "ACHIEVEMENT_100CAMPS",
+      "name": "Here Ends the Noble Savage",
+      "rarity": 23.1
+     },
+     {
+      "detail": "Fully explore the Exploration Policy track.",
+      "earned": "2015-10-24T14:20:10Z",
+      "id": "ACHIEVEMENT_XP2_47",
+      "name": "Legends of the Hidden Temple",
+      "rarity": 16.0
+     },
+     {
+      "detail": "Trade 100 resources, across any number of playthroughs.",
+      "earned": "2015-10-27T01:35:49Z",
+      "id": "ACHIEVEMENT_100RESOURCES",
+      "name": "Merchant King",
+      "rarity": 26.3
+     },
+     {
+      "detail": "Reach a Happiness level of over 100 for your civ.",
+      "earned": "2015-10-27T01:45:32Z",
+      "id": "ACHIEVEMENT_XP2_45",
+      "name": "Soma Tablets for Everyone",
+      "rarity": 21.4
+     },
+     {
+      "detail": "Beat the game on any difficulty as Shaka.",
+      "earned": "2015-10-28T03:26:26Z",
+      "id": "ACHIEVEMENT_XP2_09",
+      "name": "Wanna Be the King of the Zulus",
+      "rarity": 3.0
+     },
+     {
+      "detail": "Force an AI player with the Order Ideology to switch to Freedom.",
+      "earned": "2015-10-28T04:17:50Z",
+      "id": "ACHIEVEMENT_XP2_39",
+      "name": "Tear Down this Wall!",
+      "rarity": 6.0
+     },
+     {
+      "detail": "Plunder a Caravan Trade Route.",
+      "earned": "2015-11-02T02:41:49Z",
+      "id": "ACHIEVEMENT_XP2_28",
+      "name": "Highway Robbery",
+      "rarity": 30.4
+     },
+     {
+      "detail": "Propose to repeal an active Resolution which you had originally proposed to enact.",
+      "earned": "2015-11-02T03:10:48Z",
+      "id": "ACHIEVEMENT_XP2_42",
+      "name": "Flip-Flop",
+      "rarity": 10.1
+     }
+    ],
+    "total": 286
+   },
+   "icon": "fbe80c4743e226f0bf65559c91b12953d4446808",
+   "last_played": "2020-03-05T02:53:24Z",
+   "minutes": 8110,
+   "name": "Sid Meier's Civilization V"
+  },
+  "9050": {
+   "achievements": null,
+   "icon": "a80e3028754c85e62fcc130d3b76ddf8892699e0",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM 3"
+  },
+  "9070": {
+   "achievements": null,
+   "icon": "4b080a4a896d9e53f3179ff4c84fece833e18451",
+   "last_played": null,
+   "minutes": 0,
+   "name": "DOOM 3: Resurrection of Evil"
+  },
+  "921570": {
+   "achievements": {
+    "earned": [
+     {
+      "detail": "Scrutinized someone for the first time.",
+      "earned": "2023-03-18T15:11:57Z",
+      "id": "ACHIEVEMENT_081",
+      "name": "In the Know",
+      "rarity": 62.4
+     },
+     {
+      "detail": "Used a Lv.4 Boost for the first time in battle.",
+      "earned": "2023-03-18T15:16:57Z",
+      "id": "ACHIEVEMENT_075",
+      "name": "Ultimate Power",
+      "rarity": 78.5
+     },
+     {
+      "detail": "Fought 10 battles.",
+      "earned": "2023-03-18T15:23:41Z",
+      "id": "ACHIEVEMENT_072",
+      "name": "Novice Scrapper",
+      "rarity": 81.9
+     },
+     {
+      "detail": "Driven from the academy, Cyrus sets out to unravel the mystery of From the Far Reaches of Hell, a tome missing for fifteen years.",
+      "earned": "2023-03-18T15:26:41Z",
+      "id": "ACHIEVEMENT_005",
+      "name": "Setting Out – The Search for Truth",
+      "rarity": 59.2
+     },
+     {
+      "detail": "Guided someone for the first time.",
+      "earned": "2023-03-26T13:14:29Z",
+      "id": "ACHIEVEMENT_080",
+      "name": "Lead the Way",
+      "rarity": 61.7
+     },
+     {
+      "detail": "The ember from the Cave of Origin in hand, Ophilia embarks on the first leg of the Kindling as the Flamebearer.",
+      "earned": "2023-03-26T13:23:29Z",
+      "id": "ACHIEVEMENT_001",
+      "name": "Setting Out – The Kindling",
+      "rarity": 58.1
+     },
+     {
+      "detail": "Obtained scholar as a secondary job.",
+      "earned": "2023-03-26T13:26:20Z",
+      "id": "ACHIEVEMENT_034",
+      "name": "Alephan's Wisdom",
+      "rarity": 33.5
+     },
+     {
+      "detail": "Provoked a fight for the first time.",
+      "earned": "2023-03-26T13:33:00Z",
+      "id": "ACHIEVEMENT_087",
+      "name": "Start Something",
+      "rarity": 61.8
+     },
+     {
+      "detail": "H'aanit and her trusty snow leopard companion Linde begin their hunt for Master Z'aanta, who has gone missing.",
+      "earned": "2023-03-26T13:49:56Z",
+      "id": "ACHIEVEMENT_025",
+      "name": "Setting Out – For Master",
+      "rarity": 58.8
+     }
+    ],
+    "total": 88
+   },
+   "icon": "f044bcf179c1f3609c730d5ed4e0af0a984ea8b5",
+   "last_played": "2023-04-30T23:08:38Z",
+   "minutes": 75,
+   "name": "OCTOPATH TRAVELER"
+  },
+  "9340": {
+   "achievements": null,
+   "icon": "29725d719946c3e1aa4eea15d262c9fd789c1392",
+   "last_played": null,
+   "minutes": 0,
+   "name": "Company of Heroes: Opposing Fronts"
+  }
+ },
+ "updated": "2026-10-28T15:30:40Z"
+}
