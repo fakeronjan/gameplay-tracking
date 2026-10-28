@@ -181,7 +181,9 @@ def entries_and_unlocks(cfg=None):
     for name, g in load("switch.json")["games"].items():
         entries[f"switch:{g['ids'][0]}"] = {"family": "Nintendo", "platform": ", ".join(g.get("consoles", ["Switch"])), "name": name,
                                      "days": [c["time"][:10] for c in g["captures"]], "minutes": None,
-                                     "earned": None, "total": None, "captures": len(g["captures"]), "art": g.get("art")}
+                                     "earned": None, "total": None, "art": g.get("art"),
+                                     # Videos count as days played, never in the screenshot count
+                                     "captures": sum(1 for c in g["captures"] if not c.get("video"))}
 
     posts, art = defaultdict(list), {}
     for p in load("miiverse.json")["posts"]:
