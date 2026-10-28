@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write           # needed for git push
 
+concurrency:
+  group: update             # droplet dispatch + backstop cron never overlap
+
 jobs:
   update:
     runs-on: ubuntu-latest
