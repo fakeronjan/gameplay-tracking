@@ -16801,11 +16801,14 @@
   ]
  },
  {
-  "id": "lego-star-wars-the-complete-saga",
-  "name": "LEGO Star Wars: The Complete Saga",
-  "first": "2010-08-30",
+  "id": "lego-star-wars-ii-lego-star-wars-the-complete-saga",
+  "name": "LEGO Star Wars II + LEGO Star Wars: The Complete Saga",
+  "first": "2007-03-31",
   "last": "2010-09-03",
   "days": [
+   "2007-03-31",
+   "2007-05-13",
+   "2007-05-14",
    "2010-08-30",
    "2010-09-03"
   ],
@@ -16814,6 +16817,18 @@
   ],
   "hours": null,
   "entries": [
+   {
+    "id": "xbox:thesurfshop19:1279330257",
+    "family": "Xbox",
+    "platform": "360",
+    "name": "LEGO Star Wars II",
+    "minutes": null,
+    "earned": 4,
+    "total": 29,
+    "gamertag": "thesurfshop19",
+    "first": "2007-03-31",
+    "last": "2007-05-14"
+   },
    {
     "id": "xbox:rogerage:1279330263",
     "family": "Xbox",
@@ -17953,35 +17968,6 @@
     "gamertag": "thesurfshop19",
     "first": "2006-10-15",
     "last": "2007-05-18"
-   }
-  ]
- },
- {
-  "id": "lego-star-wars-ii-the-original-trilogy",
-  "name": "LEGO Star Wars II: The Original Trilogy",
-  "first": "2007-03-31",
-  "last": "2007-05-14",
-  "days": [
-   "2007-03-31",
-   "2007-05-13",
-   "2007-05-14"
-  ],
-  "families": [
-   "Xbox"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "xbox:thesurfshop19:1279330257",
-    "family": "Xbox",
-    "platform": "360",
-    "name": "LEGO Star Wars II",
-    "minutes": null,
-    "earned": 4,
-    "total": 29,
-    "gamertag": "thesurfshop19",
-    "first": "2007-03-31",
-    "last": "2007-05-14"
    }
   ]
  },

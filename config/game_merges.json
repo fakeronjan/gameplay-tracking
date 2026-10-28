@@ -108,6 +108,10 @@
    "psn-played:PPSA03420_00",
    "psn:NPWR21647_00",
    "xbox:fakeronjan:1778348973"
+  ],
+  [
+   "xbox:thesurfshop19:1279330257",
+   "xbox:rogerage:1279330263"
   ]
  ],
  "split": [],
@@ -123,7 +127,6 @@
   "psn:NPWR01441_00": "Pac-Man Championship Edition DX+",
   "xbox:fakeronjan:1480656967": "Castlevania: Symphony of the Night",
   "xbox:fakeronjan:1414793202": "Grand Theft Auto IV",
-  "xbox:rogerage:1279330263": "LEGO Star Wars: The Complete Saga",
   "xbox:fakeronjan:1297287149": "Banjo-Kazooie: Nuts & Bolts",
   "xbox:thesurfshop19:1112737745": "The Elder Scrolls IV: Oblivion",
   "xbox:rogerage:1112737766": "The Elder Scrolls V: Skyrim",
@@ -155,7 +158,7 @@
   "psn-played:CUSA14836_00": "Catherine + Catherine: Full Body",
   "psn-played:CUSA01316_00": "Retro City Rampage",
   "psn-played:CUSA00419_00": "Grand Theft Auto V",
-  "xbox:thesurfshop19:1279330257": "LEGO Star Wars II: The Original Trilogy"
+  "xbox:rogerage:1279330263": "LEGO Star Wars II + LEGO Star Wars: The Complete Saga"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
  "exclude": {
