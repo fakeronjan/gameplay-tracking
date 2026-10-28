@@ -1,7 +1,8 @@
 {
  "02CB906EA538A35643C1E1484C4B947D": {
-  "name": "Animal Crossing - New Horizons",
-  "source": "community_list"
+  "name": "Animal Crossing: New Horizons",
+  "source": "community_list",
+  "source_name": "Animal Crossing - New Horizons"
  },
  "030CC84A0859ABD745D45D5F8AAD9975": {
   "name": "Nintendo Switch Sports",
@@ -42,13 +43,15 @@
   "source": "community_list"
  },
  "25B77E52575617C0C2E4A4E0A346538C": {
-  "name": "Shantae Half-Genie Hero",
-  "source": "community_list"
+  "name": "Shantae: Half-Genie Hero",
+  "source": "community_list",
+  "source_name": "Shantae Half-Genie Hero"
  },
  "2AF2C4CCD5F28D087B476BE33BFE1BF8": {
-  "name": "The Witcher 3: Wild Hunt — Complete Edition",
+  "name": "The Witcher 3: Wild Hunt - Complete Edition",
   "source": "decoded_titledb",
-  "title_id": "0100BFE00E9CA000"
+  "title_id": "0100BFE00E9CA000",
+  "source_name": "The Witcher 3: Wild Hunt — Complete Edition"
  },
  "2B08E10BF731D9ACC704BC8E92D161E7": {
   "name": "Burnout Paradise Remastered",
@@ -70,8 +73,9 @@
   "source": "community_list"
  },
  "3C15B8B5FCFF64D185612CFC684FD589": {
-  "name": "Okami",
-  "source": "community_list"
+  "name": "Okami HD",
+  "source": "community_list",
+  "source_name": "Okami"
  },
  "3C66B776DB1AA06323037049FACD96D3": {
   "name": "Pokémon Sword",
@@ -102,8 +106,9 @@
   "exclude": "demo"
  },
  "4C6AC866CC8D349A4295D5465906CD91": {
-  "name": "Paper Mario - The Thousand-Year Door",
-  "source": "community_list"
+  "name": "Paper Mario: The Thousand-Year Door",
+  "source": "community_list",
+  "source_name": "Paper Mario - The Thousand-Year Door"
  },
  "502BADF490303E7A09F1BF58AD4341AB": {
   "name": "Super Mario Bros. 35",
@@ -115,30 +120,34 @@
   "exclude": "console menu"
  },
  "57BAD83C755627D5A5B86ED0AD437965": {
-  "name": "WHAT THE GOLF?",
+  "name": "What the Golf?",
   "source": "decoded_titledb",
-  "title_id": "01002C000E35E000"
+  "title_id": "01002C000E35E000",
+  "source_name": "WHAT THE GOLF?"
  },
  "5855558AA8FCD2E87BC21377436CFBF0": {
   "name": "Child of Light",
   "source": "community_list"
  },
  "5BB5C0DAC8FF51E1C76EDC6E659EA349": {
-  "name": "Sushi Striker - The Way of Sushido - Demo",
+  "name": "Sushi Striker: The Way of Sushido (Demo)",
   "source": "community_list",
-  "exclude": "demo"
+  "exclude": "demo",
+  "source_name": "Sushi Striker - The Way of Sushido - Demo"
  },
  "5F25EBBAB5987964E56ADA5BBDDE9DF2": {
-  "name": "Pokémon Let's Go Eevee",
-  "source": "community_list"
+  "name": "Pokémon: Let's Go, Eevee!",
+  "source": "community_list",
+  "source_name": "Pokémon Let's Go Eevee"
  },
  "691C9B2C6D1F1E032DDC01FD026159FD": {
   "name": "Tetris 99",
   "source": "community_list"
  },
  "703BDEE72B19135DD048E644FC452DE6": {
-  "name": "Yooka Laylee and the Impossible Lair",
-  "source": "community_list"
+  "name": "Yooka-Laylee and the Impossible Lair",
+  "source": "community_list",
+  "source_name": "Yooka Laylee and the Impossible Lair"
  },
  "71F6E1DDAFD065C345B3DC4D0DCAFD71": {
   "name": "F-Zero 99",
@@ -159,12 +168,14 @@
   "title_id": "0100E20012952000"
  },
  "79127164CA4A94F74187421B24A3AA8D": {
-  "name": "Clubhouse Games 51 Worldwide Classics",
-  "source": "community_list"
+  "name": "Clubhouse Games: 51 Worldwide Classics",
+  "source": "community_list",
+  "source_name": "Clubhouse Games 51 Worldwide Classics"
  },
  "7CBCCE282CD36658AB28471FB4791102": {
-  "name": "Pokémon Legends Arceus",
-  "source": "community_list"
+  "name": "Pokémon Legends: Arceus",
+  "source": "community_list",
+  "source_name": "Pokémon Legends Arceus"
  },
  "8AEDFF741E2D23FBED39474178692DAF": {
   "name": "Super Mario Odyssey",
@@ -186,8 +197,9 @@
   "display": "Switch Online NES"
  },
  "9129043EF2AAD7F1157CF852BACB8F7D": {
-  "name": "The Legend of Zelda Link's Awakening",
-  "source": "community_list"
+  "name": "The Legend of Zelda: Link's Awakening",
+  "source": "community_list",
+  "source_name": "The Legend of Zelda Link's Awakening"
  },
  "915FF2ADBDF999D66F96486295DB4C9E": {
   "name": "Darkest Dungeon",
@@ -195,21 +207,24 @@
   "title_id": "01008F1008DA6000"
  },
  "92EDE0C7C89D5ED13D0CA773BE080402": {
-  "name": "Ultra Street Fighter II The Final Challengers",
-  "source": "community_list"
+  "name": "Ultra Street Fighter II: The Final Challengers",
+  "source": "community_list",
+  "source_name": "Ultra Street Fighter II The Final Challengers"
  },
  "93C1C73A3BAF9123A15B9B24886B634B": {
-  "name": "Octopath Traveller",
-  "source": "community_list"
+  "name": "Octopath Traveler",
+  "source": "community_list",
+  "source_name": "Octopath Traveller"
  },
  "9600BAE614E6833B1A261F5FB229CDBA": {
   "name": "Mario + Rabbids Kingdom Battle",
   "source": "community_list"
  },
  "97192DA636D7EF47BA0C75EA649A4F7A": {
-  "name": "Pocket Card Jockey:Ride On!",
+  "name": "Pocket Card Jockey: Ride On!",
   "source": "decoded_titledb",
-  "title_id": "010099501C132000"
+  "title_id": "010099501C132000",
+  "source_name": "Pocket Card Jockey:Ride On!"
  },
  "A10B9E983E22D9175CE28F2275CEC8E6": {
   "name": "Untitled Goose Game",
@@ -225,8 +240,9 @@
   "title_id": "010001300D14A000"
  },
  "AF92B7A16C36C3E5DE1C76E5B20E0421": {
-  "name": "Starlink - Battle for Atlas",
-  "source": "community_list"
+  "name": "Starlink: Battle for Atlas",
+  "source": "community_list",
+  "source_name": "Starlink - Battle for Atlas"
  },
  "B20FAEC679A3A9320864DC374CFB9713": {
   "name": "Kirby Star Allies",
@@ -263,8 +279,9 @@
   "source": "community_list"
  },
  "CC47F0DEC75C1FD3B1F95FA9F9D57667": {
-  "name": "The Legend of Zelda Tears of the Kingdom",
-  "source": "community_list"
+  "name": "The Legend of Zelda: Tears of the Kingdom",
+  "source": "community_list",
+  "source_name": "The Legend of Zelda Tears of the Kingdom"
  },
  "CCFA659F4857F96DDA29AFEDB2E166E6": {
   "name": "Nintendo Switch",
@@ -272,12 +289,14 @@
   "exclude": "console menu"
  },
  "CCFE55975D68069E990E9064D7B828A9": {
-  "name": "Cadence of Hyrule",
-  "source": "community_list"
+  "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+  "source": "community_list",
+  "source_name": "Cadence of Hyrule"
  },
  "CD8DDEDFE332FE055C049150B035121B": {
-  "name": "The Legend of Zelda - Echoes of Wisdom",
-  "source": "community_list"
+  "name": "The Legend of Zelda: Echoes of Wisdom",
+  "source": "community_list",
+  "source_name": "The Legend of Zelda - Echoes of Wisdom"
  },
  "D4DFEB2A86C8E2A460B41C59FCEB784E": {
   "name": "Oxenfree",
@@ -289,13 +308,15 @@
   "title_id": "0100BC0018138000"
  },
  "DECD6107E5477CFA2919C447E5B68FF0": {
-  "name": "Phoenix Wright Ace Attorney Trilogy",
-  "source": "community_list"
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
+  "source": "community_list",
+  "source_name": "Phoenix Wright Ace Attorney Trilogy"
  },
  "E07BDE1FE8CFE9211D83FAAAE431E334": {
-  "name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+  "name": "Saints Row: The Third - The Full Package",
   "source": "decoded_titledb",
-  "title_id": "0100DE600BEEE000"
+  "title_id": "0100DE600BEEE000",
+  "source_name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE"
  },
  "E1A7E95F9E577242170CB3869DA3D3AF": {
   "name": "Sid Meier's Civilization VI",
@@ -311,25 +332,29 @@
   "source": "community_list"
  },
  "E733C7B7CE26121F1DA0EA525A683779": {
-  "name": "Bug Fables - The Everlasting Sapling",
-  "source": "community_list"
+  "name": "Bug Fables: The Everlasting Sapling",
+  "source": "community_list",
+  "source_name": "Bug Fables - The Everlasting Sapling"
  },
  "EAD9CDD267F449963C89657382E411AE": {
-  "name": "Baba is You",
-  "source": "community_list"
+  "name": "Baba Is You",
+  "source": "community_list",
+  "source_name": "Baba is You"
  },
  "EE327B3F1EA16B12FE45F55BCABC4BD6": {
   "name": "Balatro",
   "source": "community_list"
  },
  "F1C11A22FAEE3B82F21B330E1B786A39": {
-  "name": "The Legend of Zelda Breath of the Wild",
-  "source": "community_list"
+  "name": "The Legend of Zelda: Breath of the Wild",
+  "source": "community_list",
+  "source_name": "The Legend of Zelda Breath of the Wild"
  },
  "F3DCFE5993801D2BE14298CE367DB8EA": {
-  "name": "Arcade Archives PUNCH-OUT!!",
+  "name": "Arcade Archives Punch-Out!!",
   "source": "decoded_titledb",
-  "title_id": "01001530097F8000"
+  "title_id": "01001530097F8000",
+  "source_name": "Arcade Archives PUNCH-OUT!!"
  },
  "F71343E393314FD6E37E8D19DA678A69": {
   "name": "Retro Bowl",
@@ -337,11 +362,13 @@
   "title_id": "0100C5B016E30000"
  },
  "F8D087CFC849713C76A06A954E9486D3": {
-  "name": "Shovel Knight Treasure Trove",
-  "source": "community_list"
+  "name": "Shovel Knight: Treasure Trove",
+  "source": "community_list",
+  "source_name": "Shovel Knight Treasure Trove"
  },
  "F95B57762E79CABDA198AE6BBDC6C7D5": {
-  "name": "Bloodstained Ritual of the Night",
-  "source": "community_list"
+  "name": "Bloodstained: Ritual of the Night",
+  "source": "community_list",
+  "source_name": "Bloodstained Ritual of the Night"
  }
 }

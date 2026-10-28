@@ -79,24 +79,25 @@ def build_xbox():
 def build_switch():
     names = json.loads((CONFIG / "switch_game_names.json").read_text())
     file_overrides = json.loads((CONFIG / "switch_overrides.json").read_text())["file_overrides"]
-    games = defaultdict(lambda: {"captures": []})
+    games = defaultdict(lambda: {"captures": [], "ids": set()})
     dropped = 0
     for f in sorted(SWITCH_DIR.rglob("*")):
         m = re.fullmatch(r"(\d{14})\d\d-([0-9A-F]{32})\.(jpg|mp4)", f.name)
         if not m:
             continue
         stamp, game_id, ext = m.groups()
+        game_id = file_overrides.get(f.name, {}).get("game_id", game_id)
         info = names[game_id]
-        name = file_overrides.get(f.name, {}).get("name")
-        if not name:
-            if info.get("exclude"):
-                dropped += 1
-                continue
-            name = info.get("display") or info["name"]
+        if info.get("exclude"):
+            dropped += 1
+            continue
+        name = info.get("display") or info["name"]
         when = datetime.strptime(stamp, "%Y%m%d%H%M%S").isoformat()  # console local time
         games[name]["captures"].append({"time": when, "video": ext == "mp4"})
+        games[name]["ids"].add(game_id)
     for g in games.values():
         g["captures"].sort(key=lambda c: c["time"])
+        g["ids"] = sorted(g["ids"])  # screenshot game IDs: stable even when a name is corrected
     print(f"switch: {len(games)} games, {sum(len(g['captures']) for g in games.values())} captures, {dropped} dropped")
     save("switch.json", {"note": "Capture times are the console's local time", "games": dict(games)})
 

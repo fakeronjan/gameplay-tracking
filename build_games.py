@@ -27,7 +27,7 @@ ET = ZoneInfo("America/New_York")
 # (Legendary Edition, Trilogy, Collection, Rare Replay) are NOT here: they stay
 # separate from the games they bundle.
 EDITION = re.compile(
-    r"\b(remastered|remaster|complete edition|definitive edition|game of the year edition|goty edition|"
+    r"\b(remastered|remaster|complete edition|(?:the )?definitive edition|game of the year edition|goty edition|"
     r"enhanced edition|windows edition|director'?s cut|deluxe edition|standard edition|digital edition|"
     r"for nintendo switch|nintendo switch edition|ps4 (?:&|＆|and) ps5|ps4|ps5|"
     r"playstation ?[345]|xbox one|xbox series x\|s|xbox 360 edition|pc|trophies|trophy set)\b")
@@ -38,13 +38,50 @@ def load(name):
 
 
 def clean(name):
-    """Display form: no trademark symbols, no em-dashes."""
-    name = re.sub(r"[™®©]", "", name)
+    """Display form: no trademark symbols, no em-dashes, straight apostrophes."""
+    name = re.sub(r"[™®©]", "", name).replace("’", "'")
+    name = "".join(ROMAN.get(c, c) for c in name)
     return re.sub("\\s*[\u2014\u2013]\\s*", " - ", name).strip()
 
 
+# Platform and trophy-system labels that platforms bolt onto a game's name
+LABELS = re.compile(
+    r"\s*(\((?:PlayStation\s*\d|PS\s*\d|PS Vita|Vita|Xbox One|Xbox Series X\|S|GER|EU|EUR|US|UK|JP)\)|"
+    r"PS4\s*[&＆]\s*PS5|PS[345]|(?:for )?Xbox Series X\|S|Next Generation|\d+(?:st|nd|rd|th) Anniversary|Trophies|Trophy Set|Trophy pack\.?|Trophy)\s*$",
+    re.I)
+# All-caps words that are real acronyms or official all-caps names, kept as is
+ACRONYMS = {"LEGO", "NCAA", "WWE", "MLB", "NBA", "NFL", "NHL", "UFC", "FIFA", "DOOM", "BIGS", "FPS", "HD", "DX", "UNO",
+            "SNES", "KOTOR", "SOTN", "TMNT", "XCOM", "DCUO", "EA", "FC", "CE", "RPG", "NES", "UFO", "DLC", "PGA"}
+ROMAN = {"Ⅰ": "I", "Ⅱ": "II", "Ⅲ": "III", "Ⅳ": "IV", "Ⅴ": "V", "Ⅵ": "VI", "Ⅶ": "VII", "Ⅷ": "VIII", "Ⅸ": "IX", "Ⅹ": "X"}
+
+
+SMALL = {"a", "an", "and", "as", "at", "by", "for", "in", "of", "on", "or", "the", "to", "vs."}
+
+
+def display(name):
+    """A game's name as the page shows it: clean, labels removed, shouting toned down."""
+    name = clean(name)
+    while LABELS.search(name):
+        name = LABELS.sub("", name).strip()
+    name = re.sub(r"^EA SPORTS (?!FC\b)", "", name, flags=re.I)  # "EA SPORTS Madden NFL 27" = Madden NFL 27
+    words = re.findall(r"[A-Za-z][A-Za-z']*", name)
+    shouting = sum(w.isupper() and len(w) > 1 for w in words) > len(words) / 2
+
+    def calm(m):
+        w = m.group(0)
+        if w in ACRONYMS or re.fullmatch(r"[IVXLCDM]+", w) or (len(w) < 4 and not shouting):
+            return w
+        if shouting and w.lower() in SMALL and m.start() > 0:
+            return w.lower()
+        return w.capitalize()
+    # An all-caps title gets every word calmed; a mixed title only its long all-caps words
+    name = re.sub(r"(?<!-)\b[A-Z][A-Z']+\b(?!-)", calm, name)
+    return re.sub(r"\bvs\.", "vs.", name, flags=re.I)
+
+
 def key(name):
-    n = clean(name).lower().replace("’", "'")
+    """Matching form: lowercase, no punctuation, no edition or platform labels."""
+    n = clean(name).lower()
     n = re.sub(r"\([^)]*\)", " ", n)
     n = EDITION.sub(" ", n)
     n = n.replace("&", " and ")
@@ -56,11 +93,18 @@ def word_key(name):
     return " ".join(sorted(key(name).split()))
 
 
-def display_name(names):
-    """Prefer the variant with the fewest all-caps words (Sony often shouts), then the shortest."""
-    def shouty(n):
-        return sum(1 for w in re.findall(r"[A-Za-z]{4,}", n) if w.isupper())
-    return min(names, key=lambda n: (shouty(n), len(n), n))
+def display_name(entries):
+    """Pick the row's name from its entries' names. Never drop a standalone number another
+    variant has (College Football 25), prefer the base name over an edition label (The Witcher 3,
+    not its Remastered store listing), then store names over trophy-list names, then the shortest."""
+    def numbers(n):
+        return set(re.findall(r"\b\d+\b", key(n)))
+    nums = set().union(*(numbers(display(e["name"])) for e in entries))
+
+    def score(e):
+        n = display(e["name"])
+        return (len(nums - numbers(n)), bool(EDITION.search(n.lower())), e["id"].startswith("psn:"), len(n), n)
+    return display(min(entries, key=score)["name"])
 
 
 def et_day(iso):
@@ -143,7 +187,7 @@ def entries_and_unlocks():
                         "total": ach.get("total")}
 
     for name, g in load("switch.json")["games"].items():
-        entries[f"switch:{name}"] = {"family": "Nintendo", "platform": "Switch", "name": name,
+        entries[f"switch:{g['ids'][0]}"] = {"family": "Nintendo", "platform": "Switch", "name": name,
                                      "days": [c["time"][:10] for c in g["captures"]], "minutes": None,
                                      "earned": None, "total": None, "captures": len(g["captures"])}
 
@@ -162,6 +206,15 @@ def build():
     cfg = json.loads((HERE / "config" / "game_merges.json").read_text())
     entries, unlocks, links = entries_and_unlocks()
     split = {e for group in cfg.get("split", []) for e in group}
+    configured = {e for group in cfg.get("merge", []) + cfg.get("split", []) for e in group} | set(cfg.get("names", {}))
+    unknown = sorted(configured - set(entries) - set(cfg.get("exclude", {})))
+    if unknown:  # a stale id would silently stop a merge from applying
+        raise SystemExit(f"config/game_merges.json names entries that don't exist: {unknown}")
+    missing_excluded = sorted(set(cfg.get("exclude", {})) - set(entries))
+    if missing_excluded:
+        raise SystemExit(f"config/game_merges.json excludes entries that don't exist: {missing_excluded}")
+    for eid in cfg.get("exclude", {}):  # apps, not games
+        entries.pop(eid)
 
     g = Groups()
     for e in entries:
@@ -191,7 +244,7 @@ def build():
         if not days:
             continue  # owned or launched, but never any dated activity
         name = next((cfg["names"][i] for i in ids if i in cfg.get("names", {})), None) \
-            or display_name({clean(e["name"]) for e in es})
+            or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
         games.append({
@@ -199,7 +252,7 @@ def build():
             "families": sorted({e["family"] for e in es}),
             "hours": round(sum(mins) / 60, 1) if mins else None,
             "entries": sorted(({"id": i, **{k: v for k, v in entries[i].items() if k != "days"},
-                                "name": clean(entries[i]["name"]),
+                                "name": display(entries[i]["name"]),
                                 "first": min(entries[i]["days"], default=None),
                                 "last": max(entries[i]["days"], default=None)} for i in ids),
                               key=lambda x: (x["first"] or "9", x["id"])),

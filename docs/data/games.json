@@ -111,7 +111,7 @@
     "last": "2015-06-15"
    },
    {
-    "id": "switch:The Witcher 3: Wild Hunt — Complete Edition",
+    "id": "switch:2AF2C4CCD5F28D087B476BE33BFE1BF8",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "The Witcher 3: Wild Hunt - Complete Edition",
@@ -201,7 +201,7 @@
     "id": "psn-played:CUSA00419_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Grand Theft Auto V (PlayStation5)",
+    "name": "Grand Theft Auto V",
     "minutes": 7512,
     "earned": null,
     "total": null,
@@ -223,7 +223,7 @@
     "id": "xbox:fakeronjan:972249091",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "Grand Theft Auto V (Xbox One)",
+    "name": "Grand Theft Auto V",
     "minutes": 815,
     "earned": 2,
     "total": 0,
@@ -235,7 +235,7 @@
     "id": "psn-played:PPSA03420_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "Grand Theft Auto V (PlayStation5)",
+    "name": "Grand Theft Auto V",
     "minutes": 1411,
     "earned": null,
     "total": null,
@@ -290,7 +290,7 @@
     "id": "psn-played:PPSA06435_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "Like a Dragon: Infinite Wealth PS4 & PS5",
+    "name": "Like a Dragon: Infinite Wealth",
     "minutes": 6570,
     "earned": null,
     "total": null,
@@ -331,7 +331,7 @@
     "id": "psn-played:PPSA32904_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS Madden NFL 27",
+    "name": "Madden NFL 27",
     "minutes": 697,
     "earned": null,
     "total": null,
@@ -352,11 +352,12 @@
   ]
  },
  {
-  "id": "grand-theft-auto-vice-city-the",
-  "name": "Grand Theft Auto: Vice City - The Definitive Edition",
-  "first": "2026-09-04",
+  "id": "grand-theft-auto-vice-city",
+  "name": "Grand Theft Auto: Vice City",
+  "first": "2016-06-02",
   "last": "2026-09-04",
   "days": [
+   "2016-06-02",
    "2026-09-04"
   ],
   "families": [
@@ -364,6 +365,17 @@
   ],
   "hours": 0.3,
   "entries": [
+   {
+    "id": "psn-played:CUSA03509_00",
+    "family": "PlayStation",
+    "platform": "PS4",
+    "name": "Grand Theft Auto: Vice City",
+    "minutes": 0,
+    "earned": null,
+    "total": null,
+    "first": "2016-06-02",
+    "last": "2016-06-02"
+   },
    {
     "id": "psn-played:PPSA03530_00",
     "family": "PlayStation",
@@ -374,6 +386,17 @@
     "total": null,
     "first": "2026-09-04",
     "last": "2026-09-04"
+   },
+   {
+    "id": "psn:NPWR09341_00",
+    "family": "PlayStation",
+    "platform": "PS4",
+    "name": "Grand Theft Auto: Vice City",
+    "minutes": null,
+    "earned": 0,
+    "total": 34,
+    "first": null,
+    "last": null
    },
    {
     "id": "psn:NPWR24057_00",
@@ -389,7 +412,7 @@
   ]
  },
  {
-  "id": "grand-theft-auto-iii-the",
+  "id": "grand-theft-auto-iii",
   "name": "Grand Theft Auto III - The Definitive Edition",
   "first": "2026-09-04",
   "last": "2026-09-04",
@@ -454,7 +477,7 @@
  },
  {
   "id": "uncharted-4-a-thief-s-end",
-  "name": "Uncharted 4: A Thief’s End",
+  "name": "Uncharted 4: A Thief's End",
   "first": "2016-05-14",
   "last": "2026-08-30",
   "days": [
@@ -479,7 +502,7 @@
     "id": "psn-played:CUSA00341_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "UNCHARTED: Legacy of Thieves Collection",
+    "name": "Uncharted: Legacy of Thieves Collection",
     "minutes": 1264,
     "earned": null,
     "total": null,
@@ -490,7 +513,7 @@
     "id": "psn:NPWR07028_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Uncharted 4: A Thief’s End",
+    "name": "Uncharted 4: A Thief's End",
     "minutes": null,
     "earned": 9,
     "total": 68,
@@ -501,7 +524,7 @@
     "id": "psn-played:CUSA07737_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "UNCHARTED: Legacy of Thieves Collection",
+    "name": "Uncharted: Legacy of Thieves Collection",
     "minutes": 97,
     "earned": null,
     "total": null,
@@ -512,7 +535,7 @@
     "id": "psn-played:PPSA05389_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "UNCHARTED: Legacy of Thieves Collection",
+    "name": "Uncharted: Legacy of Thieves Collection",
     "minutes": 306,
     "earned": null,
     "total": null,
@@ -638,7 +661,7 @@
  },
  {
   "id": "ea-sports-fc-26",
-  "name": "EA SPORTS FC 26",
+  "name": "EA Sports FC 26",
   "first": "2026-07-05",
   "last": "2026-08-13",
   "days": [
@@ -655,7 +678,7 @@
     "id": "psn-played:PPSA27360_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS FC 26",
+    "name": "EA Sports FC 26",
     "minutes": 235,
     "earned": null,
     "total": null,
@@ -666,7 +689,7 @@
     "id": "psn:NPWR49547_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS FC 26 Trophies",
+    "name": "EA Sports FC 26",
     "minutes": null,
     "earned": 2,
     "total": 44,
@@ -715,7 +738,7 @@
  },
  {
   "id": "nba-the-run",
-  "name": "NBA THE RUN",
+  "name": "NBA The Run",
   "first": "2026-07-11",
   "last": "2026-07-11",
   "days": [
@@ -730,7 +753,7 @@
     "id": "psn-played:PPSA24545_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "NBA THE RUN",
+    "name": "NBA the Run",
     "minutes": 3,
     "earned": null,
     "total": null,
@@ -741,7 +764,7 @@
     "id": "psn:NPWR45551_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "NBA THE RUN",
+    "name": "NBA the Run",
     "minutes": null,
     "earned": 0,
     "total": 26,
@@ -752,7 +775,7 @@
  },
  {
   "id": "marvel-cosmic-invasion",
-  "name": "Marvel: Cosmic Invasion",
+  "name": "Marvel Cosmic Invasion",
   "first": "2025-12-04",
   "last": "2026-07-02",
   "days": [
@@ -773,7 +796,7 @@
     "id": "psn-played:PPSA29629_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "MARVEL Cosmic Invasion",
+    "name": "Marvel Cosmic Invasion",
     "minutes": 398,
     "earned": null,
     "total": null,
@@ -825,7 +848,7 @@
     "id": "psn:NPWR29323_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "Mortal Kombat 1 Trophies",
+    "name": "Mortal Kombat 1",
     "minutes": null,
     "earned": 7,
     "total": 51,
@@ -835,8 +858,8 @@
   ]
  },
  {
-  "id": "guacamelee-super-turbo-championship-edition",
-  "name": "Guacamelee! Super Turbo Championship Edition",
+  "id": "guacamelee",
+  "name": "Guacamelee!",
   "first": "2013-04-13",
   "last": "2026-06-13",
   "days": [
@@ -905,7 +928,7 @@
     "last": "2026-06-13"
    },
    {
-    "id": "switch:Guacamelee! Super Turbo Championship Edition",
+    "id": "switch:2EDAD642AF6CA11E5629A6E387F51A08",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Guacamelee! Super Turbo Championship Edition",
@@ -1045,7 +1068,7 @@
  },
  {
   "id": "what-the-dub",
-  "name": "What The Dub?!",
+  "name": "What the Dub?!",
   "first": "2021-05-14",
   "last": "2026-05-24",
   "days": [
@@ -1148,7 +1171,7 @@
     "id": "psn:NPWR52034_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "MORTAL KOMBAT: LEGACY KOLLECTION",
+    "name": "Mortal Kombat: Legacy Kollection",
     "minutes": null,
     "earned": 1,
     "total": 36,
@@ -1247,8 +1270,8 @@
   ]
  },
  {
-  "id": "final-fantasy-x-hd",
-  "name": "FINAL FANTASY X HD Remaster",
+  "id": "final-fantasy-x-x-2-hd",
+  "name": "Final Fantasy X/X-2 HD Remaster",
   "first": "2026-05-03",
   "last": "2026-05-03",
   "days": [
@@ -1263,7 +1286,7 @@
     "id": "psn-played:CUSA01227_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY X/X-2 HD Remaster",
+    "name": "Final Fantasy X/X-2 HD Remaster",
     "minutes": 28,
     "earned": null,
     "total": null,
@@ -1274,7 +1297,7 @@
     "id": "psn:NPWR04915_00",
     "family": "PlayStation",
     "platform": "PS3,Vita,PS4",
-    "name": "FINAL FANTASY X HD Remaster",
+    "name": "Final Fantasy X HD Remaster",
     "minutes": null,
     "earned": 0,
     "total": 34,
@@ -1285,7 +1308,7 @@
  },
  {
   "id": "final-fantasy-vii-remake",
-  "name": "FINAL FANTASY VII REMAKE",
+  "name": "Final Fantasy VII Remake",
   "first": "2020-04-10",
   "last": "2026-05-03",
   "days": [
@@ -1309,7 +1332,7 @@
     "id": "psn-played:CUSA07211_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VII REMAKE",
+    "name": "Final Fantasy VII Remake",
     "minutes": 262,
     "earned": null,
     "total": null,
@@ -1320,7 +1343,7 @@
     "id": "psn:NPWR18853_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VII REMAKE",
+    "name": "Final Fantasy VII Remake",
     "minutes": null,
     "earned": 5,
     "total": 54,
@@ -1331,7 +1354,7 @@
     "id": "psn-played:CUSA18540_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VII REMAKE",
+    "name": "Final Fantasy VII Remake",
     "minutes": 1,
     "earned": null,
     "total": null,
@@ -1342,7 +1365,7 @@
     "id": "psn-played:PPSA01903_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "FINAL FANTASY VII REMAKE",
+    "name": "Final Fantasy VII Remake",
     "minutes": 813,
     "earned": null,
     "total": null,
@@ -1353,7 +1376,7 @@
     "id": "psn:NPWR22029_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "FINAL FANTASY VII REMAKE",
+    "name": "Final Fantasy VII Remake",
     "minutes": null,
     "earned": 19,
     "total": 63,
@@ -1431,7 +1454,7 @@
     "last": "2021-10-02"
    },
    {
-    "id": "switch:Burnout Paradise Remastered",
+    "id": "switch:2B08E10BF731D9ACC704BC8E92D161E7",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Burnout Paradise Remastered",
@@ -1711,7 +1734,7 @@
     "last": "2024-03-30"
    },
    {
-    "id": "switch:Balatro",
+    "id": "switch:EE327B3F1EA16B12FE45F55BCABC4BD6",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Balatro",
@@ -1737,7 +1760,7 @@
  },
  {
   "id": "super-bomberman-collection",
-  "name": "SUPER BOMBERMAN COLLECTION",
+  "name": "Super Bomberman Collection",
   "first": "2026-02-16",
   "last": "2026-03-29",
   "days": [
@@ -1753,7 +1776,7 @@
     "id": "psn-played:PPSA30553_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "SUPER BOMBERMAN COLLECTION",
+    "name": "Super Bomberman Collection",
     "minutes": 426,
     "earned": null,
     "total": null,
@@ -1764,7 +1787,7 @@
     "id": "psn:NPWR52570_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "SUPER BOMBERMAN COLLECTION",
+    "name": "Super Bomberman Collection",
     "minutes": null,
     "earned": 9,
     "total": 20,
@@ -1852,7 +1875,7 @@
  },
  {
   "id": "star-wars-knights-of-the-old-republic",
-  "name": "STAR WARS Knights of the Old Republic",
+  "name": "Star Wars: Knights of the Old Republic",
   "first": "2026-03-21",
   "last": "2026-03-21",
   "days": [
@@ -1867,7 +1890,7 @@
     "id": "steam:32370",
     "family": "Steam",
     "platform": "PC",
-    "name": "STAR WARS Knights of the Old Republic",
+    "name": "Star Wars Knights of the Old Republic",
     "minutes": 86,
     "earned": null,
     "total": null,
@@ -1907,7 +1930,7 @@
  },
  {
   "id": "octopath-traveler-ii",
-  "name": "OCTOPATH TRAVELER II",
+  "name": "Octopath Traveler II",
   "first": "2023-02-11",
   "last": "2026-03-21",
   "days": [
@@ -1938,7 +1961,7 @@
     "id": "psn-played:PPSA10805_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER II PS4＆PS5",
+    "name": "Octopath Traveler II",
     "minutes": 128,
     "earned": null,
     "total": null,
@@ -1949,7 +1972,7 @@
     "id": "psn-played:PPSA09797_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER II PS4＆PS5",
+    "name": "Octopath Traveler II",
     "minutes": 6316,
     "earned": null,
     "total": null,
@@ -1960,7 +1983,7 @@
     "id": "psn:NPWR29560_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER II",
+    "name": "Octopath Traveler II",
     "minutes": null,
     "earned": 27,
     "total": 33,
@@ -1971,7 +1994,7 @@
     "id": "steam:1971650",
     "family": "Steam",
     "platform": "PC",
-    "name": "OCTOPATH TRAVELER II",
+    "name": "Octopath Traveler II",
     "minutes": 7,
     "earned": 0,
     "total": 33,
@@ -2030,7 +2053,7 @@
   "hours": 5.2,
   "entries": [
    {
-    "id": "switch:Hades",
+    "id": "switch:C7D8C4153CC9802713604F54C53304E0",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Hades",
@@ -2118,7 +2141,7 @@
     "id": "psn:NPWR23172_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "STREET FIGHTER 6",
+    "name": "Street Fighter 6",
     "minutes": null,
     "earned": 7,
     "total": 44,
@@ -2145,7 +2168,7 @@
   "hours": 0.3,
   "entries": [
    {
-    "id": "switch:Trombone Champ",
+    "id": "switch:BDBA961F9C5E6E39D558A949E04CECEE",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Trombone Champ",
@@ -2190,7 +2213,7 @@
   "hours": 0.5,
   "entries": [
    {
-    "id": "switch:Celeste",
+    "id": "switch:75A32021BE3512D7AA96B2D72F764411",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Celeste",
@@ -2348,7 +2371,7 @@
     "id": "psn:NPWR07518_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "STREET FIGHTER V",
+    "name": "Street Fighter V",
     "minutes": null,
     "earned": 17,
     "total": 45,
@@ -2359,7 +2382,7 @@
  },
  {
   "id": "parappa-the-rapper",
-  "name": "PaRappa The Rapper Remastered",
+  "name": "PaRappa the Rapper Remastered",
   "first": "2017-07-21",
   "last": "2026-01-01",
   "days": [
@@ -2475,7 +2498,7 @@
     "id": "psn:NPWR13483_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Ultimate Chicken Horse Trophies",
+    "name": "Ultimate Chicken Horse",
     "minutes": null,
     "earned": 4,
     "total": 32,
@@ -2486,7 +2509,7 @@
  },
  {
   "id": "octopath-traveler-0",
-  "name": "OCTOPATH TRAVELER 0",
+  "name": "Octopath Traveler 0",
   "first": "2025-12-22",
   "last": "2025-12-26",
   "days": [
@@ -2504,7 +2527,7 @@
     "id": "psn-played:PPSA28492_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER 0 PS4 & PS5",
+    "name": "Octopath Traveler 0",
     "minutes": 1216,
     "earned": null,
     "total": null,
@@ -2515,39 +2538,12 @@
     "id": "psn:NPWR49974_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER 0",
+    "name": "Octopath Traveler 0",
     "minutes": null,
     "earned": 13,
     "total": 37,
     "first": "2025-12-22",
     "last": "2025-12-26"
-   }
-  ]
- },
- {
-  "id": "square-enix-digital-content-viewer",
-  "name": "Square Enix Digital Content Viewer",
-  "first": "2024-03-01",
-  "last": "2025-12-24",
-  "days": [
-   "2024-03-01",
-   "2025-12-24"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": 0.1,
-  "entries": [
-   {
-    "id": "psn-played:PPSA13289_00",
-    "family": "PlayStation",
-    "platform": "PS5",
-    "name": "Square Enix Digital Content Viewer",
-    "minutes": 3,
-    "earned": null,
-    "total": null,
-    "first": "2024-03-01",
-    "last": "2025-12-24"
    }
   ]
  },
@@ -2591,7 +2587,7 @@
  },
  {
   "id": "heavy-rain",
-  "name": "HEAVY RAIN",
+  "name": "Heavy Rain",
   "first": "2010-04-04",
   "last": "2025-12-14",
   "days": [
@@ -2611,7 +2607,7 @@
     "id": "psn:NPWR00324_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "HEAVY RAIN",
+    "name": "Heavy Rain",
     "minutes": null,
     "earned": 31,
     "total": 57,
@@ -2622,7 +2618,7 @@
     "id": "psn-played:CUSA02533_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "HEAVY RAIN",
+    "name": "Heavy Rain",
     "minutes": 60,
     "earned": null,
     "total": null,
@@ -2633,7 +2629,7 @@
     "id": "psn:NPWR09525_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "HEAVY RAIN",
+    "name": "Heavy Rain",
     "minutes": null,
     "earned": 2,
     "total": 57,
@@ -2643,8 +2639,8 @@
   ]
  },
  {
-  "id": "littlebigplanet3",
-  "name": "LittleBigPlanet3",
+  "id": "littlebigplanet-3",
+  "name": "LittleBigPlanet 3",
   "first": "2014-11-18",
   "last": "2025-12-07",
   "days": [
@@ -2721,7 +2717,7 @@
  },
  {
   "id": "bloodstained-ritual-of-the-night",
-  "name": "Bloodstained Ritual of the Night",
+  "name": "Bloodstained: Ritual of the Night",
   "first": "2019-07-21",
   "last": "2025-10-26",
   "days": [
@@ -2745,10 +2741,10 @@
   "hours": 26.1,
   "entries": [
    {
-    "id": "switch:Bloodstained Ritual of the Night",
+    "id": "switch:F95B57762E79CABDA198AE6BBDC6C7D5",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Bloodstained Ritual of the Night",
+    "name": "Bloodstained: Ritual of the Night",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -2825,7 +2821,7 @@
     "id": "psn:NPWR09801_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Uncharted 3: Drake’s Deception Remastered",
+    "name": "Uncharted 3: Drake's Deception Remastered",
     "minutes": null,
     "earned": 2,
     "total": 59,
@@ -2836,7 +2832,7 @@
  },
  {
   "id": "astro-bot",
-  "name": "ASTRO BOT",
+  "name": "Astro Bot",
   "first": "2024-10-01",
   "last": "2025-09-28",
   "days": [
@@ -2863,7 +2859,7 @@
     "id": "psn-played:PPSA21564_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "ASTRO BOT",
+    "name": "Astro Bot",
     "minutes": 2607,
     "earned": null,
     "total": null,
@@ -2874,7 +2870,7 @@
     "id": "psn:NPWR24170_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "ASTRO BOT",
+    "name": "Astro Bot",
     "minutes": null,
     "earned": 56,
     "total": 63,
@@ -2918,7 +2914,7 @@
     "id": "psn:NPWR09798_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Uncharted: Drake’s Fortune Remastered",
+    "name": "Uncharted: Drake's Fortune Remastered",
     "minutes": null,
     "earned": 8,
     "total": 54,
@@ -2945,7 +2941,7 @@
     "id": "psn-played:PPSA26127_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS Madden NFL 26",
+    "name": "Madden NFL 26",
     "minutes": 127,
     "earned": null,
     "total": null,
@@ -2986,7 +2982,7 @@
     "id": "psn-played:PPSA25859_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS College Football 26",
+    "name": "College Football 26",
     "minutes": 3283,
     "earned": null,
     "total": null,
@@ -3007,8 +3003,8 @@
   ]
  },
  {
-  "id": "college-football",
-  "name": "College Football",
+  "id": "college-football-25",
+  "name": "College Football 25",
   "first": "2024-07-15",
   "last": "2025-07-06",
   "days": [
@@ -3028,7 +3024,7 @@
     "id": "psn-played:PPSA04184_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS College Football 25",
+    "name": "College Football 25",
     "minutes": 7419,
     "earned": null,
     "total": null,
@@ -3050,7 +3046,7 @@
  },
  {
   "id": "the-legend-of-zelda-echoes-of-wisdom",
-  "name": "The Legend of Zelda - Echoes of Wisdom",
+  "name": "The Legend of Zelda: Echoes of Wisdom",
   "first": "2025-06-21",
   "last": "2025-06-21",
   "days": [
@@ -3062,10 +3058,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:The Legend of Zelda - Echoes of Wisdom",
+    "id": "switch:CD8DDEDFE332FE055C049150B035121B",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "The Legend of Zelda - Echoes of Wisdom",
+    "name": "The Legend of Zelda: Echoes of Wisdom",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -3077,7 +3073,7 @@
  },
  {
   "id": "pocket-card-jockey-ride-on",
-  "name": "Pocket Card Jockey:Ride On!",
+  "name": "Pocket Card Jockey: Ride On!",
   "first": "2025-06-21",
   "last": "2025-06-21",
   "days": [
@@ -3089,10 +3085,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Pocket Card Jockey:Ride On!",
+    "id": "switch:97192DA636D7EF47BA0C75EA649A4F7A",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Pocket Card Jockey:Ride On!",
+    "name": "Pocket Card Jockey: Ride On!",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -3104,7 +3100,7 @@
  },
  {
   "id": "animal-crossing-new-horizons",
-  "name": "Animal Crossing - New Horizons",
+  "name": "Animal Crossing: New Horizons",
   "first": "2020-03-20",
   "last": "2025-06-08",
   "days": [
@@ -3281,10 +3277,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Animal Crossing - New Horizons",
+    "id": "switch:02CB906EA538A35643C1E1484C4B947D",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Animal Crossing - New Horizons",
+    "name": "Animal Crossing: New Horizons",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -3522,8 +3518,8 @@
   ]
  },
  {
-  "id": "teenage-mutant-ninja-turtles-cowabunga-collection",
-  "name": "Teenage Mutant Ninja Turtles Cowabunga Collection",
+  "id": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
+  "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
   "first": "2022-08-31",
   "last": "2025-04-13",
   "days": [
@@ -3654,8 +3650,8 @@
   ]
  },
  {
-  "id": "persona-5-royal",
-  "name": "Persona 5 Royal",
+  "id": "persona-5-persona-5-royal",
+  "name": "Persona 5 + Persona 5 Royal",
   "first": "2017-07-20",
   "last": "2025-03-09",
   "days": [
@@ -3777,8 +3773,8 @@
   ]
  },
  {
-  "id": "okami",
-  "name": "Okami",
+  "id": "okami-hd",
+  "name": "Okami HD",
   "first": "2012-11-01",
   "last": "2025-02-20",
   "days": [
@@ -3802,7 +3798,7 @@
     "id": "psn:NPWR03649_00",
     "family": "PlayStation",
     "platform": "PS3,PS4",
-    "name": "OKAMI HD",
+    "name": "Okami HD",
     "minutes": null,
     "earned": 10,
     "total": 51,
@@ -3810,10 +3806,10 @@
     "last": "2012-11-10"
    },
    {
-    "id": "switch:Okami",
+    "id": "switch:3C15B8B5FCFF64D185612CFC684FD589",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Okami",
+    "name": "Okami HD",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -3886,7 +3882,7 @@
  },
  {
   "id": "final-fantasy-vii-rebirth",
-  "name": "FINAL FANTASY VII REBIRTH",
+  "name": "Final Fantasy VII Rebirth",
   "first": "2024-03-11",
   "last": "2025-02-19",
   "days": [
@@ -3903,7 +3899,7 @@
     "id": "psn-played:PPSA08666_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "FINAL FANTASY VII REBIRTH",
+    "name": "Final Fantasy VII Rebirth",
     "minutes": 90,
     "earned": null,
     "total": null,
@@ -3914,7 +3910,7 @@
     "id": "psn:NPWR35316_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "FINAL FANTASY VII REBIRTH",
+    "name": "Final Fantasy VII Rebirth",
     "minutes": null,
     "earned": 3,
     "total": 61,
@@ -3963,7 +3959,7 @@
  },
  {
   "id": "shovel-knight-treasure-trove",
-  "name": "Shovel Knight Treasure Trove",
+  "name": "Shovel Knight: Treasure Trove",
   "first": "2015-04-24",
   "last": "2024-12-31",
   "days": [
@@ -4014,10 +4010,10 @@
     "last": "2016-05-11"
    },
    {
-    "id": "switch:Shovel Knight Treasure Trove",
+    "id": "switch:F8D087CFC849713C76A06A954E9486D3",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Shovel Knight Treasure Trove",
+    "name": "Shovel Knight: Treasure Trove",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -4145,8 +4141,8 @@
   ]
  },
  {
-  "id": "call-of-duty",
-  "name": "Call of Duty",
+  "id": "call-of-duty-modern-warfare-ii",
+  "name": "Call of Duty: Modern Warfare II",
   "first": "2024-11-22",
   "last": "2024-11-22",
   "days": [
@@ -4182,34 +4178,8 @@
   ]
  },
  {
-  "id": "share-factory-studio",
-  "name": "Share Factory Studio",
-  "first": "2024-11-07",
-  "last": "2024-11-07",
-  "days": [
-   "2024-11-07"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": 0.1,
-  "entries": [
-   {
-    "id": "psn-played:PPSA01280_00",
-    "family": "PlayStation",
-    "platform": "PS5",
-    "name": "Share Factory Studio",
-    "minutes": 9,
-    "earned": null,
-    "total": null,
-    "first": "2024-11-07",
-    "last": "2024-11-07"
-   }
-  ]
- },
- {
   "id": "astro-s-playroom",
-  "name": "ASTRO's PLAYROOM",
+  "name": "Astro's Playroom",
   "first": "2022-07-08",
   "last": "2024-11-03",
   "days": [
@@ -4227,7 +4197,7 @@
     "id": "psn-played:PPSA01325_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "ASTRO's PLAYROOM",
+    "name": "Astro's Playroom",
     "minutes": 321,
     "earned": null,
     "total": null,
@@ -4238,7 +4208,7 @@
     "id": "psn:NPWR20188_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "ASTRO’s PLAYROOM",
+    "name": "Astro's Playroom",
     "minutes": null,
     "earned": 19,
     "total": 51,
@@ -4249,7 +4219,7 @@
  },
  {
   "id": "phoenix-wright-ace-attorney-trilogy",
-  "name": "Phoenix Wright Ace Attorney Trilogy",
+  "name": "Phoenix Wright: Ace Attorney Trilogy",
   "first": "2017-02-05",
   "last": "2024-10-27",
   "days": [
@@ -4286,10 +4256,10 @@
     "last": "2017-02-19"
    },
    {
-    "id": "switch:Phoenix Wright Ace Attorney Trilogy",
+    "id": "switch:DECD6107E5477CFA2919C447E5B68FF0",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Phoenix Wright Ace Attorney Trilogy",
+    "name": "Phoenix Wright: Ace Attorney Trilogy",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -4335,7 +4305,7 @@
  },
  {
   "id": "project-ethos",
-  "name": "Project ETHOS",
+  "name": "Project Ethos",
   "first": "2024-10-17",
   "last": "2024-10-17",
   "days": [
@@ -4350,7 +4320,7 @@
     "id": "steam:2139090",
     "family": "Steam",
     "platform": "PC",
-    "name": "Project ETHOS",
+    "name": "Project Ethos",
     "minutes": 10,
     "earned": null,
     "total": null,
@@ -4536,7 +4506,7 @@
     "id": "psn-played:PPSA18888_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS Madden NFL 25",
+    "name": "Madden NFL 25",
     "minutes": 75,
     "earned": null,
     "total": null,
@@ -4638,10 +4608,10 @@
   "hours": 35.7,
   "entries": [
    {
-    "id": "switch:Octopath Traveller",
+    "id": "switch:93C1C73A3BAF9123A15B9B24886B634B",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Octopath Traveller",
+    "name": "Octopath Traveler",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -4653,7 +4623,7 @@
     "id": "xbox:fakeronjan:1718697574",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "OCTOPATH TRAVELER",
+    "name": "Octopath Traveler",
     "minutes": 1861,
     "earned": 26,
     "total": 0,
@@ -4665,7 +4635,7 @@
     "id": "steam:921570",
     "family": "Steam",
     "platform": "PC",
-    "name": "OCTOPATH TRAVELER",
+    "name": "Octopath Traveler",
     "minutes": 75,
     "earned": 9,
     "total": 88,
@@ -4676,7 +4646,7 @@
     "id": "psn-played:PPSA18286_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER PS4＆PS5",
+    "name": "Octopath Traveler",
     "minutes": 206,
     "earned": null,
     "total": null,
@@ -4687,7 +4657,7 @@
     "id": "psn:NPWR39867_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "OCTOPATH TRAVELER",
+    "name": "Octopath Traveler",
     "minutes": null,
     "earned": 5,
     "total": 29,
@@ -4728,7 +4698,7 @@
     "id": "psn:NPWR07810_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Mortal Kombat X Trophies",
+    "name": "Mortal Kombat X",
     "minutes": null,
     "earned": 16,
     "total": 74,
@@ -4738,22 +4708,28 @@
   ]
  },
  {
-  "id": "ultra-street-fighter-iv",
-  "name": "Ultra Street Fighter IV",
+  "id": "super-street-fighter-iv-ultra-street-fighter-iv",
+  "name": "Super Street Fighter IV + Ultra Street Fighter IV",
   "first": "2010-05-08",
   "last": "2024-06-21",
   "days": [
    "2010-05-08",
    "2010-05-21",
    "2010-05-23",
+   "2011-05-04",
+   "2011-05-08",
+   "2011-05-14",
    "2016-02-05",
    "2016-02-17",
    "2018-06-16",
+   "2019-08-11",
+   "2019-08-12",
    "2021-09-18",
    "2024-06-21"
   ],
   "families": [
-   "PlayStation"
+   "PlayStation",
+   "Xbox"
   ],
   "hours": 24.2,
   "entries": [
@@ -4761,12 +4737,24 @@
     "id": "psn:NPWR00938_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "SUPER STREET FIGHTER Ⅳ",
+    "name": "Super Street Fighter IV",
     "minutes": null,
     "earned": 7,
     "total": 67,
     "first": "2010-05-08",
     "last": "2010-05-23"
+   },
+   {
+    "id": "xbox:rogerage:1128466428",
+    "family": "Xbox",
+    "platform": "360",
+    "name": "Super Streetfighter IV Arcade Edition",
+    "minutes": null,
+    "earned": 5,
+    "total": 67,
+    "gamertag": "rogerage",
+    "first": "2011-05-04",
+    "last": "2011-05-14"
    },
    {
     "id": "psn-played:CUSA01846_00",
@@ -4783,18 +4771,30 @@
     "id": "psn:NPWR08378_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "SUPER STREET FIGHTER Ⅳ",
+    "name": "Super Street Fighter IV",
     "minutes": null,
     "earned": 5,
     "total": 67,
     "first": "2016-02-05",
     "last": "2021-09-18"
+   },
+   {
+    "id": "xbox:fakeronjan:1128466428",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Super Streetfighter IV Arcade Edition",
+    "minutes": null,
+    "earned": 3,
+    "total": 67,
+    "gamertag": "fakeronjan",
+    "first": "2019-08-11",
+    "last": "2019-08-12"
    }
   ]
  },
  {
   "id": "ea-sports-fc-24",
-  "name": "EA SPORTS FC 24",
+  "name": "EA Sports FC 24",
   "first": "2023-09-22",
   "last": "2024-06-13",
   "days": [
@@ -4811,7 +4811,7 @@
     "id": "psn-played:PPSA13393_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS FC 24",
+    "name": "EA Sports FC 24",
     "minutes": 100,
     "earned": null,
     "total": null,
@@ -4822,7 +4822,7 @@
     "id": "psn:NPWR35517_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS FC 24 Trophies",
+    "name": "EA Sports FC 24",
     "minutes": null,
     "earned": 1,
     "total": 41,
@@ -4833,7 +4833,7 @@
  },
  {
   "id": "animal-well",
-  "name": "ANIMAL WELL",
+  "name": "Animal Well",
   "first": "2024-06-11",
   "last": "2024-06-11",
   "days": [
@@ -4848,7 +4848,7 @@
     "id": "psn-played:PPSA06799_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "ANIMAL WELL",
+    "name": "Animal Well",
     "minutes": 15,
     "earned": null,
     "total": null,
@@ -4859,7 +4859,7 @@
     "id": "psn:NPWR36759_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "ANIMAL WELL",
+    "name": "Animal Well",
     "minutes": null,
     "earned": 2,
     "total": 21,
@@ -4870,7 +4870,7 @@
  },
  {
   "id": "paper-mario-the-thousand-year-door",
-  "name": "Paper Mario - The Thousand-Year Door",
+  "name": "Paper Mario: The Thousand-Year Door",
   "first": "2024-05-23",
   "last": "2024-06-07",
   "days": [
@@ -4892,10 +4892,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Paper Mario - The Thousand-Year Door",
+    "id": "switch:4C6AC866CC8D349A4295D5465906CD91",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Paper Mario - The Thousand-Year Door",
+    "name": "Paper Mario: The Thousand-Year Door",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -4907,7 +4907,7 @@
  },
  {
   "id": "yakuza-like-a-dragon",
-  "name": "Yakuza: Like A Dragon",
+  "name": "Yakuza: Like a Dragon",
   "first": "2024-03-07",
   "last": "2024-05-12",
   "days": [
@@ -5025,7 +5025,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Nintendo Switch Sports",
+    "id": "switch:030CC84A0859ABD745D45D5F8AAD9975",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Nintendo Switch Sports",
@@ -5067,7 +5067,7 @@
     "id": "psn:NPWR12042_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "YAKUZA 0",
+    "name": "Yakuza 0",
     "minutes": null,
     "earned": 1,
     "total": 55,
@@ -5308,7 +5308,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario RPG",
+    "id": "switch:DD36EAD444102ED69B0AF6882696E2E7",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario RPG",
@@ -5355,7 +5355,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Switch Online SNES",
+    "id": "switch:05DC14F80A13996B94160CD375AFD506",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Switch Online SNES",
@@ -5382,7 +5382,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario Bros. Wonder",
+    "id": "switch:E5B04B40CFD924420DF6142200E473B4",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario Bros. Wonder",
@@ -5484,7 +5484,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:F-Zero 99",
+    "id": "switch:71F6E1DDAFD065C345B3DC4D0DCAFD71",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "F-Zero 99",
@@ -5536,7 +5536,7 @@
  },
  {
   "id": "theatrhythm-final-bar-line",
-  "name": "THEATRHYTHM FINAL BAR LINE",
+  "name": "Theatrhythm Final Bar Line",
   "first": "2023-02-04",
   "last": "2023-08-09",
   "days": [
@@ -5555,7 +5555,7 @@
     "id": "psn-played:CUSA34901_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "THEATRHYTHM FINAL BAR LINE",
+    "name": "Theatrhythm Final Bar Line",
     "minutes": 45,
     "earned": null,
     "total": null,
@@ -5566,7 +5566,7 @@
     "id": "psn-played:CUSA32852_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "THEATRHYTHM FINAL BAR LINE",
+    "name": "Theatrhythm Final Bar Line",
     "minutes": 135,
     "earned": null,
     "total": null,
@@ -5577,7 +5577,7 @@
     "id": "psn:NPWR28405_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "THEATRHYTHM FINAL BAR LINE",
+    "name": "Theatrhythm Final Bar Line",
     "minutes": null,
     "earned": 6,
     "total": 42,
@@ -5649,7 +5649,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Mario Kart 8 Deluxe",
+    "id": "switch:16851BE00BC6068871FE49D98876D6C5",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Mario Kart 8 Deluxe",
@@ -5732,7 +5732,7 @@
  },
  {
   "id": "pga-tour-2k23",
-  "name": "PGA TOUR 2K23",
+  "name": "PGA Tour 2K23",
   "first": "2023-06-23",
   "last": "2023-06-23",
   "days": [
@@ -5747,7 +5747,7 @@
     "id": "psn-played:PPSA04390_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "PGA TOUR 2K23",
+    "name": "PGA Tour 2K23",
     "minutes": 24,
     "earned": null,
     "total": null,
@@ -5758,7 +5758,7 @@
     "id": "psn:NPWR26800_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "PGA TOUR 2K23",
+    "name": "PGA Tour 2K23",
     "minutes": null,
     "earned": 0,
     "total": 30,
@@ -5806,7 +5806,7 @@
  },
  {
   "id": "the-legend-of-zelda-tears-of-the-kingdom",
-  "name": "The Legend of Zelda Tears of the Kingdom",
+  "name": "The Legend of Zelda: Tears of the Kingdom",
   "first": "2023-05-12",
   "last": "2023-06-17",
   "days": [
@@ -5832,10 +5832,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:The Legend of Zelda Tears of the Kingdom",
+    "id": "switch:CC47F0DEC75C1FD3B1F95FA9F9D57667",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "The Legend of Zelda Tears of the Kingdom",
+    "name": "The Legend of Zelda: Tears of the Kingdom",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -5885,7 +5885,7 @@
  },
  {
   "id": "final-fantasy-xvi",
-  "name": "FINAL FANTASY XVI",
+  "name": "Final Fantasy XVI",
   "first": "2023-06-12",
   "last": "2023-06-12",
   "days": [
@@ -5900,7 +5900,7 @@
     "id": "psn-played:PPSA13802_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "FINAL FANTASY XVI",
+    "name": "Final Fantasy XVI",
     "minutes": 7,
     "earned": null,
     "total": null,
@@ -5967,7 +5967,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario Maker 2",
+    "id": "switch:BF19FBEA37724338D87F26F17A3B97B2",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario Maker 2",
@@ -5982,7 +5982,7 @@
  },
  {
   "id": "the-legend-of-zelda-breath-of-the-wild",
-  "name": "The Legend of Zelda Breath of the Wild",
+  "name": "The Legend of Zelda: Breath of the Wild",
   "first": "2017-03-04",
   "last": "2023-05-05",
   "days": [
@@ -6010,10 +6010,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:The Legend of Zelda Breath of the Wild",
+    "id": "switch:F1C11A22FAEE3B82F21B330E1B786A39",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "The Legend of Zelda Breath of the Wild",
+    "name": "The Legend of Zelda: Breath of the Wild",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -6025,7 +6025,7 @@
  },
  {
   "id": "final-fantasy-vi",
-  "name": "FINAL FANTASY VI",
+  "name": "Final Fantasy VI",
   "first": "2023-04-23",
   "last": "2023-04-23",
   "days": [
@@ -6041,7 +6041,7 @@
     "id": "psn-played:CUSA33837_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VI",
+    "name": "Final Fantasy VI",
     "minutes": 21,
     "earned": null,
     "total": null,
@@ -6052,7 +6052,7 @@
     "id": "psn:NPWR32109_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VI",
+    "name": "Final Fantasy VI",
     "minutes": null,
     "earned": 1,
     "total": 37,
@@ -6063,7 +6063,7 @@
     "id": "steam:1173820",
     "family": "Steam",
     "platform": "PC",
-    "name": "FINAL FANTASY VI",
+    "name": "Final Fantasy VI",
     "minutes": null,
     "earned": 0,
     "total": 37,
@@ -6108,7 +6108,7 @@
     "id": "psn:NPWR25832_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "KLONOA Phantasy Reverie Series",
+    "name": "Klonoa Phantasy Reverie Series",
     "minutes": null,
     "earned": 8,
     "total": 25,
@@ -6212,7 +6212,7 @@
     "last": "2013-04-13"
    },
    {
-    "id": "switch:Castle Crashers Remastered",
+    "id": "switch:A9FE9E68808541188F574D03CFFB26A2",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Castle Crashers Remastered",
@@ -6238,7 +6238,7 @@
     "id": "psn:NPWR16964_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Castle Crashers Trophies",
+    "name": "Castle Crashers",
     "minutes": null,
     "earned": 0,
     "total": 13,
@@ -6297,8 +6297,8 @@
   ]
  },
  {
-  "id": "atari-50th-anniversary-celebration",
-  "name": "Atari 50th Anniversary Celebration",
+  "id": "atari-50-the-anniversary-celebration",
+  "name": "Atari 50: The Anniversary Celebration",
   "first": "2022-11-17",
   "last": "2022-11-17",
   "days": [
@@ -6335,7 +6335,7 @@
  },
  {
   "id": "fifa-23",
-  "name": "FIFA 23 Trophies",
+  "name": "FIFA 23",
   "first": "2022-10-02",
   "last": "2022-11-11",
   "days": [
@@ -6352,7 +6352,7 @@
     "id": "psn-played:PPSA06279_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "EA SPORTS FIFA 23",
+    "name": "FIFA 23",
     "minutes": 299,
     "earned": null,
     "total": null,
@@ -6363,7 +6363,7 @@
     "id": "psn:NPWR28403_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "FIFA 23 Trophies",
+    "name": "FIFA 23",
     "minutes": null,
     "earned": 2,
     "total": 40,
@@ -6392,7 +6392,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Switch Online Nintendo 64",
+    "id": "switch:C46BE5741BFDE75BA1110C84E61676BA",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Switch Online Nintendo 64",
@@ -6422,7 +6422,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Switch Online NES",
+    "id": "switch:8F655652CF5441D7471D936F3F07324D",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Switch Online NES",
@@ -6460,7 +6460,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Retro Bowl",
+    "id": "switch:F71343E393314FD6E37E8D19DA678A69",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Retro Bowl",
@@ -6490,7 +6490,7 @@
     "id": "psn-played:CUSA08034_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "SHADOW OF THE COLOSSUS",
+    "name": "Shadow of the Colossus",
     "minutes": 31,
     "earned": null,
     "total": null,
@@ -6648,7 +6648,7 @@
     "id": "psn-played:PPSA05481_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "Madden NFL 23 PS5",
+    "name": "Madden NFL 23",
     "minutes": 114,
     "earned": null,
     "total": null,
@@ -6687,7 +6687,7 @@
     "id": "xbox:fakeronjan:1696456823",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "NBA 2K22 for Xbox Series X|S",
+    "name": "NBA 2K22",
     "minutes": 49,
     "earned": 10,
     "total": 0,
@@ -6775,7 +6775,7 @@
     "id": "psn-played:PPSA02562_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "Genshin Impact 6th Anniversary",
+    "name": "Genshin Impact",
     "minutes": 15,
     "earned": null,
     "total": null,
@@ -6836,7 +6836,7 @@
     "id": "psn:NPWR10262_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "No Man's Sky Trophies",
+    "name": "No Man's Sky",
     "minutes": null,
     "earned": 0,
     "total": 28,
@@ -6847,7 +6847,7 @@
     "id": "psn:NPWR20654_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "No Man's Sky Trophies",
+    "name": "No Man's Sky",
     "minutes": null,
     "earned": 0,
     "total": 28,
@@ -7011,7 +7011,7 @@
     "last": "2018-01-25"
    },
    {
-    "id": "switch:Mutant Football League: Dynasty Edition",
+    "id": "switch:397E926E404E20DA88FBBB5C4694B75A",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Mutant Football League: Dynasty Edition",
@@ -7150,7 +7150,7 @@
     "last": "2016-05-11"
    },
    {
-    "id": "switch:Child of Light",
+    "id": "switch:5855558AA8FCD2E87BC21377436CFBF0",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Child of Light",
@@ -7313,7 +7313,7 @@
     "id": "psn:NPWR00950_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "God of War Trophies",
+    "name": "God of War",
     "minutes": null,
     "earned": 28,
     "total": 36,
@@ -7379,7 +7379,7 @@
  },
  {
   "id": "death-stranding",
-  "name": "DEATH STRANDING",
+  "name": "Death Stranding",
   "first": "2022-07-13",
   "last": "2022-07-13",
   "days": [
@@ -7394,7 +7394,7 @@
     "id": "psn-played:PPSA01969_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "DEATH STRANDING",
+    "name": "Death Stranding",
     "minutes": 10,
     "earned": null,
     "total": null,
@@ -7405,7 +7405,7 @@
     "id": "psn:NPWR21859_00",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "DEATH STRANDING DIRECTOR'S CUT",
+    "name": "Death Stranding Director's Cut",
     "minutes": null,
     "earned": 0,
     "total": 63,
@@ -7617,7 +7617,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Card Shark",
+    "id": "switch:77F563570B41119477BD7F46D88F9D6D",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Card Shark",
@@ -7632,7 +7632,7 @@
  },
  {
   "id": "pok-mon-legends-arceus",
-  "name": "Pokémon Legends Arceus",
+  "name": "Pokémon Legends: Arceus",
   "first": "2022-05-22",
   "last": "2022-05-22",
   "days": [
@@ -7644,10 +7644,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Pokémon Legends Arceus",
+    "id": "switch:7CBCCE282CD36658AB28471FB4791102",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Pokémon Legends Arceus",
+    "name": "Pokémon Legends: Arceus",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -7659,7 +7659,7 @@
  },
  {
   "id": "katamari-damacy-reroll",
-  "name": "Katamari Damacy REROLL",
+  "name": "Katamari Damacy Reroll",
   "first": "2022-04-30",
   "last": "2022-04-30",
   "days": [
@@ -7674,7 +7674,7 @@
     "id": "xbox:fakeronjan:1995913309",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "Katamari Damacy REROLL",
+    "name": "Katamari Damacy Reroll",
     "minutes": 25,
     "earned": 2,
     "total": 0,
@@ -7686,7 +7686,7 @@
  },
  {
   "id": "yooka-laylee-and-the-impossible-lair",
-  "name": "Yooka Laylee and the Impossible Lair",
+  "name": "Yooka-Laylee and the Impossible Lair",
   "first": "2019-12-26",
   "last": "2022-04-03",
   "days": [
@@ -7700,10 +7700,10 @@
   "hours": 0.3,
   "entries": [
    {
-    "id": "switch:Yooka Laylee and the Impossible Lair",
+    "id": "switch:703BDEE72B19135DD048E644FC452DE6",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Yooka Laylee and the Impossible Lair",
+    "name": "Yooka-Laylee and the Impossible Lair",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -7727,7 +7727,7 @@
  },
  {
   "id": "tunic",
-  "name": "TUNIC",
+  "name": "Tunic",
   "first": "2022-04-03",
   "last": "2022-04-03",
   "days": [
@@ -7742,7 +7742,7 @@
     "id": "xbox:fakeronjan:1848191014",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "TUNIC",
+    "name": "Tunic",
     "minutes": 24,
     "earned": 2,
     "total": 0,
@@ -7754,7 +7754,7 @@
  },
  {
   "id": "grand-theft-auto-online",
-  "name": "Grand Theft Auto Online (Xbox Series X|S)",
+  "name": "Grand Theft Auto Online",
   "first": "2022-03-18",
   "last": "2022-03-18",
   "days": [
@@ -7769,7 +7769,7 @@
     "id": "xbox:fakeronjan:1778348973",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "Grand Theft Auto Online (Xbox Series X|S)",
+    "name": "Grand Theft Auto Online",
     "minutes": 52,
     "earned": 2,
     "total": 0,
@@ -7912,7 +7912,7 @@
     "id": "xbox:fakeronjan:1733044130",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "Madden NFL 22 Xbox Series X|S",
+    "name": "Madden NFL 22",
     "minutes": 255,
     "earned": 1,
     "total": 0,
@@ -8003,8 +8003,8 @@
   ]
  },
  {
-  "id": "kingdom-hearts",
-  "name": "KINGDOM HEARTS Ⅲ",
+  "id": "kingdom-hearts-iii",
+  "name": "Kingdom Hearts III",
   "first": "2021-12-11",
   "last": "2021-12-11",
   "days": [
@@ -8019,7 +8019,7 @@
     "id": "xbox:fakeronjan:357858858",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "KINGDOM HEARTS Ⅲ",
+    "name": "Kingdom Hearts III",
     "minutes": 24,
     "earned": 1,
     "total": 0,
@@ -8281,7 +8281,7 @@
     "id": "xbox:fakeronjan:2137885631",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "FIFA 21 Xbox Series X|S",
+    "name": "FIFA 21",
     "minutes": 774,
     "earned": 1,
     "total": 0,
@@ -8458,8 +8458,8 @@
   ]
  },
  {
-  "id": "raji-an-ancient-epi",
-  "name": "Raji: An Ancient Epiс",
+  "id": "raji-an-ancient-epic",
+  "name": "Raji: An Ancient Epic",
   "first": "2021-05-14",
   "last": "2021-05-14",
   "days": [
@@ -8486,7 +8486,7 @@
  },
  {
   "id": "life-is-strange",
-  "name": "Life Is Strange",
+  "name": "Life is Strange",
   "first": "2015-01-31",
   "last": "2021-04-17",
   "days": [
@@ -8567,7 +8567,7 @@
  },
  {
   "id": "final-fantasy-xiii",
-  "name": "FINAL FANTASY XIII",
+  "name": "Final Fantasy XIII",
   "first": "2010-04-04",
   "last": "2021-03-22",
   "days": [
@@ -8588,7 +8588,7 @@
     "id": "psn:NPWR00774_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "FINAL FANTASY XIII",
+    "name": "Final Fantasy XIII",
     "minutes": null,
     "earned": 2,
     "total": 36,
@@ -8599,7 +8599,7 @@
     "id": "xbox:fakeronjan:1397819364",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "FINAL FANTASY XIII",
+    "name": "Final Fantasy XIII",
     "minutes": null,
     "earned": 5,
     "total": 35,
@@ -8654,7 +8654,7 @@
     "id": "xbox:fakeronjan:2006666244",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "NBA 2K21 Next Generation",
+    "name": "NBA 2K21",
     "minutes": 453,
     "earned": 8,
     "total": 0,
@@ -8732,7 +8732,7 @@
  },
  {
   "id": "fight-night-champion",
-  "name": "FIGHT NIGHT CHAMPION",
+  "name": "Fight Night Champion",
   "first": "2011-03-26",
   "last": "2021-02-15",
   "days": [
@@ -8750,7 +8750,7 @@
     "id": "xbox:rogerage:1161890069",
     "family": "Xbox",
     "platform": "360",
-    "name": "FIGHT NIGHT CHAMPION",
+    "name": "Fight Night Champion",
     "minutes": null,
     "earned": 8,
     "total": 53,
@@ -8762,7 +8762,7 @@
     "id": "xbox:fakeronjan:1161890069",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "FIGHT NIGHT CHAMPION",
+    "name": "Fight Night Champion",
     "minutes": null,
     "earned": 1,
     "total": 53,
@@ -8801,7 +8801,7 @@
  },
  {
   "id": "final-fantasy-xv",
-  "name": "FINAL FANTASY XV",
+  "name": "Final Fantasy XV",
   "first": "2016-06-19",
   "last": "2021-01-20",
   "days": [
@@ -8818,7 +8818,7 @@
     "id": "psn-played:CUSA04568_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY XV",
+    "name": "Final Fantasy XV",
     "minutes": 4,
     "earned": null,
     "total": null,
@@ -8829,7 +8829,7 @@
     "id": "xbox:fakeronjan:2109344129",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "FINAL FANTASY XV WINDOWS EDITION",
+    "name": "Final Fantasy XV Windows Edition",
     "minutes": 16,
     "earned": 1,
     "total": 0,
@@ -8841,7 +8841,7 @@
  },
  {
   "id": "star-wars-jedi-fallen-order",
-  "name": "STAR WARS Jedi: Fallen Order",
+  "name": "Star Wars Jedi: Fallen Order",
   "first": "2021-01-10",
   "last": "2021-01-16",
   "days": [
@@ -8857,7 +8857,7 @@
     "id": "xbox:fakeronjan:680942588",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "STAR WARS Jedi: Fallen Order",
+    "name": "Star Wars Jedi: Fallen Order",
     "minutes": 482,
     "earned": 4,
     "total": 0,
@@ -8953,7 +8953,7 @@
     "last": "2015-10-12"
    },
    {
-    "id": "switch:Super Meat Boy",
+    "id": "switch:E379FBA8286DF865C869E0C23904F786",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Meat Boy",
@@ -9128,7 +9128,7 @@
     "id": "xbox:fakeronjan:1994181526",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "Madden NFL 21 Xbox Series X|S",
+    "name": "Madden NFL 21",
     "minutes": 234,
     "earned": 1,
     "total": 0,
@@ -9191,8 +9191,8 @@
   ]
  },
  {
-  "id": "tetris-effect",
-  "name": "Tetris Effect",
+  "id": "tetris-effect-connected",
+  "name": "Tetris Effect: Connected",
   "first": "2020-04-04",
   "last": "2020-12-01",
   "days": [
@@ -9275,7 +9275,7 @@
  },
  {
   "id": "fuser",
-  "name": "FUSER",
+  "name": "Fuser",
   "first": "2020-11-27",
   "last": "2020-11-28",
   "days": [
@@ -9291,7 +9291,7 @@
     "id": "xbox:fakeronjan:1627281209",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "FUSER",
+    "name": "Fuser",
     "minutes": 211,
     "earned": 6,
     "total": 0,
@@ -9487,7 +9487,7 @@
     "id": "psn:NPWR11874_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "MARVEL VS. CAPCOM: INFINITE",
+    "name": "Marvel vs. Capcom: Infinite",
     "minutes": null,
     "earned": 1,
     "total": 47,
@@ -9535,7 +9535,7 @@
  },
  {
   "id": "monopoly-plus",
-  "name": "MONOPOLY PLUS",
+  "name": "Monopoly Plus",
   "first": "2020-11-08",
   "last": "2020-11-08",
   "days": [
@@ -9550,7 +9550,7 @@
     "id": "psn-played:CUSA01061_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "MONOPOLY PLUS",
+    "name": "Monopoly Plus",
     "minutes": 5,
     "earned": null,
     "total": null,
@@ -9561,7 +9561,7 @@
     "id": "psn:NPWR08009_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "MONOPOLY PLUS",
+    "name": "Monopoly Plus",
     "minutes": null,
     "earned": 0,
     "total": 15,
@@ -9588,7 +9588,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario Bros. 35",
+    "id": "switch:502BADF490303E7A09F1BF58AD4341AB",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario Bros. 35",
@@ -9631,7 +9631,7 @@
     "id": "psn:NPWR10646_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+    "name": "Ultimate Marvel vs. Capcom 3",
     "minutes": null,
     "earned": 0,
     "total": 47,
@@ -9642,7 +9642,7 @@
     "id": "xbox:fakeronjan:895890707",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "ULTIMATE MARVEL VS. CAPCOM 3",
+    "name": "Ultimate Marvel vs. Capcom 3",
     "minutes": null,
     "earned": 0,
     "total": 47,
@@ -9706,7 +9706,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario 3D All-Stars",
+    "id": "switch:45998392CB216ABF034EB6F98E399A06",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario 3D All-Stars",
@@ -9776,7 +9776,7 @@
     "id": "psn:NPWR05341_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "LEGO MARVEL Super Heroes",
+    "name": "LEGO Marvel Super Heroes",
     "minutes": null,
     "earned": 3,
     "total": 46,
@@ -9888,8 +9888,8 @@
   ]
  },
  {
-  "id": "fall-guys",
-  "name": "Fall Guys",
+  "id": "fall-guys-ultimate-knockout",
+  "name": "Fall Guys: Ultimate Knockout",
   "first": "2020-08-27",
   "last": "2020-08-27",
   "days": [
@@ -10017,7 +10017,7 @@
  },
  {
   "id": "what-the-golf",
-  "name": "WHAT THE GOLF?",
+  "name": "What the Golf?",
   "first": "2020-06-20",
   "last": "2020-06-20",
   "days": [
@@ -10029,10 +10029,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:WHAT THE GOLF?",
+    "id": "switch:57BAD83C755627D5A5B86ED0AD437965",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "WHAT THE GOLF?",
+    "name": "What the Golf?",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10044,7 +10044,7 @@
  },
  {
   "id": "clubhouse-games-51-worldwide-classics",
-  "name": "Clubhouse Games 51 Worldwide Classics",
+  "name": "Clubhouse Games: 51 Worldwide Classics",
   "first": "2020-06-14",
   "last": "2020-06-20",
   "days": [
@@ -10058,10 +10058,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Clubhouse Games 51 Worldwide Classics",
+    "id": "switch:79127164CA4A94F74187421B24A3AA8D",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Clubhouse Games 51 Worldwide Classics",
+    "name": "Clubhouse Games: 51 Worldwide Classics",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10085,7 +10085,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Slay the Spire",
+    "id": "switch:42A65F67C20F2AF4737AE9D4D5A37ECB",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Slay the Spire",
@@ -10116,7 +10116,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Puyo Puyo Tetris",
+    "id": "switch:0585E865DFB68B5298F19360A730EDB3",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Puyo Puyo Tetris",
@@ -10131,7 +10131,7 @@
  },
  {
   "id": "bug-fables-the-everlasting-sapling",
-  "name": "Bug Fables - The Everlasting Sapling",
+  "name": "Bug Fables: The Everlasting Sapling",
   "first": "2020-05-30",
   "last": "2020-05-30",
   "days": [
@@ -10143,10 +10143,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Bug Fables - The Everlasting Sapling",
+    "id": "switch:E733C7B7CE26121F1DA0EA525A683779",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Bug Fables - The Everlasting Sapling",
+    "name": "Bug Fables: The Everlasting Sapling",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10157,8 +10157,8 @@
   ]
  },
  {
-  "id": "danganronpa-reload",
-  "name": "Danganronpa １・２ Reload",
+  "id": "danganronpa-1-2-reload",
+  "name": "Danganronpa 1.2 Reload",
   "first": "2017-09-10",
   "last": "2020-04-21",
   "days": [
@@ -10175,7 +10175,7 @@
     "id": "psn-played:CUSA06808_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Danganronpa 1.2 RELOAD",
+    "name": "Danganronpa 1.2 Reload",
     "minutes": 236,
     "earned": null,
     "total": null,
@@ -10227,7 +10227,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario Odyssey",
+    "id": "switch:8AEDFF741E2D23FBED39474178692DAF",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario Odyssey",
@@ -10242,7 +10242,7 @@
  },
  {
   "id": "castlevania-requiem-symphony-of-the-night-and-rondo-of-blood",
-  "name": "Castlevania Requiem: Symphony Of The Night & Rondo Of Blood",
+  "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
   "first": "2020-03-31",
   "last": "2020-04-05",
   "days": [
@@ -10334,7 +10334,7 @@
     "last": "2020-03-08"
    },
    {
-    "id": "switch:Sid Meier's Civilization VI",
+    "id": "switch:E1A7E95F9E577242170CB3869DA3D3AF",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Sid Meier's Civilization VI",
@@ -10402,7 +10402,7 @@
  },
  {
   "id": "baba-is-you",
-  "name": "Baba is You",
+  "name": "Baba Is You",
   "first": "2019-12-14",
   "last": "2019-12-14",
   "days": [
@@ -10414,10 +10414,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Baba is You",
+    "id": "switch:EAD9CDD267F449963C89657382E411AE",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Baba is You",
+    "name": "Baba Is You",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10443,7 +10443,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Pokémon Sword",
+    "id": "switch:3C66B776DB1AA06323037049FACD96D3",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Pokémon Sword",
@@ -10458,7 +10458,7 @@
  },
  {
   "id": "the-legend-of-zelda-link-s-awakening",
-  "name": "The Legend of Zelda Link's Awakening",
+  "name": "The Legend of Zelda: Link's Awakening",
   "first": "2019-09-21",
   "last": "2019-10-19",
   "days": [
@@ -10476,10 +10476,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:The Legend of Zelda Link's Awakening",
+    "id": "switch:9129043EF2AAD7F1157CF852BACB8F7D",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "The Legend of Zelda Link's Awakening",
+    "name": "The Legend of Zelda: Link's Awakening",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10503,7 +10503,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Untitled Goose Game",
+    "id": "switch:A10B9E983E22D9175CE28F2275CEC8E6",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Untitled Goose Game",
@@ -10549,49 +10549,6 @@
   ]
  },
  {
-  "id": "super-streetfighter-iv-arcade-edition",
-  "name": "SUPER STREETFIGHTER IV ARCADE EDITION",
-  "first": "2011-05-04",
-  "last": "2019-08-12",
-  "days": [
-   "2011-05-04",
-   "2011-05-08",
-   "2011-05-14",
-   "2019-08-11",
-   "2019-08-12"
-  ],
-  "families": [
-   "Xbox"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "xbox:rogerage:1128466428",
-    "family": "Xbox",
-    "platform": "360",
-    "name": "SUPER STREETFIGHTER IV ARCADE EDITION",
-    "minutes": null,
-    "earned": 5,
-    "total": 67,
-    "gamertag": "rogerage",
-    "first": "2011-05-04",
-    "last": "2011-05-14"
-   },
-   {
-    "id": "xbox:fakeronjan:1128466428",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "SUPER STREETFIGHTER IV ARCADE EDITION",
-    "minutes": null,
-    "earned": 3,
-    "total": 67,
-    "gamertag": "fakeronjan",
-    "first": "2019-08-11",
-    "last": "2019-08-12"
-   }
-  ]
- },
- {
   "id": "cadence-of-hyrule",
   "name": "Cadence of Hyrule",
   "first": "2019-06-16",
@@ -10610,10 +10567,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Cadence of Hyrule",
+    "id": "switch:CCFE55975D68069E990E9064D7B828A9",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Cadence of Hyrule",
+    "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10637,7 +10594,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Collection of Mana",
+    "id": "switch:48A5A467593C21DFC93CCCF18D91FCE1",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Collection of Mana",
@@ -10680,7 +10637,7 @@
  },
  {
   "id": "starlink-battle-for-atlas",
-  "name": "Starlink - Battle for Atlas",
+  "name": "Starlink: Battle for Atlas",
   "first": "2019-05-22",
   "last": "2019-05-22",
   "days": [
@@ -10692,10 +10649,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Starlink - Battle for Atlas",
+    "id": "switch:AF92B7A16C36C3E5DE1C76E5B20E0421",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Starlink - Battle for Atlas",
+    "name": "Starlink: Battle for Atlas",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10740,10 +10697,10 @@
     "last": "2012-06-30"
    },
    {
-    "id": "switch:SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+    "id": "switch:E07BDE1FE8CFE9211D83FAAAE431E334",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+    "name": "Saints Row: The Third - The Full Package",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -10845,8 +10802,8 @@
   ]
  },
  {
-  "id": "castlevania-sotn",
-  "name": "Castlevania: SOTN",
+  "id": "castlevania-symphony-of-the-night",
+  "name": "Castlevania: Symphony of the Night",
   "first": "2007-03-21",
   "last": "2019-02-19",
   "days": [
@@ -10972,7 +10929,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Tetris 99",
+    "id": "switch:691C9B2C6D1F1E032DDC01FD026159FD",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Tetris 99",
@@ -11026,7 +10983,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Guacamelee! 2",
+    "id": "switch:8C2319A8FEBE37EA272B508676E3EA1F",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Guacamelee! 2",
@@ -11054,7 +11011,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Undertale",
+    "id": "switch:A29C3926C7AC223A657F1415D1C1D797",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Undertale",
@@ -11080,7 +11037,7 @@
  },
  {
   "id": "pok-mon-let-s-go-eevee",
-  "name": "Pokémon Let's Go Eevee",
+  "name": "Pokémon: Let's Go, Eevee!",
   "first": "2018-11-18",
   "last": "2018-11-25",
   "days": [
@@ -11094,10 +11051,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Pokémon Let's Go Eevee",
+    "id": "switch:5F25EBBAB5987964E56ADA5BBDDE9DF2",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Pokémon Let's Go Eevee",
+    "name": "Pokémon: Let's Go, Eevee!",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -11132,7 +11089,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Super Mario Party",
+    "id": "switch:099ECEEF904DB62AEE3A76A3137C241B",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Super Mario Party",
@@ -11162,7 +11119,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Mario Tennis Aces",
+    "id": "switch:BA8E0FCB931BBA7F76DCA06732EF9A07",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Mario Tennis Aces",
@@ -11195,7 +11152,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:LEGO City Undercover",
+    "id": "switch:25A3BB4DBF243A95E54BF8E131AA488D",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "LEGO City Undercover",
@@ -11223,7 +11180,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Hollow Knight",
+    "id": "switch:22A4BDEA5363AAA24F931D5AF2926082",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Hollow Knight",
@@ -11257,7 +11214,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Splatoon 2",
+    "id": "switch:CBA841B50A92A904E313AE06DF4EF71A",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Splatoon 2",
@@ -11272,7 +11229,7 @@
  },
  {
   "id": "batman-arkham-knight",
-  "name": "BATMAN: ARKHAM KNIGHT",
+  "name": "Batman: Arkham Knight",
   "first": "2018-06-29",
   "last": "2018-07-22",
   "days": [
@@ -11288,7 +11245,7 @@
     "id": "psn-played:CUSA00133_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "BATMAN: ARKHAM KNIGHT",
+    "name": "Batman: Arkham Knight",
     "minutes": 912,
     "earned": null,
     "total": null,
@@ -11340,7 +11297,7 @@
   "hours": 0.6,
   "entries": [
    {
-    "id": "switch:FIFA 18",
+    "id": "switch:062DD3BC3CF59885A6762E5A30A14CD1",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "FIFA 18",
@@ -11377,7 +11334,7 @@
  },
  {
   "id": "shantae-half-genie-hero",
-  "name": "Shantae Half-Genie Hero",
+  "name": "Shantae: Half-Genie Hero",
   "first": "2018-05-28",
   "last": "2018-05-28",
   "days": [
@@ -11389,10 +11346,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Shantae Half-Genie Hero",
+    "id": "switch:25B77E52575617C0C2E4A4E0A346538C",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Shantae Half-Genie Hero",
+    "name": "Shantae: Half-Genie Hero",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -11513,7 +11470,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Kirby Star Allies",
+    "id": "switch:B20FAEC679A3A9320864DC374CFB9713",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Kirby Star Allies",
@@ -11627,7 +11584,7 @@
  },
  {
   "id": "arcade-archives-punch-out",
-  "name": "Arcade Archives PUNCH-OUT!!",
+  "name": "Arcade Archives Punch-Out!!",
   "first": "2018-03-30",
   "last": "2018-03-30",
   "days": [
@@ -11639,10 +11596,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Arcade Archives PUNCH-OUT!!",
+    "id": "switch:F3DCFE5993801D2BE14298CE367DB8EA",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Arcade Archives PUNCH-OUT!!",
+    "name": "Arcade Archives Punch-Out!!",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -11666,7 +11623,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Oh...Sir! The Insult Simulator",
+    "id": "switch:8D0431B7EC842E9F2D1F69F8B6F05255",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Oh...Sir! The Insult Simulator",
@@ -11681,7 +11638,7 @@
  },
  {
   "id": "lego-star-wars-the-force-awakens",
-  "name": "LEGO STAR WARS: The Force Awakens",
+  "name": "LEGO Star Wars: The Force Awakens",
   "first": "2016-06-19",
   "last": "2018-02-28",
   "days": [
@@ -11697,7 +11654,7 @@
     "id": "psn-played:CUSA03391_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "LEGO STAR WARS: The Force Awakens",
+    "name": "LEGO Star Wars: The Force Awakens",
     "minutes": 42,
     "earned": null,
     "total": null,
@@ -11720,7 +11677,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Oxenfree",
+    "id": "switch:D4DFEB2A86C8E2A460B41C59FCEB784E",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Oxenfree",
@@ -11748,7 +11705,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Fire Emblem Warriors",
+    "id": "switch:3BE52CBB2C0B225168723895C1D1525E",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Fire Emblem Warriors",
@@ -11775,7 +11732,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Darkest Dungeon",
+    "id": "switch:915FF2ADBDF999D66F96486295DB4C9E",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Darkest Dungeon",
@@ -11789,8 +11746,8 @@
   ]
  },
  {
-  "id": "nba-2k18-legend-edition-gold",
-  "name": "NBA 2K18 Legend Edition Gold",
+  "id": "nba-2k18",
+  "name": "NBA 2K18",
   "first": "2017-09-24",
   "last": "2018-01-27",
   "days": [
@@ -11817,7 +11774,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:NBA 2K18 Legend Edition Gold",
+    "id": "switch:72CA1DED7AF149F87216AAA92ACC6ECE",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "NBA 2K18 Legend Edition Gold",
@@ -11958,7 +11915,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Stardew Valley",
+    "id": "switch:C2B49A475DF5A340494292A1BD398579",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Stardew Valley",
@@ -11999,7 +11956,7 @@
     "id": "psn:NPWR11338_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Injustice 2 Trophies",
+    "name": "Injustice 2",
     "minutes": null,
     "earned": 1,
     "total": 75,
@@ -12023,7 +11980,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Mario + Rabbids Kingdom Battle",
+    "id": "switch:9600BAE614E6833B1A261F5FB229CDBA",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Mario + Rabbids Kingdom Battle",
@@ -12064,7 +12021,7 @@
  },
  {
   "id": "ultra-street-fighter-ii-the-final-challengers",
-  "name": "Ultra Street Fighter II The Final Challengers",
+  "name": "Ultra Street Fighter II: The Final Challengers",
   "first": "2017-05-26",
   "last": "2017-08-26",
   "days": [
@@ -12081,10 +12038,10 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Ultra Street Fighter II The Final Challengers",
+    "id": "switch:92EDE0C7C89D5ED13D0CA773BE080402",
     "family": "Nintendo",
     "platform": "Switch",
-    "name": "Ultra Street Fighter II The Final Challengers",
+    "name": "Ultra Street Fighter II: The Final Challengers",
     "minutes": null,
     "earned": null,
     "total": null,
@@ -12108,7 +12065,7 @@
   "hours": null,
   "entries": [
    {
-    "id": "switch:Sonic Mania",
+    "id": "switch:1628E0CE3F839127054B0EE36E28E52A",
     "family": "Nintendo",
     "platform": "Switch",
     "name": "Sonic Mania",
@@ -12205,7 +12162,7 @@
  },
  {
   "id": "steins-gate",
-  "name": "STEINS;GATE",
+  "name": "Steins;Gate",
   "first": "2016-10-22",
   "last": "2016-12-13",
   "days": [
@@ -12221,7 +12178,7 @@
     "id": "psn:NPWR08419_00",
     "family": "PlayStation",
     "platform": "Vita",
-    "name": "STEINS;GATE",
+    "name": "Steins;Gate",
     "minutes": null,
     "earned": 8,
     "total": 42,
@@ -12618,69 +12575,6 @@
   ]
  },
  {
-  "id": "sharefactory",
-  "name": "SHAREfactory",
-  "first": "2016-06-10",
-  "last": "2016-06-10",
-  "days": [
-   "2016-06-10"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": 1.3,
-  "entries": [
-   {
-    "id": "psn-played:CUSA00572_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "SHAREfactory",
-    "minutes": 78,
-    "earned": null,
-    "total": null,
-    "first": "2016-06-10",
-    "last": "2016-06-10"
-   }
-  ]
- },
- {
-  "id": "grand-theft-auto-vice-city",
-  "name": "Grand Theft Auto: Vice City",
-  "first": "2016-06-02",
-  "last": "2016-06-02",
-  "days": [
-   "2016-06-02"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "psn-played:CUSA03509_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Grand Theft Auto: Vice City",
-    "minutes": 0,
-    "earned": null,
-    "total": null,
-    "first": "2016-06-02",
-    "last": "2016-06-02"
-   },
-   {
-    "id": "psn:NPWR09341_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Grand Theft Auto: Vice City",
-    "minutes": null,
-    "earned": 0,
-    "total": 34,
-    "first": null,
-    "last": null
-   }
-  ]
- },
- {
   "id": "sly-cooper-thieves-in-time",
   "name": "Sly Cooper: Thieves in Time",
   "first": "2013-02-17",
@@ -12935,7 +12829,7 @@
  },
  {
   "id": "final-fantasy-vii",
-  "name": "FINAL FANTASY VII",
+  "name": "Final Fantasy VII",
   "first": "2015-12-23",
   "last": "2016-04-02",
   "days": [
@@ -12952,7 +12846,7 @@
     "id": "psn-played:CUSA01875_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VII",
+    "name": "Final Fantasy VII",
     "minutes": 2903,
     "earned": null,
     "total": null,
@@ -12963,7 +12857,7 @@
     "id": "psn:NPWR08323_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FINAL FANTASY VII",
+    "name": "Final Fantasy VII",
     "minutes": null,
     "earned": 2,
     "total": 32,
@@ -13067,35 +12961,8 @@
   ]
  },
  {
-  "id": "banjo-kazooie",
-  "name": "Banjo-Kazooie",
-  "first": "2016-02-14",
-  "last": "2016-02-14",
-  "days": [
-   "2016-02-14"
-  ],
-  "families": [
-   "Xbox"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "xbox:fakeronjan:1480657236",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "Banjo-Kazooie",
-    "minutes": null,
-    "earned": 3,
-    "total": 12,
-    "gamertag": "fakeronjan",
-    "first": "2016-02-14",
-    "last": "2016-02-14"
-   }
-  ]
- },
- {
-  "id": "banjo-kazooie-n-n-b",
-  "name": "Banjo Kazooie: N n B",
+  "id": "banjo-kazooie-nuts-and-bolts",
+  "name": "Banjo-Kazooie: Nuts & Bolts",
   "first": "2010-08-15",
   "last": "2016-02-14",
   "days": [
@@ -13127,6 +12994,33 @@
     "minutes": null,
     "earned": 1,
     "total": 60,
+    "gamertag": "fakeronjan",
+    "first": "2016-02-14",
+    "last": "2016-02-14"
+   }
+  ]
+ },
+ {
+  "id": "banjo-kazooie",
+  "name": "Banjo-Kazooie",
+  "first": "2016-02-14",
+  "last": "2016-02-14",
+  "days": [
+   "2016-02-14"
+  ],
+  "families": [
+   "Xbox"
+  ],
+  "hours": null,
+  "entries": [
+   {
+    "id": "xbox:fakeronjan:1480657236",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Banjo-Kazooie",
+    "minutes": null,
+    "earned": 3,
+    "total": 12,
     "gamertag": "fakeronjan",
     "first": "2016-02-14",
     "last": "2016-02-14"
@@ -13436,7 +13330,7 @@
  },
  {
   "id": "lego-dimensions",
-  "name": "LEGO DIMENSIONS",
+  "name": "LEGO Dimensions",
   "first": "2015-11-22",
   "last": "2015-11-22",
   "days": [
@@ -13451,7 +13345,7 @@
     "id": "psn:NPWR07423_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "LEGO DIMENSIONS",
+    "name": "LEGO Dimensions",
     "minutes": null,
     "earned": 2,
     "total": 78,
@@ -13520,7 +13414,7 @@
  },
  {
   "id": "driveclub",
-  "name": "DRIVECLUB",
+  "name": "Driveclub",
   "first": "2015-06-28",
   "last": "2015-06-28",
   "days": [
@@ -13535,7 +13429,7 @@
     "id": "psn:NPWR05254_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "DRIVECLUB",
+    "name": "Driveclub",
     "minutes": null,
     "earned": 3,
     "total": 128,
@@ -13546,7 +13440,7 @@
  },
  {
   "id": "metal-gear-solid-v-ground-zeroes",
-  "name": "METAL GEAR SOLID V: GROUND ZEROES",
+  "name": "Metal Gear Solid V: Ground Zeroes",
   "first": "2015-06-20",
   "last": "2015-06-20",
   "days": [
@@ -13561,7 +13455,7 @@
     "id": "psn-played:CUSA00218_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "METAL GEAR SOLID V: GROUND ZEROES",
+    "name": "Metal Gear Solid V: Ground Zeroes",
     "minutes": 11,
     "earned": null,
     "total": null,
@@ -13572,7 +13466,7 @@
     "id": "psn:NPWR06037_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "METAL GEAR SOLID V: GROUND ZEROES",
+    "name": "Metal Gear Solid V: Ground Zeroes",
     "minutes": null,
     "earned": 0,
     "total": 15,
@@ -13966,8 +13860,8 @@
   ]
  },
  {
-  "id": "the-walking-dead",
-  "name": "The Walking Dead",
+  "id": "the-walking-dead-season-1",
+  "name": "The Walking Dead: Season 1",
   "first": "2012-12-08",
   "last": "2015-01-18",
   "days": [
@@ -14271,8 +14165,8 @@
   ]
  },
  {
-  "id": "pvz-garden-warfare",
-  "name": "PvZ Garden Warfare",
+  "id": "plants-vs-zombies-garden-warfare",
+  "name": "Plants vs. Zombies: Garden Warfare",
   "first": "2014-12-13",
   "last": "2014-12-13",
   "days": [
@@ -14457,7 +14351,7 @@
  },
  {
   "id": "pix-the-cat",
-  "name": "Pix The Cat",
+  "name": "Pix the Cat",
   "first": "2014-10-07",
   "last": "2014-10-12",
   "days": [
@@ -14586,7 +14480,7 @@
     "id": "psn:NPWR00071_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "flOw trophy set",
+    "name": "flOw",
     "minutes": null,
     "earned": 3,
     "total": 14,
@@ -14656,8 +14550,8 @@
   ]
  },
  {
-  "id": "diablo-iii-reaper-of-souls",
-  "name": "Diablo III: Reaper of Souls",
+  "id": "diablo-iii",
+  "name": "Diablo III",
   "first": "2014-08-19",
   "last": "2014-09-15",
   "days": [
@@ -14743,8 +14637,8 @@
   ]
  },
  {
-  "id": "velocity2x",
-  "name": "Velocity2X",
+  "id": "velocity-2x",
+  "name": "Velocity 2X",
   "first": "2014-09-02",
   "last": "2014-09-02",
   "days": [
@@ -14855,8 +14749,8 @@
   ]
  },
  {
-  "id": "catherine-trophy",
-  "name": "CATHERINE Trophy",
+  "id": "catherine",
+  "name": "Catherine",
   "first": "2014-08-09",
   "last": "2014-08-11",
   "days": [
@@ -14873,7 +14767,7 @@
     "id": "psn:NPWR00906_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "CATHERINE Trophy",
+    "name": "Catherine",
     "minutes": null,
     "earned": 3,
     "total": 50,
@@ -15059,7 +14953,7 @@
  },
  {
   "id": "stick-it-to-the-man",
-  "name": "Stick It To the Man",
+  "name": "Stick It to the Man!",
   "first": "2014-05-10",
   "last": "2014-05-10",
   "days": [
@@ -15138,7 +15032,7 @@
  },
  {
   "id": "fez",
-  "name": "FEZ",
+  "name": "Fez",
   "first": "2014-03-26",
   "last": "2014-03-29",
   "days": [
@@ -15154,7 +15048,7 @@
     "id": "psn-played:CUSA00383_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "FEZ",
+    "name": "Fez",
     "minutes": 83,
     "earned": null,
     "total": null,
@@ -15165,7 +15059,7 @@
     "id": "psn:NPWR05526_00",
     "family": "PlayStation",
     "platform": "PS3,Vita,PS4",
-    "name": "FEZ",
+    "name": "Fez",
     "minutes": null,
     "earned": 2,
     "total": 12,
@@ -15322,7 +15216,7 @@
     "id": "psn-played:CUSA00084_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "The LEGO Movie - Videogame (GER)",
+    "name": "The LEGO Movie - Videogame",
     "minutes": 98,
     "earned": null,
     "total": null,
@@ -15482,7 +15376,7 @@
  },
  {
   "id": "assassin-s-creed-iv-black-flag",
-  "name": "Assassin's Creed IV Black Flag",
+  "name": "Assassin's Creed IV: Black Flag",
   "first": "2013-11-22",
   "last": "2013-11-22",
   "days": [
@@ -15582,7 +15476,7 @@
  },
  {
   "id": "resogun",
-  "name": "RESOGUN",
+  "name": "Resogun",
   "first": "2013-11-15",
   "last": "2013-11-15",
   "days": [
@@ -15597,7 +15491,7 @@
     "id": "psn-played:CUSA00038_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "RESOGUN",
+    "name": "Resogun",
     "minutes": 2,
     "earned": null,
     "total": null,
@@ -15608,7 +15502,7 @@
     "id": "psn:NPWR05452_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "RESOGUN",
+    "name": "Resogun",
     "minutes": null,
     "earned": 0,
     "total": 65,
@@ -15883,17 +15777,32 @@
  },
  {
   "id": "pac-man-championship-edition-dx",
-  "name": "PAC-MAN Championship Edition DX+",
-  "first": "2012-10-02",
+  "name": "Pac-Man Championship Edition DX+",
+  "first": "2010-11-20",
   "last": "2012-10-02",
   "days": [
+   "2010-11-20",
+   "2010-12-04",
    "2012-10-02"
   ],
   "families": [
-   "PlayStation"
+   "PlayStation",
+   "Xbox"
   ],
   "hours": null,
   "entries": [
+   {
+    "id": "xbox:rogerage:1480657548",
+    "family": "Xbox",
+    "platform": "360",
+    "name": "PAC-MAN CE DX+",
+    "minutes": null,
+    "earned": 6,
+    "total": 12,
+    "gamertag": "rogerage",
+    "first": "2010-11-20",
+    "last": "2010-12-04"
+   },
    {
     "id": "psn:NPWR01441_00",
     "family": "PlayStation",
@@ -16051,8 +15960,8 @@
   ]
  },
  {
-  "id": "ea-sports-fifa-football",
-  "name": "EA SPORTS FIFA Football",
+  "id": "fifa-football",
+  "name": "FIFA Football",
   "first": "2012-03-11",
   "last": "2012-05-28",
   "days": [
@@ -16075,7 +15984,7 @@
     "id": "psn:NPWR02942_00",
     "family": "PlayStation",
     "platform": "Vita",
-    "name": "EA SPORTS FIFA Football",
+    "name": "FIFA Football",
     "minutes": null,
     "earned": 15,
     "total": 40,
@@ -16111,8 +16020,8 @@
   ]
  },
  {
-  "id": "sly-1",
-  "name": "Sly 1",
+  "id": "sly-cooper-and-the-thievius-raccoonus",
+  "name": "Sly Cooper and the Thievius Raccoonus",
   "first": "2012-04-19",
   "last": "2012-04-30",
   "days": [
@@ -16167,7 +16076,7 @@
  },
  {
   "id": "mlb-12-the-show",
-  "name": "MLB 12 The Show (VITA)",
+  "name": "MLB 12 The Show",
   "first": "2012-03-09",
   "last": "2012-03-09",
   "days": [
@@ -16182,7 +16091,7 @@
     "id": "psn:NPWR02096_00",
     "family": "PlayStation",
     "platform": "Vita",
-    "name": "MLB 12 The Show (VITA)",
+    "name": "MLB 12 The Show",
     "minutes": null,
     "earned": 2,
     "total": 36,
@@ -16218,8 +16127,8 @@
   ]
  },
  {
-  "id": "skyrim",
-  "name": "Skyrim",
+  "id": "the-elder-scrolls-v-skyrim",
+  "name": "The Elder Scrolls V: Skyrim",
   "first": "2011-11-14",
   "last": "2011-12-04",
   "days": [
@@ -16247,8 +16156,8 @@
   ]
  },
  {
-  "id": "gta-iv",
-  "name": "GTA IV",
+  "id": "grand-theft-auto-iv",
+  "name": "Grand Theft Auto IV",
   "first": "2011-11-06",
   "last": "2011-11-11",
   "days": [
@@ -16264,7 +16173,7 @@
     "id": "xbox:rogerage:1414793202",
     "family": "Xbox",
     "platform": "360",
-    "name": "GTA IV",
+    "name": "Gta IV",
     "minutes": null,
     "earned": 2,
     "total": 65,
@@ -16276,7 +16185,7 @@
     "id": "xbox:fakeronjan:1414793202",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "GTA IV",
+    "name": "Gta IV",
     "minutes": null,
     "earned": 0,
     "total": 65,
@@ -16500,7 +16409,7 @@
  },
  {
   "id": "you-don-t-know-jack",
-  "name": "YOU DON’T KNOW JACK",
+  "name": "You Don't Know Jack",
   "first": "2011-02-11",
   "last": "2011-03-20",
   "days": [
@@ -16517,7 +16426,7 @@
     "id": "xbox:rogerage:1414596713",
     "family": "Xbox",
     "platform": "360",
-    "name": "YOU DON’T KNOW JACK",
+    "name": "You Don't Know Jack",
     "minutes": null,
     "earned": 15,
     "total": 60,
@@ -16566,8 +16475,8 @@
   ]
  },
  {
-  "id": "littlebigplanet2",
-  "name": "LittleBigPlanet2",
+  "id": "littlebigplanet-2",
+  "name": "LittleBigPlanet 2",
   "first": "2011-01-19",
   "last": "2011-02-01",
   "days": [
@@ -16597,7 +16506,7 @@
  },
  {
   "id": "limbo",
-  "name": "LIMBO",
+  "name": "Limbo",
   "first": "2011-01-05",
   "last": "2011-01-26",
   "days": [
@@ -16613,7 +16522,7 @@
     "id": "xbox:rogerage:1480657361",
     "family": "Xbox",
     "platform": "360",
-    "name": "LIMBO",
+    "name": "Limbo",
     "minutes": null,
     "earned": 2,
     "total": 12,
@@ -16676,34 +16585,6 @@
     "gamertag": "fakeronjan",
     "first": null,
     "last": null
-   }
-  ]
- },
- {
-  "id": "pac-man-ce-dx",
-  "name": "PAC-MAN CE DX+",
-  "first": "2010-11-20",
-  "last": "2010-12-04",
-  "days": [
-   "2010-11-20",
-   "2010-12-04"
-  ],
-  "families": [
-   "Xbox"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "xbox:rogerage:1480657548",
-    "family": "Xbox",
-    "platform": "360",
-    "name": "PAC-MAN CE DX+",
-    "minutes": null,
-    "earned": 6,
-    "total": 12,
-    "gamertag": "rogerage",
-    "first": "2010-11-20",
-    "last": "2010-12-04"
    }
   ]
  },
@@ -16961,8 +16842,8 @@
   ]
  },
  {
-  "id": "lego-star-wars-tcs",
-  "name": "LEGO Star Wars: TCS",
+  "id": "lego-star-wars-the-complete-saga",
+  "name": "LEGO Star Wars: The Complete Saga",
   "first": "2010-08-30",
   "last": "2010-09-03",
   "days": [
@@ -16990,7 +16871,7 @@
  },
  {
   "id": "3d-dot-game-heroes",
-  "name": "3D DOT GAME HEROES",
+  "name": "3D Dot Game Heroes",
   "first": "2010-06-10",
   "last": "2010-08-16",
   "days": [
@@ -17007,7 +16888,7 @@
     "id": "psn:NPWR01097_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "3D DOT GAME HEROES",
+    "name": "3D Dot Game Heroes",
     "minutes": null,
     "earned": 5,
     "total": 51,
@@ -17131,7 +17012,7 @@
  },
  {
   "id": "fight-night-round-4",
-  "name": "FIGHT NIGHT ROUND 4 Trophies",
+  "name": "Fight Night Round 4",
   "first": "2009-07-08",
   "last": "2010-05-09",
   "days": [
@@ -17149,7 +17030,7 @@
     "id": "psn:NPWR00617_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "FIGHT NIGHT ROUND 4 Trophies",
+    "name": "Fight Night Round 4",
     "minutes": null,
     "earned": 8,
     "total": 21,
@@ -17199,7 +17080,7 @@
  },
  {
   "id": "mega-man-10",
-  "name": "MEGA MAN 10",
+  "name": "Mega Man 10",
   "first": "2010-03-18",
   "last": "2010-03-20",
   "days": [
@@ -17215,7 +17096,7 @@
     "id": "psn:NPWR00880_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "MEGA MAN 10",
+    "name": "Mega Man 10",
     "minutes": null,
     "earned": 3,
     "total": 12,
@@ -17226,7 +17107,7 @@
  },
  {
   "id": "fallout-3",
-  "name": "FALLOUT 3",
+  "name": "Fallout 3",
   "first": "2010-02-21",
   "last": "2010-02-21",
   "days": [
@@ -17241,7 +17122,7 @@
     "id": "psn:NPWR00603_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "FALLOUT 3",
+    "name": "Fallout 3",
     "minutes": null,
     "earned": 4,
     "total": 73,
@@ -17252,7 +17133,7 @@
  },
  {
   "id": "god-of-war-ii",
-  "name": "God of War II Trophies",
+  "name": "God of War II",
   "first": "2010-01-31",
   "last": "2010-02-13",
   "days": [
@@ -17272,7 +17153,7 @@
     "id": "psn:NPWR00951_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "God of War II Trophies",
+    "name": "God of War II",
     "minutes": null,
     "earned": 26,
     "total": 35,
@@ -17487,7 +17368,7 @@
  },
  {
   "id": "infamous",
-  "name": "inFamous",
+  "name": "inFAMOUS",
   "first": "2009-08-17",
   "last": "2009-08-17",
   "days": [
@@ -17668,8 +17549,8 @@
   ]
  },
  {
-  "id": "street-fighter-trophy-pack",
-  "name": "STREET FIGHTER Ⅳ Trophy pack.",
+  "id": "street-fighter-iv",
+  "name": "Street Fighter IV",
   "first": "2009-03-07",
   "last": "2009-03-21",
   "days": [
@@ -17686,7 +17567,7 @@
     "id": "psn:NPWR00434_00",
     "family": "PlayStation",
     "platform": "PS3",
-    "name": "STREET FIGHTER Ⅳ Trophy pack.",
+    "name": "Street Fighter IV",
     "minutes": null,
     "earned": 5,
     "total": 48,
@@ -17848,7 +17729,7 @@
  },
  {
   "id": "sonic-the-hedgehog-2",
-  "name": "Sonic The Hedgehog 2",
+  "name": "Sonic the Hedgehog 2",
   "first": "2007-09-27",
   "last": "2007-10-16",
   "days": [
@@ -17990,7 +17871,7 @@
  },
  {
   "id": "sonic-the-hedgehog",
-  "name": "Sonic The Hedgehog",
+  "name": "Sonic the Hedgehog",
   "first": "2007-07-11",
   "last": "2007-07-31",
   "days": [
@@ -18082,7 +17963,7 @@
  },
  {
   "id": "nba-street-homecourt",
-  "name": "NBA STREET Homecourt",
+  "name": "NBA Street Homecourt",
   "first": "2007-06-02",
   "last": "2007-06-03",
   "days": [
@@ -18098,7 +17979,7 @@
     "id": "xbox:thesurfshop19:1161889783",
     "family": "Xbox",
     "platform": "360",
-    "name": "NBA STREET Homecourt",
+    "name": "NBA Street Homecourt",
     "minutes": null,
     "earned": 4,
     "total": 16,
@@ -18175,7 +18056,7 @@
  },
  {
   "id": "tomb-raider-legend",
-  "name": "Tomb Raider:Legend",
+  "name": "Tomb Raider: Legend",
   "first": "2007-03-28",
   "last": "2007-03-31",
   "days": [
@@ -18550,8 +18431,8 @@
   ]
  },
  {
-  "id": "oblivion",
-  "name": "Oblivion",
+  "id": "the-elder-scrolls-iv-oblivion",
+  "name": "The Elder Scrolls IV: Oblivion",
   "first": "2006-04-07",
   "last": "2006-04-07",
   "days": [
