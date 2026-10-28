@@ -8620,12 +8620,12 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Gain the loyalty of the mercenary (\"Cerberus Pack\" downloadable content)",
      "earned": "2012-03-18T04:06:22Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/61ABB30827210ED9DFC239E8764F599092173A6F.PNG",
      "id": 55,
-     "name": null,
+     "name": "Revenge!",
      "rarity": 30.5,
      "type": "bronze"
     },
@@ -9428,12 +9428,12 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Learn more about the Prothean Empire.",
      "earned": "2012-07-11T00:12:23Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR01814_00_00C673FFAB6E8B4E211A9DE573760C366509A30571/6E94F0AD2D3E6633FE3B50B8E7654B1CD5035DAB.PNG",
      "id": 52,
-     "name": null,
+     "name": "Prothean Expert",
      "rarity": 13.6,
      "type": "bronze"
     },
@@ -11592,72 +11592,72 @@
      "type": "platinum"
     },
     {
-     "detail": null,
+     "detail": "Completed Bonnie's Chapter.",
      "earned": "2013-07-27T14:39:35Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/2F23A78727C7685C927DF81A8521B5C6C4E81571.PNG",
      "id": 44,
-     "name": null,
+     "name": "Who Goes There?",
      "rarity": 9.8,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Completed Vince's Chapter.",
      "earned": "2013-07-27T14:52:57Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/ACF7BB9995E270840131A38606E778E4A7A15EEE.PNG",
      "id": 41,
-     "name": null,
+     "name": "Chain Gang",
      "rarity": 10.1,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Completed Shel's Chapter.",
      "earned": "2013-07-27T15:44:33Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/7D39DD673EC1818D2B7A35626A7B9B47FEFFE04C.PNG",
      "id": 45,
-     "name": null,
+     "name": "Paradise Lost",
      "rarity": 9.8,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Completed Wyatt's Chapter.",
      "earned": "2013-07-27T15:58:59Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/24EEE8A0A8C1B211C147D6351B56F35EA0120F85.PNG",
      "id": 42,
-     "name": null,
+     "name": "Abandoner",
      "rarity": 9.8,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Found an old friend.",
      "earned": "2013-07-27T16:01:01Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/4F7D3857D1D5B9CF0F041F544F62A753C2D2B1D1.PNG",
      "id": 48,
-     "name": null,
+     "name": "Reunited",
      "rarity": 7.3,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Completed Russell's Chapter.",
      "earned": "2013-07-27T16:14:35Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/DEF64494B7E6B7678A9166BD79A4BAF52538A084.PNG",
      "id": 43,
-     "name": null,
+     "name": "Friends Like These",
      "rarity": 9.9,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Completed the Epilogue.",
      "earned": "2013-07-27T16:21:28Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/DE594DD633BC10F4CAA54928776467F899CA0352.PNG",
      "id": 46,
-     "name": null,
+     "name": "Loose Ends",
      "rarity": 9.2,
      "type": "gold"
     }
@@ -14721,22 +14721,22 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Defeat an arena with at least 2 players",
      "earned": "2026-06-12T19:11:16Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR05423_00_00AF9D7164FCBC6D9221AEB0300163E6BCC410D9B6/C011392AE01D9690E1BDAF8908760323E4FA4887.PNG",
      "id": 35,
-     "name": null,
+     "name": "Dream Team",
      "rarity": 2.7,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Snatch, grab and collect 5,000 pesos as Flame Face.",
      "earned": "2026-06-13T15:28:14Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR05423_00_00AF9D7164FCBC6D9221AEB0300163E6BCC410D9B6/8CEEC87CBB13FA8F9B334FB50FFD821F71E00611.PNG",
      "id": 34,
-     "name": null,
+     "name": "Money to Burn",
      "rarity": 2.3,
      "type": "silver"
     }
@@ -18233,22 +18233,22 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Win a 4v4 game",
      "earned": "2016-07-16T00:16:42Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BB50B4F0DD8DC1660F1CD1DC4E5280F390B57DB4.PNG",
      "id": 37,
-     "name": null,
+     "name": "All Fours",
      "rarity": 37.5,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "In Snow Day, score a goal from your own side of the ice",
      "earned": "2018-02-18T14:48:45Z",
-     "group": "default",
-     "icon": null,
+     "group": "005",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR07466_00_002B372EA023E6E03E3194E148C0B2BF285AD8CE49/BA6BF5E9320F99B5A96BFFF243FFC5404B877E5D.PNG",
      "id": 56,
-     "name": null,
+     "name": "Icing the Cake",
      "rarity": 13.9,
      "type": "bronze"
     }
@@ -20347,12 +20347,12 @@
      "type": "silver"
     },
     {
-     "detail": null,
+     "detail": "Finish the game as Plague Knight.",
      "earned": "2016-05-11T14:09:39Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR08388_00_00401FC091E5E04B06523C97EEA97D8B9A67D88665/ED3391634CAE342262C072796D8A72006D97516F.PNG",
      "id": 38,
-     "name": null,
+     "name": "Victory!",
      "rarity": 10.0,
      "type": "bronze"
     }
@@ -21130,12 +21130,12 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Complete the \"Blindsided\" mission",
      "earned": "2020-12-26T00:46:41Z",
-     "group": "default",
-     "icon": null,
+     "group": "003",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR09167_00_007280BC379B5701D2D862A6574F73488DA1CDFBBA/7C44A740C129E1DCD46FA272D10AAA3C99313362.PNG",
      "id": 62,
-     "name": null,
+     "name": "Pulling the Trigger",
      "rarity": 13.6,
      "type": "bronze"
     },
@@ -21491,12 +21491,12 @@
      "type": "silver"
     },
     {
-     "detail": null,
+     "detail": "Compare Statistics with Friends",
      "earned": "2022-07-16T22:55:11Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR09799_00_0009FFAF42CF52FE5336A7C64CF4E1C0ECC1AE2D98/A13235CDCD02698B7186A3984A1ECB0DB8715838.PNG",
      "id": 50,
-     "name": null,
+     "name": "Take Me to Your Leader",
      "rarity": 5.3,
      "type": "bronze"
     },
@@ -24273,12 +24273,12 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Cleared the game and got the New Generation artifacts.",
      "earned": "2022-07-10T02:20:41Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR20188_00/cd67ed2c-6bb0-4a57-b01f-9207c8ca33e2.png",
      "id": 43,
-     "name": null,
+     "name": "Play Has No Limits!",
      "rarity": 18.4,
      "type": "gold"
     },
@@ -25593,22 +25593,22 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "You want to learn street fighting fundamentals? Well, too bad, 'cause I'm not in the mood to take on any students. Go hit the Tutorials, kid.",
      "earned": "2023-06-02T23:01:01Z",
-     "group": "default",
-     "icon": null,
+     "group": "002",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23172_00/9a271b58-2c2a-4591-b638-5e82606d7d6f.png",
      "id": 43,
-     "name": null,
+     "name": "Taking Initiative",
      "rarity": 74.5,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "That's a wrap for basic training! You're a full-fledged fighting chickadee now, buddy. It's all up to you from here on out. Enjoy it!",
      "earned": "2023-06-03T00:16:21Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23172_00/3ba5a1b8-7676-4259-8451-87433c64fe56.png",
      "id": 35,
-     "name": null,
+     "name": "Leaving the Nest",
      "rarity": 43.5,
      "type": "bronze"
     },
@@ -25623,22 +25623,22 @@
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Something in the way while you're walking through the city? Here's an easy solution: send it flyin' with a Master Action! Mm-mm-mmm... It's the little pleasures in life.",
      "earned": "2023-06-03T01:03:11Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23172_00/1a6041de-e05d-464f-a326-a4236246fca6.png",
      "id": 37,
-     "name": null,
+     "name": "Actions Speak Louder",
      "rarity": 26.8,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Gonna need ya to head to the Fighting Ground and finish Arcade Mode once, buddy! It's time ya heard the stories of your fellow fighters!",
      "earned": "2024-06-24T01:40:30Z",
-     "group": "default",
-     "icon": null,
+     "group": "002",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR23172_00/cb1c9260-817a-445c-8576-40b611dd25c8.png",
      "id": 39,
-     "name": null,
+     "name": "Tales of the Valiant",
      "rarity": 31.0,
      "type": "silver"
     }
@@ -26424,22 +26424,22 @@
      "type": "silver"
     },
     {
-     "detail": null,
+     "detail": "Rescued a Bot in Building Speed.",
      "earned": "2024-11-02T02:31:08Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/8400d1ad-5b41-4f0c-860a-38c01238e769.png",
      "id": 45,
-     "name": null,
+     "name": "Hurtle Rescue",
      "rarity": 31.0,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued a Bot in Let It Slide.",
      "earned": "2024-11-02T02:36:05Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/f62a5418-5b1a-43b6-a66b-318bad09c28a.png",
      "id": 46,
-     "name": null,
+     "name": "Ice-cold Rescue",
      "rarity": 28.0,
      "type": "bronze"
     },
@@ -26454,12 +26454,12 @@
      "type": "gold"
     },
     {
-     "detail": null,
+     "detail": "Rescued a Bot in Spring-Loaded Run.",
      "earned": "2024-11-02T15:59:32Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/a690cc34-b483-4174-bdb2-a7ed819f5dcc.png",
      "id": 47,
-     "name": null,
+     "name": "Punchy Rescue",
      "rarity": 29.4,
      "type": "bronze"
     },
@@ -26504,92 +26504,92 @@
      "type": "silver"
     },
     {
-     "detail": null,
+     "detail": "Changed into the Festive Fellow Outfit.",
      "earned": "2024-12-13T17:53:19Z",
-     "group": "default",
-     "icon": null,
+     "group": "002",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/1a37411f-6e2b-425f-8424-843b2b2198de.png",
      "id": 50,
-     "name": null,
+     "name": "Astro-ho-ho!",
      "rarity": 38.2,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Opened all presents in Winter Wonder.",
      "earned": "2024-12-13T18:55:01Z",
-     "group": "default",
-     "icon": null,
+     "group": "002",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/c1a13b93-ae49-4711-ae09-fa9ecd3f5b79.png",
      "id": 52,
-     "name": null,
+     "name": "Unwrapped!",
      "rarity": 32.4,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Climbed to the top of the festive tree in Winter Wonder.",
      "earned": "2024-12-14T20:36:53Z",
-     "group": "default",
-     "icon": null,
+     "group": "002",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/d1983f01-37a4-4645-b49b-9a9087e64b78.png",
      "id": 51,
-     "name": null,
+     "name": "You're a star!",
      "rarity": 22.6,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued a Bot in Rising Heat.",
      "earned": "2024-12-14T21:19:49Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/6f0d4f3a-2f89-459e-8b38-a2c846270064.png",
      "id": 49,
-     "name": null,
+     "name": "Flaming Rescue",
      "rarity": 22.9,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued the Bot in Thrust or Bust.",
      "earned": "2025-09-21T18:13:50Z",
-     "group": "default",
-     "icon": null,
+     "group": "003",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/25f03bef-988e-4ad6-b890-a8215c8d51b5.png",
      "id": 54,
-     "name": null,
+     "name": "Thrusting Rescue",
      "rarity": 16.0,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued the Bot in Hard to Bear.",
      "earned": "2025-09-21T18:24:22Z",
-     "group": "default",
-     "icon": null,
+     "group": "003",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/24de760e-c6fb-4783-8045-b9febf5a4577.png",
      "id": 56,
-     "name": null,
+     "name": "Bearly Rescued",
      "rarity": 18.1,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued the Bot in Armored Hardcore.",
      "earned": "2025-09-21T18:40:09Z",
-     "group": "default",
-     "icon": null,
+     "group": "003",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/8e5b954f-e7b0-4746-a59a-050c55a50eaf.png",
      "id": 57,
-     "name": null,
+     "name": "Rolling Rescue",
      "rarity": 16.3,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued the Bot in Cock-A-Doodle-Doom.",
      "earned": "2025-09-24T20:00:02Z",
-     "group": "default",
-     "icon": null,
+     "group": "003",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/57f89dd6-5915-4914-b306-c92faf1dbcc5.png",
      "id": 55,
-     "name": null,
+     "name": "Rooster Rescue",
      "rarity": 16.1,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Rescued the Bot in Twin-Frog Trouble.",
      "earned": "2025-09-24T20:52:46Z",
-     "group": "default",
-     "icon": null,
+     "group": "004",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24170_00/807206e8-9a7b-4e1c-b05f-b21b30a81514.png",
      "id": 58,
-     "name": null,
+     "name": "Springy Rescue",
      "rarity": 14.3,
      "type": "bronze"
     }
@@ -28237,22 +28237,22 @@
      "type": "gold"
     },
     {
-     "detail": null,
+     "detail": "Took up the Hero's mantle in New Game+.",
      "earned": "2024-03-17T12:50:14Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27969_00/0fa38623-e194-4ac6-9844-e7a7e0fb6f57.png",
      "id": 65,
-     "name": null,
+     "name": "The Hero Returns",
      "rarity": 6.4,
      "type": "bronze"
     },
     {
-     "detail": null,
+     "detail": "Completed New Game+.",
      "earned": "2024-03-30T23:18:19Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR27969_00/77977c64-3234-470d-86a3-30228eda9645.png",
      "id": 66,
-     "name": null,
+     "name": "Endless Vacation",
      "rarity": 3.6,
      "type": "silver"
     },
@@ -31014,12 +31014,12 @@
      "type": "silver"
     },
     {
-     "detail": null,
+     "detail": "Awakened to the power of the wild card.",
      "earned": "2026-04-25T00:11:13Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR39406_00/bee6dc0f-7963-4a2b-8f6d-2475813840b0.png",
      "id": 49,
-     "name": null,
+     "name": "Realized Power",
      "rarity": 14.4,
      "type": "bronze"
     }
@@ -31249,12 +31249,12 @@
      "type": "silver"
     },
     {
-     "detail": null,
+     "detail": "Found the cat's owner",
      "earned": "2024-12-01T18:20:12Z",
-     "group": "default",
-     "icon": null,
+     "group": "001",
+     "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR40463_00/f4f65cc3-6927-46bd-b625-39868caaa04d.png",
      "id": 33,
-     "name": null,
+     "name": "Nothing Lasts Fur-Ever",
      "rarity": 4.9,
      "type": "silver"
     },
@@ -33589,5 +33589,5 @@
    ]
   }
  },
- "updated": "2026-10-28T16:06:53Z"
+ "updated": "2026-10-28T17:01:14Z"
 }

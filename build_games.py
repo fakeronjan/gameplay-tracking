@@ -28,9 +28,9 @@ ET = ZoneInfo("America/New_York")
 # separate from the games they bundle.
 EDITION = re.compile(
     r"\b(remastered|remaster|complete edition|(?:the )?definitive edition|game of the year edition|goty edition|"
-    r"enhanced edition|windows edition|director'?s cut|deluxe edition|standard edition|digital edition|"
+    r"enhanced edition|windows edition|special edition|for windows|for ios|director'?s cut|deluxe edition|standard edition|digital edition|"
     r"for nintendo switch|nintendo switch edition|ps4 (?:&|＆|and) ps5|ps4|ps5|"
-    r"playstation ?[345]|xbox one|xbox series x\|s|xbox 360 edition|pc|trophies|trophy set)\b")
+    r"playstation ?[345]|xbox one|xbox series x ?\| ?s|xbox 360 edition|pc|trophies|trophy set)\b")
 
 
 def load(name):
@@ -47,7 +47,7 @@ def clean(name):
 # Platform and trophy-system labels that platforms bolt onto a game's name
 LABELS = re.compile(
     r"\s*(\((?:PlayStation\s*\d|PS\s*\d|PS Vita|Vita|Xbox One|Xbox Series X\|S|GER|EU|EUR|US|UK|JP)\)|"
-    r"PS4\s*[&＆]\s*PS5|PS[345]|(?:for )?Xbox Series X\|S|Next Generation|\d+(?:st|nd|rd|th) Anniversary|Trophies|Trophy Set|Trophy pack\.?|Trophy)\s*$",
+    r"PS4\s*[&＆]\s*PS5|PS[345]|(?:for )?Xbox Series X ?\| ?S|Next Generation|\d+(?:st|nd|rd|th) Anniversary|Trophies|Trophy Set|Trophy pack\.?|Trophy)\s*$",
     re.I)
 # All-caps words that are real acronyms or official all-caps names, kept as is
 ACRONYMS = {"LEGO", "NCAA", "WWE", "MLB", "NBA", "NFL", "NHL", "UFC", "FIFA", "DOOM", "BIGS", "FPS", "HD", "DX", "UNO",
@@ -145,13 +145,14 @@ def entries_and_unlocks():
             unlocks.append({"entry": eid, "name": tr["name"], "detail": tr["detail"], "kind": tr["type"],
                             "rarity": tr["rarity"], "earned": tr["earned"], "icon": tr.get("icon")})
         entries[eid] = {"family": "PlayStation", "platform": t["platform"].replace("PSVITA", "Vita"),
-                        "name": t["name"], "days": days, "minutes": None,
+                        "name": t["name"], "days": days, "minutes": None, "art": t.get("icon"),
                         "earned": len(t["trophies"]), "total": sum(t["defined"].values())}
     for tid, p in psn["played"].items():
         eid = f"psn-played:{tid}"
         days = [et_day(p[k]) for k in ("first_played", "last_played") if p.get(k)]
         entries[eid] = {"family": "PlayStation", "platform": "PS5" if p["category"] == "ps5_native_game" else "PS4",
-                        "name": p["name"], "days": days, "minutes": p["minutes"], "earned": None, "total": None}
+                        "name": p["name"], "days": days, "minutes": p["minutes"], "earned": None, "total": None,
+                        "art": p.get("image")}
         lists = [f"psn:{cid}" for cid in p.get("trophy_lists", []) if f"psn:{cid}" in entries]
         # One trophy list, or several that are the same game (Mass Effect Legendary Edition's two
         # lists): join them. Several different games (a collection like Uncharted: The Nathan Drake
@@ -167,11 +168,13 @@ def entries_and_unlocks():
                 if a["earned"]:
                     days.append(et_day(a["earned"]))
                 unlocks.append({"entry": eid, "name": a["name"], "detail": a["detail"], "kind": f"{a['gamerscore']}G",
-                                "rarity": a["rarity"], "earned": a["earned"], "gamertag": gamertag})
+                                "rarity": a["rarity"], "earned": a["earned"], "gamertag": gamertag, "icon": a.get("icon")})
+            if t.get("last_played"):
+                days.append(et_day(t["last_played"]))
             plat = "360" if "Xbox360" in t["devices"] and gamertag != "fakeronjan" else "Xbox"
             entries[eid] = {"family": "Xbox", "platform": plat, "name": t["name"], "days": days,
                             "minutes": t.get("minutes"), "earned": len(t["achievements"]),
-                            "total": t["achievements_total"], "gamertag": gamertag}
+                            "total": t["achievements_total"], "gamertag": gamertag, "art": t.get("image")}
 
     for appid, g in load("steam.json")["games"].items():
         eid = f"steam:{appid}"
@@ -181,22 +184,24 @@ def entries_and_unlocks():
             days.append(et_day(g["last_played"]))
         for a in ach.get("earned", []):
             unlocks.append({"entry": eid, "name": a["name"], "detail": a["detail"], "kind": "achievement",
-                            "rarity": a["rarity"], "earned": a["earned"]})
+                            "rarity": a["rarity"], "earned": a["earned"], "icon": a.get("icon")})
         entries[eid] = {"family": "Steam", "platform": "PC", "name": g["name"], "days": days,
                         "minutes": g["minutes"] or None, "earned": len(ach.get("earned", [])) if ach else None,
-                        "total": ach.get("total")}
+                        "total": ach.get("total"),
+                        "art": f"https://cdn.cloudflare.steamstatic.com/steam/apps/{appid}/header.jpg"}
 
     for name, g in load("switch.json")["games"].items():
         entries[f"switch:{g['ids'][0]}"] = {"family": "Nintendo", "platform": "Switch", "name": name,
                                      "days": [c["time"][:10] for c in g["captures"]], "minutes": None,
-                                     "earned": None, "total": None, "captures": len(g["captures"])}
+                                     "earned": None, "total": None, "captures": len(g["captures"]), "art": g.get("art")}
 
-    posts = defaultdict(list)
+    posts, art = defaultdict(list), {}
     for p in load("miiverse.json")["posts"]:
         posts[p["game"]].append(p["date"][:10])
+        art[p["game"]] = art.get(p["game"]) or p.get("art")
     for name, days in posts.items():
         entries[f"miiverse:{name}"] = {"family": "Nintendo", "platform": "Wii U/3DS", "name": name,
-                                       "days": days, "minutes": None, "earned": None, "total": None}
+                                       "days": days, "minutes": None, "earned": None, "total": None, "art": art[name]}
 
     # A PSN play record with no activity dates and no trophies adds nothing
     return entries, unlocks, links
@@ -241,15 +246,20 @@ def build():
     for ids in rows.values():
         es = [entries[i] for i in ids]
         days = sorted({d for e in es for d in e["days"]})
-        if not days:
-            continue  # owned or launched, but never any dated activity
+        if not days and not any(e["earned"] or e["minutes"] for e in es):
+            continue  # owned or launched, with no unlocks, play time, or dated activity
         name = next((cfg["names"][i] for i in ids if i in cfg.get("names", {})), None) \
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
+        rank = {"switch": 0, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5}
+        arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
-            "id": game_id, "name": name, "first": days[0], "last": days[-1], "days": days,
-            "families": sorted({e["family"] for e in es}),
+            "id": game_id, "name": name, "art": arts[0][1] if arts else None,
+            "first": days[0] if days else None, "last": days[-1] if days else None, "days": days,
+            # Only entries with activity count as platforms played: owning DOOM (2016) on Steam
+            # without playing it doesn't make Steam a platform for DOOM
+            "families": sorted({e["family"] for e in es if e["days"] or e["earned"] or e["minutes"]}),
             "hours": round(sum(mins) / 60, 1) if mins else None,
             "entries": sorted(({"id": i, **{k: v for k, v in entries[i].items() if k != "days"},
                                 "name": display(entries[i]["name"]),
@@ -259,12 +269,16 @@ def build():
         })
     # Unique ids (two different games can share a key-derived slug only through a split)
     seen = defaultdict(int)
-    for row in sorted(games, key=lambda r: r["first"]):
+    for row in sorted(games, key=lambda r: r["first"] or ""):
         seen[row["id"]] += 1
         if seen[row["id"]] > 1:
             row["id"] += f"-{seen[row['id']]}"
-    games.sort(key=lambda r: (r["last"], r["name"]), reverse=True)
+    games.sort(key=lambda r: (r["last"] or "", r["name"]), reverse=True)
 
+    shown = {e["id"] for row in games for e in row["entries"]}
+    lost = sorted(set(cfg.get("names", {})) - shown)
+    if lost:  # a rename keyed to an entry that isn't in any row would silently do nothing
+        raise SystemExit(f"config/game_merges.json renames entries that aren't on the page: {lost}")
     entry_game = {e["id"]: row["id"] for row in games for e in row["entries"]}
     for u in unlocks:
         u["game"] = entry_game.get(u["entry"])

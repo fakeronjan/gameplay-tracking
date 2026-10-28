@@ -2,96 +2,134 @@
  "02CB906EA538A35643C1E1484C4B947D": {
   "name": "Animal Crossing: New Horizons",
   "source": "community_list",
-  "source_name": "Animal Crossing - New Horizons"
+  "source_name": "Animal Crossing - New Horizons",
+  "title_id": "01006F8002326000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg"
  },
  "030CC84A0859ABD745D45D5F8AAD9975": {
   "name": "Nintendo Switch Sports",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100D2F00D5C0000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/673d922befbb98a060c1244252e4df7a0c1a2cfbebf0da12103c8405894c95d2.jpg"
  },
  "0585E865DFB68B5298F19360A730EDB3": {
   "name": "Puyo Puyo Tetris",
   "source": "community_list",
-  "note": "Ronjan owns JP and US versions; same game"
+  "note": "Ronjan owns JP and US versions; same game",
+  "title_id": "010073C001D5E000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/709be300cf44a0b3a69eddf1733b71bfaa8dac88a5516b0e055ec9c6540e9451.jpg"
  },
  "05DC14F80A13996B94160CD375AFD506": {
   "name": "Nintendo Switch Online - SNES",
   "source": "community_list",
-  "display": "Switch Online SNES"
+  "display": "Switch Online SNES",
+  "title_id": "01008D300C50C000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/af642cba3b005ff00e9dfaa726b32e0a726b7435752aca5511ad62c6c443c65e.jpg"
  },
  "062DD3BC3CF59885A6762E5A30A14CD1": {
   "name": "FIFA 18",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100F7B002340000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/34cd07989901f5b43edaf37a79c58d80b168d2ec2624f429b090bd23928ae4ae.jpg"
  },
  "099ECEEF904DB62AEE3A76A3137C241B": {
   "name": "Super Mario Party",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010036B0034E4000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/b200ef18f68bed4e23b7e384700862b23bcb943966e0a040d98174b3e24bb7bd.jpg"
  },
  "1628E0CE3F839127054B0EE36E28E52A": {
   "name": "Sonic Mania",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01009AA000FAA000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/687ff984dcffc714fdef6b8684028c3039a3ea8e1630bb8898aa9583d8161771.jpg"
  },
  "16851BE00BC6068871FE49D98876D6C5": {
   "name": "Mario Kart 8 Deluxe",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100152000022000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/55e0720b1a064e28b5df173d30b343ecd91287dc86942f833ffbf979a7a66ec9.jpg"
  },
  "22A4BDEA5363AAA24F931D5AF2926082": {
   "name": "Hollow Knight",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100633007D48000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/91540557d07599fd6b8d63e544320fc682e71ec8d30f2b7c3d13568af18323be.jpg"
  },
  "25A3BB4DBF243A95E54BF8E131AA488D": {
   "name": "LEGO City Undercover",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01003A30012C0000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/424285e21c7a4256f50504f70495b78a33d4a78d83d331b5f42cee4154a7cdeb.jpg"
  },
  "25B77E52575617C0C2E4A4E0A346538C": {
   "name": "Shantae: Half-Genie Hero",
   "source": "community_list",
-  "source_name": "Shantae Half-Genie Hero"
+  "source_name": "Shantae Half-Genie Hero",
+  "title_id": "01006A200936C000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/71b99b6e7f47f5147d92e786714d297fabc51ec4fa547bd27427db7ad3522572.jpg"
  },
  "2AF2C4CCD5F28D087B476BE33BFE1BF8": {
   "name": "The Witcher 3: Wild Hunt - Complete Edition",
   "source": "decoded_titledb",
   "title_id": "0100BFE00E9CA000",
-  "source_name": "The Witcher 3: Wild Hunt — Complete Edition"
+  "source_name": "The Witcher 3: Wild Hunt — Complete Edition",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0d0944d9e424b58b833a7b986a538621a390ab0f56cac9295a46fca6c735bbe3.jpg"
  },
  "2B08E10BF731D9ACC704BC8E92D161E7": {
   "name": "Burnout Paradise Remastered",
   "source": "decoded_titledb",
-  "title_id": "0100DBF01000A000"
+  "title_id": "0100DBF01000A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/1d40d097ee8ef5638f53e4590655e4fe080df3268fc170fcf70ba05e35578294.jpg"
  },
  "2EDAD642AF6CA11E5629A6E387F51A08": {
   "name": "Guacamelee! Super Turbo Championship Edition",
   "source": "decoded_titledb",
-  "title_id": "0100BAE00B470000"
+  "title_id": "0100BAE00B470000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/c48fabcd5c9e59b92b1f7eb7641df836aa8b3ca89348df3eec0edb9accc3744d.jpg"
  },
  "397E926E404E20DA88FBBB5C4694B75A": {
   "name": "Mutant Football League: Dynasty Edition",
   "source": "decoded_titledb",
-  "title_id": "0100C3E00ACAA000"
+  "title_id": "0100C3E00ACAA000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/936f7481bf56ce9a667a054554cb72bf5dee297f9e9a394825886f9c7594f2d9.jpg"
  },
  "3BE52CBB2C0B225168723895C1D1525E": {
   "name": "Fire Emblem Warriors",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100F15003E64000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/52f8777b58d52be6bddd6c6f811af5b585d0bcc47a250a7c72d5f350f5f4ddfa.jpg"
  },
  "3C15B8B5FCFF64D185612CFC684FD589": {
   "name": "Okami HD",
   "source": "community_list",
-  "source_name": "Okami"
+  "source_name": "Okami",
+  "title_id": "0100276009872000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/e41590ee10372b8887a187286311294e5e57de8f9fd5392cfe9c835f7040b8fb.jpg"
  },
  "3C66B776DB1AA06323037049FACD96D3": {
   "name": "Pokémon Sword",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100ABF008968000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0bf4bca3b619ae6ef04ca08214df7b2a438a8fec8616934b03ae73de839bd518.jpg"
  },
  "42A65F67C20F2AF4737AE9D4D5A37ECB": {
   "name": "Slay the Spire",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010026300BA4A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/1a85dceca45405dc2797da0dd2a58b9098abee1439f8063de1bc5f29636522f9.jpg"
  },
  "45998392CB216ABF034EB6F98E399A06": {
   "name": "Super Mario 3D All-Stars",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010049900F546000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/57c10fc8119099496c5a4fd31b0720a35be0b54a3350838b6e49ff140461b945.jpg"
  },
  "48A5A467593C21DFC93CCCF18D91FCE1": {
   "name": "Collection of Mana",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01002A600D7FC000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/e02cdaee3c91771282d34d26e9a482d72263533ef641cc1a82631fbd7fce7f43.jpg"
  },
  "49836475DFF857BC5E1BCF2F3B61D2DE": {
   "name": "Puyo Puyo Tetris",
@@ -108,267 +146,362 @@
  "4C6AC866CC8D349A4295D5465906CD91": {
   "name": "Paper Mario: The Thousand-Year Door",
   "source": "community_list",
-  "source_name": "Paper Mario - The Thousand-Year Door"
+  "source_name": "Paper Mario - The Thousand-Year Door",
+  "title_id": "0100ECD018EBE000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/bd5e46a27aa0e949e338bb55bb5e3b1d66b9483faa2d23a1ea4960d0df5d8be0.jpg"
  },
  "502BADF490303E7A09F1BF58AD4341AB": {
   "name": "Super Mario Bros. 35",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100277011F1A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/1508b077a5e1a81ac589453b9e559feea34c5e2e9c1ec048ff9a5ae686af14ad.jpg"
  },
  "50E2A11CE4BDDC72EF99DF78315D4938": {
   "name": "Nintendo Switch",
   "source": "community_list",
-  "exclude": "console menu"
+  "exclude": "console menu",
+  "title_id": "0100000000001008"
  },
  "57BAD83C755627D5A5B86ED0AD437965": {
   "name": "What the Golf?",
   "source": "decoded_titledb",
   "title_id": "01002C000E35E000",
-  "source_name": "WHAT THE GOLF?"
+  "source_name": "WHAT THE GOLF?",
+  "art": "https://img-eshop.cdn.nintendo.net/i/b1ba06bf80ba89e36311dc70178a98c51b2cdcbdc13b0ea28dcaced74b460b45.jpg"
  },
  "5855558AA8FCD2E87BC21377436CFBF0": {
   "name": "Child of Light",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01007D000AD8A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0303e8e1adc304b5553ffaee393a80b108991648c5cbe1d2c3c521ec2521c24e.jpg"
  },
  "5BB5C0DAC8FF51E1C76EDC6E659EA349": {
   "name": "Sushi Striker: The Way of Sushido (Demo)",
   "source": "community_list",
   "exclude": "demo",
-  "source_name": "Sushi Striker - The Way of Sushido - Demo"
+  "source_name": "Sushi Striker - The Way of Sushido - Demo",
+  "title_id": "0100FA500B128000"
  },
  "5F25EBBAB5987964E56ADA5BBDDE9DF2": {
   "name": "Pokémon: Let's Go, Eevee!",
   "source": "community_list",
-  "source_name": "Pokémon Let's Go Eevee"
+  "source_name": "Pokémon Let's Go Eevee",
+  "title_id": "0100187003A36000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/cf0dbdcad11b124c3a3090f7cf331fd484e1260efd91cf7208edfc9b621b3bdf.jpg"
  },
  "691C9B2C6D1F1E032DDC01FD026159FD": {
   "name": "Tetris 99",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010040600C5CE000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/7188207423d75e4793d0ce31c50c1e26032faf232c8dad74bc8eb6358ac85f93.jpg"
  },
  "703BDEE72B19135DD048E644FC452DE6": {
   "name": "Yooka-Laylee and the Impossible Lair",
   "source": "community_list",
-  "source_name": "Yooka Laylee and the Impossible Lair"
+  "source_name": "Yooka Laylee and the Impossible Lair",
+  "title_id": "010022F00DA66000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/278e76a1da63eed268a9f078c90df0a2ff44aaf47b1e5a245bd0756ccbc0ece6.jpg"
  },
  "71F6E1DDAFD065C345B3DC4D0DCAFD71": {
   "name": "F-Zero 99",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100CCF019C8C000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/2641fd6c9327e6faca820f1d456d0914837b5c14c8044748de54cb358f95e7cd.jpg"
  },
  "72CA1DED7AF149F87216AAA92ACC6ECE": {
   "name": "NBA 2K18 Legend Edition Gold",
   "source": "decoded_titledb",
-  "title_id": "0100760002048000"
+  "title_id": "0100760002048000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/f6f97a1318b81cc5c833b561b428459b8e7389b7470d9fd5f70517b5ff390767.jpg"
  },
  "75A32021BE3512D7AA96B2D72F764411": {
   "name": "Celeste",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01002B30028F6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/64a18f84f1ff5bdcf5ccfe4c89a8b1fc4642d8afc281001cc62b36f0396aef4b.jpg"
  },
  "77F563570B41119477BD7F46D88F9D6D": {
   "name": "Card Shark",
   "source": "decoded_titledb",
-  "title_id": "0100E20012952000"
+  "title_id": "0100E20012952000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/36605515870a44c627f85acbb9f398bdf75695c83ef7d3b969dfb45d2443143b.jpg"
  },
  "79127164CA4A94F74187421B24A3AA8D": {
   "name": "Clubhouse Games: 51 Worldwide Classics",
   "source": "community_list",
-  "source_name": "Clubhouse Games 51 Worldwide Classics"
+  "source_name": "Clubhouse Games 51 Worldwide Classics",
+  "title_id": "010047700D540000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0cd1e319225b46271de1a164d30bb4a3ee63048c65141b3f33960c51a6a0a4a8.jpg"
  },
  "7CBCCE282CD36658AB28471FB4791102": {
   "name": "Pokémon Legends: Arceus",
   "source": "community_list",
-  "source_name": "Pokémon Legends Arceus"
+  "source_name": "Pokémon Legends Arceus",
+  "title_id": "01001F5010DFA000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/96acc14bf510d575c210eae08b6372fd5a536dea802da5c0331b39c4c358fe7c.jpg"
  },
  "8AEDFF741E2D23FBED39474178692DAF": {
   "name": "Super Mario Odyssey",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100000000010000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/ad4d31f664a1ce704f0219da2805f8459595bc3c01c3f04df2e32ba34a05b8c6.jpg"
  },
  "8C2319A8FEBE37EA272B508676E3EA1F": {
   "name": "Guacamelee! 2",
   "source": "decoded_titledb",
-  "title_id": "01007E100456C000"
+  "title_id": "01007E100456C000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/7d816cd5cd4b7492dabd41eaed5a24e95dcb0d0447861c7fe9221aa6879f3b36.jpg"
  },
  "8D0431B7EC842E9F2D1F69F8B6F05255": {
   "name": "Oh...Sir! The Insult Simulator",
   "source": "decoded_titledb",
-  "title_id": "0100782005A44000"
+  "title_id": "0100782005A44000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/06b8a684f8104eab62c3f14bed994c0093bb2c7bcc786ea0954e4badb1b07d9b.jpg"
  },
  "8F655652CF5441D7471D936F3F07324D": {
   "name": "Nintendo Switch Online - NES",
   "source": "community_list",
-  "display": "Switch Online NES"
+  "display": "Switch Online NES",
+  "title_id": "0100D870045B6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0d197f6de2db14afe2fa0fa105d7f2b2edce6b8336e6ac6d90e1f81e0c15999b.jpg"
  },
  "9129043EF2AAD7F1157CF852BACB8F7D": {
   "name": "The Legend of Zelda: Link's Awakening",
   "source": "community_list",
-  "source_name": "The Legend of Zelda Link's Awakening"
+  "source_name": "The Legend of Zelda Link's Awakening",
+  "title_id": "01006BB00C6F0000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/b0b0b2d150830b70b5bb259cdabefe21d2009b55cbd58854cf6a897587249054.jpg"
  },
  "915FF2ADBDF999D66F96486295DB4C9E": {
   "name": "Darkest Dungeon",
   "source": "decoded_titledb",
-  "title_id": "01008F1008DA6000"
+  "title_id": "01008F1008DA6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/de6131b6c023aee7e3d3c55b548ed7912a5c22d6ca0d4638ba682704cb6fbd99.jpg"
  },
  "92EDE0C7C89D5ED13D0CA773BE080402": {
   "name": "Ultra Street Fighter II: The Final Challengers",
   "source": "community_list",
-  "source_name": "Ultra Street Fighter II The Final Challengers"
+  "source_name": "Ultra Street Fighter II The Final Challengers",
+  "title_id": "01007330027EE000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/eed645c2d9fc81f162c3c0ae7ba73416ce73160a416ccf3c83a73b81915f2388.jpg"
  },
  "93C1C73A3BAF9123A15B9B24886B634B": {
   "name": "Octopath Traveler",
   "source": "community_list",
-  "source_name": "Octopath Traveller"
+  "source_name": "Octopath Traveller",
+  "title_id": "010057D006492000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/f38062570be139c883707da030a5ae16e645369c64f8628445fa47e40e5b6e18.jpg"
  },
  "9600BAE614E6833B1A261F5FB229CDBA": {
   "name": "Mario + Rabbids Kingdom Battle",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010067300059A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/ce5d8550709808b004a99f4c6671e67ab4eec459d86985f8945c76107f2d7125.jpg"
  },
  "97192DA636D7EF47BA0C75EA649A4F7A": {
   "name": "Pocket Card Jockey: Ride On!",
   "source": "decoded_titledb",
   "title_id": "010099501C132000",
-  "source_name": "Pocket Card Jockey:Ride On!"
+  "source_name": "Pocket Card Jockey:Ride On!",
+  "art": "https://img-eshop.cdn.nintendo.net/i/958868a3b326ab8cfc6ac93ae58def84edec41308b5f4a9bb00cd5fa9352fe7f.jpg"
  },
  "A10B9E983E22D9175CE28F2275CEC8E6": {
   "name": "Untitled Goose Game",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010082400BCC6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/4e8b857cf14007f2a38799a6fa1e78a2381cab3cd24bc3fccfdded10cdff8f67.jpg"
  },
  "A29C3926C7AC223A657F1415D1C1D797": {
   "name": "Undertale",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010080B00AD66000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/c0e24decb54ff6e59c1555aedf0cda06bf6e41e5751758984c8e9bfa792fe592.jpg"
  },
  "A9FE9E68808541188F574D03CFFB26A2": {
   "name": "Castle Crashers Remastered",
   "source": "decoded_titledb",
-  "title_id": "010001300D14A000"
+  "title_id": "010001300D14A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/e661931f41cdb6b79912628c1ba3c57a97a4cbdd8f9dea93273451942c774f58.jpg"
  },
  "AF92B7A16C36C3E5DE1C76E5B20E0421": {
   "name": "Starlink: Battle for Atlas",
   "source": "community_list",
-  "source_name": "Starlink - Battle for Atlas"
+  "source_name": "Starlink - Battle for Atlas",
+  "title_id": "01002CC003FE6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/fa39e175cae3fe974d58cdcb2adc05cb1240fa1f20efb069e9e3a0cb57f89088.jpg"
  },
  "B20FAEC679A3A9320864DC374CFB9713": {
   "name": "Kirby Star Allies",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01007E3006DDA000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/ff44624d05899c24ef7e74dba3e8a43118641ffaab9f379425037608d3fc8f34.jpg"
  },
  "BA8E0FCB931BBA7F76DCA06732EF9A07": {
   "name": "Mario Tennis Aces",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100BDE00862A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/fc49417f750582464961821c4e9e248d00941db65ec4fc0315fe5aa9ec8f0bf3.jpg"
  },
  "BDBA961F9C5E6E39D558A949E04CECEE": {
   "name": "Trombone Champ",
   "source": "decoded_titledb",
-  "title_id": "010039F01AF5A000"
+  "title_id": "010039F01AF5A000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/3d71a2258da55361ef0a798bec2b52df2680097e563bbf9b1f6d1566c165fe50.jpg"
  },
  "BF19FBEA37724338D87F26F17A3B97B2": {
   "name": "Super Mario Maker 2",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01009B90006DC000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/6e3e4c0a8e88dd9470d686a55052dca29f1be48ae3af3249a0d34a39f77d2684.jpg"
  },
  "C2B49A475DF5A340494292A1BD398579": {
   "name": "Stardew Valley",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100E65002BB8000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/2c2d14a11ac7ee9439cfc88449360d238db52cedd921ac31309eea04053c08e7.jpg"
  },
  "C46BE5741BFDE75BA1110C84E61676BA": {
   "name": "Nintendo Switch Online - Nintendo 64",
   "source": "community_list",
-  "display": "Switch Online Nintendo 64"
+  "display": "Switch Online Nintendo 64",
+  "title_id": "0100C9A00ECE6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/63ebccbc4fd5a2578236f78d522cce7e4017958ca10c1917e6fc3122b19ed635.jpg"
  },
  "C7D8C4153CC9802713604F54C53304E0": {
   "name": "Hades",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100535012974000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/ffb4843fac25d064a2d461e1c285d1face4caca8c7d6e817904e3ed12cc7c777.jpg"
  },
  "CBA841B50A92A904E313AE06DF4EF71A": {
   "name": "Splatoon 2",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01003BC0000A0000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/a0af3e5f59b543af010e54c664c53fa17f66c37098418ba73b45aa6b43ac6f0d.jpg"
  },
  "CC47F0DEC75C1FD3B1F95FA9F9D57667": {
   "name": "The Legend of Zelda: Tears of the Kingdom",
   "source": "community_list",
-  "source_name": "The Legend of Zelda Tears of the Kingdom"
+  "source_name": "The Legend of Zelda Tears of the Kingdom",
+  "title_id": "0100F2C0115B6000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/4b53da7ca4b118fe37c8b8040609b84dc63214d6131c51592486de9bf29ef29c.jpg"
  },
  "CCFA659F4857F96DDA29AFEDB2E166E6": {
   "name": "Nintendo Switch",
   "source": "community_list",
-  "exclude": "console menu"
+  "exclude": "console menu",
+  "title_id": "0100000000001013"
  },
  "CCFE55975D68069E990E9064D7B828A9": {
   "name": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
   "source": "community_list",
-  "source_name": "Cadence of Hyrule"
+  "source_name": "Cadence of Hyrule",
+  "title_id": "01000B900D8B0000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/1972ebb4a507e7d83c7d4592ae4702ebdc5bf3738659644bc29c243b144782ee.jpg"
  },
  "CD8DDEDFE332FE055C049150B035121B": {
   "name": "The Legend of Zelda: Echoes of Wisdom",
   "source": "community_list",
-  "source_name": "The Legend of Zelda - Echoes of Wisdom"
+  "source_name": "The Legend of Zelda - Echoes of Wisdom",
+  "title_id": "01008CF01BAAC000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/2dc088f59a77a690046661216ae33948dc72dfe91675cf19d7d7ac757856bfc1.jpg"
  },
  "D4DFEB2A86C8E2A460B41C59FCEB784E": {
   "name": "Oxenfree",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "01008B8004E36000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/e9d0e8148928238896496de6bed7cc8bbc487c588cf0105c468a300b4d16ad1b.jpg"
  },
  "DD36EAD444102ED69B0AF6882696E2E7": {
   "name": "Super Mario RPG",
   "source": "decoded_titledb",
-  "title_id": "0100BC0018138000"
+  "title_id": "0100BC0018138000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/b15ff4449c0e8b3100919e965bd8483ec84c0bee9442522d32012ab949e2acb2.jpg"
  },
  "DECD6107E5477CFA2919C447E5B68FF0": {
   "name": "Phoenix Wright: Ace Attorney Trilogy",
   "source": "community_list",
-  "source_name": "Phoenix Wright Ace Attorney Trilogy"
+  "source_name": "Phoenix Wright Ace Attorney Trilogy",
+  "title_id": "0100CB000A142000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0add5a50603d9fdf3792e1aac7e1d0866e7e32e3c1c7a0fc3981afe850c29bde.jpg"
  },
  "E07BDE1FE8CFE9211D83FAAAE431E334": {
   "name": "Saints Row: The Third - The Full Package",
   "source": "decoded_titledb",
   "title_id": "0100DE600BEEE000",
-  "source_name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE"
+  "source_name": "SAINTS ROW: THE THIRD - THE FULL PACKAGE",
+  "art": "https://img-eshop.cdn.nintendo.net/i/c8e7bd27f922394e242ecb5cdaa012fcda061bc6da3bc5e9592a61e9c8a078c0.jpg"
  },
  "E1A7E95F9E577242170CB3869DA3D3AF": {
   "name": "Sid Meier's Civilization VI",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010044500C182000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/c550cca25d48cba740bea69086847fb953c57f9912227dca64cc900b077fce9d.jpg"
  },
  "E379FBA8286DF865C869E0C23904F786": {
   "name": "Super Meat Boy",
   "source": "decoded_titledb",
-  "title_id": "01004F8006A78000"
+  "title_id": "01004F8006A78000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/4502a28cf0a70c00b0f68944f1b74eb65a6aeb6976f761f6e5b73feaf69262b4.jpg"
  },
  "E5B04B40CFD924420DF6142200E473B4": {
   "name": "Super Mario Bros. Wonder",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "010015100B514000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/bf2fca7eed5ad7ec96d03025907ea52c3efe168e02c8be96e868d8430a247a57.jpg"
  },
  "E733C7B7CE26121F1DA0EA525A683779": {
   "name": "Bug Fables: The Everlasting Sapling",
   "source": "community_list",
-  "source_name": "Bug Fables - The Everlasting Sapling"
+  "source_name": "Bug Fables - The Everlasting Sapling",
+  "title_id": "010051A00E99E000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/0653dda568535d94350311f40602985c59f3283bf48d445568266f406bac2327.jpg"
  },
  "EAD9CDD267F449963C89657382E411AE": {
   "name": "Baba Is You",
   "source": "community_list",
-  "source_name": "Baba is You"
+  "source_name": "Baba is You",
+  "title_id": "01002CD00A51C000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/e34c65e833d45a749850de8927f92bd701ab4e8c4262590cc1dfdb345aa59c2a.jpg"
  },
  "EE327B3F1EA16B12FE45F55BCABC4BD6": {
   "name": "Balatro",
-  "source": "community_list"
+  "source": "community_list",
+  "title_id": "0100CD801CE5E000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/1ace4b8e09e5a2aa7b31d8b57ede71c65d45458e31decb5a8b09b7c34f64bf89.jpg"
  },
  "F1C11A22FAEE3B82F21B330E1B786A39": {
   "name": "The Legend of Zelda: Breath of the Wild",
   "source": "community_list",
-  "source_name": "The Legend of Zelda Breath of the Wild"
+  "source_name": "The Legend of Zelda Breath of the Wild",
+  "title_id": "01007EF00011E000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/d3c210e61e8487200fc4c344987243a60257838187a69a6a81c42d7447d5d192.jpg"
  },
  "F3DCFE5993801D2BE14298CE367DB8EA": {
   "name": "Arcade Archives Punch-Out!!",
   "source": "decoded_titledb",
   "title_id": "01001530097F8000",
-  "source_name": "Arcade Archives PUNCH-OUT!!"
+  "source_name": "Arcade Archives PUNCH-OUT!!",
+  "art": "https://img-eshop.cdn.nintendo.net/i/3ecfacd9393ef080f2cac16252809aac642c266a2cc56f2a9348e7841b5bcc35.jpg"
  },
  "F71343E393314FD6E37E8D19DA678A69": {
   "name": "Retro Bowl",
   "source": "decoded_titledb",
-  "title_id": "0100C5B016E30000"
+  "title_id": "0100C5B016E30000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/2a00e64313459c1f5d89fafd104f4dc618130e8baadb159cde5e6f10fe377a66.jpg"
  },
  "F8D087CFC849713C76A06A954E9486D3": {
   "name": "Shovel Knight: Treasure Trove",
   "source": "community_list",
-  "source_name": "Shovel Knight Treasure Trove"
+  "source_name": "Shovel Knight Treasure Trove",
+  "title_id": "010057D0021E8000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/034f98b36f34420795a57274e0fa177333ff928f813eefc9257b6c98ac2d9131.jpg"
  },
  "F95B57762E79CABDA198AE6BBDC6C7D5": {
   "name": "Bloodstained: Ritual of the Night",
   "source": "community_list",
-  "source_name": "Bloodstained Ritual of the Night"
+  "source_name": "Bloodstained Ritual of the Night",
+  "title_id": "0100BF500207C000",
+  "art": "https://img-eshop.cdn.nintendo.net/i/f8a2669c22241e9775fd2663f66ac9f6ac4d10bd03929f382cd2db97a4a2780e.jpg"
  }
 }

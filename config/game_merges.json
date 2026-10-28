@@ -112,9 +112,31 @@
   [
    "xbox:thesurfshop19:1279330257",
    "xbox:rogerage:1279330263"
+  ],
+  [
+   "xbox:fakeronjan:1112934452",
+   "steam:32370"
+  ],
+  [
+   "xbox:fakeronjan:1431505093",
+   "steam:213670",
+   "psn-played:CUSA04768_00",
+   "psn:NPWR10785_00"
+  ],
+  [
+   "steam:698780",
+   "xbox:fakeronjan:1751733247"
+  ],
+  [
+   "xbox:rogerage:1112737766",
+   "xbox:fakeronjan:252034287"
   ]
  ],
- "split": [],
+ "split": [
+  [
+   "steam:379720"
+  ]
+ ],
  "names": {
   "psn-played:CUSA05877_00": "Persona 5 + Persona 5 Royal",
   "psn-played:CUSA00151_00": "Guacamelee!",
@@ -129,7 +151,6 @@
   "xbox:fakeronjan:1414793202": "Grand Theft Auto IV",
   "xbox:fakeronjan:1297287149": "Banjo-Kazooie: Nuts & Bolts",
   "xbox:thesurfshop19:1112737745": "The Elder Scrolls IV: Oblivion",
-  "xbox:rogerage:1112737766": "The Elder Scrolls V: Skyrim",
   "xbox:thesurfshop19:1396901844": "Tomb Raider: Legend",
   "xbox:fakeronjan:2051640476": "Raji: An Ancient Epic",
   "psn:NPWR01435_00": "Sly Cooper and the Thievius Raccoonus",
@@ -149,7 +170,6 @@
   "psn-played:PPSA24545_00": "NBA The Run",
   "psn-played:CUSA00242_00": "Diablo III",
   "psn-played:PPSA01649_00": "Call of Duty: Modern Warfare II",
-  "steam:32370": "Star Wars: Knights of the Old Republic",
   "psn-played:CUSA26985_00": "What the Dub?!",
   "switch:CCFE55975D68069E990E9064D7B828A9": "Cadence of Hyrule",
   "switch:72CA1DED7AF149F87216AAA92ACC6ECE": "NBA 2K18",
@@ -158,7 +178,16 @@
   "psn-played:CUSA14836_00": "Catherine + Catherine: Full Body",
   "psn-played:CUSA01316_00": "Retro City Rampage",
   "psn-played:CUSA00419_00": "Grand Theft Auto V",
-  "xbox:rogerage:1279330263": "LEGO Star Wars II + LEGO Star Wars: The Complete Saga"
+  "xbox:rogerage:1279330263": "LEGO Star Wars II + LEGO Star Wars: The Complete Saga",
+  "xbox:thesurfshop19:1161889780": "Tiger Woods PGA Tour 07",
+  "xbox:rogerage:1431504975": "Your Shape: Fitness Evolved",
+  "xbox:fakeronjan:1297287263": "Viva Piñata: Trouble in Paradise",
+  "xbox:fakeronjan:1112934458": "Star Wars: Knights of the Old Republic II: The Sith Lords",
+  "steam:32370": "Star Wars: Knights of the Old Republic",
+  "psn-played:CUSA04768_00": "South Park: The Stick of Truth",
+  "steam:698780": "Doki Doki Literature Club + Doki Doki Literature Club Plus!",
+  "xbox:fakeronjan:1621285366": "DOOM (1993)",
+  "xbox:fakeronjan:252034287": "The Elder Scrolls V: Skyrim"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
  "exclude": {

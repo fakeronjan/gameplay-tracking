@@ -1,6 +1,7 @@
 {
  "games": {
   "Animal Crossing: New Horizons": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/4a320d37cd85f49d6e4a675b6d7b82f5ad13ae10b212d5b220fe4208c7d7c2f8.jpg",
    "captures": [
     {
      "time": "2020-03-20T06:34:59",
@@ -2928,6 +2929,7 @@
    ]
   },
   "Arcade Archives Punch-Out!!": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/3ecfacd9393ef080f2cac16252809aac642c266a2cc56f2a9348e7841b5bcc35.jpg",
    "captures": [
     {
      "time": "2018-03-30T13:29:47",
@@ -2943,6 +2945,7 @@
    ]
   },
   "Baba Is You": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/e34c65e833d45a749850de8927f92bd701ab4e8c4262590cc1dfdb345aa59c2a.jpg",
    "captures": [
     {
      "time": "2019-12-14T13:53:17",
@@ -2954,6 +2957,7 @@
    ]
   },
   "Balatro": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/1ace4b8e09e5a2aa7b31d8b57ede71c65d45458e31decb5a8b09b7c34f64bf89.jpg",
    "captures": [
     {
      "time": "2024-04-03T13:55:48",
@@ -3513,6 +3517,7 @@
    ]
   },
   "Bloodstained: Ritual of the Night": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/f8a2669c22241e9775fd2663f66ac9f6ac4d10bd03929f382cd2db97a4a2780e.jpg",
    "captures": [
     {
      "time": "2019-07-21T11:25:24",
@@ -3536,6 +3541,7 @@
    ]
   },
   "Bug Fables: The Everlasting Sapling": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0653dda568535d94350311f40602985c59f3283bf48d445568266f406bac2327.jpg",
    "captures": [
     {
      "time": "2020-05-30T12:10:04",
@@ -3547,6 +3553,7 @@
    ]
   },
   "Burnout Paradise Remastered": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/1d40d097ee8ef5638f53e4590655e4fe080df3268fc170fcf70ba05e35578294.jpg",
    "captures": [
     {
      "time": "2020-06-20T20:34:05",
@@ -3570,6 +3577,7 @@
    ]
   },
   "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/1972ebb4a507e7d83c7d4592ae4702ebdc5bf3738659644bc29c243b144782ee.jpg",
    "captures": [
     {
      "time": "2019-06-16T15:54:46",
@@ -3661,6 +3669,7 @@
    ]
   },
   "Card Shark": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/36605515870a44c627f85acbb9f398bdf75695c83ef7d3b969dfb45d2443143b.jpg",
    "captures": [
     {
      "time": "2022-06-05T14:50:49",
@@ -3676,6 +3685,7 @@
    ]
   },
   "Castle Crashers Remastered": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/e661931f41cdb6b79912628c1ba3c57a97a4cbdd8f9dea93273451942c774f58.jpg",
    "captures": [
     {
      "time": "2019-09-19T21:56:40",
@@ -3687,6 +3697,7 @@
    ]
   },
   "Celeste": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/64a18f84f1ff5bdcf5ccfe4c89a8b1fc4642d8afc281001cc62b36f0396aef4b.jpg",
    "captures": [
     {
      "time": "2018-02-19T15:57:15",
@@ -3830,6 +3841,7 @@
    ]
   },
   "Child of Light": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0303e8e1adc304b5553ffaee393a80b108991648c5cbe1d2c3c521ec2521c24e.jpg",
    "captures": [
     {
      "time": "2018-10-17T19:23:19",
@@ -3841,6 +3853,7 @@
    ]
   },
   "Clubhouse Games: 51 Worldwide Classics": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0cd1e319225b46271de1a164d30bb4a3ee63048c65141b3f33960c51a6a0a4a8.jpg",
    "captures": [
     {
      "time": "2020-06-14T00:14:20",
@@ -3932,6 +3945,7 @@
    ]
   },
   "Collection of Mana": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/e02cdaee3c91771282d34d26e9a482d72263533ef641cc1a82631fbd7fce7f43.jpg",
    "captures": [
     {
      "time": "2019-06-16T15:38:36",
@@ -3951,6 +3965,7 @@
    ]
   },
   "Darkest Dungeon": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/de6131b6c023aee7e3d3c55b548ed7912a5c22d6ca0d4638ba682704cb6fbd99.jpg",
    "captures": [
     {
      "time": "2018-02-04T15:48:36",
@@ -3966,6 +3981,7 @@
    ]
   },
   "F-Zero 99": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/2641fd6c9327e6faca820f1d456d0914837b5c14c8044748de54cb358f95e7cd.jpg",
    "captures": [
     {
      "time": "2023-09-15T23:27:01",
@@ -3981,6 +3997,7 @@
    ]
   },
   "FIFA 18": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/34cd07989901f5b43edaf37a79c58d80b168d2ec2624f429b090bd23928ae4ae.jpg",
    "captures": [
     {
      "time": "2017-10-06T12:57:00",
@@ -3996,6 +4013,7 @@
    ]
   },
   "Fire Emblem Warriors": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/52f8777b58d52be6bddd6c6f811af5b585d0bcc47a250a7c72d5f350f5f4ddfa.jpg",
    "captures": [
     {
      "time": "2018-01-28T22:24:43",
@@ -4011,6 +4029,7 @@
    ]
   },
   "Guacamelee! 2": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/7d816cd5cd4b7492dabd41eaed5a24e95dcb0d0447861c7fe9221aa6879f3b36.jpg",
    "captures": [
     {
      "time": "2019-01-10T20:52:40",
@@ -4062,6 +4081,7 @@
    ]
   },
   "Guacamelee! Super Turbo Championship Edition": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/c48fabcd5c9e59b92b1f7eb7641df836aa8b3ca89348df3eec0edb9accc3744d.jpg",
    "captures": [
     {
      "time": "2019-01-05T06:53:30",
@@ -4109,6 +4129,7 @@
    ]
   },
   "Hades": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/ffb4843fac25d064a2d461e1c285d1face4caca8c7d6e817904e3ed12cc7c777.jpg",
    "captures": [
     {
      "time": "2020-10-11T18:38:44",
@@ -4168,6 +4189,7 @@
    ]
   },
   "Hollow Knight": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/91540557d07599fd6b8d63e544320fc682e71ec8d30f2b7c3d13568af18323be.jpg",
    "captures": [
     {
      "time": "2018-08-11T22:37:07",
@@ -4183,6 +4205,7 @@
    ]
   },
   "Kirby Star Allies": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/ff44624d05899c24ef7e74dba3e8a43118641ffaab9f379425037608d3fc8f34.jpg",
    "captures": [
     {
      "time": "2018-04-01T16:58:25",
@@ -4226,6 +4249,7 @@
    ]
   },
   "LEGO City Undercover": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/424285e21c7a4256f50504f70495b78a33d4a78d83d331b5f42cee4154a7cdeb.jpg",
    "captures": [
     {
      "time": "2017-04-04T19:37:55",
@@ -4325,6 +4349,7 @@
    ]
   },
   "Mario + Rabbids Kingdom Battle": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/ce5d8550709808b004a99f4c6671e67ab4eec459d86985f8945c76107f2d7125.jpg",
    "captures": [
     {
      "time": "2017-09-02T17:17:56",
@@ -4348,6 +4373,7 @@
    ]
   },
   "Mario Kart 8 Deluxe": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/55e0720b1a064e28b5df173d30b343ecd91287dc86942f833ffbf979a7a66ec9.jpg",
    "captures": [
     {
      "time": "2017-05-06T18:34:21",
@@ -4471,6 +4497,7 @@
    ]
   },
   "Mario Tennis Aces": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/fc49417f750582464961821c4e9e248d00941db65ec4fc0315fe5aa9ec8f0bf3.jpg",
    "captures": [
     {
      "time": "2018-07-21T16:47:45",
@@ -4502,6 +4529,7 @@
    ]
   },
   "Mutant Football League: Dynasty Edition": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/936f7481bf56ce9a667a054554cb72bf5dee297f9e9a394825886f9c7594f2d9.jpg",
    "captures": [
     {
      "time": "2019-07-28T10:03:45",
@@ -4513,6 +4541,7 @@
    ]
   },
   "NBA 2K18 Legend Edition Gold": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/f6f97a1318b81cc5c833b561b428459b8e7389b7470d9fd5f70517b5ff390767.jpg",
    "captures": [
     {
      "time": "2017-09-24T19:27:33",
@@ -4804,6 +4833,7 @@
    ]
   },
   "Nintendo Switch Sports": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/673d922befbb98a060c1244252e4df7a0c1a2cfbebf0da12103c8405894c95d2.jpg",
    "captures": [
     {
      "time": "2024-04-14T10:41:04",
@@ -4835,6 +4865,7 @@
    ]
   },
   "Octopath Traveler": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/f38062570be139c883707da030a5ae16e645369c64f8628445fa47e40e5b6e18.jpg",
    "captures": [
     {
      "time": "2018-07-22T13:53:03",
@@ -4874,6 +4905,7 @@
    ]
   },
   "Oh...Sir! The Insult Simulator": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/06b8a684f8104eab62c3f14bed994c0093bb2c7bcc786ea0954e4badb1b07d9b.jpg",
    "captures": [
     {
      "time": "2018-03-08T21:22:45",
@@ -4885,6 +4917,7 @@
    ]
   },
   "Okami HD": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/e41590ee10372b8887a187286311294e5e57de8f9fd5392cfe9c835f7040b8fb.jpg",
    "captures": [
     {
      "time": "2018-08-11T13:27:30",
@@ -4928,6 +4961,7 @@
    ]
   },
   "Oxenfree": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/e9d0e8148928238896496de6bed7cc8bbc487c588cf0105c468a300b4d16ad1b.jpg",
    "captures": [
     {
      "time": "2018-02-11T17:03:40",
@@ -4939,6 +4973,7 @@
    ]
   },
   "Paper Mario: The Thousand-Year Door": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/bd5e46a27aa0e949e338bb55bb5e3b1d66b9483faa2d23a1ea4960d0df5d8be0.jpg",
    "captures": [
     {
      "time": "2024-05-23T18:52:16",
@@ -7014,6 +7049,7 @@
    ]
   },
   "Phoenix Wright: Ace Attorney Trilogy": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0add5a50603d9fdf3792e1aac7e1d0866e7e32e3c1c7a0fc3981afe850c29bde.jpg",
    "captures": [
     {
      "time": "2019-04-21T17:05:11",
@@ -7029,6 +7065,7 @@
    ]
   },
   "Pocket Card Jockey: Ride On!": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/958868a3b326ab8cfc6ac93ae58def84edec41308b5f4a9bb00cd5fa9352fe7f.jpg",
    "captures": [
     {
      "time": "2025-06-21T18:35:17",
@@ -7052,6 +7089,7 @@
    ]
   },
   "Pokémon Legends: Arceus": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/96acc14bf510d575c210eae08b6372fd5a536dea802da5c0331b39c4c358fe7c.jpg",
    "captures": [
     {
      "time": "2022-05-22T10:46:05",
@@ -7063,6 +7101,7 @@
    ]
   },
   "Pokémon Sword": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0bf4bca3b619ae6ef04ca08214df7b2a438a8fec8616934b03ae73de839bd518.jpg",
    "captures": [
     {
      "time": "2019-11-16T08:07:41",
@@ -7202,6 +7241,7 @@
    ]
   },
   "Pokémon: Let's Go, Eevee!": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/cf0dbdcad11b124c3a3090f7cf331fd484e1260efd91cf7208edfc9b621b3bdf.jpg",
    "captures": [
     {
      "time": "2018-11-18T14:23:56",
@@ -7245,6 +7285,7 @@
    ]
   },
   "Puyo Puyo Tetris": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/709be300cf44a0b3a69eddf1733b71bfaa8dac88a5516b0e055ec9c6540e9451.jpg",
    "captures": [
     {
      "time": "2017-03-31T22:21:07",
@@ -7273,6 +7314,7 @@
    ]
   },
   "Retro Bowl": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/2a00e64313459c1f5d89fafd104f4dc618130e8baadb159cde5e6f10fe377a66.jpg",
    "captures": [
     {
      "time": "2022-07-30T09:28:42",
@@ -7656,6 +7698,7 @@
    ]
   },
   "Saints Row: The Third - The Full Package": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/c8e7bd27f922394e242ecb5cdaa012fcda061bc6da3bc5e9592a61e9c8a078c0.jpg",
    "captures": [
     {
      "time": "2019-05-17T20:43:24",
@@ -7667,6 +7710,7 @@
    ]
   },
   "Shantae: Half-Genie Hero": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/71b99b6e7f47f5147d92e786714d297fabc51ec4fa547bd27427db7ad3522572.jpg",
    "captures": [
     {
      "time": "2018-05-28T15:29:58",
@@ -7686,6 +7730,7 @@
    ]
   },
   "Shovel Knight: Treasure Trove": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/034f98b36f34420795a57274e0fa177333ff928f813eefc9257b6c98ac2d9131.jpg",
    "captures": [
     {
      "time": "2017-03-04T09:12:33",
@@ -8149,6 +8194,7 @@
    ]
   },
   "Sid Meier's Civilization VI": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/c550cca25d48cba740bea69086847fb953c57f9912227dca64cc900b077fce9d.jpg",
    "captures": [
     {
      "time": "2018-11-16T20:32:51",
@@ -8164,6 +8210,7 @@
    ]
   },
   "Slay the Spire": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/1a85dceca45405dc2797da0dd2a58b9098abee1439f8063de1bc5f29636522f9.jpg",
    "captures": [
     {
      "time": "2020-06-14T10:10:20",
@@ -8179,6 +8226,7 @@
    ]
   },
   "Sonic Mania": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/687ff984dcffc714fdef6b8684028c3039a3ea8e1630bb8898aa9583d8161771.jpg",
    "captures": [
     {
      "time": "2017-08-16T19:44:34",
@@ -8194,6 +8242,7 @@
    ]
   },
   "Splatoon 2": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/a0af3e5f59b543af010e54c664c53fa17f66c37098418ba73b45aa6b43ac6f0d.jpg",
    "captures": [
     {
      "time": "2017-07-21T07:39:26",
@@ -8261,6 +8310,7 @@
    ]
   },
   "Stardew Valley": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/2c2d14a11ac7ee9439cfc88449360d238db52cedd921ac31309eea04053c08e7.jpg",
    "captures": [
     {
      "time": "2017-12-16T18:18:35",
@@ -8296,6 +8346,7 @@
    ]
   },
   "Starlink: Battle for Atlas": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/fa39e175cae3fe974d58cdcb2adc05cb1240fa1f20efb069e9e3a0cb57f89088.jpg",
    "captures": [
     {
      "time": "2019-05-22T22:20:01",
@@ -8315,6 +8366,7 @@
    ]
   },
   "Super Mario 3D All-Stars": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/57c10fc8119099496c5a4fd31b0720a35be0b54a3350838b6e49ff140461b945.jpg",
    "captures": [
     {
      "time": "2020-09-18T16:44:08",
@@ -8338,6 +8390,7 @@
    ]
   },
   "Super Mario Bros. 35": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/1508b077a5e1a81ac589453b9e559feea34c5e2e9c1ec048ff9a5ae686af14ad.jpg",
    "captures": [
     {
      "time": "2020-10-01T21:38:41",
@@ -8473,6 +8526,7 @@
    ]
   },
   "Super Mario Bros. Wonder": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/bf2fca7eed5ad7ec96d03025907ea52c3efe168e02c8be96e868d8430a247a57.jpg",
    "captures": [
     {
      "time": "2023-11-05T13:47:33",
@@ -8508,6 +8562,7 @@
    ]
   },
   "Super Mario Maker 2": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/6e3e4c0a8e88dd9470d686a55052dca29f1be48ae3af3249a0d34a39f77d2684.jpg",
    "captures": [
     {
      "time": "2019-07-04T20:40:12",
@@ -8567,6 +8622,7 @@
    ]
   },
   "Super Mario Odyssey": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/ad4d31f664a1ce704f0219da2805f8459595bc3c01c3f04df2e32ba34a05b8c6.jpg",
    "captures": [
     {
      "time": "2017-10-27T08:13:19",
@@ -9214,6 +9270,7 @@
    ]
   },
   "Super Mario Party": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/b200ef18f68bed4e23b7e384700862b23bcb943966e0a040d98174b3e24bb7bd.jpg",
    "captures": [
     {
      "time": "2018-10-05T20:49:32",
@@ -9329,6 +9386,7 @@
    ]
   },
   "Super Mario RPG": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/b15ff4449c0e8b3100919e965bd8483ec84c0bee9442522d32012ab949e2acb2.jpg",
    "captures": [
     {
      "time": "2023-11-17T15:56:54",
@@ -10484,6 +10542,7 @@
    ]
   },
   "Super Meat Boy": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/4502a28cf0a70c00b0f68944f1b74eb65a6aeb6976f761f6e5b73feaf69262b4.jpg",
    "captures": [
     {
      "time": "2018-01-13T23:08:00",
@@ -10503,6 +10562,7 @@
    ]
   },
   "Switch Online NES": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0d197f6de2db14afe2fa0fa105d7f2b2edce6b8336e6ac6d90e1f81e0c15999b.jpg",
    "captures": [
     {
      "time": "2018-09-21T17:53:12",
@@ -10558,6 +10618,7 @@
    ]
   },
   "Switch Online Nintendo 64": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/63ebccbc4fd5a2578236f78d522cce7e4017958ca10c1917e6fc3122b19ed635.jpg",
    "captures": [
     {
      "time": "2022-03-30T18:48:42",
@@ -10625,6 +10686,7 @@
    ]
   },
   "Switch Online SNES": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/af642cba3b005ff00e9dfaa726b32e0a726b7435752aca5511ad62c6c443c65e.jpg",
    "captures": [
     {
      "time": "2020-06-09T14:14:18",
@@ -10760,6 +10822,7 @@
    ]
   },
   "Tetris 99": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/7188207423d75e4793d0ce31c50c1e26032faf232c8dad74bc8eb6358ac85f93.jpg",
    "captures": [
     {
      "time": "2019-02-17T08:05:30",
@@ -10771,6 +10834,7 @@
    ]
   },
   "The Legend of Zelda: Breath of the Wild": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/d3c210e61e8487200fc4c344987243a60257838187a69a6a81c42d7447d5d192.jpg",
    "captures": [
     {
      "time": "2017-03-04T09:29:17",
@@ -11018,6 +11082,7 @@
    ]
   },
   "The Legend of Zelda: Echoes of Wisdom": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/2dc088f59a77a690046661216ae33948dc72dfe91675cf19d7d7ac757856bfc1.jpg",
    "captures": [
     {
      "time": "2025-06-21T16:38:18",
@@ -11093,6 +11158,7 @@
    ]
   },
   "The Legend of Zelda: Link's Awakening": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/b0b0b2d150830b70b5bb259cdabefe21d2009b55cbd58854cf6a897587249054.jpg",
    "captures": [
     {
      "time": "2019-09-21T08:19:00",
@@ -11348,6 +11414,7 @@
    ]
   },
   "The Legend of Zelda: Tears of the Kingdom": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/4b53da7ca4b118fe37c8b8040609b84dc63214d6131c51592486de9bf29ef29c.jpg",
    "captures": [
     {
      "time": "2023-05-12T14:34:43",
@@ -12615,6 +12682,7 @@
    ]
   },
   "The Witcher 3: Wild Hunt - Complete Edition": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/0d0944d9e424b58b833a7b986a538621a390ab0f56cac9295a46fca6c735bbe3.jpg",
    "captures": [
     {
      "time": "2019-11-30T17:18:07",
@@ -12642,6 +12710,7 @@
    ]
   },
   "Trombone Champ": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/3d71a2258da55361ef0a798bec2b52df2680097e563bbf9b1f6d1566c165fe50.jpg",
    "captures": [
     {
      "time": "2023-09-15T23:51:56",
@@ -12665,6 +12734,7 @@
    ]
   },
   "Ultra Street Fighter II: The Final Challengers": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/eed645c2d9fc81f162c3c0ae7ba73416ce73160a416ccf3c83a73b81915f2388.jpg",
    "captures": [
     {
      "time": "2017-05-26T13:33:30",
@@ -12708,6 +12778,7 @@
    ]
   },
   "Undertale": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/c0e24decb54ff6e59c1555aedf0cda06bf6e41e5751758984c8e9bfa792fe592.jpg",
    "captures": [
     {
      "time": "2018-12-16T16:57:45",
@@ -12719,6 +12790,7 @@
    ]
   },
   "Untitled Goose Game": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/4e8b857cf14007f2a38799a6fa1e78a2381cab3cd24bc3fccfdded10cdff8f67.jpg",
    "captures": [
     {
      "time": "2019-10-12T09:22:33",
@@ -12778,6 +12850,7 @@
    ]
   },
   "What the Golf?": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/b1ba06bf80ba89e36311dc70178a98c51b2cdcbdc13b0ea28dcaced74b460b45.jpg",
    "captures": [
     {
      "time": "2020-06-20T19:54:04",
@@ -12833,6 +12906,7 @@
    ]
   },
   "Yooka-Laylee and the Impossible Lair": {
+   "art": "https://img-eshop.cdn.nintendo.net/i/278e76a1da63eed268a9f078c90df0a2ff44aaf47b1e5a245bd0756ccbc0ece6.jpg",
    "captures": [
     {
      "time": "2019-12-26T17:07:28",

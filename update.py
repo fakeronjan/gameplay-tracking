@@ -69,14 +69,16 @@ def log_playtime(log, platform, game_id, name, before, after):
 
 def psn_title(title, definitions, earned):
     """One trophy title in the published shape: summary plus earned trophies."""
-    defs = {(d.get("trophyGroupId", "default"), d["trophyId"]): d for d in definitions.get("trophies", [])}
+    # trophyId is unique within a title across all groups; the earned list doesn't always
+    # carry trophyGroupId, so matching on (group, id) lost DLC trophies' names
+    defs = {d["trophyId"]: d for d in definitions.get("trophies", [])}
     trophies = []
     for e in earned.get("trophies", []):
         if not e.get("earned"):
             continue
-        d = defs.get((e.get("trophyGroupId", "default"), e["trophyId"]), {})
+        d = defs.get(e["trophyId"], {})
         trophies.append({
-            "id": e["trophyId"], "group": e.get("trophyGroupId", "default"),
+            "id": e["trophyId"], "group": d.get("trophyGroupId", "default"),
             "name": d.get("trophyName"), "detail": d.get("trophyDetail"),
             "type": e["trophyType"], "earned": e["earnedDateTime"],
             "rarity": float(e["trophyEarnedRate"]) if e.get("trophyEarnedRate") else None,
@@ -208,7 +210,8 @@ def update_steam(log):
             "achievements": prev.get("achievements"),
         }
         log_playtime(log, "steam", appid, g["name"], prev.get("minutes", 0) if old["games"] else None, game["minutes"])
-        if "achievements" not in prev or prev.get("last_played") != game["last_played"]:
+        stale = prev.get("achievements") and prev["achievements"]["earned"] and "icon" not in prev["achievements"]["earned"][0]
+        if "achievements" not in prev or prev.get("last_played") != game["last_played"] or stale:
             game["achievements"] = steam_achievements(key, appid)
             refetched += 1
         games[appid] = game
@@ -223,11 +226,14 @@ def steam_achievements(key, appid):
     if not ach:
         return None
     pct = steam_get("ISteamUserStats/GetGlobalAchievementPercentagesForApp/v2/", gameid=appid) or {}
+    schema = steam_get("ISteamUserStats/GetSchemaForGame/v2/", key=key, appid=appid) or {}
+    icons = {a["name"]: a.get("icon") for a in schema.get("game", {}).get("availableGameStats", {}).get("achievements", [])}
     rarity = {a["name"]: float(a["percent"]) for a in pct.get("achievementpercentages", {}).get("achievements", [])}
     earned = [{
         "id": a["apiname"], "name": a.get("name"), "detail": a.get("description"),
         "earned": datetime.fromtimestamp(a["unlocktime"], timezone.utc).isoformat().replace("+00:00", "Z"),
         "rarity": round(rarity[a["apiname"]], 1) if a["apiname"] in rarity else None,
+        "icon": icons.get(a["apiname"]),
     } for a in ach if a["achieved"]]
     earned.sort(key=lambda a: (a["earned"], a["id"]))
     return {"total": len(ach), "earned": earned}

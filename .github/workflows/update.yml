@@ -41,6 +41,11 @@ jobs:
         if: always()
         run: python build_games.py
 
+      # Local copies of new trophy icons and game art (docs/img/)
+      - name: Fetch images
+        if: always()
+        run: python fetch_images.py
+
       # Runs even when one platform failed, so the other platform's data and
       # status.json still land. The fetch step's failure still fails the run.
       - name: Commit and push updated data
@@ -50,7 +55,7 @@ jobs:
           python -c "import json,glob; [json.load(open(f)) for f in glob.glob('docs/data/*.json')]"
           git config user.name  "Gameplay Bot"
           git config user.email "gameplay-bot@users.noreply.github.com"
-          git add docs/data/
+          git add docs/data/ docs/img/
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else

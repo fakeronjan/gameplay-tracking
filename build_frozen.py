@@ -8,6 +8,7 @@ Runs locally only. Inputs are raw dumps and archives on this Mac (local/ and
 
 import json
 import re
+import shutil
 from collections import defaultdict
 from datetime import datetime
 from pathlib import Path
@@ -20,6 +21,8 @@ SWITCH_DIR = Path.home() / "Documents/Archive/Nintendo/Nintendo Switch Screensho
 
 # Microsoft's placeholder when an Xbox 360 unlock time wasn't recorded
 NO_DATE = "1753-01-01"
+# thesurfshop19's lastTimePlayed is 9/4/2010 for all 105 titles (a migration date, not play)
+XBOX_BOGUS_LAST_PLAYED = {"thesurfshop19"}
 XBOX_ACCOUNTS = [  # (gamertag, local dump folder)
     ("thesurfshop19", "xbox_thesurfshop19"),
     ("rogerage", "xbox_rogerage"),
@@ -35,11 +38,13 @@ def xbox_achievement(a):
     if "progressState" in a:  # Xbox One and later
         gs = next((int(r["value"]) for r in a.get("rewards", []) if r["type"] == "Gamerscore"), 0)
         when = a["progression"]["timeUnlocked"]
-    else:  # Xbox 360
+        icon = next((m["url"] for m in a.get("mediaAssets", []) if m.get("type") == "Icon"), None)
+    else:  # Xbox 360: Microsoft's legacy image server, addressed by title and image id
         gs, when = a["gamerscore"], a["timeUnlocked"]
+        icon = f"https://image-ssl.xboxlive.com/global/t.{a['titleId']:x}/ach/0/{a['imageId']:x}"
     return {"name": a["name"], "detail": a.get("description"), "gamerscore": gs,
             "earned": None if when.startswith(NO_DATE) else when,
-            "rarity": (a.get("rarity") or {}).get("currentPercentage")}
+            "rarity": (a.get("rarity") or {}).get("currentPercentage"), "icon": icon}
 
 
 def build_xbox():
@@ -70,6 +75,7 @@ def build_xbox():
                 "gamerscore_total": t["achievement"]["totalGamerscore"],
                 "achievements_total": t["achievement"]["totalAchievements"],
                 "minutes": minutes.get(t["titleId"]), "achievements": ach,
+                "last_played": None if gamertag in XBOX_BOGUS_LAST_PLAYED else (t.get("titleHistory") or {}).get("lastTimePlayed"),
             }
         accounts[gamertag] = {"gamerscore": sum(t["gamerscore"] for t in titles.values()), "titles": titles}
         print(f"xbox {gamertag}: {len(titles)} titles, {accounts[gamertag]['gamerscore']} gamerscore")
@@ -97,15 +103,40 @@ def build_switch():
         games[name]["ids"].add(game_id)
     for g in games.values():
         g["captures"].sort(key=lambda c: c["time"])
+        g["art"] = next((names[i]["art"] for i in sorted(g["ids"]) if names[i].get("art")), None)
         g["ids"] = sorted(g["ids"])  # screenshot game IDs: stable even when a name is corrected
     print(f"switch: {len(games)} games, {sum(len(g['captures']) for g in games.values())} captures, {dropped} dropped")
     save("switch.json", {"note": "Capture times are the console's local time", "games": dict(games)})
 
 
+MIIVERSE = Path.home() / "Documents/Archive/Nintendo/miiverse_backup/assets/user"
+
+
+def miiverse_js(name):
+    text = (MIIVERSE / "js" / name).read_text(encoding="utf-8")
+    return json.loads(re.sub(r",\s*\]\s*;?\s*$", "]", text[text.index("=") + 1:].strip().rstrip(";")))
+
+
 def build_miiverse():
-    posts = json.loads((LOCAL / "miiverse_posts.json").read_text())
-    for p in posts:
-        p["game"] = p["game"].replace("®", "")
+    """Posts from the 2017 Miiverse backup, with each game's icon copied into docs/img/miiverse/."""
+    titles, communities = miiverse_js("title.js"), miiverse_js("community.js")
+    out_dir = HERE / "docs" / "img" / "miiverse"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    posts = []
+    for year in (2015, 2016, 2017):
+        for p in miiverse_js(f"posts/{year}.js"):
+            if p.get("title") in titles:
+                game, icon = titles[p["title"]]["name"], p["title"]
+            else:
+                c = communities[p["community"]]
+                game, icon = c["name"].replace(" Community", ""), c["icon"]
+            src = MIIVERSE / "img" / "icon" / f"{icon}.png"
+            if src.exists() and not (out_dir / src.name).exists():
+                shutil.copy(src, out_dir / src.name)
+            posts.append({"date": datetime.strptime(p["created_at"], "%m/%d/%Y %I:%M %p").isoformat(),
+                          "game": game.replace("®", ""), "kind": p.get("subtype", "Post"), "body": p.get("body"),
+                          "id": p["id"], "art": f"img/miiverse/{icon}.png" if src.exists() else None})
+    posts.sort(key=lambda p: p["date"])
     print(f"miiverse: {len(posts)} posts")
     save("miiverse.json", {"note": "Post times are local time as shown by Miiverse", "posts": posts})
 
