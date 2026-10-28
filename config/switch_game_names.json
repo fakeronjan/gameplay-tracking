@@ -507,13 +507,17 @@
  "6852C8A221AE506052C1B18E08D71DDC": {
   "name": "Star Fox",
   "title_id": "0400E88025B1A000",
-  "source": "Ronjan (not in titledb yet)"
+  "source": "Ronjan (not in titledb yet)",
+  "art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/StarFox2026Cover.jpg/250px-StarFox2026Cover.jpg",
+  "art_source": "Wikipedia infobox cover (titledb's Switch 2 data stops at Sept 2025)"
  },
  "4E9028EB8202CA9EEE4F7F33BD14487B": {
   "name": "Star Fox",
   "title_id": "0400BED027B42000",
   "source": "Ronjan (not in titledb yet)",
-  "note": "Demo, combined with the full game at Ronjan's request (exception to dropping demos)"
+  "note": "Demo, combined with the full game at Ronjan's request (exception to dropping demos)",
+  "art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/StarFox2026Cover.jpg/250px-StarFox2026Cover.jpg",
+  "art_source": "Wikipedia infobox cover (titledb's Switch 2 data stops at Sept 2025)"
  },
  "620DEDD799C167AA5DC21748D308AA77": {
   "name": "Rhythm Heaven Groove",
