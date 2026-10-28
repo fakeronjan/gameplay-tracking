@@ -231,12 +231,13 @@ def split_collections(entries, unlocks, rules):
             if u["earned"]:
                 part["days"].append(et_day(u["earned"]))
             u["entry"] = sub
-        allocate(parent.get("minutes"), parent.get("sessions"), list(parts.values()), lambda e: len(set(e["days"])))
+        allocate(parent.get("minutes"), parent.get("sessions"), list(parts.values()), lambda e: len(set(e["days"])),
+                 parent["name"])
         entries.update(parts)
         entries[eid] = {"split_into": sorted(parts)}  # placeholder so play records can find the parts
 
 
-def allocate(minutes, sessions, parts, weight):
+def allocate(minutes, sessions, parts, weight, source):
     """Share a collection's hours and sessions across its games by weight (days played).
     One game with any weight gets everything, and that's exact; several get an estimate."""
     weights = [weight(e) for e in parts]
@@ -253,6 +254,7 @@ def allocate(minutes, sessions, parts, weight):
             e["sessions"] = (e.get("sessions") or 0) + round(sessions * w / total)
         if estimated:
             e["estimated"] = True
+            e.setdefault("estimated_from", []).append(display(source))
     return True
 
 
@@ -281,7 +283,7 @@ def add_play_record(entries, links, eid, p):
     in_window = lambda e: len({d for d in e["days"] if first and first <= d <= last})
     comps = [entries[c] for c in parts]
     for weight in (in_window, lambda e: len(set(e["days"]))):
-        if allocate(record["minutes"], record["sessions"], comps, weight):
+        if allocate(record["minutes"], record["sessions"], comps, weight, record["name"]):
             sole = [e for e in comps if weight(e)]
             if len(sole) == 1:  # all of it is one game's, so its first and last played dates are too
                 sole[0]["days"] = sole[0]["days"] + record["days"]
@@ -347,6 +349,7 @@ def build():
                                for f in sorted({e["family"] for e in es if e["days"]})},
             "hours": round(sum(mins) / 60, 1) if mins else None,
             "hours_estimated": any(e.get("estimated") for e in es),
+            "estimated_from": sorted({s for e in es for s in e.get("estimated_from", [])}),
             "sessions": sum(e.get("sessions") or 0 for e in es) or None,
             "entries": sorted(({"id": i, **{k: v for k, v in entries[i].items() if k != "days"},
                                 "name": display(entries[i]["name"]),
