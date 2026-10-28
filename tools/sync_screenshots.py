@@ -1,11 +1,11 @@
-"""Rebuild and publish when new Switch or PlayStation screenshots land in the archives.
+"""Rebuild and publish after new Switch or PlayStation screenshots are copied into the archives.
 
-Runs locally from launchd (com.ronjan.gameplay-screenshots.plist) daily at 9am. It does nothing
-unless the archives changed since the last successful run and nothing has been copied in for
-QUIET seconds (a big copy can take a while; mid-copy, it waits for the next day). Then it rebuilds the Switch play history
-(build_frozen -> build_games -> fetch_images), pushes gameplay-tracking, rebuilds the galleries
-and trophy moments (build_gallery), and pushes gameplay-screenshots. A macOS notification says
-how it went; a new Switch game or PlayStation folder needs a config entry and fails loudly.
+Run by hand after a copy (a few times a year). It does nothing unless the archives changed since
+the last successful run and nothing has been copied in for QUIET seconds; --force skips both
+checks. It rebuilds the Switch play history (build_frozen -> build_games -> fetch_images),
+pushes gameplay-tracking, rebuilds the galleries and trophy moments (build_gallery), and pushes
+gameplay-screenshots. A new Switch game or PlayStation folder needs a config entry and fails
+loudly; the details are in local/sync.log.
 
     .venv/bin/python tools/sync_screenshots.py [--force]
 """
