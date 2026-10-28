@@ -1,0 +1,19 @@
+{
+ "_notes": "PlayStation screenshot folders (named by the PS5) that don't match a game row by name. A list means the folder holds several games (a collection): screenshots go to the game with the nearest trophy date, trophy captures to the game whose trophy they show. null = leave out.",
+ "Mass Effect™ Legendary Edition": [
+  "Mass Effect",
+  "Mass Effect 2",
+  "Mass Effect 3"
+ ],
+ "Uncharted_ The Nathan Drake Collection™": [
+  "Uncharted: Drake's Fortune",
+  "Uncharted 2: Among Thieves",
+  "Uncharted 3: Drake's Deception"
+ ],
+ "Other": null,
+ "Apollo Justice_ Ace Attorney Trilogy": null,
+ "Disney Villains Cursed Café": null,
+ "Hogwarts Legacy": null,
+ "Mafia_ The Old Country": null,
+ "Marvel's Spider-Man_ Miles Morales": null
+}
