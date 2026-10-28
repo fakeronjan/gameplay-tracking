@@ -6264,7 +6264,7 @@
   "rarity": 89.5,
   "earned": "2023-10-06T17:46:26Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR17582_00_00D4D20D75C560601AE1762D561D133DEFC8F7BE27/1F35A9AA8929E5E6A0D2CB30841EA095AECEB50D.PNG",
-  "game": "catherine-full-body"
+  "game": "catherine-catherine-full-body"
  },
  {
   "entry": "psn:NPWR35517_00",
@@ -9892,7 +9892,7 @@
   "rarity": 11.6,
   "earned": "2021-09-18T23:08:40Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR08378_00_0018F3FCEA5B3F3FDC387F653A5D776DAD5D3A9A38/BD8CDF945A18DCA34146D896BDDEC640AEE7F76B.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:fakeronjan:1694487955",
@@ -13205,7 +13205,7 @@
   "rarity": 42.11,
   "earned": "2019-08-12T13:21:20.6800000Z",
   "gamertag": "fakeronjan",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:fakeronjan:1128466428",
@@ -13215,7 +13215,7 @@
   "rarity": 12.87,
   "earned": "2019-08-12T12:46:27.1470000Z",
   "gamertag": "fakeronjan",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:fakeronjan:1128466428",
@@ -13225,7 +13225,7 @@
   "rarity": 4.31,
   "earned": "2019-08-11T20:59:23.8370000Z",
   "gamertag": "fakeronjan",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:fakeronjan:791051466",
@@ -13525,7 +13525,7 @@
   "rarity": 2.8,
   "earned": "2018-06-16T13:55:29Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR08378_00_0018F3FCEA5B3F3FDC387F653A5D776DAD5D3A9A38/A70CE3D9587BC726A1A9234666194874402BD76E.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR12518_00",
@@ -15353,7 +15353,7 @@
   "rarity": 9.7,
   "earned": "2016-02-18T02:34:11Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR08378_00_0018F3FCEA5B3F3FDC387F653A5D776DAD5D3A9A38/3902371FB2A91300726A194760027C4485D805B2.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR08378_00",
@@ -15363,7 +15363,7 @@
   "rarity": 34.8,
   "earned": "2016-02-18T02:29:21Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR08378_00_0018F3FCEA5B3F3FDC387F653A5D776DAD5D3A9A38/4F6E3E44E41F5FB1A95E8BBB2451163C3C215809.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR07518_00",
@@ -15823,7 +15823,7 @@
   "rarity": 6.9,
   "earned": "2016-02-05T19:07:28Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR08378_00_0018F3FCEA5B3F3FDC387F653A5D776DAD5D3A9A38/11ADBECEE6D78F3C7D4B79295CBEB3563DE1DFB8.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR08323_00",
@@ -17895,7 +17895,7 @@
   "rarity": 36.7,
   "earned": "2015-01-04T14:37:37Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR07688_00_007425772461A59246DD31DF4814BE35D8D5FF3860/E2DF4311F5A6ECE3ACE8DC4F33B46D011F8B71FC.PNG",
-  "game": "retro-city-rampage-dx"
+  "game": "retro-city-rampage"
  },
  {
   "entry": "psn:NPWR07688_00",
@@ -17905,7 +17905,7 @@
   "rarity": 27.5,
   "earned": "2015-01-04T14:35:12Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR07688_00_007425772461A59246DD31DF4814BE35D8D5FF3860/1A048503BF76F2B0F6C85EB9151D35C5E283428A.PNG",
-  "game": "retro-city-rampage-dx"
+  "game": "retro-city-rampage"
  },
  {
   "entry": "psn:NPWR07242_00",
@@ -18345,7 +18345,7 @@
   "rarity": 39.0,
   "earned": "2014-11-16T23:34:15Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR07688_00_007425772461A59246DD31DF4814BE35D8D5FF3860/6A56A86A780A89F2E80AC4D1289C5154678ABF5E.PNG",
-  "game": "retro-city-rampage-dx"
+  "game": "retro-city-rampage"
  },
  {
   "entry": "psn:NPWR07688_00",
@@ -18355,7 +18355,7 @@
   "rarity": 90.4,
   "earned": "2014-11-12T23:39:25Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR07688_00_007425772461A59246DD31DF4814BE35D8D5FF3860/898D33B4B7FDF0851ACC4764DF496AF7B3783672.PNG",
-  "game": "retro-city-rampage-dx"
+  "game": "retro-city-rampage"
  },
  {
   "entry": "psn:NPWR06278_00",
@@ -18935,7 +18935,7 @@
   "rarity": 55.6,
   "earned": "2014-08-12T02:11:39Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00906_00_00B3A6E2E82548802D769FBB9532649FA33F0B2065/778BAEFB4729A60D17171593FD782BD9693599DD.PNG",
-  "game": "catherine"
+  "game": "catherine-catherine-full-body"
  },
  {
   "entry": "psn:NPWR00906_00",
@@ -18945,7 +18945,7 @@
   "rarity": 67.9,
   "earned": "2014-08-10T14:48:45Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00906_00_00B3A6E2E82548802D769FBB9532649FA33F0B2065/56D21658A6CEF323F699984C01D2C1F165AF403B.PNG",
-  "game": "catherine"
+  "game": "catherine-catherine-full-body"
  },
  {
   "entry": "psn:NPWR00906_00",
@@ -18955,7 +18955,7 @@
   "rarity": 85.7,
   "earned": "2014-08-10T03:02:34Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00906_00_00B3A6E2E82548802D769FBB9532649FA33F0B2065/E7408A4B604E4050160CECB3D921A1D57EA0FCFB.PNG",
-  "game": "catherine"
+  "game": "catherine-catherine-full-body"
  },
  {
   "entry": "psn:NPWR05423_00",
@@ -25843,7 +25843,7 @@
   "rarity": 13.14,
   "earned": "2011-05-14T22:18:54.3970000Z",
   "gamertag": "rogerage",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:rogerage:1128466428",
@@ -25853,7 +25853,7 @@
   "rarity": 42.11,
   "earned": "2011-05-14T22:14:55.3130000Z",
   "gamertag": "rogerage",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:rogerage:1128466428",
@@ -25863,7 +25863,7 @@
   "rarity": 4.31,
   "earned": "2011-05-08T04:27:10.0900000Z",
   "gamertag": "rogerage",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:rogerage:1128466428",
@@ -25873,7 +25873,7 @@
   "rarity": 14.08,
   "earned": "2011-05-08T04:24:22.5730000Z",
   "gamertag": "rogerage",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:rogerage:1464993789",
@@ -25933,7 +25933,7 @@
   "rarity": 12.87,
   "earned": "2011-05-04T23:44:20.1430000Z",
   "gamertag": "rogerage",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "xbox:rogerage:1297287405",
@@ -28203,7 +28203,7 @@
   "rarity": 22.9,
   "earned": "2010-05-23T21:44:03Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/E0502219DC836C720EDA2BFA87CD2314A6B13AA3.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00938_00",
@@ -28213,7 +28213,7 @@
   "rarity": 8.4,
   "earned": "2010-05-23T20:59:33Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/45E99F1DD5B198CF394C5A32265B17B656873460.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00938_00",
@@ -28223,7 +28223,7 @@
   "rarity": 27.1,
   "earned": "2010-05-23T20:46:35Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/C1D96B24BC3AF742D46AD289797AE8AEE29CCE50.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00938_00",
@@ -28233,7 +28233,7 @@
   "rarity": 59.4,
   "earned": "2010-05-21T22:48:40Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/C0897F58DB4738F9296B3BC617A33ACC2218E20E.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00234_00",
@@ -28263,7 +28263,7 @@
   "rarity": 3.8,
   "earned": "2010-05-09T01:58:44Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/B099D517678E51E9764D38A70790759DF9743BAB.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00938_00",
@@ -28273,7 +28273,7 @@
   "rarity": 18.9,
   "earned": "2010-05-08T21:59:56Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/4CCEE1D0D61E6F592DB88E4C1627438A546643EA.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00938_00",
@@ -28283,7 +28283,7 @@
   "rarity": 20.7,
   "earned": "2010-05-08T21:52:06Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/473AC639E169C3E2BC371235B156E5B1E25BE469.PNG",
-  "game": "super-street-fighter-iv-ultra-street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00986_00",
@@ -30783,7 +30783,7 @@
   "rarity": 34.6,
   "earned": "2009-03-21T05:00:53Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/D30DBF0130A4402D16A07118E47709A24C919B28.PNG",
-  "game": "street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00357_00",
@@ -30923,7 +30923,7 @@
   "rarity": 8.3,
   "earned": "2009-03-08T20:36:58Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/1A4AD5B67C545C408381F07AC4E237EC1C7F55EB.PNG",
-  "game": "street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00434_00",
@@ -30933,7 +30933,7 @@
   "rarity": 25.4,
   "earned": "2009-03-08T14:58:30Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/C392D035A80A7988A305D8F182DCD03FDAFA13C4.PNG",
-  "game": "street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00434_00",
@@ -30943,7 +30943,7 @@
   "rarity": 26.7,
   "earned": "2009-03-08T02:11:25Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/63C7D4630879C9C191132E578B8DC332F4701577.PNG",
-  "game": "street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00434_00",
@@ -30953,7 +30953,7 @@
   "rarity": 60.4,
   "earned": "2009-03-07T14:54:31Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/A9FA022C33A3BEFB893597B04F3B99BE3359A892.PNG",
-  "game": "street-fighter-iv"
+  "game": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv"
  },
  {
   "entry": "psn:NPWR00234_00",

@@ -81,12 +81,29 @@
   [
    "switch:8D0431B7EC842E9F2D1F69F8B6F05255",
    "steam:416690"
+  ],
+  [
+   "psn:NPWR00434_00",
+   "psn:NPWR00938_00",
+   "xbox:rogerage:1128466428",
+   "psn-played:CUSA01846_00",
+   "psn:NPWR08378_00",
+   "xbox:fakeronjan:1128466428"
+  ],
+  [
+   "psn:NPWR00906_00",
+   "psn-played:CUSA14836_00",
+   "psn:NPWR17582_00"
+  ],
+  [
+   "psn:NPWR03593_00",
+   "psn-played:CUSA01316_00",
+   "psn:NPWR07688_00"
   ]
  ],
  "split": [],
  "names": {
   "psn-played:CUSA05877_00": "Persona 5 + Persona 5 Royal",
-  "psn-played:CUSA01846_00": "Super Street Fighter IV + Ultra Street Fighter IV",
   "psn-played:CUSA00151_00": "Guacamelee!",
   "psn:NPWR05620_00": "Danganronpa: Trigger Happy Havoc",
   "psn-played:CUSA09188_00": "Mutant Football League",
@@ -124,7 +141,10 @@
   "psn-played:CUSA26985_00": "What the Dub?!",
   "switch:CCFE55975D68069E990E9064D7B828A9": "Cadence of Hyrule",
   "switch:72CA1DED7AF149F87216AAA92ACC6ECE": "NBA 2K18",
-  "steam:416690": "Oh...Sir! The Insult Simulator"
+  "steam:416690": "Oh...Sir! The Insult Simulator",
+  "psn-played:CUSA01846_00": "Street Fighter IV + Super Street Fighter IV + Ultra Street Fighter IV",
+  "psn-played:CUSA14836_00": "Catherine + Catherine: Full Body",
+  "psn-played:CUSA01316_00": "Retro City Rampage"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
  "exclude": {

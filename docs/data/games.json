@@ -4708,11 +4708,14 @@
   ]
  },
  {
-  "id": "super-street-fighter-iv-ultra-street-fighter-iv",
-  "name": "Super Street Fighter IV + Ultra Street Fighter IV",
-  "first": "2010-05-08",
+  "id": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv",
+  "name": "Street Fighter IV + Super Street Fighter IV + Ultra Street Fighter IV",
+  "first": "2009-03-07",
   "last": "2024-06-21",
   "days": [
+   "2009-03-07",
+   "2009-03-08",
+   "2009-03-21",
    "2010-05-08",
    "2010-05-21",
    "2010-05-23",
@@ -4733,6 +4736,17 @@
   ],
   "hours": 24.2,
   "entries": [
+   {
+    "id": "psn:NPWR00434_00",
+    "family": "PlayStation",
+    "platform": "PS3",
+    "name": "Street Fighter IV",
+    "minutes": null,
+    "earned": 5,
+    "total": 48,
+    "first": "2009-03-07",
+    "last": "2009-03-21"
+   },
    {
     "id": "psn:NPWR00938_00",
     "family": "PlayStation",
@@ -5433,11 +5447,14 @@
   ]
  },
  {
-  "id": "catherine-full-body",
-  "name": "Catherine: Full Body",
-  "first": "2023-10-06",
+  "id": "catherine-catherine-full-body",
+  "name": "Catherine + Catherine: Full Body",
+  "first": "2014-08-09",
   "last": "2023-10-17",
   "days": [
+   "2014-08-09",
+   "2014-08-10",
+   "2014-08-11",
    "2023-10-06",
    "2023-10-17"
   ],
@@ -5446,6 +5463,17 @@
   ],
   "hours": 0.4,
   "entries": [
+   {
+    "id": "psn:NPWR00906_00",
+    "family": "PlayStation",
+    "platform": "PS3",
+    "name": "Catherine",
+    "minutes": null,
+    "earned": 3,
+    "total": 50,
+    "first": "2014-08-09",
+    "last": "2014-08-11"
+   },
    {
     "id": "psn-played:CUSA14836_00",
     "family": "PlayStation",
@@ -11360,11 +11388,12 @@
   ]
  },
  {
-  "id": "retro-city-rampage-dx",
-  "name": "Retro City Rampage DX",
-  "first": "2014-11-12",
+  "id": "retro-city-rampage",
+  "name": "Retro City Rampage",
+  "first": "2012-10-13",
   "last": "2018-05-28",
   "days": [
+   "2012-10-13",
    "2014-11-12",
    "2014-11-16",
    "2015-01-04",
@@ -11375,6 +11404,17 @@
   ],
   "hours": 2.2,
   "entries": [
+   {
+    "id": "psn:NPWR03593_00",
+    "family": "PlayStation",
+    "platform": "PS3,Vita",
+    "name": "Retro City Rampage",
+    "minutes": null,
+    "earned": 1,
+    "total": 14,
+    "first": "2012-10-13",
+    "last": "2012-10-13"
+   },
    {
     "id": "psn-played:CUSA01316_00",
     "family": "PlayStation",
@@ -14736,34 +14776,6 @@
   ]
  },
  {
-  "id": "catherine",
-  "name": "Catherine",
-  "first": "2014-08-09",
-  "last": "2014-08-11",
-  "days": [
-   "2014-08-09",
-   "2014-08-10",
-   "2014-08-11"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "psn:NPWR00906_00",
-    "family": "PlayStation",
-    "platform": "PS3",
-    "name": "Catherine",
-    "minutes": null,
-    "earned": 3,
-    "total": 50,
-    "first": "2014-08-09",
-    "last": "2014-08-11"
-   }
-  ]
- },
- {
   "id": "the-last-of-us",
   "name": "The Last of Us",
   "first": "2013-06-30",
@@ -15703,32 +15715,6 @@
     "total": 51,
     "first": "2012-08-11",
     "last": "2012-10-29"
-   }
-  ]
- },
- {
-  "id": "retro-city-rampage",
-  "name": "Retro City Rampage",
-  "first": "2012-10-13",
-  "last": "2012-10-13",
-  "days": [
-   "2012-10-13"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "psn:NPWR03593_00",
-    "family": "PlayStation",
-    "platform": "PS3,Vita",
-    "name": "Retro City Rampage",
-    "minutes": null,
-    "earned": 1,
-    "total": 14,
-    "first": "2012-10-13",
-    "last": "2012-10-13"
    }
   ]
  },
@@ -17532,34 +17518,6 @@
     "total": 57,
     "first": "2009-03-19",
     "last": "2009-03-29"
-   }
-  ]
- },
- {
-  "id": "street-fighter-iv",
-  "name": "Street Fighter IV",
-  "first": "2009-03-07",
-  "last": "2009-03-21",
-  "days": [
-   "2009-03-07",
-   "2009-03-08",
-   "2009-03-21"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "psn:NPWR00434_00",
-    "family": "PlayStation",
-    "platform": "PS3",
-    "name": "Street Fighter IV",
-    "minutes": null,
-    "earned": 5,
-    "total": 48,
-    "first": "2009-03-07",
-    "last": "2009-03-21"
    }
   ]
  },
