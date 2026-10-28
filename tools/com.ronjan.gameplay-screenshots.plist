@@ -11,10 +11,16 @@
         <string>/Users/ronjan/code/fakeronjan/games/gameplay-tracking/tools/sync_screenshots.py</string>
     </array>
 
-    <!-- Hourly: new screenshots land in subfolders, which WatchPaths on the archive roots
-         wouldn't see. The script exits at once when nothing changed. -->
-    <key>StartInterval</key>
-    <integer>3600</integer>
+    <!-- Daily at 9am, after the morning data update. A schedule rather than WatchPaths, since
+         new screenshots land in subfolders the archive roots don't see. If the Mac is asleep
+         at 9, it runs on wake. The script exits at once when nothing changed. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
 
     <key>StandardErrorPath</key>
     <string>/Users/ronjan/code/fakeronjan/games/gameplay-tracking/local/sync.err.log</string>
