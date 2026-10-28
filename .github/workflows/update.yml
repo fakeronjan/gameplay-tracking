@@ -36,6 +36,11 @@ jobs:
           PSN_NPSSO_EXPIRES: ${{ vars.PSN_NPSSO_EXPIRES }}
         run: python update.py
 
+      # One row per game across every platform, and one list of every unlock
+      - name: Combine platforms
+        if: always()
+        run: python build_games.py
+
       # Runs even when one platform failed, so the other platform's data and
       # status.json still land. The fetch step's failure still fails the run.
       - name: Commit and push updated data

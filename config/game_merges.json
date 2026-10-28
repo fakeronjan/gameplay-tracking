@@ -1,0 +1,90 @@
+{
+ "merge": [
+  [
+   "xbox:fakeronjan:1718697574",
+   "steam:921570",
+   "psn-played:PPSA18286_00",
+   "psn:NPWR39867_00",
+   "switch:Octopath Traveller"
+  ],
+  [
+   "psn-played:CUSA01705_00",
+   "psn:NPWR08359_00",
+   "xbox:fakeronjan:153292310"
+  ],
+  [
+   "psn-played:PPSA03669_00",
+   "psn:NPWR24245_00",
+   "xbox:fakeronjan:1696456823"
+  ],
+  [
+   "psn-played:CUSA19447_00",
+   "psn:NPWR20553_00",
+   "xbox:fakeronjan:2006666244"
+  ],
+  [
+   "psn:NPWR05620_00",
+   "steam:413410",
+   "xbox:fakeronjan:2055582442"
+  ],
+  [
+   "psn-played:CUSA09188_00",
+   "psn:NPWR14324_00",
+   "switch:Mutant Football League: Dynasty Edition"
+  ],
+  [
+   "psn:NPWR01692_00",
+   "steam:55230",
+   "switch:SAINTS ROW: THE THIRD - THE FULL PACKAGE"
+  ],
+  [
+   "psn:NPWR03649_00",
+   "xbox:fakeronjan:933693396",
+   "psn-played:CUSA08418_00",
+   "switch:Okami"
+  ],
+  [
+   "psn-played:CUSA00827_00",
+   "psn:NPWR06967_00",
+   "xbox:fakeronjan:19615130"
+  ],
+  [
+   "psn:NPWR04034_00",
+   "psn:NPWR04730_00",
+   "psn-played:CUSA00079_00",
+   "psn:NPWR05326_00"
+  ],
+  [
+   "psn:NPWR03776_00",
+   "psn-played:CUSA00151_00",
+   "psn:NPWR05423_00",
+   "switch:Guacamelee! Super Turbo Championship Edition",
+   "xbox:fakeronjan:1958071699"
+  ],
+  [
+   "psn-played:CUSA05877_00",
+   "psn:NPWR11866_00",
+   "psn-played:PPSA05109_00",
+   "psn:NPWR25017_00"
+  ]
+ ],
+ "split": [],
+ "names": {
+  "xbox:fakeronjan:1733044130": "Madden NFL 22",
+  "xbox:fakeronjan:1718697574": "Octopath Traveler",
+  "steam:921570": "Octopath Traveler",
+  "psn-played:PPSA18286_00": "Octopath Traveler",
+  "psn:NPWR39867_00": "Octopath Traveler",
+  "psn:NPWR03649_00": "Okami",
+  "xbox:fakeronjan:933693396": "Okami",
+  "psn-played:CUSA08418_00": "Okami",
+  "psn:NPWR04034_00": "Injustice: Gods Among Us",
+  "psn:NPWR04730_00": "Injustice: Gods Among Us",
+  "psn-played:CUSA05877_00": "Persona 5 Royal",
+  "psn:NPWR11866_00": "Persona 5 Royal",
+  "psn:NPWR03776_00": "Guacamelee! Super Turbo Championship Edition",
+  "psn:NPWR01692_00": "Saints Row: The Third",
+  "steam:55230": "Saints Row: The Third"
+ },
+ "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row"
+}
