@@ -111,6 +111,21 @@ def psn_paged(auth, url, key, extra=None):
             return items
 
 
+def psn_link_trophy_lists(auth, played, old_played):
+    """Sony's own mapping from a played title to its trophy list(s), so hours and
+    trophies join by ID instead of by name. Only titles not linked before are asked."""
+    for tid, p in played.items():
+        if "trophy_lists" in old_played.get(tid, {}):
+            p["trophy_lists"] = old_played[tid]["trophy_lists"]
+    todo = [tid for tid, p in played.items() if "trophy_lists" not in p]
+    for i in range(0, len(todo), 5):
+        batch = todo[i:i + 5]
+        resp = auth.get(url=f"{TROPHY}/users/me/titles/trophyTitles", params={"npTitleIds": ",".join(batch)}).json()
+        for t in resp.get("titles", []):
+            if t["npTitleId"] in played:
+                played[t["npTitleId"]]["trophy_lists"] = sorted(x["npCommunicationId"] for x in t["trophyTitles"])
+
+
 def seed_psn(raw_dir):
     raw = Path(raw_dir)
     titles = {}
@@ -148,6 +163,7 @@ def update_psn(log):
 
     played = psn_played(psn_paged(auth, f"{GAMELIST}/users/me/titles", "titles",
                                   {"categories": "ps4_game,ps5_native_game"}))
+    psn_link_trophy_lists(auth, played, old["played"])
     for tid, p in played.items():
         # A game new to the list counts from 0; with no previous file at all there's no baseline yet
         before = old["played"].get(tid, {}).get("minutes", 0) if old["played"] else None
