@@ -11612,16 +11612,29 @@
  {
   "id": "oh-sir-the-insult-simulator",
   "name": "Oh...Sir! The Insult Simulator",
-  "first": "2018-03-08",
+  "first": "2016-01-23",
   "last": "2018-03-08",
   "days": [
+   "2016-01-23",
    "2018-03-08"
   ],
   "families": [
-   "Nintendo"
+   "Nintendo",
+   "Steam"
   ],
-  "hours": null,
+  "hours": 0.4,
   "entries": [
+   {
+    "id": "steam:416690",
+    "family": "Steam",
+    "platform": "PC",
+    "name": "Oh...Sir! Prototype",
+    "minutes": 25,
+    "earned": null,
+    "total": null,
+    "first": "2016-01-23",
+    "last": "2016-01-23"
+   },
    {
     "id": "switch:8D0431B7EC842E9F2D1F69F8B6F05255",
     "family": "Nintendo",
@@ -13112,32 +13125,6 @@
     "minutes": 19,
     "earned": 3,
     "total": 33,
-    "first": "2016-01-23",
-    "last": "2016-01-23"
-   }
-  ]
- },
- {
-  "id": "oh-sir-prototype",
-  "name": "Oh...Sir! Prototype",
-  "first": "2016-01-23",
-  "last": "2016-01-23",
-  "days": [
-   "2016-01-23"
-  ],
-  "families": [
-   "Steam"
-  ],
-  "hours": 0.4,
-  "entries": [
-   {
-    "id": "steam:416690",
-    "family": "Steam",
-    "platform": "PC",
-    "name": "Oh...Sir! Prototype",
-    "minutes": 25,
-    "earned": null,
-    "total": null,
     "first": "2016-01-23",
     "last": "2016-01-23"
    }

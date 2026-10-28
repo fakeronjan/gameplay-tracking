@@ -77,6 +77,10 @@
    "psn:NPWR00938_00",
    "psn-played:CUSA01846_00",
    "psn:NPWR08378_00"
+  ],
+  [
+   "switch:8D0431B7EC842E9F2D1F69F8B6F05255",
+   "steam:416690"
   ]
  ],
  "split": [],
@@ -119,7 +123,8 @@
   "steam:32370": "Star Wars: Knights of the Old Republic",
   "psn-played:CUSA26985_00": "What the Dub?!",
   "switch:CCFE55975D68069E990E9064D7B828A9": "Cadence of Hyrule",
-  "switch:72CA1DED7AF149F87216AAA92ACC6ECE": "NBA 2K18"
+  "switch:72CA1DED7AF149F87216AAA92ACC6ECE": "NBA 2K18",
+  "steam:416690": "Oh...Sir! The Insult Simulator"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
  "exclude": {
