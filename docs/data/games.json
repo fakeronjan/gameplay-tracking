@@ -176,6 +176,7 @@
    "2015-01-03",
    "2021-12-28",
    "2022-01-17",
+   "2022-03-18",
    "2022-07-16",
    "2025-12-26",
    "2026-10-03"
@@ -184,7 +185,7 @@
    "PlayStation",
    "Xbox"
   ],
-  "hours": 162.3,
+  "hours": 163.2,
   "entries": [
    {
     "id": "psn:NPWR03885_00",
@@ -230,6 +231,18 @@
     "gamertag": "fakeronjan",
     "first": "2021-12-28",
     "last": "2022-01-17"
+   },
+   {
+    "id": "xbox:fakeronjan:1778348973",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Grand Theft Auto Online",
+    "minutes": 52,
+    "earned": 2,
+    "total": 0,
+    "gamertag": "fakeronjan",
+    "first": "2022-03-18",
+    "last": "2022-03-18"
    },
    {
     "id": "psn-played:PPSA03420_00",
@@ -7777,33 +7790,6 @@
     "gamertag": "fakeronjan",
     "first": "2022-04-03",
     "last": "2022-04-03"
-   }
-  ]
- },
- {
-  "id": "grand-theft-auto-online",
-  "name": "Grand Theft Auto Online",
-  "first": "2022-03-18",
-  "last": "2022-03-18",
-  "days": [
-   "2022-03-18"
-  ],
-  "families": [
-   "Xbox"
-  ],
-  "hours": 0.9,
-  "entries": [
-   {
-    "id": "xbox:fakeronjan:1778348973",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "Grand Theft Auto Online",
-    "minutes": 52,
-    "earned": 2,
-    "total": 0,
-    "gamertag": "fakeronjan",
-    "first": "2022-03-18",
-    "last": "2022-03-18"
    }
   ]
  },

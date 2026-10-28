@@ -99,6 +99,15 @@
    "psn:NPWR03593_00",
    "psn-played:CUSA01316_00",
    "psn:NPWR07688_00"
+  ],
+  [
+   "psn:NPWR03885_00",
+   "psn-played:CUSA00419_00",
+   "psn:NPWR06221_00",
+   "xbox:fakeronjan:972249091",
+   "psn-played:PPSA03420_00",
+   "psn:NPWR21647_00",
+   "xbox:fakeronjan:1778348973"
   ]
  ],
  "split": [],
@@ -144,7 +153,8 @@
   "steam:416690": "Oh...Sir! The Insult Simulator",
   "psn-played:CUSA01846_00": "Street Fighter IV + Super Street Fighter IV + Ultra Street Fighter IV",
   "psn-played:CUSA14836_00": "Catherine + Catherine: Full Body",
-  "psn-played:CUSA01316_00": "Retro City Rampage"
+  "psn-played:CUSA01316_00": "Retro City Rampage",
+  "psn-played:CUSA00419_00": "Grand Theft Auto V"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
  "exclude": {
