@@ -1,46 +1,46 @@
 [
  {
-  "entry": "psn:NPWR20850_00",
+  "entry": "psn:NPWR20850_00#*",
   "name": "Search and Rescue",
   "detail": "ME1: Locate Dr. T'soni in the Artemis Tau cluster",
   "kind": "silver",
   "rarity": 41.8,
   "earned": "2026-10-28T01:33:16Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/674E84F70613A6B66D24719B44AACB0216A4065A.PNG",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect",
   "img": "img/u/cbc66cdedcabcfdb.webp"
  },
  {
-  "entry": "psn:NPWR20850_00",
+  "entry": "psn:NPWR20850_00#*",
   "name": "Archivist",
   "detail": "ME1: Find all primary Alien: Council Races, Extinct Races and Non-Council Races codex entries ",
   "kind": "silver",
   "rarity": 17.0,
   "earned": "2026-10-28T00:27:12Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/8C2F762C49417C4BB5F2237B372FCE075987D02E.PNG",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect",
   "img": "img/u/93adb1ecbcda0292.webp"
  },
  {
-  "entry": "psn:NPWR20850_00",
+  "entry": "psn:NPWR20850_00#*",
   "name": "Spectre Inductee",
   "detail": "ME1: Become a Spectre",
   "kind": "bronze",
   "rarity": 52.4,
   "earned": "2026-10-28T00:00:30Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D68F0142D3A715931A509B5C19263089F371D3D2.PNG",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect",
   "img": "img/u/c387c07d8811b77d.webp"
  },
  {
-  "entry": "psn:NPWR20850_00",
+  "entry": "psn:NPWR20850_00#*",
   "name": "Distinguished Service Medal",
   "detail": "ME1: Complete Eden Prime",
   "kind": "silver",
   "rarity": 70.5,
   "earned": "2026-10-27T13:04:53Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/C3955C064D5421AC1B0A1FACD57842965CD1DC84.PNG",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect",
   "img": "img/u/19209f28588f83c8.webp"
  },
  {
@@ -9531,7 +9531,7 @@
   "img": "img/u/576d4e35072bab74.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Unstoppable!",
   "detail": "Defeat 100 enemies in a row without dying in combat",
   "kind": "silver",
@@ -9542,7 +9542,7 @@
   "img": "img/u/bc5552bcc8fb2828.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Take a Note",
   "detail": "Find a Journal Note",
   "kind": "bronze",
@@ -9553,7 +9553,7 @@
   "img": "img/u/fb363b46a64becf3.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Stealth First Ask Questions Later",
   "detail": "Stealth take-down 5 enemies",
   "kind": "bronze",
@@ -9564,7 +9564,7 @@
   "img": "img/u/89dc1279c2b97b7f.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Stage Fright",
   "detail": "Just prior to City Chase, stand perfectly still for 30 seconds (stage demo fail)",
   "kind": "bronze",
@@ -9575,7 +9575,7 @@
   "img": "img/u/7dc295a3f86338f3.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Jot This Down",
   "detail": "Find a Journal Entry",
   "kind": "bronze",
@@ -9586,7 +9586,7 @@
   "img": "img/u/432cf16dbd58c3f1.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Head of the Class!",
   "detail": "Defeat 20 enemies with headshots",
   "kind": "bronze",
@@ -9597,7 +9597,7 @@
   "img": "img/u/f9e73bf556a0c890.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Don't Feed the Animals",
   "detail": "Play with the lemur in the market and let it steal your apple",
   "kind": "bronze",
@@ -9608,7 +9608,7 @@
   "img": "img/u/d47cdf4d4bd9c966.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "First Treasure",
   "detail": "Find a Treasure",
   "kind": "bronze",
@@ -9619,7 +9619,7 @@
   "img": "img/u/d1dde28edaaa8486.webp"
  },
  {
-  "entry": "psn:NPWR26589_00",
+  "entry": "psn:NPWR26589_00#default",
   "name": "Charted! - Explorer",
   "detail": "Complete the game in explorer mode",
   "kind": "bronze",
@@ -11692,7 +11692,7 @@
   "img": "img/u/724f55329f7030fb.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME2",
   "name": "Scholar",
   "detail": "ME2: Unlock 15 new Mass Effect 2 codex entries",
   "kind": "10G",
@@ -11700,7 +11700,7 @@
   "earned": "2021-06-01T01:17:37.2570000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsd_l.nSj5SoSXDCfTg7gcqmukp5QBzNLpk4oMb0KO9NEtAEI81CnYcyJCsjB8KUadMh7kue1P9a06TJjS94UmfPdHK2tLPTcXeSgYcQ4BguDKHgZCQegXUesmfAIKaqnuzOYkq5vHYtNcf.vsVBeGLRU-",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect-2",
   "img": "img/u/6610c9e835eb3ad3.webp"
  },
  {
@@ -11715,7 +11715,7 @@
   "img": "img/u/b808e99810b73d30.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME2",
   "name": "The Professor",
   "detail": "ME2: Successfully recruit the Professor",
   "kind": "10G",
@@ -11723,11 +11723,11 @@
   "earned": "2021-05-31T15:41:41.7000000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsd4rpnhQtzXEshhJAab7MXcQOei21vuf2o1DYKvB0SkY21HvfQU8T7FVZR9_XKno6SMKEhGavk3LGbvOEsIdEPOleAxtvp37d3tac8xhwcZAy.IyP1LZznf1Kl50EOe790w--",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect-2",
   "img": "img/u/b3c13dc019292556.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME2",
   "name": "Merciless",
   "detail": "ME2: Make 20 enemies scream as they fall or are set on fire",
   "kind": "10G",
@@ -11735,7 +11735,7 @@
   "earned": "2021-05-31T15:32:37.6830000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsd0tIq4FnJyKMtYrPz5QdtVthHTekzh.2o.bbt1hlSVo0aGaOfRVmBUJWS8awjrxkXswrmwXCri8WMP.R_CxVAn3kqSO2JDuLvx_zzgZdZIUzvX3aAu5ynvRpemFPLi0GFxMitfSNWG4iJEdPVUjxpe4-",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect-2",
   "img": "img/u/238e93e493215aed.webp"
  },
  {
@@ -11799,7 +11799,7 @@
   "img": "img/u/265e056143dec26b.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME2",
   "name": "Very Elusive",
   "detail": "ME2: Return to active duty",
   "kind": "10G",
@@ -11807,11 +11807,11 @@
   "earned": "2021-05-30T14:29:02.7430000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsdwBojwnYh20yDsWP7HaONa3V_lvZkkU6BiZDLjq_LyGqNSG4ZCjbXsHppWedRudyfhoKpF6y4DkQxQaUYLZJxTlOPAPNSnrKNFWM23Z_0lDoTTx3AEVR5WXNwb6R3hHFbQ--",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect-2",
   "img": "img/u/d06a2961a4b1df93.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME2",
   "name": "Missing in Action",
   "detail": "ME2: Save your crew from an overwhelming attack",
   "kind": "5G",
@@ -11819,7 +11819,7 @@
   "earned": "2021-05-30T13:59:40.0600000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsd4Pi2EpqrpbQvoHERsIm8IuaFAvwIS4MgVwNCENGe_Aj1YVvjTC4ZCAfpBfuoft3eEUT4u0BNq3Q898GT6njruPP7DiwR4nUfO1zg9TMnyAmEsnXaxJH50kH6SXZPX0vaClaSx4ZBqR1xUfq808REhk-",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect-2",
   "img": "img/u/21b03206caf89996.webp"
  },
  {
@@ -11835,7 +11835,7 @@
   "img": "img/u/cdbad85c2c76f13f.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME1",
   "name": "Spectre Inductee",
   "detail": "ME1: Become a Spectre",
   "kind": "15G",
@@ -11843,11 +11843,11 @@
   "earned": "2021-05-23T21:53:54.2900000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsd97MltCDWtKjuh0xGuKWFFQxIMeygJUJrkJ90Ai6WvnuRx4dCCxno4wpP0EYLq3QAbqZDvn44MMrayHt79YRBoVd35I0xpELfANSG__XtGOY",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect",
   "img": "img/u/70ac3f420d6973b4.webp"
  },
  {
-  "entry": "xbox:fakeronjan:2054685746",
+  "entry": "xbox:fakeronjan:2054685746#ME1",
   "name": "Distinguished Service Medal",
   "detail": "ME1: Complete Eden Prime",
   "kind": "25G",
@@ -11855,7 +11855,7 @@
   "earned": "2021-05-23T16:59:50.3630000Z",
   "gamertag": "fakeronjan",
   "icon": "https://images-eds-ssl.xboxlive.com/image?url=27S1DHqE.cHkmFg4nspsd7Np1s3h.sEXYNd5BdcOQKucSLu9Y4O9weE8yRGqaquVTpIL5e4e90Z0_BhuBaeIloYq3B1iE90OdX5C6VljOuBRqsRRJz4GdD8Zl9TcZvuk",
-  "game": "mass-effect-legendary-edition",
+  "game": "mass-effect",
   "img": "img/u/ae08790bf05a0965.webp"
  },
  {

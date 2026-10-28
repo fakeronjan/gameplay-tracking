@@ -189,10 +189,36 @@
   "xbox:fakeronjan:1621285366": "DOOM (1993)",
   "xbox:fakeronjan:252034287": "The Elder Scrolls V: Skyrim"
  },
- "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row",
+ "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row; collections: split one collection list into its games (see build_games.split_collections)",
  "exclude": {
   "psn-played:CUSA00572_00": "app, not a game",
   "psn-played:PPSA01280_00": "app, not a game",
   "psn-played:PPSA13289_00": "app, not a game"
+ },
+ "collections": {
+  "psn:NPWR20850_00": {
+   "by": "all",
+   "parts": {
+    "*": "Mass Effect"
+   },
+   "why": "Legendary Edition's Mass Effect 1 trophy list"
+  },
+  "xbox:fakeronjan:2054685746": {
+   "by": "prefix",
+   "parts": {
+    "ME1": "Mass Effect",
+    "ME2": "Mass Effect 2",
+    "ME3": "Mass Effect 3"
+   },
+   "why": "Xbox Legendary Edition: one list, achievements labeled ME1/ME2/ME3"
+  },
+  "psn:NPWR26589_00": {
+   "by": "group",
+   "parts": {
+    "default": "Uncharted 4: A Thief's End",
+    "001": "Uncharted: The Lost Legacy"
+   },
+   "why": "PS5 Legacy of Thieves: one list, trophy groups per game"
+  }
  }
 }

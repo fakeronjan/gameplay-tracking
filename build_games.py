@@ -132,8 +132,9 @@ class Groups:
         self.parent[self.find(a)] = self.find(b)
 
 
-def entries_and_unlocks():
+def entries_and_unlocks(cfg=None):
     """Every per-platform entry, keyed by a stable id, and every dated unlock."""
+    cfg = cfg if cfg is not None else json.loads((HERE / "config" / "game_merges.json").read_text())
     entries, unlocks, links = {}, [], []
 
     psn = load("psn.json")
@@ -143,23 +144,10 @@ def entries_and_unlocks():
         for tr in t["trophies"]:
             days.append(et_day(tr["earned"]))
             unlocks.append({"entry": eid, "name": tr["name"], "detail": tr["detail"], "kind": tr["type"],
-                            "rarity": tr["rarity"], "earned": tr["earned"], "icon": tr.get("icon")})
+                            "rarity": tr["rarity"], "earned": tr["earned"], "icon": tr.get("icon"), "group": tr.get("group")})
         entries[eid] = {"family": "PlayStation", "platform": t["platform"].replace("PSVITA", "Vita"),
                         "name": t["name"], "days": days, "minutes": None, "art": t.get("icon"),
                         "earned": len(t["trophies"]), "total": sum(t["defined"].values())}
-    for tid, p in psn["played"].items():
-        eid = f"psn-played:{tid}"
-        days = [et_day(p[k]) for k in ("first_played", "last_played") if p.get(k)]
-        entries[eid] = {"family": "PlayStation", "platform": "PS5" if p["category"] == "ps5_native_game" else "PS4",
-                        "name": p["name"], "days": days, "minutes": p["minutes"], "earned": None, "total": None,
-                        "art": p.get("image")}
-        lists = [f"psn:{cid}" for cid in p.get("trophy_lists", []) if f"psn:{cid}" in entries]
-        # One trophy list, or several that are the same game (Mass Effect Legendary Edition's two
-        # lists): join them. Several different games (a collection like Uncharted: The Nathan Drake
-        # Collection): the play record stays its own row, since its hours can't be split.
-        if len({word_key(entries[c]["name"]) for c in lists}) == 1:
-            links += [(eid, c) for c in lists]
-
     for gamertag, acct in load("xbox.json")["accounts"].items():
         for tid, t in acct["titles"].items():
             eid = f"xbox:{gamertag}:{tid}"
@@ -203,13 +191,108 @@ def entries_and_unlocks():
         entries[f"miiverse:{name}"] = {"family": "Nintendo", "platform": "Wii U/3DS", "name": name,
                                        "days": days, "minutes": None, "earned": None, "total": None, "art": art[name]}
 
-    # A PSN play record with no activity dates and no trophies adds nothing
+    split_collections(entries, unlocks, cfg.get("collections", {}))
+    for tid, p in psn["played"].items():
+        add_play_record(entries, links, f"psn-played:{tid}", p)
+    for u in unlocks:
+        u.pop("group", None)
     return entries, unlocks, links
+
+
+def split_collections(entries, unlocks, rules):
+    """Split a collection's single trophy or achievement list into one entry per game it holds,
+    so each game's unlocks join that game's row. Rules, in config/game_merges.json "collections":
+      {"by": "prefix", "parts": {"ME1": "Mass Effect", ...}}  description starts "ME1: ..."
+      {"by": "group",  "parts": {"default": "Uncharted 4: ...", "001": "..."}}  PSN trophy group
+      {"by": "all",    "parts": {"*": "Mass Effect"}}  the whole list is one game
+    The list's own hours (Xbox) are split by days with unlocks in each part, as an estimate."""
+    missing = sorted(set(rules) - set(entries))
+    if missing:
+        raise SystemExit(f"config/game_merges.json collections name entries that don't exist: {missing}")
+    for eid, rule in rules.items():
+        parent = entries.pop(eid)
+        parts = {}
+        for u in unlocks:
+            if u["entry"] != eid:
+                continue
+            if rule["by"] == "prefix":
+                m = re.match(r"\s*([A-Za-z]+\d+)\b", u["detail"] or "")
+                key_ = m.group(1) if m else None
+            elif rule["by"] == "group":
+                key_ = u.get("group") or "default"
+            else:
+                key_ = "*"
+            if key_ not in rule["parts"]:
+                raise SystemExit(f"{eid}: unlock {u['name']!r} matches no part of its collection rule")
+            sub = f"{eid}#{key_}"
+            part = parts.setdefault(sub, {**parent, "name": rule["parts"][key_], "days": [], "earned": 0,
+                                          "total": None, "minutes": None})
+            part["earned"] += 1
+            if u["earned"]:
+                part["days"].append(et_day(u["earned"]))
+            u["entry"] = sub
+        allocate(parent.get("minutes"), parent.get("sessions"), list(parts.values()), lambda e: len(set(e["days"])))
+        entries.update(parts)
+        entries[eid] = {"split_into": sorted(parts)}  # placeholder so play records can find the parts
+
+
+def allocate(minutes, sessions, parts, weight):
+    """Share a collection's hours and sessions across its games by weight (days played).
+    One game with any weight gets everything, and that's exact; several get an estimate."""
+    weights = [weight(e) for e in parts]
+    total = sum(weights)
+    if not total:
+        return False
+    estimated = sum(1 for w in weights if w) > 1
+    for e, w in zip(parts, weights):
+        if not w:
+            continue
+        if minutes:
+            e["minutes"] = (e.get("minutes") or 0) + round(minutes * w / total)
+        if sessions:
+            e["sessions"] = (e.get("sessions") or 0) + round(sessions * w / total)
+        if estimated:
+            e["estimated"] = True
+    return True
+
+
+def add_play_record(entries, links, eid, p):
+    """A PS4/PS5 play record (hours, sessions, first and last played) and Sony's link to its
+    trophy lists. One game behind it: link it to that game. A collection of several games
+    (Uncharted: The Nathan Drake Collection): share its hours across them by the days with
+    trophies in each, counting only days inside the record's own first-to-last window, so a
+    collection that Sony renamed an older purchase to doesn't pull in other games' years."""
+    record = {"family": "PlayStation", "platform": "PS5" if p["category"] == "ps5_native_game" else "PS4",
+              "name": p["name"], "days": [et_day(p[k]) for k in ("first_played", "last_played") if p.get(k)],
+              "minutes": p["minutes"], "sessions": p.get("play_count"), "earned": None, "total": None,
+              "art": p.get("image")}
+    parts = []
+    for cid in p.get("trophy_lists", []):
+        e = entries.get(f"psn:{cid}")
+        if e is None:
+            continue
+        parts += [s for s in e["split_into"]] if "split_into" in e else [f"psn:{cid}"]
+    games = {word_key(entries[c]["name"]) for c in parts}
+    if len(games) <= 1:
+        entries[eid] = record
+        links += [(eid, c) for c in parts]
+        return
+    first, last = (min(record["days"]), max(record["days"])) if record["days"] else (None, None)
+    in_window = lambda e: len({d for d in e["days"] if first and first <= d <= last})
+    comps = [entries[c] for c in parts]
+    for weight in (in_window, lambda e: len(set(e["days"]))):
+        if allocate(record["minutes"], record["sessions"], comps, weight):
+            sole = [e for e in comps if weight(e)]
+            if len(sole) == 1:  # all of it is one game's, so its first and last played dates are too
+                sole[0]["days"] = sole[0]["days"] + record["days"]
+            return
+    entries[eid] = record  # no trophies anywhere to go by: keep the record as its own row
 
 
 def build():
     cfg = json.loads((HERE / "config" / "game_merges.json").read_text())
-    entries, unlocks, links = entries_and_unlocks()
+    entries, unlocks, links = entries_and_unlocks(cfg)
+    entries = {k: v for k, v in entries.items() if "split_into" not in v}
     split = {e for group in cfg.get("split", []) for e in group}
     configured = {e for group in cfg.get("merge", []) + cfg.get("split", []) for e in group} | set(cfg.get("names", {}))
     unknown = sorted(configured - set(entries) - set(cfg.get("exclude", {})))
@@ -261,6 +344,8 @@ def build():
             # without playing it doesn't make Steam a platform for DOOM
             "families": sorted({e["family"] for e in es if e["days"] or e["earned"] or e["minutes"]}),
             "hours": round(sum(mins) / 60, 1) if mins else None,
+            "hours_estimated": any(e.get("estimated") for e in es),
+            "sessions": sum(e.get("sessions") or 0 for e in es) or None,
             "entries": sorted(({"id": i, **{k: v for k, v in entries[i].items() if k != "days"},
                                 "name": display(entries[i]["name"]),
                                 "first": min(entries[i]["days"], default=None),

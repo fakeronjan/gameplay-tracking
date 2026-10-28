@@ -1,74 +1,110 @@
 [
  {
-  "id": "mass-effect-legendary-edition",
-  "name": "Mass Effect Legendary Edition",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D1A6BEB57B203FC04CF55F08888118D2ABCBF868.PNG",
-  "first": "2021-05-23",
+  "id": "mass-effect",
+  "name": "Mass Effect",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
+  "first": "2007-12-05",
   "last": "2026-10-27",
   "days": [
+   "2007-12-05",
+   "2010-08-28",
+   "2011-01-30",
+   "2011-02-20",
+   "2013-05-10",
+   "2019-02-09",
+   "2019-02-10",
+   "2019-02-18",
    "2021-05-23",
-   "2021-05-30",
-   "2021-05-31",
-   "2021-12-11",
    "2026-10-27"
   ],
   "families": [
    "PlayStation",
    "Xbox"
   ],
-  "hours": 14.2,
+  "hours": 7.9,
+  "hours_estimated": true,
+  "sessions": 2,
   "entries": [
    {
-    "id": "xbox:fakeronjan:2054685746",
+    "id": "xbox:thesurfshop19:1297287144",
+    "family": "Xbox",
+    "platform": "360",
+    "name": "Mass Effect",
+    "minutes": null,
+    "earned": 1,
+    "total": 49,
+    "gamertag": "thesurfshop19",
+    "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
+    "first": "2007-12-05",
+    "last": "2007-12-05"
+   },
+   {
+    "id": "xbox:rogerage:1297287144",
+    "family": "Xbox",
+    "platform": "360",
+    "name": "Mass Effect",
+    "minutes": null,
+    "earned": 2,
+    "total": 49,
+    "gamertag": "rogerage",
+    "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
+    "first": "2010-08-28",
+    "last": "2011-02-20"
+   },
+   {
+    "id": "psn:NPWR04000_00",
+    "family": "PlayStation",
+    "platform": "PS3",
+    "name": "Mass Effect",
+    "minutes": null,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
+    "earned": 2,
+    "total": 47,
+    "first": "2013-05-10",
+    "last": "2013-05-10"
+   },
+   {
+    "id": "xbox:fakeronjan:1297287144",
     "family": "Xbox",
     "platform": "Xbox",
-    "name": "Mass Effect Legendary Edition",
-    "minutes": 565,
-    "earned": 7,
-    "total": 0,
+    "name": "Mass Effect",
+    "minutes": null,
+    "earned": 3,
+    "total": 49,
+    "gamertag": "fakeronjan",
+    "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
+    "first": "2019-02-09",
+    "last": "2019-02-18"
+   },
+   {
+    "id": "xbox:fakeronjan:2054685746#ME1",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Mass Effect",
+    "minutes": 188,
+    "earned": 2,
+    "total": null,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.59262.14254372351363255.ac3906d1-13b6-4af0-a00a-e10c8a92007b.dac28bb8-f830-421f-9e92-08a9db8b19f8",
+    "estimated": true,
     "first": "2021-05-23",
-    "last": "2021-12-11"
+    "last": "2021-05-23"
    },
    {
-    "id": "psn-played:CUSA19500_00",
+    "id": "psn:NPWR20850_00#*",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "Mass Effect Legendary Edition",
+    "name": "Mass Effect",
     "minutes": 288,
-    "earned": null,
-    "total": null,
-    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/xK2b8gY5A5oyYlc1pnUUVEm5.png",
-    "first": "2026-10-27",
-    "last": "2026-10-27"
-   },
-   {
-    "id": "psn:NPWR20850_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Legendary Edition: Mass Effect",
-    "minutes": null,
     "art": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D1A6BEB57B203FC04CF55F08888118D2ABCBF868.PNG",
     "earned": 4,
-    "total": 35,
+    "total": null,
+    "sessions": 2,
     "first": "2026-10-27",
     "last": "2026-10-27"
-   },
-   {
-    "id": "psn:NPWR21469_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Mass Effect: Legendary Edition",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR21469_00_00BE1FBC03372D65F652DB5567CEA962DBB056BE68/52F0510ADB59E21E01A9D02B622851C4918949C6.PNG",
-    "earned": 0,
-    "total": 11,
-    "first": null,
-    "last": null
    }
   ],
-  "img": "img/g/f4a4d635df2c63cd.webp"
+  "img": "img/g/5f30e98f4cc4657a.webp"
  },
  {
   "id": "the-witcher-3-wild-hunt",
@@ -94,6 +130,8 @@
    "PlayStation"
   ],
   "hours": 34.5,
+  "hours_estimated": false,
+  "sessions": 32,
   "entries": [
    {
     "id": "psn-played:CUSA00527_00",
@@ -101,6 +139,7 @@
     "platform": "PS4",
     "name": "The Witcher 3: Wild Hunt - Remastered",
     "minutes": 1132,
+    "sessions": 23,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png",
@@ -138,6 +177,7 @@
     "platform": "PS5",
     "name": "The Witcher 3: Wild Hunt - Remastered",
     "minutes": 936,
+    "sessions": 9,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1711/d851895118a16d07706b91e7b69b53ce27531269cad5e968.png",
@@ -202,6 +242,8 @@
    "Xbox"
   ],
   "hours": 163.2,
+  "hours_estimated": false,
+  "sessions": 131,
   "entries": [
    {
     "id": "psn:NPWR03885_00",
@@ -221,6 +263,7 @@
     "platform": "PS4",
     "name": "Grand Theft Auto V",
     "minutes": 7512,
+    "sessions": 113,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
@@ -271,6 +314,7 @@
     "platform": "PS5",
     "name": "Grand Theft Auto V",
     "minutes": 1411,
+    "sessions": 18,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
@@ -305,6 +349,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:9A9B6E0371D34263D6B6577F9CBA54D5",
@@ -353,6 +399,8 @@
    "PlayStation"
   ],
   "hours": 109.5,
+  "hours_estimated": false,
+  "sessions": 81,
   "entries": [
    {
     "id": "psn-played:PPSA06435_00",
@@ -360,6 +408,7 @@
     "platform": "PS5",
     "name": "Like a Dragon: Infinite Wealth",
     "minutes": 6570,
+    "sessions": 81,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202308/2906/6f49857e453aaebe72a7b32f07d2ae999be69fac5bbda1ea.png",
@@ -398,6 +447,8 @@
    "PlayStation"
   ],
   "hours": 11.6,
+  "hours_estimated": false,
+  "sessions": 9,
   "entries": [
    {
     "id": "psn-played:PPSA32904_00",
@@ -405,6 +456,7 @@
     "platform": "PS5",
     "name": "Madden NFL 27",
     "minutes": 697,
+    "sessions": 9,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
@@ -440,6 +492,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA03509_00",
@@ -447,6 +501,7 @@
     "platform": "PS4",
     "name": "Grand Theft Auto: Vice City",
     "minutes": 0,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03546_00/2/i_c28bcda27691d669d59335929e49468a6058e90d2e10163fecde31ad1ea6df3c/i/icon0.png",
@@ -459,6 +514,7 @@
     "platform": "PS5",
     "name": "Grand Theft Auto: Vice City - The Definitive Edition",
     "minutes": 17,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2814/rJUoz79dvG3GCWSe9pFewZtz.png",
@@ -505,6 +561,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA03527_00",
@@ -512,6 +570,7 @@
     "platform": "PS5",
     "name": "Grand Theft Auto III - The Definitive Edition",
     "minutes": 17,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2215/iy50r1frZdOm5qpQyI1pSslj.png",
@@ -534,36 +593,6 @@
   "img": "img/g/d3854ef180e096d6.webp"
  },
  {
-  "id": "uncharted-the-nathan-drake-collection",
-  "name": "Uncharted: The Nathan Drake Collection",
-  "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
-  "first": "2015-10-12",
-  "last": "2026-08-30",
-  "days": [
-   "2015-10-12",
-   "2026-08-30"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": 26.1,
-  "entries": [
-   {
-    "id": "psn-played:CUSA02320_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Uncharted: The Nathan Drake Collection",
-    "minutes": 1566,
-    "earned": null,
-    "total": null,
-    "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/1101/zC3kulm2Ho3ZE38ZUYHW7WMK.png",
-    "first": "2015-10-12",
-    "last": "2026-08-30"
-   }
-  ],
-  "img": "img/g/24f9b1d1fcee247a.webp"
- },
- {
   "id": "uncharted-4-a-thief-s-end",
   "name": "Uncharted 4: A Thief's End",
   "art": "https://image.api.playstation.com/trophy/np/NPWR07028_00_00328912165EFFF45B65627D1975AB169F7A096025/0CAA52366C0F14C85A71FACB36BDD29122DF85D6.PNG",
@@ -576,16 +605,16 @@
    "2016-05-29",
    "2016-05-30",
    "2016-05-31",
-   "2017-08-27",
    "2017-09-10",
-   "2018-01-14",
    "2022-07-08",
    "2026-08-30"
   ],
   "families": [
    "PlayStation"
   ],
-  "hours": 27.8,
+  "hours": 26.2,
+  "hours_estimated": false,
+  "sessions": 23,
   "entries": [
    {
     "id": "psn-played:CUSA00341_00",
@@ -593,6 +622,7 @@
     "platform": "PS4",
     "name": "Uncharted: Legacy of Thieves Collection",
     "minutes": 1264,
+    "sessions": 14,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
@@ -612,23 +642,12 @@
     "last": "2016-05-31"
    },
    {
-    "id": "psn-played:CUSA07737_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Uncharted: Legacy of Thieves Collection",
-    "minutes": 97,
-    "earned": null,
-    "total": null,
-    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
-    "first": "2017-08-27",
-    "last": "2018-01-14"
-   },
-   {
     "id": "psn-played:PPSA05389_00",
     "family": "PlayStation",
     "platform": "PS5",
     "name": "Uncharted: Legacy of Thieves Collection",
     "minutes": 306,
+    "sessions": 9,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
@@ -636,14 +655,14 @@
     "last": "2026-08-30"
    },
    {
-    "id": "psn:NPWR26589_00",
+    "id": "psn:NPWR26589_00#default",
     "family": "PlayStation",
     "platform": "PS5",
-    "name": "Uncharted: Legacy of Thieves Collection",
+    "name": "Uncharted 4: A Thief's End",
     "minutes": null,
     "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26589_00/93c9484f-db6e-4951-a46b-4be97f4cd3b3.png",
     "earned": 9,
-    "total": 101,
+    "total": null,
     "first": "2022-07-08",
     "last": "2022-07-08"
    }
@@ -674,7 +693,9 @@
   "families": [
    "PlayStation"
   ],
-  "hours": null,
+  "hours": 11.6,
+  "hours_estimated": true,
+  "sessions": 12,
   "entries": [
    {
     "id": "psn:NPWR00462_00",
@@ -693,10 +714,12 @@
     "family": "PlayStation",
     "platform": "PS4",
     "name": "Uncharted 2: Among Thieves Remastered",
-    "minutes": null,
+    "minutes": 696,
     "art": "https://image.api.playstation.com/trophy/np/NPWR09799_00_0009FFAF42CF52FE5336A7C64CF4E1C0ECC1AE2D98/24B608015A2419B349F0D9A29C439C6AA7FD63A7.PNG",
     "earned": 9,
     "total": 53,
+    "sessions": 12,
+    "estimated": true,
     "first": "2020-07-01",
     "last": "2026-08-30"
    }
@@ -723,6 +746,8 @@
    "Xbox"
   ],
   "hours": 38.5,
+  "hours_estimated": false,
+  "sessions": 10,
   "entries": [
    {
     "id": "xbox:fakeronjan:308190374",
@@ -743,6 +768,7 @@
     "platform": "PS5",
     "name": "LEGO Star Wars: The Skywalker Saga",
     "minutes": 1403,
+    "sessions": 10,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2121/qrpfY71rsvMn6beyjgStw3cH.png",
@@ -779,6 +805,8 @@
    "PlayStation"
   ],
   "hours": 3.9,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:PPSA27360_00",
@@ -786,6 +814,7 @@
     "platform": "PS5",
     "name": "EA Sports FC 26",
     "minutes": 235,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0314/5217c783f0198d437a0e0e97848d0a3a61c4af84262fd5f2.png",
@@ -821,6 +850,8 @@
    "PlayStation"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA10940_00",
@@ -828,6 +859,7 @@
     "platform": "PS4",
     "name": "Overcooked 2",
     "minutes": 74,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10870_00/1/i_b3bed562e3d8ff4f75d84c2989ae7f4e5bbe759ebce0fb37e35ec5337b83f273/i/icon0.png",
@@ -862,6 +894,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA24545_00",
@@ -869,6 +903,7 @@
     "platform": "PS5",
     "name": "NBA the Run",
     "minutes": 3,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2318/fdc01ba526d2bd68dba4ac8ee980b6381fd20f984d161831.png",
@@ -1070,6 +1105,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:02CB906EA538A35643C1E1484C4B947D",
@@ -1103,6 +1140,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:4E9028EB8202CA9EEE4F7F33BD14487B",
@@ -1133,6 +1172,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:620DEDD799C167AA5DC21748D308AA77",
@@ -1169,6 +1210,8 @@
    "PlayStation"
   ],
   "hours": 6.6,
+  "hours_estimated": false,
+  "sessions": 11,
   "entries": [
    {
     "id": "psn-played:PPSA29629_00",
@@ -1176,6 +1219,7 @@
     "platform": "PS5",
     "name": "Marvel Cosmic Invasion",
     "minutes": 398,
+    "sessions": 11,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2212/542f13adf581e38321a86470764dbc0ac1b157ed80e1f8b5.png",
@@ -1214,6 +1258,8 @@
    "PlayStation"
   ],
   "hours": 9.7,
+  "hours_estimated": false,
+  "sessions": 13,
   "entries": [
    {
     "id": "psn-played:PPSA07570_00",
@@ -1221,6 +1267,7 @@
     "platform": "PS5",
     "name": "Mortal Kombat 1",
     "minutes": 584,
+    "sessions": 13,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202305/1515/1cc63f4f4b2c9a9852fabefba4ca7eea936b1ef7867811a5.png",
@@ -1279,6 +1326,8 @@
    "Xbox"
   ],
   "hours": 22.5,
+  "hours_estimated": false,
+  "sessions": 29,
   "entries": [
    {
     "id": "psn:NPWR03776_00",
@@ -1298,6 +1347,7 @@
     "platform": "PS4",
     "name": "Guacamelee! Super Turbo Championship Edition",
     "minutes": 1101,
+    "sessions": 29,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00319_00/4/i_a380bfa36e48a8ca0ad03bb7324b2834e43bb63182012c55028457f49daf3402/i/icon0.png",
@@ -1358,6 +1408,8 @@
    "PlayStation"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA23943_00",
@@ -1365,6 +1417,7 @@
     "platform": "PS5",
     "name": "Microsoft Flight Simulator 2024",
     "minutes": 27,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1718/36050534f6a08332f7a0bd39cd3bf26f2136d43ea2ca64b9.png",
@@ -1401,6 +1454,8 @@
    "PlayStation"
   ],
   "hours": 4.5,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:PPSA11386_00",
@@ -1408,6 +1463,7 @@
     "platform": "PS5",
     "name": "007 First Light",
     "minutes": 271,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/2a446965c0e8537af78302782417b0353a73ff1b19ebfeb4.png",
@@ -1442,6 +1498,8 @@
    "PlayStation"
   ],
   "hours": 1.9,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA16833_00",
@@ -1449,6 +1507,7 @@
     "platform": "PS5",
     "name": "LEGO Batman: Legacy of the Dark Knight",
     "minutes": 113,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1316/3302f35b66691aa405aee31624c0c95fe73081be8e0c75bb.png",
@@ -1500,6 +1559,8 @@
    "Xbox"
   ],
   "hours": 22.2,
+  "hours_estimated": false,
+  "sessions": 6,
   "entries": [
    {
     "id": "xbox:fakeronjan:1662257169",
@@ -1532,6 +1593,7 @@
     "platform": "PS4",
     "name": "What The Dub?!",
     "minutes": 321,
+    "sessions": 6,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202102/2617/GWw6AbFlQr6u7jE3ba08hzhm.png",
@@ -1567,6 +1629,8 @@
    "PlayStation"
   ],
   "hours": 1.7,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:PPSA28068_00",
@@ -1574,6 +1638,7 @@
     "platform": "PS5",
     "name": "Mortal Kombat: Legacy Kollection",
     "minutes": 104,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0417/5ab2b91ba26e152b7e6e5010a1ad7bd234dd75c8aa62d64c.png",
@@ -1611,6 +1676,8 @@
    "Xbox"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA02516_00",
@@ -1618,6 +1685,7 @@
     "platform": "PS4",
     "name": "Mega Man Legacy Collection",
     "minutes": 14,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02521_00/5/i_330608e62eaf8828fe5419ee2af76f29ff80fe967a7d332aeb0cf21d22a11eb4/i/icon0.png",
@@ -1666,6 +1734,8 @@
    "PlayStation"
   ],
   "hours": 3.1,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:PPSA28099_00",
@@ -1673,6 +1743,7 @@
     "platform": "PS5",
     "name": "Life is Strange: Reunion",
     "minutes": 184,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0417/9c35156a43661a69e4fa0e3e913e956946ef20e1c42abe9a.png",
@@ -1707,6 +1778,8 @@
    "PlayStation"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA01227_00",
@@ -1714,6 +1787,7 @@
     "platform": "PS4",
     "name": "Final Fantasy X/X-2 HD Remaster",
     "minutes": 28,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01244_00/2/i_05ea784339e474ebd57f9f37b27d08bbc5f934dd3f5e7151df127f25c349a1af/i/icon0.png",
@@ -1757,6 +1831,8 @@
    "PlayStation"
   ],
   "hours": 17.9,
+  "hours_estimated": false,
+  "sessions": 25,
   "entries": [
    {
     "id": "psn-played:CUSA07211_00",
@@ -1764,6 +1840,7 @@
     "platform": "PS4",
     "name": "Final Fantasy VII Remake",
     "minutes": 262,
+    "sessions": 6,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png",
@@ -1788,6 +1865,7 @@
     "platform": "PS4",
     "name": "Final Fantasy VII Remake",
     "minutes": 1,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png",
@@ -1800,6 +1878,7 @@
     "platform": "PS5",
     "name": "Final Fantasy VII Remake",
     "minutes": 813,
+    "sessions": 18,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07187_00/5/i_3a90c0e006f2193b1adc12b9424372f4044439cadd6d91fda06c0a86c9c6acf2/i/icon0.png",
@@ -1867,6 +1946,8 @@
    "Xbox"
   ],
   "hours": 9.7,
+  "hours_estimated": false,
+  "sessions": 6,
   "entries": [
    {
     "id": "psn:NPWR00234_00",
@@ -1912,6 +1993,7 @@
     "platform": "PS4",
     "name": "Burnout Paradise Remastered",
     "minutes": 205,
+    "sessions": 6,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA10851_00/3/i_49aab34aa5e61ab92ac7f976dc444559cd73d4a28a51b54fb257386b8c358aa0/i/icon0.png",
@@ -1963,6 +2045,8 @@
    "PlayStation"
   ],
   "hours": 68.1,
+  "hours_estimated": false,
+  "sessions": 55,
   "entries": [
    {
     "id": "psn-played:PPSA10872_00",
@@ -1970,6 +2054,7 @@
     "platform": "PS5",
     "name": "Persona 3 Reload",
     "minutes": 4087,
+    "sessions": 55,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202307/2601/85487475426de191c3c100b47ddc61f77c515b513948272e.png",
@@ -2008,6 +2093,8 @@
    "Xbox"
   ],
   "hours": 18.8,
+  "hours_estimated": false,
+  "sessions": 13,
   "entries": [
    {
     "id": "xbox:fakeronjan:1756421327",
@@ -2028,6 +2115,7 @@
     "platform": "PS5",
     "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
     "minutes": 1048,
+    "sessions": 13,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0919/hq6KtnlrPbnUj7iNNI0V6gwe.png",
@@ -2062,6 +2150,8 @@
    "PlayStation"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA21444_00",
@@ -2069,6 +2159,7 @@
     "platform": "PS5",
     "name": "DOOM + DOOM II",
     "minutes": 70,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202407/2516/014e7a2470206a12a9130665689cf20c687738b5b6944b56.png",
@@ -2168,6 +2259,8 @@
    "Steam"
   ],
   "hours": 87.4,
+  "hours_estimated": false,
+  "sessions": 22,
   "entries": [
    {
     "id": "psn-played:PPSA21401_00",
@@ -2175,6 +2268,7 @@
     "platform": "PS5",
     "name": "Balatro",
     "minutes": 1054,
+    "sessions": 22,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202401/2211/07b7236708c1c0791eb7aaa6601d014f6a2b5b69b0bcda9f.png",
@@ -2235,6 +2329,8 @@
    "PlayStation"
   ],
   "hours": 7.1,
+  "hours_estimated": false,
+  "sessions": 12,
   "entries": [
    {
     "id": "psn-played:PPSA30553_00",
@@ -2242,6 +2338,7 @@
     "platform": "PS5",
     "name": "Super Bomberman Collection",
     "minutes": 426,
+    "sessions": 12,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2206/39e07032f1a69fa5767178f50cbe7ae94d321b7a851d15f8.png",
@@ -2279,6 +2376,8 @@
    "PlayStation"
   ],
   "hours": 12.2,
+  "hours_estimated": false,
+  "sessions": 9,
   "entries": [
    {
     "id": "psn-played:PPSA16105_00",
@@ -2286,6 +2385,7 @@
     "platform": "PS5",
     "name": "Life is Strange: Double Exposure",
     "minutes": 732,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3015/ba7365d7ffa1559f80333addf7fa56e8d2068a3249ae1fc0.png",
@@ -2310,6 +2410,7 @@
     "platform": "PS5",
     "name": "Life is Strange: Double Exposure",
     "minutes": 1,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202405/3015/ba7365d7ffa1559f80333addf7fa56e8d2068a3249ae1fc0.png",
@@ -2332,6 +2433,8 @@
    "Steam"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:1147860",
@@ -2363,6 +2466,8 @@
    "Xbox"
   ],
   "hours": 1.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1112934452",
@@ -2408,6 +2513,8 @@
    "Steam"
   ],
   "hours": 2.9,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:246620",
@@ -2453,6 +2560,8 @@
    "Steam"
   ],
   "hours": 107.5,
+  "hours_estimated": false,
+  "sessions": 77,
   "entries": [
    {
     "id": "psn-played:PPSA10805_00",
@@ -2460,6 +2569,7 @@
     "platform": "PS5",
     "name": "Octopath Traveler II",
     "minutes": 128,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3005/IsX7DgPyVdZJf1ZGGNhB1RrI.png",
@@ -2472,6 +2582,7 @@
     "platform": "PS5",
     "name": "Octopath Traveler II",
     "minutes": 6316,
+    "sessions": 75,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3005/IsX7DgPyVdZJf1ZGGNhB1RrI.png",
@@ -2521,6 +2632,8 @@
    "Steam"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:1404850",
@@ -2558,6 +2671,8 @@
    "Xbox"
   ],
   "hours": 5.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "switch:C7D8C4153CC9802713604F54C53304E0",
@@ -2591,6 +2706,7 @@
     "platform": "PS5",
     "name": "Hades",
     "minutes": 149,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202104/0517/9AcM3vy5t77zPiJyKHwRfnNT.png",
@@ -2639,6 +2755,8 @@
    "PlayStation"
   ],
   "hours": 7.3,
+  "hours_estimated": false,
+  "sessions": 15,
   "entries": [
    {
     "id": "psn-played:PPSA02632_00",
@@ -2646,6 +2764,7 @@
     "platform": "PS5",
     "name": "Street Fighter 6",
     "minutes": 438,
+    "sessions": 15,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
@@ -2684,6 +2803,8 @@
    "Steam"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:BDBA961F9C5E6E39D558A949E04CECEE",
@@ -2734,6 +2855,8 @@
    "Xbox"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:75A32021BE3512D7AA96B2D72F764411",
@@ -2789,6 +2912,8 @@
    "Steam"
   ],
   "hours": 2.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:1147940",
@@ -2820,6 +2945,8 @@
    "PlayStation"
   ],
   "hours": 8.0,
+  "hours_estimated": false,
+  "sessions": 13,
   "entries": [
    {
     "id": "psn-played:CUSA07022_00",
@@ -2827,6 +2954,7 @@
     "platform": "PS4",
     "name": "Fortnite",
     "minutes": 21,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/0b31b8306c4fae90e94a2fbf5d14fe9cf3ea014da70309cf.png",
@@ -2839,6 +2967,7 @@
     "platform": "PS5",
     "name": "Fortnite",
     "minutes": 456,
+    "sessions": 12,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/0b31b8306c4fae90e94a2fbf5d14fe9cf3ea014da70309cf.png",
@@ -2880,6 +3009,8 @@
    "PlayStation"
   ],
   "hours": 99.9,
+  "hours_estimated": false,
+  "sessions": 139,
   "entries": [
    {
     "id": "psn-played:CUSA02038_00",
@@ -2887,6 +3018,7 @@
     "platform": "PS4",
     "name": "Street Fighter V",
     "minutes": 14,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01222_00/6/i_2beaeca28e28f1b3a97c97ac132a80b4f99f7c721c4a40aac12a5bda140d0dcf/i/icon0.png",
@@ -2899,6 +3031,7 @@
     "platform": "PS4",
     "name": "Street Fighter V",
     "minutes": 5981,
+    "sessions": 138,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01222_00/6/i_2beaeca28e28f1b3a97c97ac132a80b4f99f7c721c4a40aac12a5bda140d0dcf/i/icon0.png",
@@ -2938,6 +3071,8 @@
    "PlayStation"
   ],
   "hours": 5.1,
+  "hours_estimated": false,
+  "sessions": 16,
   "entries": [
    {
     "id": "psn-played:CUSA05289_00",
@@ -2945,6 +3080,7 @@
     "platform": "PS4",
     "name": "PaRappa The Rapper Remastered",
     "minutes": 307,
+    "sessions": 16,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07172_00/2/i_65b0e4760516864e71d2e4bb288755d404d6020f34c064139ea45ba878775a98/i/icon0.png",
@@ -2989,6 +3125,8 @@
    "PlayStation"
   ],
   "hours": 34.0,
+  "hours_estimated": false,
+  "sessions": 23,
   "entries": [
    {
     "id": "psn-played:PPSA17599_00",
@@ -2996,6 +3134,7 @@
     "platform": "PS5",
     "name": "Clair Obscur: Expedition 33",
     "minutes": 2038,
+    "sessions": 23,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2217/e5833a53529ff9879e87689f1e8b04d45ba7e6c97fa791e2.png",
@@ -3031,6 +3170,8 @@
    "PlayStation"
   ],
   "hours": 1.5,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA08580_00",
@@ -3038,6 +3179,7 @@
     "platform": "PS4",
     "name": "Ultimate Chicken Horse",
     "minutes": 89,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202202/0420/z0i1wlqD1ZQ6aVgVxS0xXQ20.png",
@@ -3075,6 +3217,8 @@
    "PlayStation"
   ],
   "hours": 20.3,
+  "hours_estimated": false,
+  "sessions": 12,
   "entries": [
    {
     "id": "psn-played:PPSA28492_00",
@@ -3082,6 +3226,7 @@
     "platform": "PS5",
     "name": "Octopath Traveler 0",
     "minutes": 1216,
+    "sessions": 12,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0607/71e29053cde091e8856b70f9cb8766d0312f1330414a24fb.png",
@@ -3117,6 +3262,8 @@
    "PlayStation"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA26097_00",
@@ -3124,6 +3271,7 @@
     "platform": "PS5",
     "name": "Yooka-Replaylee",
     "minutes": 38,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202508/1212/8fc285a94345f7eef49aa26692fb873e450d7ff72760fed8.png",
@@ -3163,6 +3311,8 @@
    "PlayStation"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn:NPWR00324_00",
@@ -3182,6 +3332,7 @@
     "platform": "PS4",
     "name": "Heavy Rain",
     "minutes": 60,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02355_00/2/i_dd302d88e4df97ecd1e9bc39e877aeda171fc12b99a116be8666d431a8f46697/i/icon0.png",
@@ -3218,6 +3369,8 @@
    "PlayStation"
   ],
   "hours": 4.8,
+  "hours_estimated": false,
+  "sessions": 10,
   "entries": [
    {
     "id": "psn-played:CUSA00473_00",
@@ -3225,6 +3378,7 @@
     "platform": "PS4",
     "name": "LittleBigPlanet3",
     "minutes": 290,
+    "sessions": 10,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/0523/uCNQSzE3APHneMXOdWeBAyeR.png",
@@ -3260,6 +3414,8 @@
    "PlayStation"
   ],
   "hours": 9.2,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:PPSA27158_00",
@@ -3267,6 +3423,7 @@
     "platform": "PS5",
     "name": "Dispatch",
     "minutes": 554,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0621/4fb935ea5e75490740d6726da42d05d953cb50a693188174.png",
@@ -3314,6 +3471,8 @@
    "Xbox"
   ],
   "hours": 26.1,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "switch:F95B57762E79CABDA198AE6BBDC6C7D5",
@@ -3347,6 +3506,7 @@
     "platform": "PS4",
     "name": "Bloodstained: Ritual of the Night",
     "minutes": 245,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07963_00/4/i_36c08a0a340f325468fa399814755d19af74dce64e2c32bb3d1cbc6d2148a92d/i/icon0.png",
@@ -3385,7 +3545,9 @@
   "families": [
    "PlayStation"
   ],
-  "hours": null,
+  "hours": 2.9,
+  "hours_estimated": true,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn:NPWR01216_00",
@@ -3404,10 +3566,12 @@
     "family": "PlayStation",
     "platform": "PS4",
     "name": "Uncharted 3: Drake's Deception Remastered",
-    "minutes": null,
+    "minutes": 174,
     "art": "https://image.api.playstation.com/trophy/np/NPWR09801_00_0003DB32F8F3DD21C49BEFE52FE4341AC768FEC122/A66289B0C7CFF0FF4C2FB3B6E6D23BDA03D90A38.PNG",
     "earned": 2,
     "total": 59,
+    "sessions": 3,
+    "estimated": true,
     "first": "2025-10-20",
     "last": "2025-10-20"
    }
@@ -3439,6 +3603,8 @@
    "PlayStation"
   ],
   "hours": 43.5,
+  "hours_estimated": false,
+  "sessions": 25,
   "entries": [
    {
     "id": "psn-played:PPSA21564_00",
@@ -3446,6 +3612,7 @@
     "platform": "PS5",
     "name": "Astro Bot",
     "minutes": 2607,
+    "sessions": 25,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0500/8f15268257b878597757fcc5f2c9545840867bc71fc863b1.png",
@@ -3486,7 +3653,9 @@
   "families": [
    "PlayStation"
   ],
-  "hours": null,
+  "hours": 11.6,
+  "hours_estimated": true,
+  "sessions": 12,
   "entries": [
    {
     "id": "psn:NPWR00449_00",
@@ -3505,10 +3674,12 @@
     "family": "PlayStation",
     "platform": "PS4",
     "name": "Uncharted: Drake's Fortune Remastered",
-    "minutes": null,
+    "minutes": 696,
     "art": "https://image.api.playstation.com/trophy/np/NPWR09798_00_0004C451BA0D520B43DBB2C20D0EB0B47AEEB9FEAF/B4203E044C57963E48475359B3DF9E0C5E3885FC.PNG",
     "earned": 8,
     "total": 54,
+    "sessions": 12,
+    "estimated": true,
     "first": "2015-11-07",
     "last": "2025-09-13"
    }
@@ -3529,6 +3700,8 @@
    "PlayStation"
   ],
   "hours": 2.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA26127_00",
@@ -3536,6 +3709,7 @@
     "platform": "PS5",
     "name": "Madden NFL 26",
     "minutes": 127,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202505/2813/91b39d9b05c4a3284df3a6ef5b34768e3bd4301d354e1a85.png",
@@ -3574,6 +3748,8 @@
    "PlayStation"
   ],
   "hours": 54.7,
+  "hours_estimated": false,
+  "sessions": 34,
   "entries": [
    {
     "id": "psn-played:PPSA25859_00",
@@ -3581,6 +3757,7 @@
     "platform": "PS5",
     "name": "EA Sports College Football 26",
     "minutes": 3283,
+    "sessions": 34,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202507/0314/f2481238d1b0fb8cdd7fb2e80da8d40265f33fb0b4f874b5.png",
@@ -3620,6 +3797,8 @@
    "PlayStation"
   ],
   "hours": 123.7,
+  "hours_estimated": false,
+  "sessions": 101,
   "entries": [
    {
     "id": "psn-played:PPSA04184_00",
@@ -3627,6 +3806,7 @@
     "platform": "PS5",
     "name": "EA Sports College Football 25",
     "minutes": 7419,
+    "sessions": 101,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2719/a936cd82b2d42c2bfc597ffa3d665567de72bc470067b8ac.png",
@@ -3661,6 +3841,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:CD8DDEDFE332FE055C049150B035121B",
@@ -3691,6 +3873,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:97192DA636D7EF47BA0C75EA649A4F7A",
@@ -3748,6 +3932,8 @@
    "Xbox"
   ],
   "hours": 53.4,
+  "hours_estimated": false,
+  "sessions": 135,
   "entries": [
    {
     "id": "psn:NPWR04537_00",
@@ -3767,6 +3953,7 @@
     "platform": "PS4",
     "name": "Rayman Legends",
     "minutes": 3202,
+    "sessions": 135,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202610/1516/bcea032f15bbac70cf83c611c87a911ceb9ebfe1cd430dd1.png",
@@ -3826,6 +4013,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1824138520",
@@ -3856,6 +4045,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1701108859",
@@ -3891,6 +4082,8 @@
    "Xbox"
   ],
   "hours": 7.7,
+  "hours_estimated": false,
+  "sessions": 14,
   "entries": [
    {
     "id": "psn-played:CUSA01305_00",
@@ -3898,6 +4091,7 @@
     "platform": "PS4",
     "name": "Never Alone",
     "minutes": 438,
+    "sessions": 14,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01394_00/5/i_45404234edb76c9ca966a6a60594fcd4f710723c575a2f79150ff2f44d48d690/i/icon0.png",
@@ -3948,6 +4142,8 @@
    "Xbox"
   ],
   "hours": 18.4,
+  "hours_estimated": false,
+  "sessions": 29,
   "entries": [
    {
     "id": "psn-played:CUSA07828_00",
@@ -3955,6 +4151,7 @@
     "platform": "PS4",
     "name": "Street Fighter 30th Anniversary Collection",
     "minutes": 1077,
+    "sessions": 29,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07997_00/3/i_184e733e9067533d184a9f01a9ea9689d8cccb6023e75f5683d8f273815df624/i/icon0.png",
@@ -4006,6 +4203,8 @@
    "PlayStation"
   ],
   "hours": 11.8,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "psn-played:PPSA19733_00",
@@ -4013,6 +4212,7 @@
     "platform": "PS5",
     "name": "Lost Records: Bloom & Rage",
     "minutes": 706,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2715/07bf96a36a06916df02327fe518597c83b5264cf4add8f64.png",
@@ -4047,6 +4247,8 @@
    "PlayStation"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA25009_00",
@@ -4054,6 +4256,7 @@
     "platform": "PS5",
     "name": "Blue Prince",
     "minutes": 60,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1222/155cec2bad7676df9a1aa7e96cdd9f363e117c1650a43c34.png",
@@ -4090,6 +4293,8 @@
    "PlayStation"
   ],
   "hours": 3.8,
+  "hours_estimated": false,
+  "sessions": 6,
   "entries": [
    {
     "id": "psn-played:PPSA04489_00",
@@ -4097,6 +4302,7 @@
     "platform": "PS5",
     "name": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
     "minutes": 228,
+    "sessions": 6,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0823/Y0bXkLgt0Yet3SvbjV94OHID.png",
@@ -4137,6 +4343,8 @@
    "PlayStation"
   ],
   "hours": 5.7,
+  "hours_estimated": false,
+  "sessions": 11,
   "entries": [
    {
     "id": "psn:NPWR03895_00",
@@ -4156,6 +4364,7 @@
     "platform": "PS4",
     "name": "Persona 4 Golden",
     "minutes": 342,
+    "sessions": 11,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1812/kFcVIQnhPLhEiVhiQlzBNrxS.png",
@@ -4192,6 +4401,8 @@
    "PlayStation"
   ],
   "hours": 21.8,
+  "hours_estimated": false,
+  "sessions": 12,
   "entries": [
    {
     "id": "psn-played:PPSA08560_00",
@@ -4199,6 +4410,7 @@
     "platform": "PS5",
     "name": "Split Fiction",
     "minutes": 1306,
+    "sessions": 12,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2918/90ad70c1ef581f93454184750cba9e0ca37bc7e30a4d1f55.png",
@@ -4254,6 +4466,8 @@
    "PlayStation"
   ],
   "hours": 83.0,
+  "hours_estimated": false,
+  "sessions": 56,
   "entries": [
    {
     "id": "psn-played:CUSA05877_00",
@@ -4261,6 +4475,7 @@
     "platform": "PS4",
     "name": "Persona 5",
     "minutes": 432,
+    "sessions": 12,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA06638_00/2/i_5e687f798b89158348af41505923859c110c0ba4010fc7c949d8cffaa5743510/i/icon0.png",
@@ -4285,6 +4500,7 @@
     "platform": "PS5",
     "name": "Persona 5 Royal",
     "minutes": 4550,
+    "sessions": 44,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202209/0202/OjPcc6QP2W8kImOhWSnzojn3.png",
@@ -4325,6 +4541,8 @@
    "PlayStation"
   ],
   "hours": 30.2,
+  "hours_estimated": false,
+  "sessions": 13,
   "entries": [
    {
     "id": "psn-played:PPSA24478_00",
@@ -4332,6 +4550,7 @@
     "platform": "PS5",
     "name": "Like a Dragon: Pirate Yakuza in Hawaii",
     "minutes": 1811,
+    "sessions": 13,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202408/1401/5cbfb4502807fef739169f7e9bdd0cd615d7a86ce4e6af82.png",
@@ -4376,6 +4595,8 @@
    "Xbox"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn:NPWR03649_00",
@@ -4421,6 +4642,7 @@
     "platform": "PS4",
     "name": "ŌKAMI HD",
     "minutes": 27,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08364_00/3/i_20d3dbff6a337b75b4401d62f05030a7ae29158fcd6eff8954be7461334f885d/i/icon0.png",
@@ -4444,6 +4666,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA12380_00",
@@ -4451,6 +4675,7 @@
     "platform": "PS4",
     "name": "Persona 5: Dancing in Starlight",
     "minutes": 19,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA12813_00/1/i_b6072705701da538f500bba338ed3f77eed863352ecc8757325507c734c41adc/i/icon0.png",
@@ -4487,6 +4712,8 @@
    "PlayStation"
   ],
   "hours": 1.5,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn-played:PPSA08666_00",
@@ -4494,6 +4721,7 @@
     "platform": "PS5",
     "name": "Final Fantasy VII Rebirth",
     "minutes": 90,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202308/3005/6de6b1c4b0c475b5c28fd2011655ab8206ed846926fa1671.png",
@@ -4529,6 +4757,8 @@
    "PlayStation"
   ],
   "hours": 2.3,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA00196_00",
@@ -4536,6 +4766,7 @@
     "platform": "PS4",
     "name": "Octodad: Dadliest Catch",
     "minutes": 139,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00655_00/2/i_7fb358240a9154c09c9c1ef648939a05831f36e98ecb49c06e8d416e23fe3dfa/i/icon0.png",
@@ -4587,6 +4818,8 @@
    "Xbox"
   ],
   "hours": 30.3,
+  "hours_estimated": false,
+  "sessions": 50,
   "entries": [
    {
     "id": "psn-played:CUSA01867_00",
@@ -4594,6 +4827,7 @@
     "platform": "PS4",
     "name": "Shovel Knight: Treasure Trove",
     "minutes": 1645,
+    "sessions": 50,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01976_00/3/i_daa3cec09b39bf450dfd5de2155ada637123c001438d5f68edf50dc9038d33b5/i/icon0.png",
@@ -4669,6 +4903,8 @@
    "Xbox"
   ],
   "hours": 3.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "xbox:fakeronjan:1974043980",
@@ -4689,6 +4925,7 @@
     "platform": "PS4",
     "name": "Disney Classic Games: Aladdin and The Lion King",
     "minutes": 177,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA16975_00/2/i_b3dee8dd153cb6c3634aa0c115ad3b1807bf6788e1a8b3aadb104a7e98235799/i/icon0.png",
@@ -4729,6 +4966,8 @@
    "PlayStation"
   ],
   "hours": 26.2,
+  "hours_estimated": false,
+  "sessions": 29,
   "entries": [
    {
     "id": "psn-played:PPSA22120_00",
@@ -4736,6 +4975,7 @@
     "platform": "PS5",
     "name": "NBA 2K25",
     "minutes": 1575,
+    "sessions": 29,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202406/0521/e8ef2a542e532c17d91215173917798c5dbca0e8f5b0fc9c.png",
@@ -4770,6 +5010,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA01649_00",
@@ -4777,6 +5019,7 @@
     "platform": "PS5",
     "name": "Call of Duty",
     "minutes": 39,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2815/e7c940f1c3b9c2725e08b10979926ed6b71482f6f42a65ba.png",
@@ -4814,6 +5057,8 @@
    "PlayStation"
   ],
   "hours": 5.3,
+  "hours_estimated": false,
+  "sessions": 9,
   "entries": [
    {
     "id": "psn-played:PPSA01325_00",
@@ -4821,6 +5066,7 @@
     "platform": "PS5",
     "name": "Astro's Playroom",
     "minutes": 321,
+    "sessions": 9,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1908/3d17c33239dab88c7e2f24af50140b3f6fa555e6030d5704.png",
@@ -4870,6 +5116,8 @@
    "Xbox"
   ],
   "hours": 22.2,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "miiverse:Phoenix Wright: Ace Attorney Trilogy",
@@ -4915,6 +5163,7 @@
     "platform": "PS4",
     "name": "Phoenix Wright: Ace Attorney Trilogy",
     "minutes": 176,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11512_00/3/i_d006b2af0e7db1f5c9b4b35ca3c8b06556ecb4e24e81b5bddd87913c55ca2968/i/icon0.png",
@@ -4949,6 +5198,8 @@
    "Steam"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:2139090",
@@ -4981,6 +5232,8 @@
    "PlayStation"
   ],
   "hours": 12.8,
+  "hours_estimated": false,
+  "sessions": 9,
   "entries": [
    {
     "id": "psn-played:CUSA18254_00",
@@ -4988,6 +5241,7 @@
     "platform": "PS4",
     "name": "The Great Ace Attorney Chronicles",
     "minutes": 769,
+    "sessions": 9,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202104/1207/stJIF1yVqivr1P3NoKwrsbRt.png",
@@ -5022,6 +5276,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA08261_00",
@@ -5029,6 +5285,7 @@
     "platform": "PS5",
     "name": "Star Wars Outlaws",
     "minutes": 43,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202306/3020/bca42b94af09b7a7ffd27fcb76a7bb1e46b60ed0c5f99322.png",
@@ -5063,6 +5320,8 @@
    "PlayStation"
   ],
   "hours": 0.8,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA02409_00",
@@ -5070,6 +5329,7 @@
     "platform": "PS5",
     "name": "Destiny 2",
     "minutes": 47,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2700/67e26ca577583cd8189696baa2181bfc51820ecab1709869.png",
@@ -5113,6 +5373,8 @@
    "PlayStation"
   ],
   "hours": 63.8,
+  "hours_estimated": false,
+  "sessions": 81,
   "entries": [
    {
     "id": "psn-played:PPSA15301_00",
@@ -5120,6 +5382,7 @@
     "platform": "PS5",
     "name": "NBA 2K24",
     "minutes": 3825,
+    "sessions": 81,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202306/2609/278035a1f94e3a07d4d0f74cd61b987af14a833b65a56cd2.png",
@@ -5154,6 +5417,8 @@
    "PlayStation"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA18888_00",
@@ -5161,6 +5426,7 @@
     "platform": "PS5",
     "name": "Madden NFL 25",
     "minutes": 75,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1011/5ef862d797e340bb0f2443e8feb9b0057867e8992b0963db.png",
@@ -5195,6 +5461,8 @@
    "PlayStation"
   ],
   "hours": 0.8,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA01981_00",
@@ -5202,6 +5470,7 @@
     "platform": "PS5",
     "name": "DOOM Eternal",
     "minutes": 45,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png",
@@ -5268,6 +5537,8 @@
    "Xbox"
   ],
   "hours": 35.7,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "switch:93C1C73A3BAF9123A15B9B24886B634B",
@@ -5313,6 +5584,7 @@
     "platform": "PS5",
     "name": "Octopath Traveler",
     "minutes": 206,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202405/0205/755f66e01ccc5a73558e7cecff799c7ce451ed362c9346a7.png",
@@ -5351,6 +5623,8 @@
    "PlayStation"
   ],
   "hours": 12.8,
+  "hours_estimated": false,
+  "sessions": 18,
   "entries": [
    {
     "id": "psn-played:CUSA00967_00",
@@ -5358,6 +5632,7 @@
     "platform": "PS4",
     "name": "Mortal Kombat X",
     "minutes": 771,
+    "sessions": 18,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/cdn/UP1018/CUSA00967_00/95B3EIOEjU0DPK5V5ltFAWlW9KYtZVP7ZbB5ofWactS47y5BWTkwN1MujcdezNZ4.png",
@@ -5410,6 +5685,8 @@
    "Xbox"
   ],
   "hours": 24.2,
+  "hours_estimated": false,
+  "sessions": 36,
   "entries": [
    {
     "id": "psn:NPWR00434_00",
@@ -5454,6 +5731,7 @@
     "platform": "PS4",
     "name": "Ultra Street Fighter IV",
     "minutes": 1451,
+    "sessions": 36,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01839_00/1/i_d4b052c0ec1e507474a3ac9f0775644fd161c5b3c879b493c0a1150663f667ae/i/icon0.png",
@@ -5503,6 +5781,8 @@
    "PlayStation"
   ],
   "hours": 1.7,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "psn-played:PPSA13393_00",
@@ -5510,6 +5790,7 @@
     "platform": "PS5",
     "name": "EA Sports FC 24",
     "minutes": 100,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202406/1122/7a3b10ed3abad7f4f23f7f148e7e48e78e2cc8dc0c541090.png",
@@ -5544,6 +5825,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA06799_00",
@@ -5551,6 +5834,7 @@
     "platform": "PS5",
     "name": "Animal Well",
     "minutes": 15,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2820/Y8w6KlhWQKXFPgTuHcR40RPy.png",
@@ -5595,6 +5879,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:4C6AC866CC8D349A4295D5465906CD91",
@@ -5633,6 +5919,8 @@
    "Xbox"
   ],
   "hours": 15.5,
+  "hours_estimated": false,
+  "sessions": 16,
   "entries": [
    {
     "id": "xbox:fakeronjan:1791400679",
@@ -5653,6 +5941,7 @@
     "platform": "PS5",
     "name": "Yakuza: Like A Dragon",
     "minutes": 906,
+    "sessions": 16,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA16745_00/1/i_7b2f4e6eb77ae1f364b1c3be21ea7326c6baaa7c12cd5351fddaf756a0029a47/i/icon0_01.png",
@@ -5688,6 +5977,8 @@
    "PlayStation"
   ],
   "hours": 1.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA06898_00",
@@ -5695,6 +5986,7 @@
     "platform": "PS5",
     "name": "TopSpin 2K25",
     "minutes": 66,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202403/0618/5eb7a7431f949782b41e96f098f555ad492c2981d1156f18.png",
@@ -5741,6 +6033,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:030CC84A0859ABD745D45D5F8AAD9975",
@@ -5772,6 +6066,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA05070_00",
@@ -5779,6 +6075,7 @@
     "platform": "PS4",
     "name": "Yakuza 0",
     "minutes": 15,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05133_00/1/i_ed3b9af3bf0b3c64e2f662e54d1be23a16f91f1a1b1ee4e967926a57fc20fd45/i/icon0.png",
@@ -5818,6 +6115,8 @@
    "PlayStation"
   ],
   "hours": 13.2,
+  "hours_estimated": false,
+  "sessions": 10,
   "entries": [
    {
     "id": "psn-played:PPSA17085_00",
@@ -5825,6 +6124,7 @@
     "platform": "PS5",
     "name": "MLB The Show 24",
     "minutes": 791,
+    "sessions": 10,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202401/0519/bd9edd225756f2eac93c02ee66e3fb3df62dfcea02c5564c.png",
@@ -5867,6 +6167,8 @@
    "Xbox"
   ],
   "hours": 6.6,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "xbox:fakeronjan:1701212022",
@@ -5887,6 +6189,7 @@
     "platform": "PS5",
     "name": "The Jackbox Party Pack 8",
     "minutes": 247,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1618/We6rd73ZorrggYrPDshuFMuh.png",
@@ -5924,6 +6227,8 @@
    "PlayStation"
   ],
   "hours": 16.6,
+  "hours_estimated": false,
+  "sessions": 19,
   "entries": [
    {
     "id": "psn-played:PPSA10508_00",
@@ -5931,6 +6236,7 @@
     "platform": "PS5",
     "name": "Madden NFL 24",
     "minutes": 995,
+    "sessions": 19,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202404/1220/e6044031d9a93f63b2ed95b1aae1c7d3239742390982c9d3.png",
@@ -5968,6 +6274,8 @@
    "PlayStation"
   ],
   "hours": 8.7,
+  "hours_estimated": false,
+  "sessions": 10,
   "entries": [
    {
     "id": "psn-played:PPSA09243_00",
@@ -5975,6 +6283,7 @@
     "platform": "PS5",
     "name": "MLB The Show 23",
     "minutes": 520,
+    "sessions": 10,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2100/ksGvOUolBKzauHyiPalnLUKN.png",
@@ -6010,6 +6319,8 @@
    "PlayStation"
   ],
   "hours": 7.7,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn-played:CUSA01229_00",
@@ -6017,6 +6328,7 @@
     "platform": "PS4",
     "name": "The Jackbox Party Pack",
     "minutes": 461,
+    "sessions": 8,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02691_00/2/i_8b379780f254b1855597e7fa3dcb5ca3ec9ff7200c2a6261078880babcfbf351/i/icon0.png",
@@ -6053,6 +6365,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:DD36EAD444102ED69B0AF6882696E2E7",
@@ -6103,6 +6417,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:05DC14F80A13996B94160CD375AFD506",
@@ -6133,6 +6449,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:E5B04B40CFD924420DF6142200E473B4",
@@ -6163,6 +6481,8 @@
    "PlayStation"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA03016_00",
@@ -6170,6 +6490,7 @@
     "platform": "PS5",
     "name": "Marvel's Spider-Man 2",
     "minutes": 34,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202306/1219/1c7b75d8ed9271516546560d219ad0b22ee0a263b4537bd8.png",
@@ -6208,6 +6529,8 @@
    "PlayStation"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn:NPWR00906_00",
@@ -6227,6 +6550,7 @@
     "platform": "PS4",
     "name": "Catherine: Full Body",
     "minutes": 22,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15036_00/1/i_d7e8606a19858f3ba6f15acb0afbedb95afeebc385de8b7b9eb4d2aa8b1d9763/i/icon0.png",
@@ -6261,6 +6585,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:71F6E1DDAFD065C345B3DC4D0DCAFD71",
@@ -6291,6 +6617,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA14001_00",
@@ -6298,6 +6626,7 @@
     "platform": "PS5",
     "name": "Baldur's Gate 3",
     "minutes": 44,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png",
@@ -6336,6 +6665,8 @@
    "PlayStation"
   ],
   "hours": 3.0,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "psn-played:CUSA34901_00",
@@ -6343,6 +6674,7 @@
     "platform": "PS4",
     "name": "Theatrhythm Final Bar Line",
     "minutes": 45,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2203/9MRhGeyXNTnPikgTqWQbBqiv.png",
@@ -6355,6 +6687,7 @@
     "platform": "PS4",
     "name": "Theatrhythm Final Bar Line",
     "minutes": 135,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202208/2203/9MRhGeyXNTnPikgTqWQbBqiv.png",
@@ -6394,6 +6727,8 @@
    "PlayStation"
   ],
   "hours": 23.1,
+  "hours_estimated": false,
+  "sessions": 27,
   "entries": [
    {
     "id": "psn-played:PPSA07169_00",
@@ -6401,6 +6736,7 @@
     "platform": "PS5",
     "name": "NBA 2K23",
     "minutes": 1389,
+    "sessions": 27,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202208/3122/LPx7mwV5n0YAczzjVIjfP3tt.png",
@@ -6442,6 +6778,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:16851BE00BC6068871FE49D98876D6C5",
@@ -6481,6 +6819,8 @@
    "Xbox"
   ],
   "hours": 15.9,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "steam:442070",
@@ -6513,6 +6853,7 @@
     "platform": "PS4",
     "name": "Drawful 2",
     "minutes": 32,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05045_00/1/i_81abec2fe26de87419de7c64c4413a82d7922b4c85060d7e12d5f3b5d1c4f8f2/i/icon0.png",
@@ -6547,6 +6888,8 @@
    "PlayStation"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA04390_00",
@@ -6554,6 +6897,7 @@
     "platform": "PS5",
     "name": "PGA Tour 2K23",
     "minutes": 24,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202207/2201/rhZ9AU0lZ221Km5tlnGcbTaG.png",
@@ -6588,6 +6932,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA04048_00",
@@ -6595,6 +6941,7 @@
     "platform": "PS5",
     "name": "LEGO 2K Drive",
     "minutes": 15,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202303/0918/00de0eb137a53f7cb188e199cd797d7730b613cd8693b7cf.png",
@@ -6643,6 +6990,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:CC47F0DEC75C1FD3B1F95FA9F9D57667",
@@ -6674,6 +7023,8 @@
    "PlayStation"
   ],
   "hours": 1.5,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA06141_00",
@@ -6681,6 +7032,7 @@
     "platform": "PS5",
     "name": "Super Mega Baseball 4",
     "minutes": 91,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202305/0217/2761cb4315be4cdb8354521f9b4efa639830642585aa5394.png",
@@ -6715,6 +7067,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:PPSA13802_00",
@@ -6722,6 +7076,7 @@
     "platform": "PS5",
     "name": "Final Fantasy XVI",
     "minutes": 7,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png",
@@ -6744,6 +7099,8 @@
    "PlayStation"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA30142_00",
@@ -6751,6 +7108,7 @@
     "platform": "PS4",
     "name": "RiffTrax: The Game",
     "minutes": 1,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2419/5MXueG1Wog0LrfBcS2Aqxe43.png",
@@ -6792,6 +7150,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:BF19FBEA37724338D87F26F17A3B97B2",
@@ -6822,6 +7182,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1112934458",
@@ -6868,6 +7230,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:F1C11A22FAEE3B82F21B330E1B786A39",
@@ -6898,6 +7262,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA33837_00",
@@ -6905,6 +7271,7 @@
     "platform": "PS4",
     "name": "Final Fantasy VI",
     "minutes": 21,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202212/0511/3tqbQ0Mjd0JwmcfGEGv6c4i6.png",
@@ -6959,6 +7326,8 @@
    "PlayStation"
   ],
   "hours": 5.5,
+  "hours_estimated": false,
+  "sessions": 15,
   "entries": [
    {
     "id": "psn-played:PPSA04796_00",
@@ -6966,6 +7335,7 @@
     "platform": "PS5",
     "name": "Klonoa Phantasy Reverie Series",
     "minutes": 332,
+    "sessions": 15,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0408/vfAh4kZpS2kCSWG70c5I9s6Y.png",
@@ -6990,6 +7360,7 @@
     "platform": "PS5",
     "name": "Klonoa Phantasy Reverie Series",
     "minutes": 0,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202204/0408/vfAh4kZpS2kCSWG70c5I9s6Y.png",
@@ -7013,6 +7384,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1480657006",
@@ -7056,6 +7429,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1766089184",
@@ -7087,6 +7462,8 @@
    "Xbox"
   ],
   "hours": 3.9,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:767263759",
@@ -7128,6 +7505,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656912",
@@ -7193,6 +7572,8 @@
    "Xbox"
   ],
   "hours": 1.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480657079",
@@ -7264,6 +7645,7 @@
     "platform": "PS4",
     "name": "Castle Crashers Remastered",
     "minutes": 36,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA14537_00/4/i_374ace8e7972b2d4c1e14b61539f6cad974821b34d02efe507fa1166554cd65f/i/icon0.png",
@@ -7298,6 +7680,8 @@
    "PlayStation"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:PPSA08329_00",
@@ -7305,6 +7689,7 @@
     "platform": "PS5",
     "name": "God of War Ragnarök",
     "minutes": 33,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2016/b69c06fb108299866057126b0d3a0530bdf96a39d2ce1cb9.png",
@@ -7339,6 +7724,8 @@
    "PlayStation"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:PPSA08601_00",
@@ -7346,6 +7733,7 @@
     "platform": "PS5",
     "name": "Atari 50th Anniversary Celebration",
     "minutes": 27,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202210/2422/USama85yI65BcNV9EmYEYl6R.png",
@@ -7386,6 +7774,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:515050978",
@@ -7418,6 +7808,8 @@
    "PlayStation"
   ],
   "hours": 5.0,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:PPSA06279_00",
@@ -7425,6 +7817,7 @@
     "platform": "PS5",
     "name": "FIFA 23",
     "minutes": 299,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/yM0eeJui8AFByeP5BC5XV5j9.png",
@@ -7465,6 +7858,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:C46BE5741BFDE75BA1110C84E61676BA",
@@ -7498,6 +7893,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:8F655652CF5441D7471D936F3F07324D",
@@ -7539,6 +7936,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:F71343E393314FD6E37E8D19DA678A69",
@@ -7569,6 +7968,8 @@
    "PlayStation"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:CUSA08034_00",
@@ -7576,6 +7977,7 @@
     "platform": "PS4",
     "name": "Shadow of the Colossus",
     "minutes": 31,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202010/2319/XtqYrG2LWer39eExYBsh9J5x.png",
@@ -7624,6 +8026,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1859542622",
@@ -7644,6 +8048,7 @@
     "platform": "PS4",
     "name": "Contra Anniversary Collection",
     "minutes": 22,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15488_00/1/i_479a004fbcc67147b766af5aab471a373bdfee0602cc5ffedffd10627d8d6cc0/i/icon0.png",
@@ -7690,6 +8095,8 @@
    "PlayStation"
   ],
   "hours": 17.1,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn:NPWR03632_00",
@@ -7709,6 +8116,7 @@
     "platform": "PS4",
     "name": "Ni no Kuni Wrath of the White Witch Remastered",
     "minutes": 1024,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13079_00/2/i_0fa6227b5a836b4b86bfe66de907e97ea8087b8e73c8c3f53e0276c6d28904a7/i/icon0.png",
@@ -7743,6 +8151,8 @@
    "PlayStation"
   ],
   "hours": 1.9,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:PPSA05481_00",
@@ -7750,6 +8160,7 @@
     "platform": "PS5",
     "name": "Madden NFL 23",
     "minutes": 114,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1916/JLkOZeWvKQmJqaIJIlwhVnnY.png",
@@ -7786,6 +8197,8 @@
    "Xbox"
   ],
   "hours": 2.4,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "xbox:fakeronjan:1696456823",
@@ -7806,6 +8219,7 @@
     "platform": "PS5",
     "name": "NBA 2K22",
     "minutes": 95,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202106/3002/Eaq9uyUlyLZK8L5xTlsPl0rM.png",
@@ -7842,6 +8256,8 @@
    "PlayStation"
   ],
   "hours": 7.3,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:PPSA02100_00",
@@ -7849,6 +8265,7 @@
     "platform": "PS5",
     "name": "Stray",
     "minutes": 436,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png",
@@ -7883,6 +8300,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:PPSA02562_00",
@@ -7890,6 +8309,7 @@
     "platform": "PS5",
     "name": "Genshin Impact",
     "minutes": 15,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0109/4d4f67a277b41db5d4f78d7827784e80188086ee6c526161.png",
@@ -7926,6 +8346,8 @@
    "PlayStation"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA04841_00",
@@ -7933,6 +8355,7 @@
     "platform": "PS4",
     "name": "No Man's Sky",
     "minutes": 56,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1015/351e97bc1a0a8c44f6a428d70313f9a3a83d8f71300e0314.png",
@@ -7945,6 +8368,7 @@
     "platform": "PS5",
     "name": "No Man's Sky",
     "minutes": 3,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202608/1015/351e97bc1a0a8c44f6a428d70313f9a3a83d8f71300e0314.png",
@@ -7999,6 +8423,8 @@
    "Xbox"
   ],
   "hours": 10.3,
+  "hours_estimated": false,
+  "sessions": 11,
   "entries": [
    {
     "id": "psn-played:CUSA00478_00",
@@ -8006,6 +8432,7 @@
     "platform": "PS4",
     "name": "Valiant Hearts: The Great War",
     "minutes": 618,
+    "sessions": 11,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00479_00/1/i_38455b7ae8315e30ce20121a26636553dde9d6465d91b69ad8f6ce02ee11dc6d/i/icon0.png",
@@ -8062,6 +8489,8 @@
    "Xbox"
   ],
   "hours": 67.7,
+  "hours_estimated": false,
+  "sessions": 65,
   "entries": [
    {
     "id": "psn-played:CUSA00827_00",
@@ -8069,6 +8498,7 @@
     "platform": "PS4",
     "name": "Super Mega Baseball",
     "minutes": 3933,
+    "sessions": 65,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02327_00/2/i_5e81db7fc57696e96a54b830c212784e128e4f220e6fa417775b2a2be26c46c5/i/icon0.png",
@@ -8120,6 +8550,8 @@
    "PlayStation"
   ],
   "hours": 1.9,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn-played:CUSA09188_00",
@@ -8127,6 +8559,7 @@
     "platform": "PS4",
     "name": "Mutant Football League",
     "minutes": 115,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA11097_00/4/i_2ee78a603e9eaad9e7b97b88339ad99e31a51a717a6cd6c5d5c0f8d9012be9f5/i/icon0.png",
@@ -8177,6 +8610,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn:NPWR00542_00",
@@ -8196,6 +8631,7 @@
     "platform": "PS4",
     "name": "Flower",
     "minutes": 3,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00077_00/4/i_b2fd2c0fd4f1f5c173137c25d88688dc63274327eec5ac3273c6bc0f632a637e/i/icon0.png",
@@ -8259,6 +8695,8 @@
    "Xbox"
   ],
   "hours": 15.5,
+  "hours_estimated": false,
+  "sessions": 20,
   "entries": [
    {
     "id": "psn-played:CUSA00339_00",
@@ -8266,6 +8704,7 @@
     "platform": "PS4",
     "name": "Child of Light",
     "minutes": 928,
+    "sessions": 20,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00385_00/8/i_8c457d2539bfcfe548218ce9adad88fe76e8282997ac075f1dafe9b97aac0323/i/icon0.png",
@@ -8348,6 +8787,8 @@
    "PlayStation"
   ],
   "hours": 183.0,
+  "hours_estimated": false,
+  "sessions": 160,
   "entries": [
    {
     "id": "psn-played:CUSA00868_00",
@@ -8355,6 +8796,7 @@
     "platform": "PS4",
     "name": "FIFA 15",
     "minutes": 449,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00722_00/6/i_80d620da22600829442291c8ec0e2521ff622d5a78c6ea3405c9708b96a0a97e/i/icon0.png",
@@ -8367,6 +8809,7 @@
     "platform": "PS4",
     "name": "FIFA 15",
     "minutes": 10529,
+    "sessions": 153,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00722_00/6/i_80d620da22600829442291c8ec0e2521ff622d5a78c6ea3405c9708b96a0a97e/i/icon0.png",
@@ -8406,6 +8849,8 @@
    "PlayStation"
   ],
   "hours": 2.7,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn:NPWR00801_00",
@@ -8425,6 +8870,7 @@
     "platform": "PS4",
     "name": "God of War III Remastered",
     "minutes": 160,
+    "sessions": 8,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/0711/p8JCvA8692BICXAPoyylh7ed.png",
@@ -8469,6 +8915,8 @@
    "PlayStation"
   ],
   "hours": 1.9,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn:NPWR00950_00",
@@ -8488,6 +8936,7 @@
     "platform": "PS4",
     "name": "God of War",
     "minutes": 2,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
@@ -8500,6 +8949,7 @@
     "platform": "PS4",
     "name": "God of War",
     "minutes": 1,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
@@ -8512,6 +8962,7 @@
     "platform": "PS4",
     "name": "God of War",
     "minutes": 114,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/1021/X3WIAh63yKhRRiMohLoJMeQu.png",
@@ -8558,6 +9009,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:PPSA01969_00",
@@ -8565,6 +9018,7 @@
     "platform": "PS5",
     "name": "Death Stranding",
     "minutes": 10,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202009/2921/40aD0BqRUHyHdXdC6nwtwON5.png",
@@ -8601,6 +9055,8 @@
    "PlayStation"
   ],
   "hours": 4.2,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:PPSA01289_00",
@@ -8608,6 +9064,7 @@
     "platform": "PS5",
     "name": "Sackboy: A Big Adventure",
     "minutes": 252,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202010/1614/TJiBEQMJ9qa93lWBu4sKScY9.png",
@@ -8642,6 +9099,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn-played:PPSA04072_00",
@@ -8649,6 +9108,7 @@
     "platform": "PS5",
     "name": "Horizon Forbidden West",
     "minutes": 12,
+    "sessions": 0,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2915/kifM3lnke5lExwRd96mIDojQ.png",
@@ -8688,6 +9148,8 @@
    "PlayStation"
   ],
   "hours": 7.8,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn-played:CUSA11456_00",
@@ -8695,6 +9157,7 @@
     "platform": "PS4",
     "name": "Ghost of Tsushima",
     "minutes": 461,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/niMUubpU9y1PxNvYmDfb8QFD.png",
@@ -8719,6 +9182,7 @@
     "platform": "PS5",
     "name": "Ghost of Tsushima",
     "minutes": 7,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0222/niMUubpU9y1PxNvYmDfb8QFD.png",
@@ -8757,6 +9221,8 @@
    "Xbox"
   ],
   "hours": 31.9,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:1250410",
@@ -8824,6 +9290,8 @@
    "PlayStation"
   ],
   "hours": 29.6,
+  "hours_estimated": false,
+  "sessions": 49,
   "entries": [
    {
     "id": "psn-played:CUSA02299_00",
@@ -8831,6 +9299,7 @@
     "platform": "PS4",
     "name": "Marvel's Spider-Man",
     "minutes": 1779,
+    "sessions": 49,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0402/C784xeOFo2wViCf4m5bxgoeH.png",
@@ -8865,6 +9334,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:77F563570B41119477BD7F46D88F9D6D",
@@ -8895,6 +9366,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:7CBCCE282CD36658AB28471FB4791102",
@@ -8938,6 +9411,8 @@
    "Xbox"
   ],
   "hours": 5.9,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR05620_00",
@@ -8992,6 +9467,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1995913309",
@@ -9024,6 +9501,8 @@
    "Xbox"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:703BDEE72B19135DD048E644FC452DE6",
@@ -9067,6 +9546,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1848191014",
@@ -9097,6 +9578,8 @@
    "Xbox"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1931911684",
@@ -9127,6 +9610,8 @@
    "Xbox"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1892245301",
@@ -9165,6 +9650,8 @@
    "Xbox"
   ],
   "hours": 5.4,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA13594_00",
@@ -9172,6 +9659,7 @@
     "platform": "PS4",
     "name": "Tetris Effect: Connected",
     "minutes": 32,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2006/Jjqj4oIcWvyV4jGpDQkTsSag.png",
@@ -9225,6 +9713,8 @@
    "Xbox"
   ],
   "hours": 22.8,
+  "hours_estimated": false,
+  "sessions": 14,
   "entries": [
    {
     "id": "psn-played:CUSA01442_00",
@@ -9232,6 +9722,7 @@
     "platform": "PS4",
     "name": "Life Is Strange",
     "minutes": 1367,
+    "sessions": 14,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01435_00/5/i_b9d71e8c5eef851e1c3c4f463bed26ec6a5fa2dd5200c82aa024a76ece672eee/i/icon0.png",
@@ -9281,6 +9772,8 @@
    "Xbox"
   ],
   "hours": 2.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:58472989",
@@ -9311,6 +9804,8 @@
    "Xbox"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1992453063",
@@ -9341,6 +9836,8 @@
    "Xbox"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1868841248",
@@ -9371,6 +9868,8 @@
    "Xbox"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:687339341",
@@ -9401,6 +9900,8 @@
    "Xbox"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1814675537",
@@ -9434,6 +9935,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1414793202",
@@ -9477,6 +9980,8 @@
    "Xbox"
   ],
   "hours": 4.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1733044130",
@@ -9509,6 +10014,8 @@
    "Xbox"
   ],
   "hours": 1.4,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA03041_00",
@@ -9516,6 +10023,7 @@
     "platform": "PS4",
     "name": "Red Dead Redemption 2",
     "minutes": 27,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08519_00/12/i_3da1cf7c41dc7652f9b639e1680d96436773658668c7dc3930c441291095713b/i/icon0.png",
@@ -9565,6 +10073,8 @@
    "Xbox"
   ],
   "hours": 2.8,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:2030093255",
@@ -9595,6 +10105,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:861949148",
@@ -9627,6 +10139,8 @@
    "Xbox"
   ],
   "hours": 3.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1789157539",
@@ -9657,6 +10171,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1112934373",
@@ -9687,6 +10203,8 @@
    "Xbox"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:2101138430",
@@ -9720,6 +10238,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1112737766",
@@ -9764,6 +10284,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:357858858",
@@ -9798,6 +10320,8 @@
    "Xbox"
   ],
   "hours": 11.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1694487955",
@@ -9828,6 +10352,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1629043783",
@@ -9858,6 +10384,8 @@
    "Xbox"
   ],
   "hours": 0.8,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1944807356",
@@ -9890,6 +10418,8 @@
    "Xbox"
   ],
   "hours": 1.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1936930219",
@@ -9921,6 +10451,8 @@
    "Xbox"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1745314691",
@@ -9951,6 +10483,8 @@
    "Xbox"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1848421257",
@@ -9984,6 +10518,8 @@
    "Xbox"
   ],
   "hours": 12.9,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA19013_00",
@@ -9991,6 +10527,7 @@
     "platform": "PS4",
     "name": "FIFA 21",
     "minutes": 0,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202101/1315/1zfTY2JW41HdDTGJC00Go4nk.png",
@@ -10028,6 +10565,8 @@
    "Xbox"
   ],
   "hours": 5.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:693381002",
@@ -10072,6 +10611,8 @@
    "Xbox"
   ],
   "hours": 109.1,
+  "hours_estimated": false,
+  "sessions": 87,
   "entries": [
    {
     "id": "psn-played:CUSA01705_00",
@@ -10079,6 +10620,7 @@
     "platform": "PS4",
     "name": "Disney Infinity 3.0",
     "minutes": 6026,
+    "sessions": 87,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01862_00/4/i_4244a2569bebfd546cb852592b531fdd10ce77728c8db13d55b5a5484019fd3e/i/icon0.png",
@@ -10128,6 +10670,8 @@
    "Xbox"
   ],
   "hours": 13.3,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:791051466",
@@ -10160,6 +10704,8 @@
    "Xbox"
   ],
   "hours": 5.6,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:698780",
@@ -10203,6 +10749,8 @@
    "Xbox"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:810101074",
@@ -10234,6 +10782,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1480657407",
@@ -10266,6 +10816,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656877",
@@ -10309,6 +10861,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1959842755",
@@ -10339,6 +10893,8 @@
    "PlayStation"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA09565_00",
@@ -10346,6 +10902,7 @@
     "platform": "PS4",
     "name": "Secret of Mana",
     "minutes": 73,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09537_00/2/i_c3851b222beb6436b4de0d8bb7bee8dc2005e2d56bc2b468bef38d0bb1f3382d/i/icon0.png",
@@ -10380,6 +10937,82 @@
   "img": "img/g/4fb74fa8ba243c73.webp"
  },
  {
+  "id": "mass-effect-2",
+  "name": "Mass Effect 2",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
+  "first": "2012-01-21",
+  "last": "2021-05-31",
+  "days": [
+   "2012-01-21",
+   "2012-01-29",
+   "2012-03-10",
+   "2012-03-17",
+   "2012-03-18",
+   "2012-03-26",
+   "2012-04-16",
+   "2012-04-17",
+   "2012-04-19",
+   "2012-04-21",
+   "2012-04-22",
+   "2012-04-26",
+   "2012-04-27",
+   "2012-04-28",
+   "2019-02-20",
+   "2019-03-10",
+   "2021-05-30",
+   "2021-05-31"
+  ],
+  "families": [
+   "PlayStation",
+   "Xbox"
+  ],
+  "hours": 6.3,
+  "hours_estimated": true,
+  "sessions": null,
+  "entries": [
+   {
+    "id": "psn:NPWR01580_00",
+    "family": "PlayStation",
+    "platform": "PS3",
+    "name": "Mass Effect 2",
+    "minutes": null,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
+    "earned": 39,
+    "total": 59,
+    "first": "2012-01-21",
+    "last": "2012-04-28"
+   },
+   {
+    "id": "xbox:fakeronjan:1161889998",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Mass Effect 2",
+    "minutes": null,
+    "earned": 3,
+    "total": 62,
+    "gamertag": "fakeronjan",
+    "art": "http://store-images.s-microsoft.com/image/apps.53658.65104284338300891.dcd8a095-2ff3-4393-acfc-5bd52cf20770.9d28b9cc-902b-4c5d-b776-67da57da5336",
+    "first": "2019-02-20",
+    "last": "2019-03-10"
+   },
+   {
+    "id": "xbox:fakeronjan:2054685746#ME2",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Mass Effect 2",
+    "minutes": 377,
+    "earned": 5,
+    "total": null,
+    "gamertag": "fakeronjan",
+    "art": "http://store-images.s-microsoft.com/image/apps.59262.14254372351363255.ac3906d1-13b6-4af0-a00a-e10c8a92007b.dac28bb8-f830-421f-9e92-08a9db8b19f8",
+    "estimated": true,
+    "first": "2021-05-30",
+    "last": "2021-05-31"
+   }
+  ],
+  "img": "img/g/cc5c1622b58c1137.webp"
+ },
+ {
   "id": "super-bomberman-r-online",
   "name": "Super Bomberman R Online",
   "art": "http://store-images.s-microsoft.com/image/apps.54296.14425826046895956.4d478f6d-6d0e-45cb-96a9-3d513e892fb0.87a49f75-6e65-4420-8d03-70e70cec83df",
@@ -10392,6 +11025,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1841866029",
@@ -10429,6 +11064,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656967",
@@ -10472,6 +11109,8 @@
    "Xbox"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:2051640476",
@@ -10502,6 +11141,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:285358298",
@@ -10532,6 +11173,8 @@
    "Xbox"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1777477395",
@@ -10562,6 +11205,8 @@
    "Xbox"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:2144913935",
@@ -10592,6 +11237,8 @@
    "Xbox"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:275132544",
@@ -10622,6 +11269,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:705006443",
@@ -10660,6 +11309,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00845_00",
@@ -10715,6 +11366,8 @@
    "Xbox"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:871098991",
@@ -10747,6 +11400,8 @@
    "Xbox"
   ],
   "hours": 8.0,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:680942588",
@@ -10783,6 +11438,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00774_00",
@@ -10831,6 +11488,8 @@
    "Xbox"
   ],
   "hours": 10.6,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn-played:CUSA19447_00",
@@ -10838,6 +11497,7 @@
     "platform": "PS4",
     "name": "NBA 2K21",
     "minutes": 185,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202011/0516/uymryFlvJymtWtSm8jnbuMxf.png",
@@ -10885,6 +11545,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1112737760",
@@ -10918,6 +11580,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1161890069",
@@ -10961,6 +11625,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1297287892",
@@ -10997,6 +11663,8 @@
    "Xbox"
   ],
   "hours": 22.7,
+  "hours_estimated": false,
+  "sessions": 17,
   "entries": [
    {
     "id": "psn-played:CUSA17707_00",
@@ -11004,6 +11672,7 @@
     "platform": "PS4",
     "name": "Madden NFL 21",
     "minutes": 827,
+    "sessions": 17,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202006/1518/D9WYIgZSdOaSoQhAHGaDXune.png",
@@ -11066,6 +11735,8 @@
    "Xbox"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA04568_00",
@@ -11073,6 +11744,7 @@
     "platform": "PS4",
     "name": "Final Fantasy XV",
     "minutes": 4,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01615_00/5/i_d0fdf4ae434e480b9536662f48df7f7180a4c75a96f410c97c76e3bd5f4ef27e/i/icon0.png",
@@ -11110,6 +11782,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1480657033",
@@ -11142,6 +11816,8 @@
    "Xbox"
   ],
   "hours": 3.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1627281209",
@@ -11172,6 +11848,8 @@
    "Xbox"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:833960563",
@@ -11202,6 +11880,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1279330258",
@@ -11232,6 +11912,8 @@
    "Xbox"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:222473492",
@@ -11274,6 +11956,8 @@
    "Xbox"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "xbox:rogerage:1480657498",
@@ -11294,6 +11978,7 @@
     "platform": "PS4",
     "name": "Super Meat Boy!",
     "minutes": 60,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03454_00/4/i_2156b095814638a69c07a43d641ae583072bb7302167bbfeb304d9592bec9bae/i/icon0.png",
@@ -11372,6 +12057,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR03003_00",
@@ -11429,6 +12116,8 @@
    "Xbox"
   ],
   "hours": 0.8,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "xbox:fakeronjan:1692871917",
@@ -11449,6 +12138,7 @@
     "platform": "PS4",
     "name": "Frozen Free Fall: Snowball Fight",
     "minutes": 48,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202308/1513/1137be75a3352d139fd62edb4f785748765c5f14b7e2d284.png",
@@ -11483,6 +12173,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1621285366",
@@ -11526,6 +12218,8 @@
    "Xbox"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:502034863",
@@ -11559,6 +12253,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656849",
@@ -11602,6 +12298,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1480659436",
@@ -11638,6 +12336,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1161890070",
@@ -11694,6 +12394,8 @@
    "Xbox"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1985701699",
@@ -11725,6 +12427,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1480657236",
@@ -11755,6 +12459,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1726129713",
@@ -11785,6 +12491,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA06400_00",
@@ -11792,6 +12500,7 @@
     "platform": "PS4",
     "name": "Marvel vs. Capcom: Infinite",
     "minutes": 39,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA06380_00/3/i_51cca8b4a2f04589e3e7e8232deda3c00659f95877a1ce7eb8566ea51a28bc91/i/icon0.png",
@@ -11826,6 +12535,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA09209_00",
@@ -11833,6 +12544,7 @@
     "platform": "PS4",
     "name": "The Sims 4",
     "minutes": 9,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202111/3019/oXPtJkwSeNlYon2MqTX9K4sQ.png",
@@ -11867,6 +12579,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA01061_00",
@@ -11874,6 +12588,7 @@
     "platform": "PS4",
     "name": "Monopoly Plus",
     "minutes": 5,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00773_00/3/i_520be7442e07f4709363b354be1d2a4c58ad55e07992b3fc14ecf3183f79ecf5/i/icon0_01.png",
@@ -11912,6 +12627,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:502BADF490303E7A09F1BF58AD4341AB",
@@ -11945,6 +12662,8 @@
    "Xbox"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "xbox:fakeronjan:895890707",
@@ -11965,6 +12684,7 @@
     "platform": "PS4",
     "name": "Ultimate Marvel vs. Capcom 3",
     "minutes": 40,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04543_00/4/i_74ab9eb49d82c98c6f97f99dedce4d9afac82017617528d7ce0acc3f03103fa8/i/icon0.png",
@@ -12002,6 +12722,8 @@
    "PlayStation"
   ],
   "hours": 11.0,
+  "hours_estimated": false,
+  "sessions": 12,
   "entries": [
    {
     "id": "psn-played:CUSA15557_00",
@@ -12009,6 +12731,7 @@
     "platform": "PS4",
     "name": "FIFA 20",
     "minutes": 659,
+    "sessions": 12,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA15545_00/5/i_f0884483a8e433de9dacbbd95ac58e02c18b95d9bd95e622866d9320cd1bb467/i/icon0_01.png",
@@ -12043,6 +12766,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:45998392CB216ABF034EB6F98E399A06",
@@ -12073,6 +12798,8 @@
    "Xbox"
   ],
   "hours": 0.8,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:85494077",
@@ -12105,6 +12832,8 @@
    "PlayStation"
   ],
   "hours": 4.3,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn-played:CUSA00083_00",
@@ -12112,6 +12841,7 @@
     "platform": "PS4",
     "name": "LEGO Marvel Super Heroes",
     "minutes": 261,
+    "sessions": 8,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00044_00/9/i_f912240e371b4d4f34454b1e5ca368f94e82b3001093b78b0240923baebcee7c/i/icon0.png",
@@ -12155,6 +12885,8 @@
    "PlayStation"
   ],
   "hours": 11.4,
+  "hours_estimated": false,
+  "sessions": 25,
   "entries": [
    {
     "id": "psn-played:CUSA01163_00",
@@ -12162,6 +12894,7 @@
     "platform": "PS4",
     "name": "Rocket League",
     "minutes": 686,
+    "sessions": 25,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202609/1706/a03b0fde2903545c6b1e1906841e5991b52a108f9eec2e0f.png",
@@ -12204,6 +12937,8 @@
    "Xbox"
   ],
   "hours": 12.3,
+  "hours_estimated": false,
+  "sessions": 11,
   "entries": [
    {
     "id": "xbox:fakeronjan:1613480279",
@@ -12224,6 +12959,7 @@
     "platform": "PS4",
     "name": "NBA 2K20",
     "minutes": 542,
+    "sessions": 11,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA16386_00/3/i_9d7b6c72d83669c1b2343837d4a357e3862cbc36f63ff990499fe57ee88e439f/i/icon0.png",
@@ -12258,6 +12994,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA17711_00",
@@ -12265,6 +13003,7 @@
     "platform": "PS4",
     "name": "Fall Guys: Ultimate Knockout",
     "minutes": 10,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202111/2417/mF8dzVidUT1N3JahQrIZFVk2.png",
@@ -12303,6 +13042,8 @@
    "Xbox"
   ],
   "hours": 8.5,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "xbox:fakeronjan:148078765",
@@ -12323,6 +13064,7 @@
     "platform": "PS4",
     "name": "Madden NFL 20",
     "minutes": 291,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13259_00/4/i_d76f4959431449604a34ec0ba0949fd81a2026ce2a0f331e74d4cd6bb8665c72/i/icon0_01.png",
@@ -12358,6 +13100,8 @@
    "PlayStation"
   ],
   "hours": 2.9,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA07820_00",
@@ -12365,6 +13109,7 @@
     "platform": "PS4",
     "name": "The Last of Us Part II",
     "minutes": 171,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png",
@@ -12399,6 +13144,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:57BAD83C755627D5A5B86ED0AD437965",
@@ -12431,6 +13178,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:79127164CA4A94F74187421B24A3AA8D",
@@ -12461,6 +13210,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:42A65F67C20F2AF4737AE9D4D5A37ECB",
@@ -12495,6 +13246,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:0585E865DFB68B5298F19360A730EDB3",
@@ -12525,6 +13278,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:E733C7B7CE26121F1DA0EA525A683779",
@@ -12557,6 +13312,8 @@
    "PlayStation"
   ],
   "hours": 3.9,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "psn-played:CUSA06808_00",
@@ -12564,6 +13321,7 @@
     "platform": "PS4",
     "name": "Danganronpa 1.2 Reload",
     "minutes": 236,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA06660_00/6/i_ce0196906a1a15a922aec1167c01bedb2bc66d3a2675af082df45ea855c24ac8/i/icon0.png",
@@ -12616,6 +13374,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:8AEDFF741E2D23FBED39474178692DAF",
@@ -12648,6 +13408,8 @@
    "PlayStation"
   ],
   "hours": 2.2,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn-played:CUSA13434_00",
@@ -12655,6 +13417,7 @@
     "platform": "PS4",
     "name": "Castlevania Requiem: Symphony Of The Night & Rondo Of Blood",
     "minutes": 132,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA13590_00/1/i_d72fbe8f79899908e56a4d237ddfb201441829e2976973d4f3ca3af5edd89ba8/i/icon0.png",
@@ -12690,6 +13453,8 @@
    "Xbox"
   ],
   "hours": 1.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:555542903",
@@ -12720,6 +13485,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:42119495",
@@ -12752,6 +13519,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297287122",
@@ -12795,6 +13564,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:824378203",
@@ -12825,6 +13596,8 @@
    "Xbox"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1144039928",
@@ -12858,6 +13631,8 @@
    "Steam"
   ],
   "hours": 4.8,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:289070",
@@ -12927,6 +13702,8 @@
    "Steam"
   ],
   "hours": 135.2,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:8930",
@@ -12962,6 +13739,8 @@
    "Xbox"
   ],
   "hours": 2.6,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00744_00",
@@ -12969,6 +13748,7 @@
     "platform": "PS4",
     "name": "Minecraft",
     "minutes": 3,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png",
@@ -13043,6 +13823,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:EAD9CDD267F449963C89657382E411AE",
@@ -13075,6 +13857,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:3C66B776DB1AA06323037049FACD96D3",
@@ -13111,6 +13895,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:9129043EF2AAD7F1157CF852BACB8F7D",
@@ -13141,6 +13927,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:A10B9E983E22D9175CE28F2275CEC8E6",
@@ -13171,6 +13959,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1297287263",
@@ -13201,6 +13991,8 @@
    "Xbox"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:717669198",
@@ -13232,6 +14024,8 @@
    "Xbox"
   ],
   "hours": 3.6,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:856376259",
@@ -13267,6 +14061,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:CCFE55975D68069E990E9064D7B828A9",
@@ -13297,6 +14093,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:48A5A467593C21DFC93CCCF18D91FCE1",
@@ -13327,6 +14125,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:AF92B7A16C36C3E5DE1C76E5B20E0421",
@@ -13366,6 +14166,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01692_00",
@@ -13408,140 +14210,6 @@
   "img": "img/g/5589f371bedf39cc.webp"
  },
  {
-  "id": "mass-effect-2",
-  "name": "Mass Effect 2",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
-  "first": "2012-01-21",
-  "last": "2019-03-10",
-  "days": [
-   "2012-01-21",
-   "2012-01-29",
-   "2012-03-10",
-   "2012-03-17",
-   "2012-03-18",
-   "2012-03-26",
-   "2012-04-16",
-   "2012-04-17",
-   "2012-04-19",
-   "2012-04-21",
-   "2012-04-22",
-   "2012-04-26",
-   "2012-04-27",
-   "2012-04-28",
-   "2019-02-20",
-   "2019-03-10"
-  ],
-  "families": [
-   "PlayStation",
-   "Xbox"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "psn:NPWR01580_00",
-    "family": "PlayStation",
-    "platform": "PS3",
-    "name": "Mass Effect 2",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
-    "earned": 39,
-    "total": 59,
-    "first": "2012-01-21",
-    "last": "2012-04-28"
-   },
-   {
-    "id": "xbox:fakeronjan:1161889998",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "Mass Effect 2",
-    "minutes": null,
-    "earned": 3,
-    "total": 62,
-    "gamertag": "fakeronjan",
-    "art": "http://store-images.s-microsoft.com/image/apps.53658.65104284338300891.dcd8a095-2ff3-4393-acfc-5bd52cf20770.9d28b9cc-902b-4c5d-b776-67da57da5336",
-    "first": "2019-02-20",
-    "last": "2019-03-10"
-   }
-  ],
-  "img": "img/g/cc5c1622b58c1137.webp"
- },
- {
-  "id": "mass-effect",
-  "name": "Mass Effect",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
-  "first": "2007-12-05",
-  "last": "2019-02-18",
-  "days": [
-   "2007-12-05",
-   "2010-08-28",
-   "2011-01-30",
-   "2011-02-20",
-   "2013-05-10",
-   "2019-02-09",
-   "2019-02-10",
-   "2019-02-18"
-  ],
-  "families": [
-   "PlayStation",
-   "Xbox"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "xbox:thesurfshop19:1297287144",
-    "family": "Xbox",
-    "platform": "360",
-    "name": "Mass Effect",
-    "minutes": null,
-    "earned": 1,
-    "total": 49,
-    "gamertag": "thesurfshop19",
-    "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
-    "first": "2007-12-05",
-    "last": "2007-12-05"
-   },
-   {
-    "id": "xbox:rogerage:1297287144",
-    "family": "Xbox",
-    "platform": "360",
-    "name": "Mass Effect",
-    "minutes": null,
-    "earned": 2,
-    "total": 49,
-    "gamertag": "rogerage",
-    "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
-    "first": "2010-08-28",
-    "last": "2011-02-20"
-   },
-   {
-    "id": "psn:NPWR04000_00",
-    "family": "PlayStation",
-    "platform": "PS3",
-    "name": "Mass Effect",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
-    "earned": 2,
-    "total": 47,
-    "first": "2013-05-10",
-    "last": "2013-05-10"
-   },
-   {
-    "id": "xbox:fakeronjan:1297287144",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "Mass Effect",
-    "minutes": null,
-    "earned": 3,
-    "total": 49,
-    "gamertag": "fakeronjan",
-    "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
-    "first": "2019-02-09",
-    "last": "2019-02-18"
-   }
-  ],
-  "img": "img/g/5f30e98f4cc4657a.webp"
- },
- {
   "id": "tetris-99",
   "name": "Tetris 99",
   "art": "https://img-eshop.cdn.nintendo.net/i/7188207423d75e4793d0ce31c50c1e26032faf232c8dad74bc8eb6358ac85f93.jpg",
@@ -13554,6 +14222,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:691C9B2C6D1F1E032DDC01FD026159FD",
@@ -13584,6 +14254,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:956590734",
@@ -13614,6 +14286,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:8C2319A8FEBE37EA272B508676E3EA1F",
@@ -13644,6 +14318,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:A29C3926C7AC223A657F1415D1C1D797",
@@ -13688,6 +14364,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:5F25EBBAB5987964E56ADA5BBDDE9DF2",
@@ -13729,6 +14407,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:099ECEEF904DB62AEE3A76A3137C241B",
@@ -13762,6 +14442,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:BA8E0FCB931BBA7F76DCA06732EF9A07",
@@ -13798,6 +14480,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:25A3BB4DBF243A95E54BF8E131AA488D",
@@ -13829,6 +14513,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:22A4BDEA5363AAA24F931D5AF2926082",
@@ -13866,6 +14552,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:CBA841B50A92A904E313AE06DF4EF71A",
@@ -13897,6 +14585,8 @@
    "PlayStation"
   ],
   "hours": 15.2,
+  "hours_estimated": false,
+  "sessions": 16,
   "entries": [
    {
     "id": "psn-played:CUSA00133_00",
@@ -13904,6 +14594,7 @@
     "platform": "PS4",
     "name": "Batman: Arkham Knight",
     "minutes": 912,
+    "sessions": 16,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/acpkgo/prod/CUSA00133_00/374/i_21516ca32977519346e7b5cbf52fcadf722998b0d0a781fbeeea687cd3dca173/i/icon0.png",
@@ -13926,6 +14617,8 @@
    "PlayStation"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA02671_00",
@@ -13933,6 +14626,7 @@
     "platform": "PS4",
     "name": "WWE 2K16",
     "minutes": 22,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02671_00/4/i_94733a59de8ff6309515f6a9e85a7e2688ce385466338b4531c649a154fb6278/i/icon0.png",
@@ -13958,6 +14652,8 @@
    "PlayStation"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "switch:062DD3BC3CF59885A6762E5A30A14CD1",
@@ -13978,6 +14674,7 @@
     "platform": "PS4",
     "name": "FIFA 18",
     "minutes": 35,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA07994_00/3/i_a18be18308cdd01f80c58ef164210bb2b79bf344e67ec9cc125382e078826035/i/icon0_01.png",
@@ -14012,6 +14709,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:25B77E52575617C0C2E4A4E0A346538C",
@@ -14046,6 +14745,8 @@
    "PlayStation"
   ],
   "hours": 2.2,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "psn:NPWR03593_00",
@@ -14065,6 +14766,7 @@
     "platform": "PS4",
     "name": "Retro City Rampage DX",
     "minutes": 135,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01381_00/5/i_0aae63737f580ab4caceed67ab21ebe2fa426f06e22895ff58d832f6d1036df2/i/icon0.png",
@@ -14104,6 +14806,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:B20FAEC679A3A9320864DC374CFB9713",
@@ -14147,6 +14851,8 @@
    "PlayStation"
   ],
   "hours": 37.8,
+  "hours_estimated": false,
+  "sessions": 27,
   "entries": [
    {
     "id": "psn-played:CUSA08614_00",
@@ -14154,6 +14860,7 @@
     "platform": "PS4",
     "name": "Danganronpa V3: Killing Harmony",
     "minutes": 99,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08532_00/3/i_1705fcf194ea0bee4bb5d5a946541e74aaee3d76d87b897df224c1f5e30ee942/i/icon0.png",
@@ -14166,6 +14873,7 @@
     "platform": "PS4",
     "name": "Danganronpa V3: Killing Harmony",
     "minutes": 2168,
+    "sessions": 24,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08532_00/3/i_1705fcf194ea0bee4bb5d5a946541e74aaee3d76d87b897df224c1f5e30ee942/i/icon0.png",
@@ -14212,6 +14920,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:F3DCFE5993801D2BE14298CE367DB8EA",
@@ -14244,6 +14954,8 @@
    "Steam"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:416690",
@@ -14287,6 +14999,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA03391_00",
@@ -14294,6 +15008,7 @@
     "platform": "PS4",
     "name": "LEGO Star Wars: The Force Awakens",
     "minutes": 42,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA03397_00/2/i_aa926e49cd08015c3a5fb80ea0c53ef324806f5e3f4a537d8d656ad467ea242d/i/icon0.png",
@@ -14316,6 +15031,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:D4DFEB2A86C8E2A460B41C59FCEB784E",
@@ -14347,6 +15064,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:3BE52CBB2C0B225168723895C1D1525E",
@@ -14377,6 +15096,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:915FF2ADBDF999D66F96486295DB4C9E",
@@ -14422,6 +15143,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:72CA1DED7AF149F87216AAA92ACC6ECE",
@@ -14440,6 +15163,40 @@
   "img": "img/g/b7ff22417e81467f.webp"
  },
  {
+  "id": "uncharted-the-lost-legacy",
+  "name": "Uncharted: The Lost Legacy",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR13408_00_0048C6FBCAAB8AD3570530BDE9AF5F503C79A1985A/5B82A3F92DE117928614487FAE5CA140A7A26A81.PNG",
+  "first": "2017-08-27",
+  "last": "2018-01-14",
+  "days": [
+   "2017-08-27",
+   "2017-09-01",
+   "2018-01-14"
+  ],
+  "families": [
+   "PlayStation"
+  ],
+  "hours": 1.6,
+  "hours_estimated": false,
+  "sessions": 4,
+  "entries": [
+   {
+    "id": "psn:NPWR13408_00",
+    "family": "PlayStation",
+    "platform": "PS4",
+    "name": "Uncharted: The Lost Legacy",
+    "minutes": 97,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR13408_00_0048C6FBCAAB8AD3570530BDE9AF5F503C79A1985A/5B82A3F92DE117928614487FAE5CA140A7A26A81.PNG",
+    "earned": 1,
+    "total": 50,
+    "sessions": 4,
+    "first": "2017-08-27",
+    "last": "2018-01-14"
+   }
+  ],
+  "img": "img/g/73ae2183e1dcbb67.webp"
+ },
+ {
   "id": "life-is-strange-before-the-storm",
   "name": "Life is Strange: Before the Storm",
   "art": "https://image.api.playstation.com/trophy/np/NPWR13354_00_00A381C4CD43B1C0C316597E9B59F8A4AFF55EF018/20410E91FCB5A22B12C588FCD7F217A36271FD1A.PNG",
@@ -14455,6 +15212,8 @@
    "PlayStation"
   ],
   "hours": 3.4,
+  "hours_estimated": false,
+  "sessions": 5,
   "entries": [
    {
     "id": "psn-played:CUSA08479_00",
@@ -14462,6 +15221,7 @@
     "platform": "PS4",
     "name": "Life is Strange: Before the Storm",
     "minutes": 203,
+    "sessions": 5,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08487_00/4/i_db64c4f8ac81075af600732ab286889b2f9c01ad978cc5213aae1470fd8ec005/i/icon0.png",
@@ -14496,6 +15256,8 @@
    "PlayStation"
   ],
   "hours": 0.5,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA01967_00",
@@ -14503,6 +15265,7 @@
     "platform": "PS4",
     "name": "Horizon Zero Dawn",
     "minutes": 31,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0221/vC7trMorHJgbImp8PCQvpI0p.png",
@@ -14537,6 +15300,8 @@
    "PlayStation"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA02684_00",
@@ -14544,6 +15309,7 @@
     "platform": "PS4",
     "name": "Mass Effect: Andromeda",
     "minutes": 1,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02491_00/3/i_b7af12cb6d61879f32c9ecc48eeb5344150cb68e78cba2dc7c830b5ae38700c7/i/icon0_01.png",
@@ -14578,6 +15344,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:C2B49A475DF5A340494292A1BD398579",
@@ -14608,6 +15376,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA05462_00",
@@ -14615,6 +15385,7 @@
     "platform": "PS4",
     "name": "Injustice 2",
     "minutes": 43,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/cfn/11307yTtQHHs5rGByVI5LQJK9AvsV7Q577v082BvkKfSmBsU7lzxIutUgVvcL3eofKipLaEvL_QzCJrkhL-TREkeZScQmBUo.png",
@@ -14650,6 +15421,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:9600BAE614E6833B1A261F5FB229CDBA",
@@ -14666,35 +15439,6 @@
    }
   ],
   "img": "img/g/f35898cd7d52621d.webp"
- },
- {
-  "id": "uncharted-the-lost-legacy",
-  "name": "Uncharted: The Lost Legacy",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR13408_00_0048C6FBCAAB8AD3570530BDE9AF5F503C79A1985A/5B82A3F92DE117928614487FAE5CA140A7A26A81.PNG",
-  "first": "2017-09-01",
-  "last": "2017-09-01",
-  "days": [
-   "2017-09-01"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "hours": null,
-  "entries": [
-   {
-    "id": "psn:NPWR13408_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Uncharted: The Lost Legacy",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR13408_00_0048C6FBCAAB8AD3570530BDE9AF5F503C79A1985A/5B82A3F92DE117928614487FAE5CA140A7A26A81.PNG",
-    "earned": 1,
-    "total": 50,
-    "first": "2017-09-01",
-    "last": "2017-09-01"
-   }
-  ],
-  "img": "img/g/73ae2183e1dcbb67.webp"
  },
  {
   "id": "ultra-street-fighter-ii-the-final-challengers",
@@ -14714,6 +15458,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:92EDE0C7C89D5ED13D0CA773BE080402",
@@ -14744,6 +15490,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "switch:1628E0CE3F839127054B0EE36E28E52A",
@@ -14778,6 +15526,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR09157_00",
@@ -14807,6 +15557,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Pocket Card Jockey",
@@ -14836,6 +15588,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:New Super Mario Bros. 2",
@@ -14866,6 +15620,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR08419_00",
@@ -14895,6 +15651,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:The Legend of Zelda: A Link to the Past",
@@ -14926,6 +15684,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Super Mario World",
@@ -14955,6 +15715,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Wario Land: Super Mario Land 3",
@@ -14993,6 +15755,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Super Mario Maker",
@@ -15022,6 +15786,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Super Mario Kart",
@@ -15058,6 +15824,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR06090_00",
@@ -15099,6 +15867,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Paper Mario",
@@ -15130,6 +15900,8 @@
    "Xbox"
   ],
   "hours": 5.8,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:714214153",
@@ -15162,6 +15934,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1840996916",
@@ -15195,6 +15969,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297287154",
@@ -15240,6 +16016,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Super Mario RPG: Legend of the Seven Stars",
@@ -15277,6 +16055,8 @@
    "Xbox"
   ],
   "hours": 15.9,
+  "hours_estimated": false,
+  "sessions": 10,
   "entries": [
    {
     "id": "steam:213670",
@@ -15309,6 +16089,7 @@
     "platform": "PS4",
     "name": "South Park: The Stick of Truth",
     "minutes": 736,
+    "sessions": 10,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA04695_00/2/i_a4d6404cdf79e181f650f4a1f331b298e4cf3c06288d0dfd84d72fa34aed3108/i/icon0.png",
@@ -15343,6 +16124,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA02495_00",
@@ -15350,6 +16133,7 @@
     "platform": "PS4",
     "name": "Mighty No. 9",
     "minutes": 16,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1911/6hlRIv9hyoajiHQRdsM7z5HS.png",
@@ -15386,6 +16170,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR03581_00",
@@ -15428,6 +16214,8 @@
    "PlayStation"
   ],
   "hours": 2.7,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:CUSA02885_00",
@@ -15435,6 +16223,7 @@
     "platform": "PS4",
     "name": "Don Bradman Cricket",
     "minutes": 162,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00786_00/4/i_9ea179630f01ba5722987f5b2b73d5f0a70291e929e651d0be89885b987539b3/i/icon0.png",
@@ -15470,6 +16259,8 @@
    "PlayStation"
   ],
   "hours": 1.4,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00498_00",
@@ -15477,6 +16268,7 @@
     "platform": "PS4",
     "name": "The Witness",
     "minutes": 84,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202010/0113/odtNAKyNgLbrNsRpjwJ0kOQS.png",
@@ -15511,6 +16303,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR05280_00",
@@ -15541,6 +16335,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01818_00",
@@ -15598,6 +16394,8 @@
    "PlayStation"
   ],
   "hours": 5.2,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn:NPWR04034_00",
@@ -15617,6 +16415,7 @@
     "platform": "PS4",
     "name": "Injustice: Gods Among Us Ultimate Edition",
     "minutes": 312,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00051_00/3/i_710458194e8e9c9c83b69e9adac49e253269dc550787e946ef25dc0030c89136/i/icon0.png",
@@ -15665,6 +16464,8 @@
    "PlayStation"
   ],
   "hours": 48.4,
+  "hours_estimated": false,
+  "sessions": 11,
   "entries": [
    {
     "id": "psn-played:CUSA01875_00",
@@ -15672,6 +16473,7 @@
     "platform": "PS4",
     "name": "Final Fantasy VII",
     "minutes": 2903,
+    "sessions": 11,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01847_00/1/i_7ef731a0ce915a8aeeb22cf7d717f8ce6db942d38dcc30a8bb63810137f83fb4/i/icon0.png",
@@ -15706,6 +16508,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:694107204",
@@ -15736,6 +16540,8 @@
    "Xbox"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:711381438",
@@ -15767,6 +16573,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656891",
@@ -15810,6 +16618,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:fakeronjan:1480657237",
@@ -15841,6 +16651,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1297287149",
@@ -15885,6 +16697,8 @@
    "PlayStation"
   ],
   "hours": 1.0,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00359_00",
@@ -15892,6 +16706,7 @@
     "platform": "PS4",
     "name": "Until Dawn",
     "minutes": 60,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202010/2318/2cJRHg2UOwbvp10QxGrbX62S.png",
@@ -15926,6 +16741,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR08202_00",
@@ -15955,6 +16772,8 @@
    "Steam"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:324710",
@@ -15990,6 +16809,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR08716_00",
@@ -16019,6 +16840,8 @@
    "Steam"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:419460",
@@ -16048,6 +16871,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA01607_00",
@@ -16055,6 +16880,7 @@
     "platform": "PS4",
     "name": "Tearaway Unfolded",
     "minutes": 14,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00562_00/4/i_b0db3822afca8352d26f1294d67ba78276db91f16eec9f37e02571370a5cb3dd/i/icon0.png",
@@ -16090,6 +16916,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR08571_00",
@@ -16119,6 +16947,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA02480_00",
@@ -16126,6 +16956,7 @@
     "platform": "PS4",
     "name": "Amplitude",
     "minutes": 10,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02670_00/3/i_07d4d495c0b80740c2df705f95137f45eb058248634ad7ebcdddf6c7650f22bc/i/icon0.png",
@@ -16160,6 +16991,8 @@
    "Steam"
   ],
   "hours": 1.4,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "steam:417860",
@@ -16189,6 +17022,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR07423_00",
@@ -16224,6 +17059,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR07882_00",
@@ -16253,6 +17090,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Donkey Kong Country: Tropical Freeze",
@@ -16282,6 +17121,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR05254_00",
@@ -16311,6 +17152,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00218_00",
@@ -16318,6 +17161,7 @@
     "platform": "PS4",
     "name": "Metal Gear Solid V: Ground Zeroes",
     "minutes": 11,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0205/7e9uKR9LiXZ5iahYbYH3Ane7.png",
@@ -16352,6 +17196,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA01216_00",
@@ -16359,6 +17205,7 @@
     "platform": "PS4",
     "name": "Tropico 5",
     "minutes": 0,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0510/G3L3e6yPKIO2NjADDVBUBmpx.png",
@@ -16396,6 +17243,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR06877_00",
@@ -16426,6 +17275,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:EarthBound",
@@ -16458,6 +17309,8 @@
    "Xbox"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "xbox:rogerage:1480657766",
@@ -16478,6 +17331,7 @@
     "platform": "PS4",
     "name": "Bastion",
     "minutes": 33,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA02057_00/1/i_170766c921dc9f47cd2ca5c97d40c94d1316e4a752d5c18690ee8cab16e83037/i/icon0.png",
@@ -16524,6 +17378,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:The Legend of Zelda: A Link Between Worlds",
@@ -16553,6 +17409,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Donkey Kong Country",
@@ -16582,6 +17440,8 @@
    "Nintendo"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "miiverse:Super Punch-Out!!",
@@ -16612,6 +17472,8 @@
    "PlayStation"
   ],
   "hours": 8.8,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn-played:CUSA01164_00",
@@ -16619,6 +17481,7 @@
     "platform": "PS4",
     "name": "Saints Row IV: Re-Elected",
     "minutes": 528,
+    "sessions": 8,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01106_00/4/i_42a5e9175cffdb6f1579cbf3001313a699d1fadd710348ffb4975dd63d649d8f/i/icon0.png",
@@ -16654,6 +17517,8 @@
    "PlayStation"
   ],
   "hours": 3.1,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:CUSA01319_00",
@@ -16661,6 +17526,7 @@
     "platform": "PS4",
     "name": "Grim Fandango Remastered",
     "minutes": 189,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01858_00/2/i_50d13b4f68085f75ffed4a861525a1344d6ed857ecb547755be1f7bdab56ad29/i/icon0.png",
@@ -16695,6 +17561,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00629_00",
@@ -16702,6 +17570,7 @@
     "platform": "PS4",
     "name": "Rogue Legacy",
     "minutes": 8,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00587_00/5/i_b72d2292cc4a093444ba2f74a88ddd4a0d3e92f0f50c8e7443ce71dacca41aeb/i/icon0.png",
@@ -16736,6 +17605,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:CUSA01237_00",
@@ -16743,6 +17614,7 @@
     "platform": "PS4",
     "name": "Apotheon",
     "minutes": 8,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01366_00/3/i_cda5cb3efd92f60ecbe912ae184da335a82a8e86c521f9bee112bcac04368f3c/i/icon0.png",
@@ -16783,6 +17655,8 @@
    "PlayStation"
   ],
   "hours": 9.7,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn:NPWR03267_00",
@@ -16802,6 +17676,7 @@
     "platform": "PS4",
     "name": "The Walking Dead: Season 1",
     "minutes": 582,
+    "sessions": 8,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01011_00/10/i_08cac2c9dd9826999b22d51f475b5b18af1f1913cedb6f6bcc723cb1d7eb42a9/i/icon0.png",
@@ -16836,6 +17711,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00755_00",
@@ -16843,6 +17720,7 @@
     "platform": "PS4",
     "name": "Geometry Wars³: Dimensions",
     "minutes": 14,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00801_00/1/i_fee108abc0e5e119ac64b0450383460581d80c97337a5bec79a338f35489d8cc/i/icon0.png",
@@ -16890,6 +17768,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:CUSA00315_00",
@@ -16897,6 +17777,7 @@
     "platform": "PS4",
     "name": "The Swapper",
     "minutes": 12,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00293_00/3/i_2180215e289887a3e7fc63bc74b9ccab7cf9480a4ae4c813f9730d0bd1b91c6e/i/icon0.png",
@@ -16931,6 +17812,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA01017_00",
@@ -16938,6 +17821,7 @@
     "platform": "PS4",
     "name": "The Walking Dead: Season 2",
     "minutes": 0,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01010_00/3/i_f5c0ea7f009f8fbbcde532c31f16b7c40bb49e4619a55c074cdb01bf1e51fdb6/i/icon0.png",
@@ -16973,6 +17857,8 @@
    "PlayStation"
   ],
   "hours": 4.2,
+  "hours_estimated": false,
+  "sessions": 16,
   "entries": [
    {
     "id": "psn-played:CUSA00220_00",
@@ -16980,6 +17866,7 @@
     "platform": "PS4",
     "name": "Dragon Age: Inquisition",
     "minutes": 249,
+    "sessions": 16,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00503_00/4/i_791823c1be7770e0bc047a48df694a714bf2b5fbae9777fc24cc64a94ba947eb/i/icon0_01.png",
@@ -17014,6 +17901,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00313_00",
@@ -17021,6 +17910,7 @@
     "platform": "PS4",
     "name": "Secret Ponchos",
     "minutes": 5,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01472_00/2/i_c78c44fdd48764b416359dadfd7bfa228ff8b6fe59d985a492184238b1cee13d/i/icon0.png",
@@ -17055,6 +17945,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00453_00",
@@ -17062,6 +17954,7 @@
     "platform": "PS4",
     "name": "Plants vs Zombies Garden Warfare",
     "minutes": 7,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00485_00/4/i_8becb980569367338130d8de90a075abb364afe8b1262a4fd87fca3fef69cec5/i/icon0_01.png",
@@ -17096,6 +17989,8 @@
    "PlayStation"
   ],
   "hours": 4.0,
+  "hours_estimated": false,
+  "sessions": 8,
   "entries": [
    {
     "id": "psn-played:CUSA00496_00",
@@ -17103,6 +17998,7 @@
     "platform": "PS4",
     "name": "Far Cry 4",
     "minutes": 239,
+    "sessions": 8,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202205/1100/XW13uDJAOI4GoMIqmfaJc7ru.png",
@@ -17137,6 +18033,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00323_00",
@@ -17144,6 +18042,7 @@
     "platform": "PS4",
     "name": "Titan Attacks!",
     "minutes": 14,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00323_00/2/i_973a09a5b7ccdaf84faa4fe9c5a4ebd8356b840da230b3ffca464dab90061619/i/icon0.png",
@@ -17178,6 +18077,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00792_00",
@@ -17185,6 +18086,7 @@
     "platform": "PS4",
     "name": "The Binding of Isaac: Rebirth",
     "minutes": 18,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01344_00/1/i_695cfd22042c9d42252145a6a2058958cce98bc04e965fa5cd9644a76ae30dbb/i/icon0.png",
@@ -17219,6 +18121,8 @@
    "PlayStation"
   ],
   "hours": 0.9,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00521_00",
@@ -17226,6 +18130,7 @@
     "platform": "PS4",
     "name": "SteamWorld Dig",
     "minutes": 56,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00499_00/1/i_453bd8378bba3bc98e4dd67fd1c6b0deac20358c87de17c0a6e6cb23718f5540/i/icon0.png",
@@ -17262,6 +18167,8 @@
    "PlayStation"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": 4,
   "entries": [
    {
     "id": "psn-played:CUSA01352_00",
@@ -17269,6 +18176,7 @@
     "platform": "PS4",
     "name": "Pix the Cat",
     "minutes": 37,
+    "sessions": 4,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01122_00/2/i_70c4a25abe8c0aae439d174062a9f6c857a4a4e6554038621247f0ba4d8cd9c9/i/icon0.png",
@@ -17303,6 +18211,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00493_00",
@@ -17310,6 +18220,7 @@
     "platform": "PS4",
     "name": "Spelunky",
     "minutes": 8,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202109/2907/zMDbJHMRWEA3dfC3XRqaB7n8.png",
@@ -17344,6 +18255,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA01326_00",
@@ -17351,6 +18264,7 @@
     "platform": "PS4",
     "name": "Dust: An Elysian Tail",
     "minutes": 10,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA01367_00/4/i_0372851d7d4d4d214def2ca60feac3054a84c6e729ff484293e22dceea3e2132/i/icon0.png",
@@ -17386,6 +18300,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn:NPWR00071_00",
@@ -17405,6 +18321,7 @@
     "platform": "PS4",
     "name": "flOw",
     "minutes": 10,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00180_00/1/i_38b710cbecb1a474e5105ae435b4d724e5363b7b946497c42e427bb2799fdb64/i/icon0.png",
@@ -17440,6 +18357,8 @@
    "PlayStation"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA00700_00",
@@ -17447,6 +18366,7 @@
     "platform": "PS4",
     "name": "Sportsfriends",
     "minutes": 70,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00484_00/3/i_41b3f75864d2c24d38c514ef0f2054559b1e24a736a0b76fd9c665b67b87ae93/i/icon0.png",
@@ -17492,6 +18412,8 @@
    "PlayStation"
   ],
   "hours": 31.7,
+  "hours_estimated": false,
+  "sessions": 19,
   "entries": [
    {
     "id": "psn-played:CUSA00242_00",
@@ -17499,6 +18421,7 @@
     "platform": "PS4",
     "name": "Diablo III: Eternal Collection",
     "minutes": 1902,
+    "sessions": 19,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0915/l6FRCUbbkHWBOzczup7hqmWA.png",
@@ -17535,6 +18458,8 @@
    "PlayStation"
   ],
   "hours": 10.1,
+  "hours_estimated": false,
+  "sessions": 6,
   "entries": [
    {
     "id": "psn-played:CUSA00219_00",
@@ -17542,6 +18467,7 @@
     "platform": "PS4",
     "name": "Destiny",
     "minutes": 604,
+    "sessions": 6,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202009/1422/XuLStsILcwJut5U7tNkZcMRG.png",
@@ -17576,6 +18502,8 @@
    "PlayStation"
   ],
   "hours": 0.6,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00384_00",
@@ -17583,6 +18511,7 @@
     "platform": "PS4",
     "name": "Velocity2X",
     "minutes": 36,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00071_00/4/i_55d90274fb8341db0a6e03dd408ffc2b167c583f4d455c2e0575864d844627a5/i/icon0.png",
@@ -17617,6 +18546,8 @@
    "PlayStation"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA01037_00",
@@ -17624,6 +18555,7 @@
     "platform": "PS4",
     "name": "Surgeon Simulator",
     "minutes": 24,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00861_00/10/i_d1b9a01c712d5de1cbec4a33a40e73c19b8769673e546fdd8aa24f2189ff5dd3/i/icon0.png",
@@ -17659,6 +18591,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA01046_00",
@@ -17666,6 +18600,7 @@
     "platform": "PS4",
     "name": "Road Not Taken",
     "minutes": 17,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00813_00/2/i_e69637d860312497f60c9510fbe7cba56df850381def6a4ba05b8b26a0a02f5c/i/icon0.png",
@@ -17703,6 +18638,8 @@
    "PlayStation"
   ],
   "hours": 3.6,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn:NPWR03073_00",
@@ -17722,6 +18659,7 @@
     "platform": "PS4",
     "name": "The Last of Us Remastered",
     "minutes": 214,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/1020/FKgazVvG7BcWouCr39mIiXkW.png",
@@ -17757,6 +18695,8 @@
    "PlayStation"
   ],
   "hours": 0.4,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00329_00",
@@ -17764,6 +18704,7 @@
     "platform": "PS4",
     "name": "Oddworld: New 'n' Tasty",
     "minutes": 23,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00326_00/4/i_9bb000526e651c22627c79a5fcc169f1d663ed0649ce0cc245f5890766e530c4/i/icon0.png",
@@ -17798,6 +18739,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00657_00",
@@ -17805,6 +18748,7 @@
     "platform": "PS4",
     "name": "PixelJunk Shooter Ultimate",
     "minutes": 4,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00510_00/8/i_3afb367a6f41fef3203fa6473382bc8ce4b46582bc29d4c191c023e433f1744a/i/icon0.png",
@@ -17839,6 +18783,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00502_00",
@@ -17846,6 +18792,7 @@
     "platform": "PS4",
     "name": "Transistor",
     "minutes": 21,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00642_00/1/i_7e6035fe8bde201d711e0a5090ebe1ad5e5607cf2b4499b870c3204fc04e082f/i/icon0.png",
@@ -17892,6 +18839,8 @@
    "PlayStation"
   ],
   "hours": 0.7,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00537_00",
@@ -17899,6 +18848,7 @@
     "platform": "PS4",
     "name": "Stick it to The Man",
     "minutes": 39,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00539_00/5/i_60797b1636467c2d0718523dca59d1dce1c8e5a9a85ab7a5f5c76587a231246b/i/icon0.png",
@@ -17938,6 +18888,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR04773_00",
@@ -17980,6 +18932,8 @@
    "PlayStation"
   ],
   "hours": 1.4,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00383_00",
@@ -17987,6 +18941,7 @@
     "platform": "PS4",
     "name": "Fez",
     "minutes": 83,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00382_00/6/i_cbd45f4542cc97e5adc62350bd68f58c99ce3fe521fde7b0640110804c16ead7/i/icon0.png",
@@ -18022,6 +18977,8 @@
    "PlayStation"
   ],
   "hours": 1.2,
+  "hours_estimated": false,
+  "sessions": 3,
   "entries": [
    {
     "id": "psn-played:CUSA00223_00",
@@ -18029,6 +18986,7 @@
     "platform": "PS4",
     "name": "inFAMOUS Second Son",
     "minutes": 71,
+    "sessions": 3,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/img/rnd/202011/0700/enLAr4eVGBxWjrHh5nLTUSnn.png",
@@ -18063,6 +19021,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00236_00",
@@ -18070,6 +19030,7 @@
     "platform": "PS4",
     "name": "Dead Nation: Apocalypse Edition",
     "minutes": 6,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00176_00/1/i_fe757bcf5248d7b48922433439070881019299f61153c5e530ef960fd7c0e3fd/i/icon0.png",
@@ -18111,6 +19072,8 @@
    "PlayStation"
   ],
   "hours": 5.5,
+  "hours_estimated": false,
+  "sessions": 7,
   "entries": [
    {
     "id": "psn:NPWR02569_00",
@@ -18130,6 +19093,7 @@
     "platform": "PS4",
     "name": "Tomb Raider: Definitive Edition",
     "minutes": 328,
+    "sessions": 7,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00109_00/3/i_1b6670c34010da3775fdebb09f884d7fedd96a8ed2f5ff119f8c81a753d5d6c8/i/icon0.png",
@@ -18165,6 +19129,8 @@
    "PlayStation"
   ],
   "hours": 1.6,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00084_00",
@@ -18172,6 +19138,7 @@
     "platform": "PS4",
     "name": "The LEGO Movie - Videogame",
     "minutes": 98,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00563_00/3/i_8552a8a8814b88a86dffd54b6166b5e8288c3cc7ad7087f34b3e6b34866483b2/i/icon0.png",
@@ -18207,6 +19174,8 @@
    "PlayStation"
   ],
   "hours": 0.9,
+  "hours_estimated": false,
+  "sessions": 2,
   "entries": [
    {
     "id": "psn-played:CUSA00325_00",
@@ -18214,6 +19183,7 @@
     "platform": "PS4",
     "name": "Outlast",
     "minutes": 52,
+    "sessions": 2,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00409_00/1/i_24488820ee03c1b894ddb9a2c6fa696992061b109ec61b7795c77737b5b67c58/i/icon0.png",
@@ -18248,6 +19218,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00158_00",
@@ -18255,6 +19227,7 @@
     "platform": "PS4",
     "name": "Don't Starve: Console Edition",
     "minutes": 10,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00327_00/1/i_9ff9b92062a57c9d641671bbc9d1b24a5f9f159acb727e65e7dfad930072cefe/i/icon0.png",
@@ -18289,6 +19262,8 @@
    "PlayStation"
   ],
   "hours": 0.1,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00081_00",
@@ -18296,6 +19271,7 @@
     "platform": "PS4",
     "name": "Pinball Arcade",
     "minutes": 5,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00105_00/3/i_336825f34bc62a0281991cfda6f99e773fd523e5e894438602939b44ebacb0fd/i/icon0.png",
@@ -18330,6 +19306,8 @@
    "PlayStation"
   ],
   "hours": 0.2,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00036_00",
@@ -18337,6 +19315,7 @@
     "platform": "PS4",
     "name": "Doki-Doki Universe",
     "minutes": 10,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00046_00/3/i_8d2b3e394828824744a8235ecca9164cf70069b9fd2455af3e1e64c85572da0c/i/icon0.png",
@@ -18359,6 +19338,8 @@
    "PlayStation"
   ],
   "hours": 0.3,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00010_00",
@@ -18366,6 +19347,7 @@
     "platform": "PS4",
     "name": "Assassin's Creed IV Black Flag",
     "minutes": 21,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00009_00/2/i_bb56e3087ed420e514ddd26c731396aac8cd65aaa26a4d6247d013f417bfae55/i/icon0.png",
@@ -18400,6 +19382,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR05342_00",
@@ -18429,6 +19413,8 @@
    "PlayStation"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00011_00",
@@ -18436,6 +19422,7 @@
     "platform": "PS4",
     "name": "Contrast",
     "minutes": 2,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00226_00/2/i_36c9bfbe0c30f0d224b225aee6a274b3589cf7e6f4e66fb87396126776ca9b8b/i/icon0_01.png",
@@ -18470,6 +19457,8 @@
    "PlayStation"
   ],
   "hours": 0.0,
+  "hours_estimated": false,
+  "sessions": 1,
   "entries": [
    {
     "id": "psn-played:CUSA00038_00",
@@ -18477,6 +19466,7 @@
     "platform": "PS4",
     "name": "Resogun",
     "minutes": 2,
+    "sessions": 1,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00005_00/4/i_4991468c8caf373687f6189b1995f7cb3bb7cb7c1e3a5490b630538297a04333/i/icon0.png",
@@ -18516,6 +19506,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR04328_00",
@@ -18545,6 +19537,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR02312_00",
@@ -18574,6 +19568,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00626_00",
@@ -18611,6 +19607,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR03709_00",
@@ -18641,6 +19639,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00867_00",
@@ -18686,6 +19686,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1464993789",
@@ -18744,6 +19746,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR03612_00",
@@ -18776,6 +19780,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1480657548",
@@ -18821,6 +19827,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR03237_00",
@@ -18865,6 +19873,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1414793364",
@@ -18917,6 +19927,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01814_00",
@@ -18946,6 +19958,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00133_00",
@@ -18983,6 +19997,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR02942_00",
@@ -19012,6 +20028,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR02155_00",
@@ -19043,6 +20061,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01435_00",
@@ -19073,6 +20093,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR02174_00",
@@ -19102,6 +20124,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR02096_00",
@@ -19131,6 +20155,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01741_00",
@@ -19161,6 +20187,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR02070_00",
@@ -19204,6 +20232,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889801",
@@ -19247,6 +20277,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1229916113",
@@ -19282,6 +20314,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1161890126",
@@ -19316,6 +20350,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1297287405",
@@ -19349,6 +20385,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1414596713",
@@ -19391,6 +20429,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1414793338",
@@ -19421,6 +20461,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1481115668",
@@ -19452,6 +20494,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1480657413",
@@ -19495,6 +20539,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1414924243",
@@ -19529,6 +20575,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1414793305",
@@ -19563,6 +20611,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01210_00",
@@ -19593,6 +20643,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1480657361",
@@ -19623,6 +20675,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1431504975",
@@ -19659,6 +20713,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1297287382",
@@ -19690,6 +20746,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1297287369",
@@ -19720,6 +20778,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1297287153",
@@ -19752,6 +20812,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1161890035",
@@ -19786,6 +20848,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1161890046",
@@ -19816,6 +20880,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:rogerage:1431504911",
@@ -19850,6 +20916,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1279330257",
@@ -19895,6 +20963,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01097_00",
@@ -19924,6 +20994,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00943_00",
@@ -19958,6 +21030,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01258_00",
@@ -19988,6 +21062,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01072_00",
@@ -20020,6 +21096,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR01022_00",
@@ -20052,6 +21130,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00617_00",
@@ -20082,6 +21162,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00986_00",
@@ -20124,6 +21206,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00880_00",
@@ -20153,6 +21237,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00603_00",
@@ -20187,6 +21273,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00951_00",
@@ -20216,6 +21304,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1464993776",
@@ -20255,6 +21345,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00160_00",
@@ -20285,6 +21377,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00582_00",
@@ -20320,6 +21414,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00736_00",
@@ -20353,6 +21449,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656997",
@@ -20398,6 +21496,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1414793176",
@@ -20440,6 +21540,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00660_00",
@@ -20469,6 +21571,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00497_00",
@@ -20500,6 +21604,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00450_00",
@@ -20529,6 +21635,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00700_00",
@@ -20566,6 +21674,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889897",
@@ -20612,6 +21722,8 @@
    "PlayStation"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "psn:NPWR00357_00",
@@ -20641,6 +21753,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656956",
@@ -20686,6 +21800,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1414793223",
@@ -20716,6 +21832,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889833",
@@ -20746,6 +21864,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1096157175",
@@ -20777,6 +21897,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889823",
@@ -20809,6 +21931,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656995",
@@ -20839,6 +21963,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480657023",
@@ -20869,6 +21995,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480657046",
@@ -20900,6 +22028,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889821",
@@ -20934,6 +22064,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889818",
@@ -20968,6 +22100,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656996",
@@ -21004,6 +22138,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1414793188",
@@ -21035,6 +22171,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297287146",
@@ -21066,6 +22204,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889783",
@@ -21105,6 +22245,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1414793199",
@@ -21136,6 +22278,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1396901844",
@@ -21167,6 +22311,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480657008",
@@ -21198,6 +22344,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656855",
@@ -21228,6 +22376,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297287132",
@@ -21262,6 +22412,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656883",
@@ -21294,6 +22446,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297549268",
@@ -21324,6 +22478,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297287125",
@@ -21356,6 +22512,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656886",
@@ -21387,6 +22545,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1480656920",
@@ -21417,6 +22577,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1112737745",
@@ -21445,6 +22607,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1161889780",
@@ -21473,6 +22637,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1397032946",
@@ -21501,6 +22667,8 @@
    "Xbox"
   ],
   "hours": null,
+  "hours_estimated": false,
+  "sessions": null,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1096157159",
