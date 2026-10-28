@@ -17,7 +17,7 @@ import random
 import re
 import subprocess
 import unicodedata
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -165,10 +165,12 @@ def ps_when(f):
     return datetime.strptime(stamp, "%Y:%m:%d %H:%M:%S") if stamp else None
 
 
-def is_trophy_capture(f):
-    """The PS5 saves a picture every time a trophy pops, with a curved black banner across the
-    bottom: trophy cup on the left, PlayStation logo on the right. Detected from that banner's
-    fixed parts (dark bottom corners, the logo, the cup); the middle is see-through."""
+def capture_layout(f):
+    """The PS5 saves a picture every time a trophy pops, with the trophy drawn over it in one of
+    two layouts: "banner", a curved black band across the bottom (trophy cup left, PlayStation
+    logo right; PS5 games), or "flyover", a dark panel at the top left (cup, trophy name, logo
+    below; PS4 games played on the PS5). None for a screenshot Ronjan took himself. Each layout
+    is detected from its fixed parts, with thresholds checked by eye against the whole archive."""
     im = Image.open(f).convert("L")
     im.thumbnail((640, 360))
     w, h = im.size
@@ -176,16 +178,24 @@ def is_trophy_capture(f):
     def share(box, test):
         px = im.crop((int(w * box[0]), int(h * box[1]), int(w * box[2]), int(h * box[3]))).get_flattened_data()
         return sum(1 for p in px if test(p)) / len(px)
-    dark = lambda p: p < 40
-    return (share((0, 0.80, 0.03, 1), dark) > 0.8 and share((0.97, 0.80, 1, 1), dark) > 0.8
-            and 0.04 < share((0.895, 0.875, 0.955, 0.96), lambda p: p > 200) < 0.45
+    dark, bright = (lambda p: p < 40), (lambda p: p > 200)
+    if (share((0, 0.80, 0.03, 1), dark) > 0.8 and share((0.97, 0.80, 1, 1), dark) > 0.8
+            and 0.04 < share((0.895, 0.875, 0.955, 0.96), bright) < 0.45
             and share((0.86, 0.86, 0.99, 0.99), dark) > 0.45
-            and share((0.045, 0.83, 0.11, 0.97), lambda p: p > 90) > 0.08)
+            and share((0.045, 0.83, 0.11, 0.97), lambda p: p > 90) > 0.08):
+        return "banner"
+    if (share((0.0, 0.13, 0.28, 0.24), lambda p: p < 45) > 0.55 and 0.08 < share((0.03, 0.27, 0.07, 0.32), bright) < 0.3
+            and share((0.0, 0.26, 0.12, 0.33), lambda p: p < 45) > 0.85 and share((0.03, 0.15, 0.07, 0.22), lambda p: p > 90) > 0.2):
+        return "flyover"
+    return None
+
+
+OCR_BOX = {"banner": None, "flyover": ["0.12", "0.13", "0.22", "0.12"]}
 
 
 def ps_scan():
-    """Every PlayStation image with its capture time, whether it's a trophy capture, and (for
-    those) the trophy name read off the banner. Cached by file size and mtime."""
+    """Every PlayStation image with its capture time, its trophy-capture layout if it is one, and
+    (for those) the trophy name read off the picture. Cached by file size and mtime."""
     cache = json.loads(PS_CACHE.read_text()) if PS_CACHE.exists() else {}
     files = [f for f in sorted(PS_ARCHIVE.rglob("*")) if f.suffix.lower() in (".jpg", ".jpeg", ".png")]
     unread = []
@@ -193,18 +203,21 @@ def ps_scan():
         rel = unicodedata.normalize("NFC", str(f.relative_to(PS_ARCHIVE)))
         st = f.stat()
         c = cache.get(rel)
-        if not c or c["size"] != st.st_size or c["mtime"] != st.st_mtime:
-            when = ps_when(f)
+        if not c or c["size"] != st.st_size or c["mtime"] != st.st_mtime or "layout" not in c:
+            when = (datetime.fromisoformat(c["when"]) if c and c.get("when") and c["size"] == st.st_size else ps_when(f))
             c = cache[rel] = {"size": st.st_size, "mtime": st.st_mtime, "when": when.isoformat() if when else None,
-                              "trophy": is_trophy_capture(f), "text": None}
-        if c["trophy"] and c["text"] is None:
+                              "layout": capture_layout(f), "text": None}
+        if c["layout"] and c["text"] is None:
             unread.append((rel, f))
-    if unread:  # macOS Vision text recognition: swiftc -O -o local/banner_ocr tools/banner_ocr.swift
+    for layout, box in OCR_BOX.items():  # macOS Vision: swiftc -O -o local/banner_ocr tools/banner_ocr.swift
+        todo = [(rel, f) for rel, f in unread if cache[rel]["layout"] == layout]
+        if not todo:
+            continue
         listing = HERE / "local" / "ocr_paths.txt"
-        listing.write_text("\n".join(str(f) for _, f in unread))
-        read = json.loads(subprocess.run([str(HERE / "local" / "banner_ocr"), str(listing)],
+        listing.write_text("\n".join(str(f) for _, f in todo))
+        read = json.loads(subprocess.run([str(HERE / "local" / "banner_ocr"), str(listing)] + (box or []),
                                          capture_output=True, text=True, check=True).stdout)
-        for rel, f in unread:
+        for rel, f in todo:
             cache[rel]["text"] = read.get(str(f), "")
     PS_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False, sort_keys=True))
     return {rel: (PS_ARCHIVE / rel, c) for rel, c in cache.items() if (PS_ARCHIVE / rel).exists()
@@ -237,6 +250,11 @@ def add_playstation(gallery):
             raise SystemExit(f"PlayStation folder {folder!r} matches no game; add it to config/ps_folders.json")
         return [r]
 
+    def nearest(rows, when):
+        """A collection's folder: the game with trophies nearest that day"""
+        days = lambda r: [abs((datetime.fromisoformat(u["earned"][:19]) - when).total_seconds()) for u in rows_unlocks[r["id"]]]
+        return min(rows, key=lambda r: min(days(r), default=float("inf"))) if len(rows) > 1 else rows[0]
+
     files = ps_scan()
     direct, captures = defaultdict(list), []
     for rel, (path, c) in files.items():
@@ -245,34 +263,23 @@ def add_playstation(gallery):
         if not rows or not c["when"]:
             continue
         when = datetime.fromisoformat(c["when"])
-        if c["trophy"]:
-            captures.append((rel, path, when, c["text"] or "", rows))
+        if c["layout"]:
+            captures.append((rel, path, when, c["text"] or "", rows, c["layout"]))
             continue
-        # A collection's folder: the game with trophies nearest that day
-        days = lambda r: [abs((datetime.fromisoformat(u["earned"][:19]) - when).total_seconds()) for u in rows_unlocks[r["id"]]]
-        row = min(rows, key=lambda r: min(days(r), default=float("inf"))) if len(rows) > 1 else rows[0]
-        direct[row["id"]].append((when.isoformat(), path, rel))
+        direct[nearest(rows, when)["id"]].append((when.isoformat(), path, rel))
 
-    for gid, items in direct.items():
-        row = by_id[gid]
-        key = min(e["id"] for e in row["entries"] if e["id"].startswith("psn"))
-        entries = []
-        for when, path, rel in stratified(items, f"gameplay-tracking:ps:{row['name']}"):
-            name = f"ps-{when[:19].replace('-', '').replace(':', '').replace('T', '')}-{hashlib.sha1(rel.encode()).hexdigest()[:6]}.webp"
-            save_webp(path, name)
-            entries.append({"time": when, "img": name})
-        gallery[key] = {"game": row["name"], "total": len(items), "shots": entries}
-
-    # Trophy moments: name on the banner first (it can carry game text after it, since the
-    # banner is see-through), closest time to break ties; one capture per trophy
+    # Trophy moments: name on the picture first (it can carry game text after it, since the
+    # banner is see-through), closest time to break ties; one capture per trophy. Both must be
+    # within the hour: other profiles on the console earn the same trophies at other times, and
+    # their captures are left out.
     ET = ZoneInfo("America/New_York")
     best, unmatched = {}, 0
-    for rel, path, when, text, rows in captures:
+    for rel, path, when, text, rows, layout in captures:
         t = when.replace(tzinfo=ET).timestamp()
         cands = [u for r in rows for u in rows_unlocks[r["id"]]]
         gap = lambda u: abs(datetime.fromisoformat(u["earned"].replace("Z", "+00:00")).timestamp() - t)
         txt = norm(text)
-        named = [u for u in cands if len(norm(u["name"])) >= 3 and txt.startswith(norm(u["name"]))]
+        named = [u for u in cands if len(norm(u["name"])) >= 2 and txt.startswith(norm(u["name"])) and gap(u) <= 3600]
         pick = min(named, key=gap) if named else None
         if not pick:
             near = [u for u in cands if gap(u) <= 120]
@@ -283,14 +290,26 @@ def add_playstation(gallery):
         k = f"{pick['entry']}|{pick['earned']}|{pick['name']}"
         if k not in best or gap(pick) < best[k][0]:
             best[k] = (gap(pick), rel, path, when)
+    for gid, items in direct.items():
+        row = by_id[gid]
+        key = min(e["id"] for e in row["entries"] if e["id"].startswith("psn"))
+        entries = []
+        for when, path, rel in stratified(items, f"gameplay-tracking:ps:{row['name']}"):
+            name = f"ps-{when[:19].replace('-', '').replace(':', '').replace('T', '')}-{hashlib.sha1(rel.encode()).hexdigest()[:6]}.webp"
+            save_webp(path, name)
+            entries.append({"time": when, "img": name})
+        gallery[key] = {"game": row["name"], "total": len(items), "shots": entries}
+
     moments = {}
     for k, (_, rel, path, when) in best.items():
         name = f"pm-{when.strftime('%Y%m%d%H%M%S')}-{hashlib.sha1(rel.encode()).hexdigest()[:6]}.webp"
         save_webp(path, name)
         moments[k] = {"img": name, "time": when.isoformat()}
-    skipped = sum(1 for rel, (p, c) in files.items() if not rows_for(rel.split("/")[0]))
+    skipped = sum(1 for rel in files if not rows_for(rel.split("/")[0]))
+    layouts = Counter(c[5] for c in captures)
     print(f"playstation: {sum(len(v) for v in direct.values())} screenshots in {len(direct)} games; "
-          f"{len(captures)} trophy captures -> {len(moments)} moments ({unmatched} unmatched); {skipped} left out by config")
+          f"{len(captures)} trophy captures ({layouts['banner']} banner, {layouts['flyover']} flyover) -> {len(moments)} moments "
+          f"({unmatched} unmatched); {skipped} left out by config")
     return moments
 
 
