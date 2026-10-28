@@ -231,6 +231,9 @@ def split_collections(entries, unlocks, rules):
             if u["earned"]:
                 part["days"].append(et_day(u["earned"]))
             u["entry"] = sub
+        if rule["by"] == "all":  # the whole list is one game, so its trophy total is that game's
+            for part in parts.values():
+                part["total"] = parent.get("total")
         allocate(parent.get("minutes"), parent.get("sessions"), list(parts.values()), lambda e: len(set(e["days"])),
                  parent["name"])
         entries.update(parts)
