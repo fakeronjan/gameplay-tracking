@@ -14,6 +14,7 @@ import json
 import random
 import re
 from collections import defaultdict
+from datetime import datetime
 from pathlib import Path
 
 from PIL import Image
@@ -71,6 +72,8 @@ def main():
                             "img": name})
         gallery[f"switch:{first_id[row]}"] = {"game": row, "total": len(by_row[row]), "shots": entries}
 
+    add_miiverse(gallery)
+
     # Drop images no sample uses any more (a game's sample shifts when screenshots are added)
     keep = {s["img"] for g in gallery.values() for s in g["shots"]}
     stale = [p for kind in SIZES for p in (OUT / kind).glob("*.webp") if p.name not in keep]
@@ -79,6 +82,47 @@ def main():
     (OUT / "gallery.json").write_text(json.dumps(gallery, indent=1, ensure_ascii=False) + "\n")
     print(f"gallery: {len(gallery)} games, {sum(len(g['shots']) for g in gallery.values())} of "
           f"{sum(g['total'] for g in gallery.values())} screenshots; {len(stale)} stale images removed")
+
+
+MIIVERSE = Path.home() / "Documents/Archive/Nintendo/miiverse_backup/assets/user"
+
+
+def add_miiverse(gallery):
+    """Every screenshot from the 2017 Miiverse backup: the ones attached to posts (kept with the
+    post's id so the page can show them together) and the photo album. Few enough to show all."""
+    def js(name):
+        text = (MIIVERSE / "js" / name).read_text(encoding="utf-8")
+        return json.loads(re.sub(r",\s*\]\s*;?\s*$", "]", text[text.index("=") + 1:].strip().rstrip(";")))
+    titles, communities = js("title.js"), js("community.js")
+    shots = defaultdict(list)
+    for year in (2015, 2016, 2017):
+        for p in js(f"posts/{year}.js"):
+            src = MIIVERSE / "img" / "ss" / f"{p['id']}.jpg"
+            if not p.get("ss") or not src.exists():
+                continue
+            game = titles[p["title"]]["name"] if p.get("title") in titles \
+                else communities[p["community"]]["name"].replace(" Community", "")
+            when = datetime.strptime(p["created_at"], "%m/%d/%Y %I:%M %p").isoformat()
+            shots[game.replace("®", "")].append((when, src, p["id"]))
+    for album in js("album_images.js"):
+        for item in album["album"]:
+            src = MIIVERSE / "img" / "ss" / f"{item['ss']}.jpg"
+            if src.exists():
+                when = datetime.strptime(item["created_at"].replace("Save to ", ""), "%m/%d/%Y %I:%M %p").isoformat()
+                shots[album["name"].replace("®", "")].append((when, src, None))
+    for game, items in shots.items():
+        entries = []
+        for when, src, post in sorted(items):
+            name = f"mv-{src.stem}.webp"
+            for kind, size in SIZES.items():
+                out = OUT / kind / name
+                if not out.exists():
+                    out.parent.mkdir(parents=True, exist_ok=True)
+                    im = Image.open(src).convert("RGB")
+                    im.thumbnail((size, size))
+                    im.save(out, "WEBP", quality=72 if kind == "t" else 80)
+            entries.append({"time": when, "img": name, **({"post": post} if post else {})})
+        gallery[f"miiverse:{game}"] = {"game": game, "total": len(entries), "shots": entries}
 
 
 if __name__ == "__main__":
