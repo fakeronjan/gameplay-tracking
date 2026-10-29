@@ -96,7 +96,7 @@
    "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00044_00/9/i_f912240e371b4d4f34454b1e5ca368f94e82b3001093b78b0240923baebcee7c/i/icon0.png",
    "last_played": "2020-09-07T20:55:19.330000Z",
    "minutes": 261,
-   "name": "LEGO® Marvel™ Super Heroes",
+   "name": "LEGO® Superhéroes de Marvel™",
    "play_count": 8,
    "trophy_lists": [
     "NPWR05341_00"
@@ -622,7 +622,7 @@
    "category": "ps4_game",
    "concept_id": 220518,
    "first_played": "2014-09-28T03:34:00.000000Z",
-   "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00722_00/6/i_80d620da22600829442291c8ec0e2521ff622d5a78c6ea3405c9708b96a0a97e/i/icon0.png",
+   "image": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00707_00/4/i_7dc8cc218eba684c14efebbdfdb7fc3be459a452239530a188fadf2ee7acbefe/i/icon0.png",
    "last_played": "2022-07-17T03:49:57.450000Z",
    "minutes": 10529,
    "name": "FIFA 15",
@@ -33589,5 +33589,5 @@
    ]
   }
  },
- "updated": "2026-10-29T10:43:12Z"
+ "updated": "2026-10-29T19:12:21Z"
 }
