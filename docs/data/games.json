@@ -55,7 +55,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
     "first": "2007-12-05",
-    "last": "2007-12-05"
+    "last": "2007-12-05",
+    "earned_by_year": {
+     "2007": 1
+    }
    },
    {
     "id": "xbox:rogerage:1297287144",
@@ -68,7 +71,11 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
     "first": "2010-08-28",
-    "last": "2011-02-20"
+    "last": "2011-02-20",
+    "earned_by_year": {
+     "2010": 1,
+     "2011": 2
+    }
    },
    {
     "id": "psn:NPWR04000_00",
@@ -80,7 +87,10 @@
     "earned": 2,
     "total": 47,
     "first": "2013-05-10",
-    "last": "2013-05-10"
+    "last": "2013-05-10",
+    "earned_by_year": {
+     "2013": 2
+    }
    },
    {
     "id": "xbox:fakeronjan:1297287144",
@@ -93,7 +103,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
     "first": "2019-02-09",
-    "last": "2019-02-18"
+    "last": "2019-02-18",
+    "earned_by_year": {
+     "2019": 3
+    }
    },
    {
     "id": "xbox:fakeronjan:2054685746#ME1",
@@ -123,7 +136,10 @@
     "total": 35,
     "sessions": 2,
     "first": "2026-10-27",
-    "last": "2026-10-27"
+    "last": "2026-10-27",
+    "earned_by_year": {
+     "2026": 4
+    }
    }
   ],
   "img": "img/g/5f30e98f4cc4657a.webp"
@@ -196,7 +212,10 @@
     "earned": 3,
     "total": 79,
     "first": "2015-06-15",
-    "last": "2015-06-15"
+    "last": "2015-06-15",
+    "earned_by_year": {
+     "2015": 3
+    }
    },
    {
     "id": "switch:2AF2C4CCD5F28D087B476BE33BFE1BF8",
@@ -234,7 +253,10 @@
     "earned": 8,
     "total": 79,
     "first": "2026-10-08",
-    "last": "2026-10-16"
+    "last": "2026-10-16",
+    "earned_by_year": {
+     "2026": 8
+    }
    },
    {
     "id": "steam:292030",
@@ -320,7 +342,10 @@
     "earned": 1,
     "total": 59,
     "first": "2013-09-20",
-    "last": "2013-09-20"
+    "last": "2013-09-20",
+    "earned_by_year": {
+     "2013": 1
+    }
    },
    {
     "id": "psn-played:CUSA00419_00",
@@ -345,7 +370,11 @@
     "earned": 14,
     "total": 78,
     "first": "2014-11-21",
-    "last": "2015-01-03"
+    "last": "2015-01-03",
+    "earned_by_year": {
+     "2014": 9,
+     "2015": 14
+    }
    },
    {
     "id": "xbox:fakeronjan:972249091",
@@ -396,7 +425,11 @@
     "earned": 16,
     "total": 78,
     "first": "2022-07-16",
-    "last": "2025-12-26"
+    "last": "2025-12-26",
+    "earned_by_year": {
+     "2022": 14,
+     "2025": 16
+    }
    }
   ],
   "img": "img/g/1aa6fe8d2d3aaefe.webp"
@@ -520,7 +553,10 @@
     "earned": 45,
     "total": 74,
     "first": "2024-02-02",
-    "last": "2024-04-04"
+    "last": "2024-04-04",
+    "earned_by_year": {
+     "2024": 45
+    }
    }
   ],
   "img": "img/g/0ac9b69f380d3aa5.webp"
@@ -578,7 +614,10 @@
     "earned": 5,
     "total": 25,
     "first": "2026-08-13",
-    "last": "2026-09-04"
+    "last": "2026-09-04",
+    "earned_by_year": {
+     "2026": 5
+    }
    }
   ],
   "img": "img/g/2f63219becf51e0a.webp"
@@ -705,7 +744,10 @@
     "earned": 1,
     "total": 29,
     "first": "2026-09-04",
-    "last": "2026-09-04"
+    "last": "2026-09-04",
+    "earned_by_year": {
+     "2026": 1
+    }
    }
   ],
   "img": "img/g/d3854ef180e096d6.webp"
@@ -771,7 +813,10 @@
     "earned": 9,
     "total": 68,
     "first": "2016-05-14",
-    "last": "2016-05-31"
+    "last": "2016-05-31",
+    "earned_by_year": {
+     "2016": 9
+    }
    },
    {
     "id": "psn-played:PPSA05389_00",
@@ -859,7 +904,12 @@
     "earned": 22,
     "total": 71,
     "first": "2010-01-13",
-    "last": "2012-07-30"
+    "last": "2012-07-30",
+    "earned_by_year": {
+     "2010": 11,
+     "2011": 21,
+     "2012": 22
+    }
    },
    {
     "id": "psn:NPWR09799_00",
@@ -876,7 +926,12 @@
      "Uncharted: The Nathan Drake Collection"
     ],
     "first": "2020-07-01",
-    "last": "2026-08-30"
+    "last": "2026-08-30",
+    "earned_by_year": {
+     "2020": 1,
+     "2022": 8,
+     "2026": 9
+    }
    }
   ],
   "img": "img/g/ef7a8c5c04e64851.webp"
@@ -954,7 +1009,10 @@
     "earned": 7,
     "total": 46,
     "first": "2023-01-22",
-    "last": "2023-02-11"
+    "last": "2023-02-11",
+    "earned_by_year": {
+     "2023": 7
+    }
    }
   ],
   "img": "img/g/f6ffdce1969d97ca.webp"
@@ -1008,7 +1066,10 @@
     "earned": 2,
     "total": 44,
     "first": "2026-08-03",
-    "last": "2026-08-13"
+    "last": "2026-08-13",
+    "earned_by_year": {
+     "2026": 2
+    }
    }
   ],
   "img": "img/g/1a7f96e2e1d430b6.webp"
@@ -1060,7 +1121,11 @@
     "earned": 4,
     "total": 55,
     "first": "2023-06-13",
-    "last": "2026-08-12"
+    "last": "2026-08-12",
+    "earned_by_year": {
+     "2023": 3,
+     "2026": 4
+    }
    }
   ],
   "img": "img/g/ab8a5b6885a8b880.webp"
@@ -1626,7 +1691,11 @@
     "earned": 17,
     "total": 36,
     "first": "2025-12-04",
-    "last": "2026-01-10"
+    "last": "2026-01-10",
+    "earned_by_year": {
+     "2025": 16,
+     "2026": 17
+    }
    }
   ],
   "img": "img/g/6599e9f79767c65e.webp"
@@ -1684,7 +1753,10 @@
     "earned": 7,
     "total": 51,
     "first": "2024-06-24",
-    "last": "2024-09-02"
+    "last": "2024-09-02",
+    "earned_by_year": {
+     "2024": 7
+    }
    }
   ],
   "img": "img/g/252cb4a6b733bf6f.webp"
@@ -1771,7 +1843,11 @@
     "earned": 30,
     "total": 61,
     "first": "2013-04-13",
-    "last": "2016-06-25"
+    "last": "2016-06-25",
+    "earned_by_year": {
+     "2013": 9,
+     "2016": 30
+    }
    },
    {
     "id": "psn-played:CUSA00151_00",
@@ -1796,7 +1872,11 @@
     "earned": 25,
     "total": 36,
     "first": "2014-07-19",
-    "last": "2026-06-13"
+    "last": "2026-06-13",
+    "earned_by_year": {
+     "2014": 23,
+     "2026": 25
+    }
    },
    {
     "id": "switch:2EDAD642AF6CA11E5629A6E387F51A08",
@@ -1872,7 +1952,10 @@
     "earned": 1,
     "total": 28,
     "first": "2026-06-09",
-    "last": "2026-06-09"
+    "last": "2026-06-09",
+    "earned_by_year": {
+     "2026": 1
+    }
    }
   ],
   "img": "img/g/cb76422a1132d65a.webp"
@@ -1926,7 +2009,10 @@
     "earned": 2,
     "total": 38,
     "first": "2026-05-26",
-    "last": "2026-05-30"
+    "last": "2026-05-30",
+    "earned_by_year": {
+     "2026": 2
+    }
    }
   ],
   "img": "img/g/281484c097344692.webp"
@@ -1976,7 +2062,10 @@
     "earned": 4,
     "total": 64,
     "first": "2026-05-25",
-    "last": "2026-05-25"
+    "last": "2026-05-25",
+    "earned_by_year": {
+     "2026": 4
+    }
    }
   ],
   "img": "img/g/0e0c3dcb23918e13.webp"
@@ -2062,7 +2151,10 @@
     "total": 30,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/1495860/header.jpg",
     "first": "2021-07-30",
-    "last": "2021-12-28"
+    "last": "2021-12-28",
+    "earned_by_year": {
+     "2021": 14
+    }
    },
    {
     "id": "psn-played:CUSA26985_00",
@@ -2087,7 +2179,10 @@
     "earned": 21,
     "total": 31,
     "first": "2025-02-16",
-    "last": "2025-11-16"
+    "last": "2025-11-16",
+    "earned_by_year": {
+     "2025": 21
+    }
    }
   ],
   "img": "img/g/a54d3e0c94f5f473.webp"
@@ -2139,7 +2234,10 @@
     "earned": 1,
     "total": 36,
     "first": "2026-04-24",
-    "last": "2026-04-24"
+    "last": "2026-04-24",
+    "earned_by_year": {
+     "2026": 1
+    }
    }
   ],
   "img": "img/g/b04076c29ab574c9.webp"
@@ -2261,7 +2359,10 @@
     "earned": 2,
     "total": 30,
     "first": "2026-03-27",
-    "last": "2026-03-27"
+    "last": "2026-03-27",
+    "earned_by_year": {
+     "2026": 2
+    }
    }
   ],
   "img": "img/g/23e82cb6e595711c.webp"
@@ -2379,7 +2480,10 @@
     "earned": 5,
     "total": 54,
     "first": "2020-04-10",
-    "last": "2020-04-10"
+    "last": "2020-04-10",
+    "earned_by_year": {
+     "2020": 5
+    }
    },
    {
     "id": "psn-played:CUSA18540_00",
@@ -2417,7 +2521,12 @@
     "earned": 19,
     "total": 63,
     "first": "2022-07-09",
-    "last": "2024-01-08"
+    "last": "2024-01-08",
+    "earned_by_year": {
+     "2022": 3,
+     "2023": 18,
+     "2024": 19
+    }
    }
   ],
   "img": "img/g/ba26eded1c9582a4.webp"
@@ -2522,7 +2631,13 @@
     "earned": 50,
     "total": 98,
     "first": "2008-09-27",
-    "last": "2011-06-17"
+    "last": "2011-06-17",
+    "earned_by_year": {
+     "2008": 23,
+     "2009": 45,
+     "2010": 48,
+     "2011": 50
+    }
    },
    {
     "id": "xbox:fakeronjan:1037514907",
@@ -2573,7 +2688,10 @@
     "earned": 9,
     "total": 95,
     "first": "2020-11-07",
-    "last": "2020-11-08"
+    "last": "2020-11-08",
+    "earned_by_year": {
+     "2020": 9
+    }
    }
   ],
   "img": "img/g/91a7ba52f6a22080.webp"
@@ -2657,7 +2775,11 @@
     "earned": 43,
     "total": 57,
     "first": "2025-09-27",
-    "last": "2026-04-24"
+    "last": "2026-04-24",
+    "earned_by_year": {
+     "2025": 8,
+     "2026": 43
+    }
    }
   ],
   "img": "img/g/d42ef76d36afa968.webp"
@@ -2729,7 +2851,10 @@
     "earned": 22,
     "total": 31,
     "first": "2025-04-06",
-    "last": "2025-04-13"
+    "last": "2025-04-13",
+    "earned_by_year": {
+     "2025": 22
+    }
    }
   ],
   "img": "img/g/2d65c57f6684d82f.webp"
@@ -2779,7 +2904,10 @@
     "earned": 6,
     "total": 34,
     "first": "2026-04-12",
-    "last": "2026-04-12"
+    "last": "2026-04-12",
+    "earned_by_year": {
+     "2026": 6
+    }
    },
    {
     "id": "steam:2280",
@@ -2950,7 +3078,10 @@
     "earned": 13,
     "total": 32,
     "first": "2024-02-27",
-    "last": "2024-03-30"
+    "last": "2024-03-30",
+    "earned_by_year": {
+     "2024": 13
+    }
    },
    {
     "id": "switch:EE327B3F1EA16B12FE45F55BCABC4BD6",
@@ -2975,7 +3106,11 @@
     "total": 31,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg",
     "first": "2024-12-21",
-    "last": "2026-04-04"
+    "last": "2026-04-04",
+    "earned_by_year": {
+     "2024": 18,
+     "2025": 26
+    }
    }
   ],
   "img": "img/g/a54fda0bc8708479.webp"
@@ -3027,7 +3162,10 @@
     "earned": 9,
     "total": 20,
     "first": "2026-02-16",
-    "last": "2026-02-16"
+    "last": "2026-02-16",
+    "earned_by_year": {
+     "2026": 9
+    }
    }
   ],
   "img": "img/g/e7f8bb08219a74ae.webp"
@@ -3083,7 +3221,10 @@
     "earned": 17,
     "total": 35,
     "first": "2024-11-02",
-    "last": "2024-12-01"
+    "last": "2024-12-01",
+    "earned_by_year": {
+     "2024": 17
+    }
    },
    {
     "id": "psn-played:PPSA21788_00",
@@ -3133,7 +3274,10 @@
     "total": 30,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/1147860/header.jpg",
     "first": "2026-03-21",
-    "last": "2026-03-21"
+    "last": "2026-03-21",
+    "earned_by_year": {
+     "2026": 1
+    }
    }
   ],
   "img": "img/g/94943ecd60e4c4dd.webp"
@@ -3231,7 +3375,10 @@
     "total": 250,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/246620/header.jpg",
     "first": "2015-11-16",
-    "last": "2026-03-21"
+    "last": "2026-03-21",
+    "earned_by_year": {
+     "2015": 12
+    }
    }
   ],
   "img": "img/g/cbb171d39ff3f2a9.webp"
@@ -3327,7 +3474,10 @@
     "earned": 27,
     "total": 33,
     "first": "2023-03-04",
-    "last": "2023-04-22"
+    "last": "2023-04-22",
+    "earned_by_year": {
+     "2023": 27
+    }
    },
    {
     "id": "steam:1971650",
@@ -3382,7 +3532,11 @@
     "total": 186,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/1404850/header.jpg",
     "first": "2024-12-31",
-    "last": "2026-03-21"
+    "last": "2026-03-21",
+    "earned_by_year": {
+     "2024": 1,
+     "2025": 6
+    }
    }
   ],
   "img": "img/g/d7feb0efc8d7cc0f.webp"
@@ -3477,7 +3631,10 @@
     "earned": 3,
     "total": 50,
     "first": "2023-02-05",
-    "last": "2023-02-05"
+    "last": "2023-02-05",
+    "earned_by_year": {
+     "2023": 3
+    }
    },
    {
     "id": "steam:1145360",
@@ -3543,7 +3700,11 @@
     "earned": 7,
     "total": 44,
     "first": "2023-06-02",
-    "last": "2024-06-23"
+    "last": "2024-06-23",
+    "earned_by_year": {
+     "2023": 6,
+     "2024": 7
+    }
    }
   ],
   "img": "img/g/dedc73b206b72870.webp"
@@ -3864,7 +4025,12 @@
     "earned": 17,
     "total": 45,
     "first": "2016-02-16",
-    "last": "2024-06-17"
+    "last": "2024-06-17",
+    "earned_by_year": {
+     "2016": 13,
+     "2020": 16,
+     "2024": 17
+    }
    }
   ],
   "img": "img/g/e966db0d1f466949.webp"
@@ -3924,7 +4090,13 @@
     "earned": 16,
     "total": 28,
     "first": "2017-07-21",
-    "last": "2026-01-01"
+    "last": "2026-01-01",
+    "earned_by_year": {
+     "2017": 5,
+     "2020": 9,
+     "2021": 10,
+     "2026": 16
+    }
    }
   ],
   "img": "img/g/02262a058b8cb86a.webp"
@@ -3994,7 +4166,10 @@
     "earned": 33,
     "total": 56,
     "first": "2025-04-26",
-    "last": "2025-06-01"
+    "last": "2025-06-01",
+    "earned_by_year": {
+     "2025": 33
+    }
    }
   ],
   "img": "img/g/2fbba1c247f19ab0.webp"
@@ -4046,7 +4221,10 @@
     "earned": 4,
     "total": 32,
     "first": "2025-12-24",
-    "last": "2025-12-26"
+    "last": "2025-12-26",
+    "earned_by_year": {
+     "2025": 4
+    }
    }
   ],
   "img": "img/g/e424243101af5f80.webp"
@@ -4102,7 +4280,10 @@
     "earned": 13,
     "total": 37,
     "first": "2025-12-22",
-    "last": "2025-12-26"
+    "last": "2025-12-26",
+    "earned_by_year": {
+     "2025": 13
+    }
    }
   ],
   "img": "img/g/017c479bf024de12.webp"
@@ -4154,7 +4335,10 @@
     "earned": 2,
     "total": 45,
     "first": "2025-12-20",
-    "last": "2025-12-20"
+    "last": "2025-12-20",
+    "earned_by_year": {
+     "2025": 2
+    }
    }
   ],
   "img": "img/g/a11427ac38e47a0d.webp"
@@ -4201,7 +4385,10 @@
     "earned": 31,
     "total": 57,
     "first": "2010-04-04",
-    "last": "2010-04-17"
+    "last": "2010-04-17",
+    "earned_by_year": {
+     "2010": 31
+    }
    },
    {
     "id": "psn-played:CUSA02533_00",
@@ -4226,7 +4413,10 @@
     "earned": 2,
     "total": 57,
     "first": "2025-12-14",
-    "last": "2025-12-14"
+    "last": "2025-12-14",
+    "earned_by_year": {
+     "2025": 2
+    }
    }
   ],
   "img": "img/g/c2a0e1c6f9102de4.webp"
@@ -4280,7 +4470,10 @@
     "earned": 1,
     "total": 38,
     "first": "2020-09-06",
-    "last": "2020-09-06"
+    "last": "2020-09-06",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/b50e1356fce2ec28.webp"
@@ -4332,7 +4525,10 @@
     "earned": 20,
     "total": 36,
     "first": "2025-11-23",
-    "last": "2025-11-23"
+    "last": "2025-11-23",
+    "earned_by_year": {
+     "2025": 20
+    }
    }
   ],
   "img": "img/g/00a1566941229f6a.webp"
@@ -4436,7 +4632,10 @@
     "earned": 7,
     "total": 57,
     "first": "2025-10-20",
-    "last": "2025-10-26"
+    "last": "2025-10-26",
+    "earned_by_year": {
+     "2025": 7
+    }
    }
   ],
   "img": "img/g/80a6b92be5d9c45a.webp"
@@ -4485,7 +4684,10 @@
     "earned": 17,
     "total": 105,
     "first": "2011-11-02",
-    "last": "2011-11-27"
+    "last": "2011-11-27",
+    "earned_by_year": {
+     "2011": 17
+    }
    },
    {
     "id": "psn:NPWR09801_00",
@@ -4502,7 +4704,10 @@
      "Uncharted: The Nathan Drake Collection"
     ],
     "first": "2025-10-20",
-    "last": "2025-10-20"
+    "last": "2025-10-20",
+    "earned_by_year": {
+     "2025": 2
+    }
    }
   ],
   "img": "img/g/4fc1a874a3c62fa1.webp"
@@ -4576,7 +4781,11 @@
     "earned": 56,
     "total": 63,
     "first": "2024-10-01",
-    "last": "2025-09-24"
+    "last": "2025-09-24",
+    "earned_by_year": {
+     "2024": 51,
+     "2025": 56
+    }
    }
   ],
   "img": "img/g/da7402179c490648.webp"
@@ -4629,7 +4838,10 @@
     "earned": 8,
     "total": 48,
     "first": "2010-02-24",
-    "last": "2010-03-22"
+    "last": "2010-03-22",
+    "earned_by_year": {
+     "2010": 8
+    }
    },
    {
     "id": "psn:NPWR09798_00",
@@ -4646,7 +4858,12 @@
      "Uncharted: The Nathan Drake Collection"
     ],
     "first": "2015-11-07",
-    "last": "2025-09-13"
+    "last": "2025-09-13",
+    "earned_by_year": {
+     "2015": 1,
+     "2022": 7,
+     "2025": 8
+    }
    }
   ],
   "img": "img/g/982160f24eab28d4.webp"
@@ -4698,7 +4915,10 @@
     "earned": 1,
     "total": 29,
     "first": "2025-08-24",
-    "last": "2025-08-24"
+    "last": "2025-08-24",
+    "earned_by_year": {
+     "2025": 1
+    }
    }
   ],
   "img": "img/g/c7f70ccbef704d4d.webp"
@@ -4756,7 +4976,10 @@
     "earned": 4,
     "total": 16,
     "first": "2025-07-13",
-    "last": "2025-08-16"
+    "last": "2025-08-16",
+    "earned_by_year": {
+     "2025": 4
+    }
    }
   ],
   "img": "img/g/976ed971eef57e2b.webp"
@@ -4816,7 +5039,10 @@
     "earned": 9,
     "total": 16,
     "first": "2024-07-15",
-    "last": "2024-07-29"
+    "last": "2024-07-29",
+    "earned_by_year": {
+     "2024": 9
+    }
    }
   ],
   "img": "img/g/b178d6254d78aaa1.webp"
@@ -4984,7 +5210,10 @@
     "earned": 27,
     "total": 51,
     "first": "2013-09-06",
-    "last": "2013-11-03"
+    "last": "2013-11-03",
+    "earned_by_year": {
+     "2013": 27
+    }
    },
    {
     "id": "psn-played:CUSA00069_00",
@@ -5009,7 +5238,11 @@
     "earned": 33,
     "total": 51,
     "first": "2014-02-19",
-    "last": "2020-04-04"
+    "last": "2020-04-04",
+    "earned_by_year": {
+     "2014": 32,
+     "2020": 33
+    }
    },
    {
     "id": "psn:NPWR04770_00",
@@ -5021,7 +5254,10 @@
     "earned": 6,
     "total": 38,
     "first": "2016-04-19",
-    "last": "2016-12-18"
+    "last": "2016-12-18",
+    "earned_by_year": {
+     "2016": 6
+    }
    },
    {
     "id": "xbox:fakeronjan:666757656",
@@ -5171,7 +5407,10 @@
     "earned": 15,
     "total": 19,
     "first": "2014-11-21",
-    "last": "2014-12-14"
+    "last": "2014-12-14",
+    "earned_by_year": {
+     "2014": 15
+    }
    },
    {
     "id": "xbox:fakeronjan:910593568",
@@ -5312,7 +5551,10 @@
     "earned": 27,
     "total": 50,
     "first": "2025-04-18",
-    "last": "2025-04-26"
+    "last": "2025-04-26",
+    "earned_by_year": {
+     "2025": 27
+    }
    }
   ],
   "img": "img/g/452449a10bfa1613.webp"
@@ -5416,7 +5658,10 @@
     "earned": 3,
     "total": 14,
     "first": "2022-08-31",
-    "last": "2022-09-05"
+    "last": "2022-09-05",
+    "earned_by_year": {
+     "2022": 3
+    }
    }
   ],
   "img": "img/g/42f8bc683eef9514.webp"
@@ -5465,7 +5710,10 @@
     "earned": 5,
     "total": 50,
     "first": "2016-04-04",
-    "last": "2016-05-01"
+    "last": "2016-05-01",
+    "earned_by_year": {
+     "2016": 5
+    }
    },
    {
     "id": "psn-played:CUSA33873_00",
@@ -5490,7 +5738,10 @@
     "earned": 7,
     "total": 50,
     "first": "2025-04-10",
-    "last": "2025-04-13"
+    "last": "2025-04-13",
+    "earned_by_year": {
+     "2025": 7
+    }
    }
   ],
   "img": "img/g/b5535ae260ff3cda.webp"
@@ -5544,7 +5795,10 @@
     "earned": 4,
     "total": 21,
     "first": "2025-03-09",
-    "last": "2025-04-05"
+    "last": "2025-04-05",
+    "earned_by_year": {
+     "2025": 4
+    }
    }
   ],
   "img": "img/g/261495e4d5933874.webp"
@@ -5636,7 +5890,10 @@
     "earned": 2,
     "total": 49,
     "first": "2017-12-26",
-    "last": "2017-12-30"
+    "last": "2017-12-30",
+    "earned_by_year": {
+     "2017": 2
+    }
    },
    {
     "id": "psn-played:PPSA05109_00",
@@ -5661,7 +5918,11 @@
     "earned": 43,
     "total": 53,
     "first": "2023-11-21",
-    "last": "2025-02-18"
+    "last": "2025-02-18",
+    "earned_by_year": {
+     "2023": 1,
+     "2025": 43
+    }
    }
   ],
   "img": "img/g/9e9deb75ab04acac.webp"
@@ -5723,7 +5984,10 @@
     "earned": 49,
     "total": 62,
     "first": "2025-02-21",
-    "last": "2025-03-04"
+    "last": "2025-03-04",
+    "earned_by_year": {
+     "2025": 49
+    }
    }
   ],
   "img": "img/g/3c578d236fd4557e.webp"
@@ -5782,7 +6046,10 @@
     "earned": 10,
     "total": 51,
     "first": "2012-11-01",
-    "last": "2012-11-10"
+    "last": "2012-11-10",
+    "earned_by_year": {
+     "2012": 10
+    }
    },
    {
     "id": "switch:3C15B8B5FCFF64D185612CFC684FD589",
@@ -5873,7 +6140,10 @@
     "earned": 4,
     "total": 42,
     "first": "2025-02-09",
-    "last": "2025-02-09"
+    "last": "2025-02-09",
+    "earned_by_year": {
+     "2025": 4
+    }
    }
   ],
   "img": "img/g/8f3484ef747066a4.webp"
@@ -5927,7 +6197,11 @@
     "earned": 3,
     "total": 61,
     "first": "2024-04-13",
-    "last": "2025-02-19"
+    "last": "2025-02-19",
+    "earned_by_year": {
+     "2024": 2,
+     "2025": 3
+    }
    }
   ],
   "img": "img/g/77d7a62316745c2e.webp"
@@ -5979,7 +6253,10 @@
     "earned": 1,
     "total": 20,
     "first": "2025-01-20",
-    "last": "2025-01-20"
+    "last": "2025-01-20",
+    "earned_by_year": {
+     "2025": 1
+    }
    }
   ],
   "img": "img/g/9a515b889543edb8.webp"
@@ -6065,7 +6342,11 @@
     "earned": 19,
     "total": 47,
     "first": "2015-05-17",
-    "last": "2016-05-11"
+    "last": "2016-05-11",
+    "earned_by_year": {
+     "2015": 18,
+     "2016": 19
+    }
    },
    {
     "id": "switch:F8D087CFC849713C76A06A954E9486D3",
@@ -6235,7 +6516,10 @@
     "earned": 8,
     "total": 47,
     "first": "2024-08-31",
-    "last": "2024-10-17"
+    "last": "2024-10-17",
+    "earned_by_year": {
+     "2024": 8
+    }
    }
   ],
   "img": "img/g/7ee1e1562f35ffe0.webp"
@@ -6341,7 +6625,10 @@
     "earned": 19,
     "total": 51,
     "first": "2022-07-08",
-    "last": "2022-07-10"
+    "last": "2022-07-10",
+    "earned_by_year": {
+     "2022": 19
+    }
    }
   ],
   "img": "img/g/2784bb3e1b31afc9.webp"
@@ -6461,7 +6748,10 @@
     "earned": 3,
     "total": 31,
     "first": "2022-10-02",
-    "last": "2022-10-03"
+    "last": "2022-10-03",
+    "earned_by_year": {
+     "2022": 3
+    }
    }
   ],
   "img": "img/g/72b8a01ad5b2d341.webp"
@@ -6554,7 +6844,10 @@
     "earned": 6,
     "total": 30,
     "first": "2022-09-05",
-    "last": "2022-10-02"
+    "last": "2022-10-02",
+    "earned_by_year": {
+     "2022": 6
+    }
    }
   ],
   "img": "img/g/ee5386bd3efd9034.webp"
@@ -6654,7 +6947,10 @@
     "earned": 1,
     "total": 24,
     "first": "2024-08-16",
-    "last": "2024-08-16"
+    "last": "2024-08-16",
+    "earned_by_year": {
+     "2024": 1
+    }
    }
   ],
   "img": "img/g/26e503018ff04650.webp"
@@ -6722,7 +7018,11 @@
     "earned": 17,
     "total": 46,
     "first": "2023-09-07",
-    "last": "2024-05-26"
+    "last": "2024-05-26",
+    "earned_by_year": {
+     "2023": 14,
+     "2024": 17
+    }
    }
   ],
   "img": "img/g/65f229ddf16e46d1.webp"
@@ -6940,7 +7240,10 @@
     "total": 88,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/921570/header.jpg",
     "first": "2023-03-18",
-    "last": "2023-04-30"
+    "last": "2023-04-30",
+    "earned_by_year": {
+     "2023": 9
+    }
    },
    {
     "id": "psn-played:PPSA18286_00",
@@ -6965,7 +7268,10 @@
     "earned": 5,
     "total": 29,
     "first": "2024-07-27",
-    "last": "2024-07-30"
+    "last": "2024-07-30",
+    "earned_by_year": {
+     "2024": 5
+    }
    }
   ],
   "img": "img/g/309beb2471f27eaa.webp"
@@ -7023,7 +7329,10 @@
     "earned": 16,
     "total": 74,
     "first": "2015-04-14",
-    "last": "2015-05-09"
+    "last": "2015-05-09",
+    "earned_by_year": {
+     "2015": 16
+    }
    }
   ],
   "img": "img/g/217f8ab096540a31.webp"
@@ -7097,7 +7406,10 @@
     "earned": 5,
     "total": 48,
     "first": "2009-03-07",
-    "last": "2009-03-21"
+    "last": "2009-03-21",
+    "earned_by_year": {
+     "2009": 5
+    }
    },
    {
     "id": "psn:NPWR00938_00",
@@ -7109,7 +7421,10 @@
     "earned": 7,
     "total": 67,
     "first": "2010-05-08",
-    "last": "2010-05-23"
+    "last": "2010-05-23",
+    "earned_by_year": {
+     "2010": 7
+    }
    },
    {
     "id": "xbox:rogerage:1128466428",
@@ -7122,7 +7437,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.19350.71263401457659745.7affe054-2d5d-4895-ae7a-61a685624a81.7409b4ae-1eb1-4e4d-bf09-109a413a69eb",
     "first": "2011-05-04",
-    "last": "2012-02-21"
+    "last": "2012-02-21",
+    "earned_by_year": {
+     "2011": 5
+    }
    },
    {
     "id": "psn-played:CUSA01846_00",
@@ -7147,7 +7465,12 @@
     "earned": 5,
     "total": 67,
     "first": "2016-02-05",
-    "last": "2021-09-18"
+    "last": "2021-09-18",
+    "earned_by_year": {
+     "2016": 3,
+     "2018": 4,
+     "2021": 5
+    }
    },
    {
     "id": "xbox:fakeronjan:1128466428",
@@ -7160,7 +7483,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.19350.71263401457659745.7affe054-2d5d-4895-ae7a-61a685624a81.7409b4ae-1eb1-4e4d-bf09-109a413a69eb",
     "first": "2019-08-11",
-    "last": "2022-03-18"
+    "last": "2022-03-18",
+    "earned_by_year": {
+     "2019": 3
+    }
    }
   ],
   "img": "img/g/7eb27d9db04bef7a.webp"
@@ -7214,7 +7540,10 @@
     "earned": 1,
     "total": 41,
     "first": "2023-09-24",
-    "last": "2023-09-24"
+    "last": "2023-09-24",
+    "earned_by_year": {
+     "2023": 1
+    }
    }
   ],
   "img": "img/g/933ed03fcb8546b6.webp"
@@ -7264,7 +7593,10 @@
     "earned": 2,
     "total": 21,
     "first": "2024-06-11",
-    "last": "2024-06-11"
+    "last": "2024-06-11",
+    "earned_by_year": {
+     "2024": 2
+    }
    }
   ],
   "img": "img/g/b1263310d88ff905.webp"
@@ -7402,7 +7734,10 @@
     "earned": 11,
     "total": 63,
     "first": "2024-03-08",
-    "last": "2024-05-05"
+    "last": "2024-05-05",
+    "earned_by_year": {
+     "2024": 11
+    }
    }
   ],
   "img": "img/g/e3cb82eb1ffa2f16.webp"
@@ -7454,7 +7789,10 @@
     "earned": 1,
     "total": 40,
     "first": "2024-05-03",
-    "last": "2024-05-03"
+    "last": "2024-05-03",
+    "earned_by_year": {
+     "2024": 1
+    }
    },
    {
     "id": "steam:1785650",
@@ -7556,7 +7894,10 @@
     "earned": 1,
     "total": 55,
     "first": "2024-04-13",
-    "last": "2024-04-13"
+    "last": "2024-04-13",
+    "earned_by_year": {
+     "2024": 1
+    }
    }
   ],
   "img": "img/g/51159045b418f1df.webp"
@@ -7616,7 +7957,10 @@
     "earned": 13,
     "total": 26,
     "first": "2024-03-15",
-    "last": "2024-03-26"
+    "last": "2024-03-26",
+    "earned_by_year": {
+     "2024": 13
+    }
    }
   ],
   "img": "img/g/7ef3c69394644b7a.webp"
@@ -7696,7 +8040,10 @@
     "earned": 4,
     "total": 20,
     "first": "2023-05-14",
-    "last": "2023-11-04"
+    "last": "2023-11-04",
+    "earned_by_year": {
+     "2023": 4
+    }
    }
   ],
   "img": "img/g/fc7f343ba218fa36.webp"
@@ -7752,7 +8099,11 @@
     "earned": 4,
     "total": 22,
     "first": "2023-09-07",
-    "last": "2024-01-19"
+    "last": "2024-01-19",
+    "earned_by_year": {
+     "2023": 3,
+     "2024": 4
+    }
    }
   ],
   "img": "img/g/8ead580b956e4318.webp"
@@ -7808,7 +8159,11 @@
     "earned": 7,
     "total": 26,
     "first": "2023-06-08",
-    "last": "2024-01-29"
+    "last": "2024-01-29",
+    "earned_by_year": {
+     "2023": 2,
+     "2024": 7
+    }
    }
   ],
   "img": "img/g/fb3271c134ac5002.webp"
@@ -7860,7 +8215,10 @@
     "earned": 2,
     "total": 20,
     "first": "2015-01-13",
-    "last": "2015-01-13"
+    "last": "2015-01-13",
+    "earned_by_year": {
+     "2015": 2
+    }
    }
   ],
   "img": "img/g/37020374ce8c320b.webp"
@@ -8068,7 +8426,10 @@
     "earned": 1,
     "total": 43,
     "first": "2023-10-22",
-    "last": "2023-10-22"
+    "last": "2023-10-22",
+    "earned_by_year": {
+     "2023": 1
+    }
    }
   ],
   "img": "img/g/022b50713534d653.webp"
@@ -8113,7 +8474,10 @@
     "earned": 3,
     "total": 50,
     "first": "2014-08-09",
-    "last": "2014-08-11"
+    "last": "2014-08-11",
+    "earned_by_year": {
+     "2014": 3
+    }
    },
    {
     "id": "psn-played:CUSA14836_00",
@@ -8138,7 +8502,10 @@
     "earned": 1,
     "total": 56,
     "first": "2023-10-06",
-    "last": "2023-10-06"
+    "last": "2023-10-06",
+    "earned_by_year": {
+     "2023": 1
+    }
    }
   ],
   "img": "img/g/f0ae5b4e9808a954.webp"
@@ -8297,7 +8664,10 @@
     "earned": 6,
     "total": 42,
     "first": "2023-02-17",
-    "last": "2023-08-09"
+    "last": "2023-08-09",
+    "earned_by_year": {
+     "2023": 6
+    }
    }
   ],
   "img": "img/g/a4ee214b1538d636.webp"
@@ -8357,7 +8727,11 @@
     "earned": 13,
     "total": 46,
     "first": "2022-09-09",
-    "last": "2023-06-07"
+    "last": "2023-06-07",
+    "earned_by_year": {
+     "2022": 11,
+     "2023": 13
+    }
    }
   ],
   "img": "img/g/0dc10db36d069e29.webp"
@@ -8466,7 +8840,10 @@
     "total": 10,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/442070/header.jpg",
     "first": "2020-04-03",
-    "last": "2021-05-21"
+    "last": "2021-05-21",
+    "earned_by_year": {
+     "2020": 5
+    }
    },
    {
     "id": "xbox:fakeronjan:532569395",
@@ -8504,7 +8881,10 @@
     "earned": 4,
     "total": 10,
     "first": "2023-07-16",
-    "last": "2023-07-16"
+    "last": "2023-07-16",
+    "earned_by_year": {
+     "2023": 4
+    }
    }
   ],
   "img": "img/g/0d6b090181fed485.webp"
@@ -8604,7 +8984,10 @@
     "earned": 1,
     "total": 39,
     "first": "2023-06-23",
-    "last": "2023-06-23"
+    "last": "2023-06-23",
+    "earned_by_year": {
+     "2023": 1
+    }
    }
   ],
   "img": "img/g/76af5fe75bd2fba5.webp"
@@ -8722,7 +9105,10 @@
     "earned": 3,
     "total": 35,
     "first": "2023-06-09",
-    "last": "2023-06-12"
+    "last": "2023-06-12",
+    "earned_by_year": {
+     "2023": 3
+    }
    }
   ],
   "img": "img/g/7d87c6f55a3a22a4.webp"
@@ -9020,7 +9406,10 @@
     "earned": 1,
     "total": 37,
     "first": "2023-04-23",
-    "last": "2023-04-23"
+    "last": "2023-04-23",
+    "earned_by_year": {
+     "2023": 1
+    }
    },
    {
     "id": "steam:1173820",
@@ -9098,7 +9487,10 @@
     "earned": 8,
     "total": 25,
     "first": "2023-01-16",
-    "last": "2023-02-12"
+    "last": "2023-02-12",
+    "earned_by_year": {
+     "2023": 8
+    }
    },
    {
     "id": "psn-played:PPSA06803_00",
@@ -9151,7 +9543,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.11203.64328607019611073.e14cd0bb-1ff0-4081-ac4c-74cce6c02cd4.16f73b52-5f65-4faa-b26b-50c36e86e54d",
     "first": "2021-02-15",
-    "last": "2023-01-29"
+    "last": "2023-01-29",
+    "earned_by_year": {
+     "2021": 1
+    }
    },
    {
     "id": "xbox:thesurfshop19:1480657006",
@@ -9303,7 +9698,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.34873.64123032034140827.c6168420-6a8f-4a04-b63b-69f7e2a6f5d8.1f3bf9de-0902-4712-aa0e-ed618b8381e8",
     "first": "2007-01-20",
-    "last": "2007-01-30"
+    "last": "2007-01-30",
+    "earned_by_year": {
+     "2007": 7
+    }
    },
    {
     "id": "psn:NPWR00570_00",
@@ -9315,7 +9713,10 @@
     "earned": 4,
     "total": 13,
     "first": "2009-06-13",
-    "last": "2009-09-05"
+    "last": "2009-09-05",
+    "earned_by_year": {
+     "2009": 4
+    }
    },
    {
     "id": "xbox:fakeronjan:1480656912",
@@ -9328,7 +9729,11 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.34873.64123032034140827.c6168420-6a8f-4a04-b63b-69f7e2a6f5d8.1f3bf9de-0902-4712-aa0e-ed618b8381e8",
     "first": "2019-02-20",
-    "last": "2023-01-27"
+    "last": "2023-01-27",
+    "earned_by_year": {
+     "2019": 2,
+     "2020": 3
+    }
    }
   ],
   "img": "img/g/b53d50bc613752ab.webp"
@@ -9388,7 +9793,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.60770.71552514605053188.e6099870-1f9e-45b6-b406-6b494361dacd.7b2e8c34-a483-40db-90dc-72a0f23b6879",
     "first": "2009-07-19",
-    "last": "2009-07-19"
+    "last": "2009-07-19",
+    "earned_by_year": {
+     "2009": 1
+    }
    },
    {
     "id": "xbox:rogerage:1480657079",
@@ -9401,7 +9809,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.60770.71552514605053188.e6099870-1f9e-45b6-b406-6b494361dacd.7b2e8c34-a483-40db-90dc-72a0f23b6879",
     "first": "2010-08-15",
-    "last": "2011-01-30"
+    "last": "2011-01-30",
+    "earned_by_year": {
+     "2010": 4
+    }
    },
    {
     "id": "psn:NPWR00765_00",
@@ -9413,7 +9824,10 @@
     "earned": 2,
     "total": 13,
     "first": "2013-04-13",
-    "last": "2013-04-13"
+    "last": "2013-04-13",
+    "earned_by_year": {
+     "2013": 2
+    }
    },
    {
     "id": "switch:A9FE9E68808541188F574D03CFFB26A2",
@@ -9668,7 +10082,10 @@
     "earned": 2,
     "total": 40,
     "first": "2022-10-08",
-    "last": "2022-11-11"
+    "last": "2022-11-11",
+    "earned_by_year": {
+     "2022": 2
+    }
    }
   ],
   "img": "img/g/63e2cdb33328f13c.webp"
@@ -9872,7 +10289,10 @@
     "earned": 1,
     "total": 38,
     "first": "2022-09-05",
-    "last": "2022-09-05"
+    "last": "2022-09-05",
+    "earned_by_year": {
+     "2022": 1
+    }
    },
    {
     "id": "psn:NPWR01503_00",
@@ -10013,7 +10433,10 @@
     "earned": 12,
     "total": 34,
     "first": "2013-01-23",
-    "last": "2013-02-10"
+    "last": "2013-02-10",
+    "earned_by_year": {
+     "2013": 12
+    }
    },
    {
     "id": "psn-played:CUSA14156_00",
@@ -10038,7 +10461,10 @@
     "earned": 5,
     "total": 34,
     "first": "2022-07-24",
-    "last": "2022-08-21"
+    "last": "2022-08-21",
+    "earned_by_year": {
+     "2022": 5
+    }
    }
   ],
   "img": "img/g/79960d743cd14653.webp"
@@ -10088,7 +10514,10 @@
     "earned": 1,
     "total": 24,
     "first": "2022-08-20",
-    "last": "2022-08-20"
+    "last": "2022-08-20",
+    "earned_by_year": {
+     "2022": 1
+    }
    }
   ],
   "img": "img/g/a26aa04d41149203.webp"
@@ -10156,7 +10585,10 @@
     "earned": 11,
     "total": 46,
     "first": "2022-08-05",
-    "last": "2022-08-05"
+    "last": "2022-08-05",
+    "earned_by_year": {
+     "2022": 11
+    }
    }
   ],
   "img": "img/g/8af9e9b8456645a2.webp"
@@ -10210,7 +10642,10 @@
     "earned": 13,
     "total": 25,
     "first": "2022-07-22",
-    "last": "2022-07-24"
+    "last": "2022-07-24",
+    "earned_by_year": {
+     "2022": 13
+    }
    }
   ],
   "img": "img/g/5b8d0407c3ba6f17.webp"
@@ -10406,7 +10841,10 @@
     "earned": 16,
     "total": 20,
     "first": "2014-06-28",
-    "last": "2014-07-06"
+    "last": "2014-07-06",
+    "earned_by_year": {
+     "2014": 16
+    }
    },
    {
     "id": "xbox:fakeronjan:1211542442",
@@ -10488,7 +10926,10 @@
     "earned": 11,
     "total": 12,
     "first": "2015-01-13",
-    "last": "2015-01-30"
+    "last": "2015-01-30",
+    "earned_by_year": {
+     "2015": 11
+    }
    },
    {
     "id": "xbox:fakeronjan:19615130",
@@ -10560,7 +11001,10 @@
     "earned": 2,
     "total": 17,
     "first": "2018-01-25",
-    "last": "2018-01-25"
+    "last": "2018-01-25",
+    "earned_by_year": {
+     "2018": 2
+    }
    },
    {
     "id": "switch:397E926E404E20DA88FBBB5C4694B75A",
@@ -10616,7 +11060,10 @@
     "earned": 2,
     "total": 14,
     "first": "2009-03-01",
-    "last": "2009-03-29"
+    "last": "2009-03-29",
+    "earned_by_year": {
+     "2009": 2
+    }
    },
    {
     "id": "psn-played:CUSA00092_00",
@@ -10739,7 +11186,10 @@
     "earned": 19,
     "total": 20,
     "first": "2014-05-10",
-    "last": "2014-05-17"
+    "last": "2014-05-17",
+    "earned_by_year": {
+     "2014": 19
+    }
    },
    {
     "id": "psn:NPWR06875_00",
@@ -10751,7 +11201,10 @@
     "earned": 2,
     "total": 20,
     "first": "2016-05-11",
-    "last": "2016-05-11"
+    "last": "2016-05-11",
+    "earned_by_year": {
+     "2016": 2
+    }
    },
    {
     "id": "switch:5855558AA8FCD2E87BC21377436CFBF0",
@@ -10860,7 +11313,10 @@
     "earned": 13,
     "total": 46,
     "first": "2014-09-28",
-    "last": "2014-12-08"
+    "last": "2014-12-08",
+    "earned_by_year": {
+     "2014": 13
+    }
    }
   ],
   "img": "img/g/989692033a9c703c.webp"
@@ -10907,7 +11363,10 @@
     "earned": 22,
     "total": 36,
     "first": "2010-03-21",
-    "last": "2010-03-28"
+    "last": "2010-03-28",
+    "earned_by_year": {
+     "2010": 22
+    }
    },
    {
     "id": "psn-played:CUSA01623_00",
@@ -10932,7 +11391,10 @@
     "earned": 6,
     "total": 35,
     "first": "2018-04-29",
-    "last": "2018-04-29"
+    "last": "2018-04-29",
+    "earned_by_year": {
+     "2018": 6
+    }
    }
   ],
   "img": "img/g/898c30b276e47372.webp"
@@ -10989,7 +11451,11 @@
     "earned": 28,
     "total": 36,
     "first": "2009-12-02",
-    "last": "2010-01-30"
+    "last": "2010-01-30",
+    "earned_by_year": {
+     "2009": 10,
+     "2010": 28
+    }
    },
    {
     "id": "psn-played:CUSA09943_00",
@@ -11040,7 +11506,10 @@
     "earned": 1,
     "total": 37,
     "first": "2018-06-09",
-    "last": "2018-06-09"
+    "last": "2018-06-09",
+    "earned_by_year": {
+     "2018": 1
+    }
    },
    {
     "id": "psn:NPWR05244_00",
@@ -11156,7 +11625,10 @@
     "earned": 14,
     "total": 46,
     "first": "2022-07-09",
-    "last": "2022-07-11"
+    "last": "2022-07-11",
+    "earned_by_year": {
+     "2022": 14
+    }
    }
   ],
   "img": "img/g/1799bab6ac43f7c6.webp"
@@ -11266,7 +11738,10 @@
     "earned": 6,
     "total": 77,
     "first": "2020-07-26",
-    "last": "2020-08-09"
+    "last": "2020-08-09",
+    "earned_by_year": {
+     "2020": 6
+    }
    },
    {
     "id": "psn-played:PPSA02225_00",
@@ -11291,7 +11766,10 @@
     "earned": 5,
     "total": 77,
     "first": "2022-07-08",
-    "last": "2022-07-08"
+    "last": "2022-07-08",
+    "earned_by_year": {
+     "2022": 5
+    }
    }
   ],
   "img": "img/g/42ec06f2f9e99e6d.webp"
@@ -11438,7 +11916,12 @@
     "earned": 15,
     "total": 74,
     "first": "2020-08-22",
-    "last": "2022-04-23"
+    "last": "2022-04-23",
+    "earned_by_year": {
+     "2020": 9,
+     "2021": 12,
+     "2022": 15
+    }
    }
   ],
   "img": "img/g/942b1648e5bc9740.webp"
@@ -11579,7 +12062,10 @@
     "earned": 13,
     "total": 38,
     "first": "2016-08-30",
-    "last": "2016-09-11"
+    "last": "2016-09-11",
+    "earned_by_year": {
+     "2016": 13
+    }
    },
    {
     "id": "steam:413410",
@@ -11879,7 +12365,10 @@
     "earned": 4,
     "total": 43,
     "first": "2020-04-04",
-    "last": "2020-06-23"
+    "last": "2020-06-23",
+    "earned_by_year": {
+     "2020": 4
+    }
    },
    {
     "id": "xbox:fakeronjan:1819798709",
@@ -11955,7 +12444,10 @@
     "earned": 17,
     "total": 61,
     "first": "2015-01-31",
-    "last": "2015-10-25"
+    "last": "2015-10-25",
+    "earned_by_year": {
+     "2015": 17
+    }
    },
    {
     "id": "xbox:fakeronjan:2016417527",
@@ -12206,7 +12698,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.18344.69304479265522151.5b8601c1-35b0-4bad-bcff-f51fb0ce43d8.addad03c-8295-4bb1-a2eb-47bee7b2b6d6",
     "first": "2011-11-06",
-    "last": "2011-11-13"
+    "last": "2011-11-13",
+    "earned_by_year": {
+     "2011": 2
+    }
    },
    {
     "id": "xbox:fakeronjan:1414793202",
@@ -12567,7 +13062,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuC_wON8w.HTQRA1471DVQR_fITGpn9aJ9imdZ7LxKHPgODL1Zs7JLdPeDm9kjVp6cg--",
     "first": "2011-11-14",
-    "last": "2011-12-04"
+    "last": "2011-12-04",
+    "earned_by_year": {
+     "2011": 4
+    }
    },
    {
     "id": "xbox:fakeronjan:252034287",
@@ -13041,7 +13539,14 @@
     "earned": 10,
     "total": 31,
     "first": "2015-09-12",
-    "last": "2021-05-31"
+    "last": "2021-05-31",
+    "earned_by_year": {
+     "2015": 1,
+     "2017": 4,
+     "2018": 8,
+     "2020": 9,
+     "2021": 10
+    }
    },
    {
     "id": "xbox:fakeronjan:153292310",
@@ -13231,7 +13736,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.45287.68871528329885281.e03a829d-faa0-4a31-a5d8-785bb8b52288.83384bc6-d8cc-45fd-8b43-fe6351009f66",
     "first": "2020-12-01",
-    "last": "2021-06-27"
+    "last": "2021-06-27",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/161b2e3ae4a1923d.webp"
@@ -13273,7 +13781,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.20216.67791051057624290.2066f4d9-d2b6-435c-beec-716921663efc.866062f8-b637-461c-9fe3-7450601fde10",
     "first": "2007-01-20",
-    "last": "2007-02-24"
+    "last": "2007-02-24",
+    "earned_by_year": {
+     "2007": 3
+    }
    },
    {
     "id": "xbox:fakeronjan:1480656877",
@@ -13374,7 +13885,10 @@
     "earned": 1,
     "total": 38,
     "first": "2021-06-08",
-    "last": "2021-06-08"
+    "last": "2021-06-08",
+    "earned_by_year": {
+     "2021": 1
+    }
    },
    {
     "id": "steam:637670",
@@ -13462,7 +13976,10 @@
     "earned": 39,
     "total": 59,
     "first": "2012-01-21",
-    "last": "2012-04-28"
+    "last": "2012-04-28",
+    "earned_by_year": {
+     "2012": 39
+    }
    },
    {
     "id": "xbox:fakeronjan:1161889998",
@@ -13475,7 +13992,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.53658.65104284338300891.dcd8a095-2ff3-4393-acfc-5bd52cf20770.9d28b9cc-902b-4c5d-b776-67da57da5336",
     "first": "2019-02-20",
-    "last": "2019-03-10"
+    "last": "2019-03-10",
+    "earned_by_year": {
+     "2019": 3
+    }
    },
    {
     "id": "xbox:fakeronjan:2054685746#ME2",
@@ -13582,7 +14102,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.63753.69915219740150452.61c57a66-fc91-4bc8-ad7d-78892f9d50a2.11a44c1c-2ec7-4f5a-a010-4eb453a0e9f7",
     "first": "2007-03-21",
-    "last": "2007-06-20"
+    "last": "2007-06-20",
+    "earned_by_year": {
+     "2007": 10
+    }
    },
    {
     "id": "xbox:fakeronjan:1480656967",
@@ -13595,7 +14118,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.63753.69915219740150452.61c57a66-fc91-4bc8-ad7d-78892f9d50a2.11a44c1c-2ec7-4f5a-a010-4eb453a0e9f7",
     "first": "2019-02-19",
-    "last": "2021-05-16"
+    "last": "2021-05-16",
+    "earned_by_year": {
+     "2019": 2
+    }
    }
   ],
   "img": "img/g/928d6a290a544753.webp"
@@ -13877,7 +14403,10 @@
     "earned": 2,
     "total": 77,
     "first": "2010-02-24",
-    "last": "2010-02-24"
+    "last": "2010-02-24",
+    "earned_by_year": {
+     "2010": 2
+    }
    },
    {
     "id": "xbox:rogerage:1161889984",
@@ -13890,7 +14419,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.25088.70226594498231256.17116041-5bab-4f35-9bd5-63b5de669a3f.3076712f-3ab7-4813-a935-b1f954d8e904",
     "first": "2010-12-03",
-    "last": "2011-01-02"
+    "last": "2011-01-02",
+    "earned_by_year": {
+     "2010": 7
+    }
    },
    {
     "id": "xbox:fakeronjan:1161889984",
@@ -14033,7 +14565,10 @@
     "earned": 2,
     "total": 36,
     "first": "2010-04-04",
-    "last": "2010-04-04"
+    "last": "2010-04-04",
+    "earned_by_year": {
+     "2010": 2
+    }
    },
    {
     "id": "xbox:fakeronjan:1397819364",
@@ -14046,7 +14581,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.53839.70676919449757472.77ceeffc-b978-4fbd-aa7d-869575f6123d.91e8f81c-edec-48a9-86f4-7b6b3e3678c3",
     "first": "2021-02-15",
-    "last": "2021-03-22"
+    "last": "2021-03-22",
+    "earned_by_year": {
+     "2021": 5
+    }
    }
   ],
   "img": "img/g/33681daf7a52bde6.webp"
@@ -14109,7 +14647,10 @@
     "earned": 2,
     "total": 51,
     "first": "2020-10-04",
-    "last": "2020-10-07"
+    "last": "2020-10-07",
+    "earned_by_year": {
+     "2020": 2
+    }
    },
    {
     "id": "xbox:fakeronjan:2006666244",
@@ -14160,7 +14701,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.54716.63413868670389858.a909f79f-bf9a-495a-9565-6895806c3525.3405026a-8882-4e5a-8f49-41ccbc9686a3",
     "first": "2021-03-20",
-    "last": "2021-03-20"
+    "last": "2021-03-20",
+    "earned_by_year": {
+     "2021": 1
+    }
    }
   ],
   "img": "img/g/9cf86dfec5841caf.webp"
@@ -14204,7 +14748,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.43877.69068534869269909.2e5bd713-07e4-4ab3-ab98-5c3b344e3c50.bee59007-7def-4791-b9e7-891669c1465d",
     "first": "2011-03-26",
-    "last": "2011-05-22"
+    "last": "2011-05-22",
+    "earned_by_year": {
+     "2011": 8
+    }
    },
    {
     "id": "xbox:fakeronjan:1161890069",
@@ -14217,7 +14764,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.43877.69068534869269909.2e5bd713-07e4-4ab3-ab98-5c3b344e3c50.bee59007-7def-4791-b9e7-891669c1465d",
     "first": "2021-02-15",
-    "last": "2021-02-15"
+    "last": "2021-02-15",
+    "earned_by_year": {
+     "2021": 1
+    }
    }
   ],
   "img": "img/g/6dab9f11a6a036e0.webp"
@@ -14318,7 +14868,10 @@
     "earned": 1,
     "total": 29,
     "first": "2020-08-28",
-    "last": "2020-08-28"
+    "last": "2020-08-28",
+    "earned_by_year": {
+     "2020": 1
+    }
    },
    {
     "id": "xbox:fakeronjan:1970109802",
@@ -14442,7 +14995,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.13698.70195604297907649.16687243-8913-4430-a865-c8a76aac240c.f3611d60-00a4-4834-9176-c126d99d0fbe",
     "first": "2020-11-21",
-    "last": "2021-01-10"
+    "last": "2021-01-10",
+    "earned_by_year": {
+     "2020": 2
+    }
    }
   ],
   "img": "img/g/32cc37d5c3ed72dc.webp"
@@ -14560,7 +15116,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.7832.67732770333599620.d5320f04-72d6-4b5d-abfa-ec46d2dfa584.a571c1ac-d1c7-48e3-9a77-efdccc509edb",
     "first": "2020-12-31",
-    "last": "2020-12-31"
+    "last": "2020-12-31",
+    "earned_by_year": {
+     "2020": 2
+    }
    }
   ],
   "img": "img/g/67541b811a5ecd66.webp"
@@ -14662,7 +15221,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.16100.65163600688313318.94eeb422-53b2-4dd8-b287-02e121ee128f.33fbaa82-bc5e-48fb-8e36-ba902dfeb742",
     "first": "2010-10-20",
-    "last": "2012-05-08"
+    "last": "2012-05-08",
+    "earned_by_year": {
+     "2010": 7
+    }
    },
    {
     "id": "psn-played:CUSA02845_00",
@@ -14687,7 +15249,10 @@
     "earned": 1,
     "total": 24,
     "first": "2015-10-12",
-    "last": "2015-10-12"
+    "last": "2015-10-12",
+    "earned_by_year": {
+     "2015": 1
+    }
    },
    {
     "id": "switch:E379FBA8286DF865C869E0C23904F786",
@@ -14713,7 +15278,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.16100.65163600688313318.94eeb422-53b2-4dd8-b287-02e121ee128f.33fbaa82-bc5e-48fb-8e36-ba902dfeb742",
     "first": "2020-12-24",
-    "last": "2020-12-24"
+    "last": "2020-12-24",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/b70db7ddae4e9435.webp"
@@ -14787,7 +15355,11 @@
     "earned": 20,
     "total": 40,
     "first": "2012-03-10",
-    "last": "2016-04-19"
+    "last": "2016-04-19",
+    "earned_by_year": {
+     "2012": 19,
+     "2016": 20
+    }
    },
    {
     "id": "psn:NPWR02249_00",
@@ -14799,7 +15371,10 @@
     "earned": 22,
     "total": 37,
     "first": "2012-08-07",
-    "last": "2012-12-16"
+    "last": "2012-12-16",
+    "earned_by_year": {
+     "2012": 22
+    }
    },
    {
     "id": "xbox:fakeronjan:1431505028",
@@ -14812,7 +15387,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.62793.69595393583696114.bac2a293-cbd7-47cf-969a-c4a279bcebda.287f7f54-b30d-4eec-bc69-24e2a2c7a30e",
     "first": "2020-12-08",
-    "last": "2020-12-13"
+    "last": "2020-12-13",
+    "earned_by_year": {
+     "2020": 4
+    }
    }
   ],
   "img": "img/g/ed8f48fbd00a0221.webp"
@@ -14882,7 +15460,10 @@
     "earned": 2,
     "total": 21,
     "first": "2016-03-04",
-    "last": "2016-03-04"
+    "last": "2016-03-04",
+    "earned_by_year": {
+     "2016": 2
+    }
    }
   ],
   "img": "img/g/b844b671a59d7c7b.webp"
@@ -15015,7 +15596,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.55373.63106305798833094.06dc747a-ef1a-435b-821f-99e91fcd63ab.e1658921-5ff5-41af-90e5-dafa6be1ee52",
     "first": "2006-03-30",
-    "last": "2006-04-02"
+    "last": "2006-04-02",
+    "earned_by_year": {
+     "2006": 4
+    }
    },
    {
     "id": "xbox:fakeronjan:1480656849",
@@ -15028,7 +15612,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.55373.63106305798833094.06dc747a-ef1a-435b-821f-99e91fcd63ab.e1658921-5ff5-41af-90e5-dafa6be1ee52",
     "first": "2020-11-24",
-    "last": "2020-11-24"
+    "last": "2020-11-24",
+    "earned_by_year": {
+     "2020": 2
+    }
    }
   ],
   "img": "img/g/ceaab13189d7d400.webp"
@@ -15117,7 +15704,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.12204.69866126975118433.0c8a5df6-972a-47b6-b4f0-58fcd7df8087.0e289cc1-ee53-4935-9dd8-18e8f0087112",
     "first": "2011-06-30",
-    "last": "2011-10-09"
+    "last": "2011-10-09",
+    "earned_by_year": {
+     "2011": 11
+    }
    },
    {
     "id": "psn:NPWR01552_00",
@@ -15129,7 +15719,10 @@
     "earned": 2,
     "total": 51,
     "first": "2013-08-03",
-    "last": "2013-08-03"
+    "last": "2013-08-03",
+    "earned_by_year": {
+     "2013": 2
+    }
    },
    {
     "id": "xbox:fakeronjan:1161890070",
@@ -15142,7 +15735,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.12204.69866126975118433.0c8a5df6-972a-47b6-b4f0-58fcd7df8087.0e289cc1-ee53-4935-9dd8-18e8f0087112",
     "first": "2020-11-21",
-    "last": "2020-11-21"
+    "last": "2020-11-21",
+    "earned_by_year": {
+     "2020": 8
+    }
    }
   ],
   "img": "img/g/802d2970dc60798f.webp"
@@ -15222,7 +15818,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.42360.70668741340697734.d1a736f4-760d-4e5c-a935-8dc9dea7b7b5.ca50d422-db1e-49b3-8069-210d5cbe2268",
     "first": "2016-02-14",
-    "last": "2020-11-13"
+    "last": "2020-11-13",
+    "earned_by_year": {
+     "2016": 3
+    }
    }
   ],
   "img": "img/g/c9bfa46f1d38689b.webp"
@@ -15310,7 +15909,10 @@
     "earned": 1,
     "total": 47,
     "first": "2020-11-11",
-    "last": "2020-11-11"
+    "last": "2020-11-11",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/e9bb46bedb4bac08.webp"
@@ -15582,7 +16184,10 @@
     "earned": 2,
     "total": 32,
     "first": "2020-08-09",
-    "last": "2020-09-05"
+    "last": "2020-09-05",
+    "earned_by_year": {
+     "2020": 2
+    }
    }
   ],
   "img": "img/g/3b62cbf265205b6a.webp"
@@ -15712,7 +16317,10 @@
     "earned": 3,
     "total": 46,
     "first": "2020-09-06",
-    "last": "2020-09-07"
+    "last": "2020-09-07",
+    "earned_by_year": {
+     "2020": 3
+    }
    }
   ],
   "img": "img/g/3d43dd7f69294cc7.webp"
@@ -15780,7 +16388,12 @@
     "earned": 23,
     "total": 88,
     "first": "2015-07-08",
-    "last": "2018-02-18"
+    "last": "2018-02-18",
+    "earned_by_year": {
+     "2015": 18,
+     "2016": 22,
+     "2018": 23
+    }
    }
   ],
   "img": "img/g/147e8a8999d023f3.webp"
@@ -15860,7 +16473,10 @@
     "earned": 11,
     "total": 51,
     "first": "2020-04-06",
-    "last": "2020-07-18"
+    "last": "2020-07-18",
+    "earned_by_year": {
+     "2020": 11
+    }
    }
   ],
   "img": "img/g/5c11359e99cab302.webp"
@@ -15982,7 +16598,10 @@
     "earned": 1,
     "total": 39,
     "first": "2020-05-25",
-    "last": "2020-05-25"
+    "last": "2020-05-25",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/c42a279a315ffeff.webp"
@@ -16034,7 +16653,10 @@
     "earned": 2,
     "total": 28,
     "first": "2020-06-21",
-    "last": "2020-06-21"
+    "last": "2020-06-21",
+    "earned_by_year": {
+     "2020": 2
+    }
    }
   ],
   "img": "img/g/f7a81b4d9ade7c29.webp"
@@ -16290,7 +16912,10 @@
     "earned": 1,
     "total": 45,
     "first": "2020-04-11",
-    "last": "2020-04-11"
+    "last": "2020-04-11",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/0f8ddf84e32c06be.webp"
@@ -16418,7 +17043,10 @@
     "earned": 1,
     "total": 44,
     "first": "2020-04-04",
-    "last": "2020-04-04"
+    "last": "2020-04-04",
+    "earned_by_year": {
+     "2020": 1
+    }
    }
   ],
   "img": "img/g/e207189ec30733e5.webp"
@@ -16538,7 +17166,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.5299.68217578810932850.d232e670-e28b-4aa4-8b23-1a68089676d4.1acda38f-6ff6-4e71-bec9-4ec000cf3645",
     "first": "2007-02-24",
-    "last": "2007-03-03"
+    "last": "2007-03-03",
+    "earned_by_year": {
+     "2007": 5
+    }
    },
    {
     "id": "xbox:fakeronjan:1297287122",
@@ -16671,7 +17302,11 @@
     "total": 320,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
     "first": "2016-11-05",
-    "last": "2020-03-08"
+    "last": "2020-03-08",
+    "earned_by_year": {
+     "2016": 2,
+     "2020": 3
+    }
    },
    {
     "id": "switch:E1A7E95F9E577242170CB3869DA3D3AF",
@@ -16775,7 +17410,12 @@
     "total": 286,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/header.jpg",
     "first": "2012-09-26",
-    "last": "2020-03-04"
+    "last": "2020-03-04",
+    "earned_by_year": {
+     "2012": 80,
+     "2014": 82,
+     "2015": 90
+    }
    }
   ],
   "img": "img/g/27a0906f75eafadf.webp"
@@ -17342,7 +17982,10 @@
     "earned": 19,
     "total": 81,
     "first": "2012-06-16",
-    "last": "2012-06-30"
+    "last": "2012-06-30",
+    "earned_by_year": {
+     "2012": 19
+    }
    },
    {
     "id": "switch:E07BDE1FE8CFE9211D83FAAAE431E334",
@@ -18050,7 +18693,10 @@
     "earned": 1,
     "total": 14,
     "first": "2012-10-13",
-    "last": "2012-10-13"
+    "last": "2012-10-13",
+    "earned_by_year": {
+     "2012": 1
+    }
    },
    {
     "id": "psn-played:CUSA01316_00",
@@ -18075,7 +18721,11 @@
     "earned": 4,
     "total": 14,
     "first": "2014-11-12",
-    "last": "2015-01-04"
+    "last": "2015-01-04",
+    "earned_by_year": {
+     "2014": 2,
+     "2015": 4
+    }
    }
   ],
   "img": "img/g/ee4116eb6b9971bd.webp"
@@ -18212,7 +18862,10 @@
     "earned": 16,
     "total": 41,
     "first": "2017-10-01",
-    "last": "2017-11-10"
+    "last": "2017-11-10",
+    "earned_by_year": {
+     "2017": 16
+    }
    },
    {
     "id": "steam:567640",
@@ -18583,7 +19236,10 @@
     "total": 50,
     "sessions": 4,
     "first": "2017-08-27",
-    "last": "2018-01-14"
+    "last": "2018-01-14",
+    "earned_by_year": {
+     "2017": 1
+    }
    }
   ],
   "img": "img/g/73ae2183e1dcbb67.webp"
@@ -18639,7 +19295,10 @@
     "earned": 4,
     "total": 35,
     "first": "2017-09-02",
-    "last": "2017-09-04"
+    "last": "2017-09-04",
+    "earned_by_year": {
+     "2017": 4
+    }
    }
   ],
   "img": "img/g/1620b20553b81e05.webp"
@@ -18827,7 +19486,10 @@
     "earned": 1,
     "total": 75,
     "first": "2017-12-05",
-    "last": "2017-12-05"
+    "last": "2017-12-05",
+    "earned_by_year": {
+     "2017": 1
+    }
    }
   ],
   "img": "img/g/6b5a6080aa777501.webp"
@@ -18998,7 +19660,11 @@
     "earned": 8,
     "total": 51,
     "first": "2015-09-26",
-    "last": "2017-08-12"
+    "last": "2017-08-12",
+    "earned_by_year": {
+     "2015": 3,
+     "2017": 8
+    }
    }
   ],
   "img": "img/g/7d8283f628072af2.webp"
@@ -19111,7 +19777,10 @@
     "earned": 8,
     "total": 42,
     "first": "2016-10-22",
-    "last": "2016-12-13"
+    "last": "2016-12-13",
+    "earned_by_year": {
+     "2016": 8
+    }
    }
   ],
   "img": "img/g/12d822cb9493da04.webp"
@@ -19369,7 +20038,10 @@
     "earned": 13,
     "total": 47,
     "first": "2016-09-24",
-    "last": "2016-10-15"
+    "last": "2016-10-15",
+    "earned_by_year": {
+     "2016": 13
+    }
    },
    {
     "id": "steam:413420",
@@ -19546,7 +20218,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.40286.71972951279590291.af9c2fdb-151a-4c1d-8ae7-d7bfb2a756ee.514e5f09-6b42-411f-8f1d-3c1e8c1ca6d9",
     "first": "2006-12-01",
-    "last": "2006-12-03"
+    "last": "2006-12-03",
+    "earned_by_year": {
+     "2006": 6
+    }
    },
    {
     "id": "xbox:fakeronjan:1297287154",
@@ -19693,7 +20368,10 @@
     "earned": 18,
     "total": 51,
     "first": "2016-06-24",
-    "last": "2016-07-02"
+    "last": "2016-07-02",
+    "earned_by_year": {
+     "2016": 18
+    }
    }
   ],
   "img": "img/g/245014adc71831a8.webp"
@@ -19743,7 +20421,10 @@
     "earned": 1,
     "total": 31,
     "first": "2016-06-22",
-    "last": "2016-06-22"
+    "last": "2016-06-22",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/38408f647a1d45f2.webp"
@@ -19784,7 +20465,10 @@
     "earned": 4,
     "total": 50,
     "first": "2013-02-17",
-    "last": "2013-02-26"
+    "last": "2013-02-26",
+    "earned_by_year": {
+     "2013": 4
+    }
    },
    {
     "id": "psn:NPWR03611_00",
@@ -19796,7 +20480,10 @@
     "earned": 1,
     "total": 50,
     "first": "2016-05-31",
-    "last": "2016-05-31"
+    "last": "2016-05-31",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/4d312ac8a5779f05.webp"
@@ -19848,7 +20535,10 @@
     "earned": 3,
     "total": 36,
     "first": "2016-05-08",
-    "last": "2016-05-27"
+    "last": "2016-05-27",
+    "earned_by_year": {
+     "2016": 3
+    }
    }
   ],
   "img": "img/g/7552ecb369ca6959.webp"
@@ -19900,7 +20590,10 @@
     "earned": 1,
     "total": 14,
     "first": "2016-01-31",
-    "last": "2016-01-31"
+    "last": "2016-01-31",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/0f2e5e4ab9f59171.webp"
@@ -19937,7 +20630,10 @@
     "earned": 4,
     "total": 27,
     "first": "2016-04-30",
-    "last": "2016-04-30"
+    "last": "2016-04-30",
+    "earned_by_year": {
+     "2016": 4
+    }
    }
   ],
   "img": "img/g/3e994a33e1cdc094.webp"
@@ -19976,7 +20672,10 @@
     "earned": 2,
     "total": 39,
     "first": "2012-10-21",
-    "last": "2012-10-21"
+    "last": "2012-10-21",
+    "earned_by_year": {
+     "2012": 2
+    }
    },
    {
     "id": "psn:NPWR03918_00",
@@ -19988,7 +20687,10 @@
     "earned": 1,
     "total": 39,
     "first": "2016-04-30",
-    "last": "2016-04-30"
+    "last": "2016-04-30",
+    "earned_by_year": {
+     "2016": 1
+    }
    },
    {
     "id": "psn:NPWR12727_00",
@@ -20045,7 +20747,10 @@
     "earned": 11,
     "total": 51,
     "first": "2013-04-21",
-    "last": "2013-04-21"
+    "last": "2013-04-21",
+    "earned_by_year": {
+     "2013": 11
+    }
    },
    {
     "id": "psn-played:CUSA00079_00",
@@ -20070,7 +20775,10 @@
     "earned": 17,
     "total": 51,
     "first": "2013-12-28",
-    "last": "2013-12-29"
+    "last": "2013-12-29",
+    "earned_by_year": {
+     "2013": 17
+    }
    },
    {
     "id": "psn:NPWR04730_00",
@@ -20082,7 +20790,10 @@
     "earned": 1,
     "total": 51,
     "first": "2016-04-05",
-    "last": "2016-04-05"
+    "last": "2016-04-05",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/4239acacb0c2f5e8.webp"
@@ -20136,7 +20847,11 @@
     "earned": 2,
     "total": 32,
     "first": "2015-12-23",
-    "last": "2016-01-31"
+    "last": "2016-01-31",
+    "earned_by_year": {
+     "2015": 1,
+     "2016": 2
+    }
    }
   ],
   "img": "img/g/72cc05c5ff5b2144.webp"
@@ -20252,7 +20967,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.36225.68122779939858146.82a5c22c-0831-4184-8c30-221f219445d8.e9710293-c554-453f-ba73-a22700467a3a",
     "first": "2007-03-31",
-    "last": "2007-03-31"
+    "last": "2007-03-31",
+    "earned_by_year": {
+     "2007": 2
+    }
    },
    {
     "id": "xbox:fakeronjan:1480656891",
@@ -20265,7 +20983,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.36225.68122779939858146.82a5c22c-0831-4184-8c30-221f219445d8.e9710293-c554-453f-ba73-a22700467a3a",
     "first": "2016-02-14",
-    "last": "2016-02-14"
+    "last": "2016-02-14",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/91f8992a210745b7.webp"
@@ -20303,7 +21024,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.8716.69574863124559417.4df950c4-8f29-4168-8238-ffaa9c44bb1c.378a9da4-8b55-4161-8bea-65cfe178dfde",
     "first": "2016-02-14",
-    "last": "2016-02-14"
+    "last": "2016-02-14",
+    "earned_by_year": {
+     "2016": 2
+    }
    }
   ],
   "img": "img/g/6baf82261da4aab3.webp"
@@ -20343,7 +21067,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.34826.71100151761088573.88824642-fc7e-4e99-9b5b-32e26f7c27b9.8a1cccf6-01d0-48c6-bd1a-0d03df399bba",
     "first": "2010-08-15",
-    "last": "2010-08-15"
+    "last": "2010-08-15",
+    "earned_by_year": {
+     "2010": 5
+    }
    },
    {
     "id": "xbox:fakeronjan:1297287149",
@@ -20356,7 +21083,10 @@
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.34826.71100151761088573.88824642-fc7e-4e99-9b5b-32e26f7c27b9.8a1cccf6-01d0-48c6-bd1a-0d03df399bba",
     "first": "2016-02-14",
-    "last": "2016-02-14"
+    "last": "2016-02-14",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/aa070465a5cb923b.webp"
@@ -20445,7 +21175,10 @@
     "earned": 1,
     "total": 37,
     "first": "2016-01-25",
-    "last": "2016-01-25"
+    "last": "2016-01-25",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/4a57811c6581077f.webp"
@@ -20482,7 +21215,10 @@
     "total": 33,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/324710/header.jpg",
     "first": "2016-01-23",
-    "last": "2016-01-23"
+    "last": "2016-01-23",
+    "earned_by_year": {
+     "2016": 3
+    }
    }
   ],
   "img": "img/g/67ac5b443dce79f0.webp"
@@ -20531,7 +21267,11 @@
     "earned": 9,
     "total": 50,
     "first": "2015-10-22",
-    "last": "2016-01-14"
+    "last": "2016-01-14",
+    "earned_by_year": {
+     "2015": 7,
+     "2016": 9
+    }
    }
   ],
   "img": "img/g/9d028645ef1162e4.webp"
@@ -20657,7 +21397,11 @@
     "earned": 9,
     "total": 15,
     "first": "2015-12-23",
-    "last": "2016-01-09"
+    "last": "2016-01-09",
+    "earned_by_year": {
+     "2015": 4,
+     "2016": 9
+    }
    }
   ],
   "img": "img/g/ce638f51889e93cf.webp"
@@ -20707,7 +21451,10 @@
     "earned": 1,
     "total": 17,
     "first": "2016-01-09",
-    "last": "2016-01-09"
+    "last": "2016-01-09",
+    "earned_by_year": {
+     "2016": 1
+    }
    }
   ],
   "img": "img/g/22780d0006676c16.webp"
@@ -20744,7 +21491,10 @@
     "total": 20,
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/417860/header.jpg",
     "first": "2015-12-27",
-    "last": "2015-12-27"
+    "last": "2015-12-27",
+    "earned_by_year": {
+     "2015": 5
+    }
    }
   ],
   "img": "img/g/abdacb178141b01e.webp"
@@ -20781,7 +21531,10 @@
     "earned": 2,
     "total": 78,
     "first": "2015-11-22",
-    "last": "2015-11-22"
+    "last": "2015-11-22",
+    "earned_by_year": {
+     "2015": 2
+    }
    }
   ],
   "img": "img/g/a78244f09444bc4d.webp"
@@ -20830,7 +21583,11 @@
     "earned": 49,
     "total": 49,
     "first": "2014-12-02",
-    "last": "2015-11-21"
+    "last": "2015-11-21",
+    "earned_by_year": {
+     "2014": 8,
+     "2015": 49
+    }
    }
   ],
   "img": "img/g/adb1552109453b45.webp"
@@ -20904,7 +21661,10 @@
     "earned": 3,
     "total": 128,
     "first": "2015-06-28",
-    "last": "2015-06-28"
+    "last": "2015-06-28",
+    "earned_by_year": {
+     "2015": 3
+    }
    }
   ],
   "img": "img/g/858736dabe0108f8.webp"
@@ -21047,7 +21807,11 @@
     "earned": 7,
     "total": 51,
     "first": "2014-10-07",
-    "last": "2015-04-28"
+    "last": "2015-04-28",
+    "earned_by_year": {
+     "2014": 4,
+     "2015": 7
+    }
    }
   ],
   "img": "img/g/ce6b125b43a26f6a.webp"
@@ -21131,7 +21895,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuNfQNWb_.Rg7ukLRKQRlhLaNtrVLmGBlQY_urHESWIV3oBsoeKarlVt3QpCxqC.YPw--",
     "first": "2011-09-10",
-    "last": "2011-09-14"
+    "last": "2011-09-14",
+    "earned_by_year": {
+     "2011": 1
+    }
    },
    {
     "id": "psn-played:CUSA02052_00",
@@ -21156,7 +21923,10 @@
     "earned": 1,
     "total": 23,
     "first": "2015-04-11",
-    "last": "2015-04-11"
+    "last": "2015-04-11",
+    "earned_by_year": {
+     "2015": 1
+    }
    },
    {
     "id": "steam:107100",
@@ -21331,7 +22101,10 @@
     "earned": 8,
     "total": 71,
     "first": "2015-01-24",
-    "last": "2015-01-24"
+    "last": "2015-01-24",
+    "earned_by_year": {
+     "2015": 8
+    }
    }
   ],
   "img": "img/g/f26615b9e2ac612a.webp"
@@ -21383,7 +22156,10 @@
     "earned": 3,
     "total": 48,
     "first": "2015-02-01",
-    "last": "2015-02-01"
+    "last": "2015-02-01",
+    "earned_by_year": {
+     "2015": 3
+    }
    }
   ],
   "img": "img/g/034d3c1b4755b336.webp"
@@ -21532,7 +22308,11 @@
     "earned": 48,
     "total": 49,
     "first": "2012-12-08",
-    "last": "2013-07-27"
+    "last": "2013-07-27",
+    "earned_by_year": {
+     "2012": 41,
+     "2013": 48
+    }
    },
    {
     "id": "psn-played:CUSA01019_00",
@@ -21557,7 +22337,10 @@
     "earned": 10,
     "total": 49,
     "first": "2015-01-04",
-    "last": "2015-01-18"
+    "last": "2015-01-18",
+    "earned_by_year": {
+     "2015": 10
+    }
    }
   ],
   "img": "img/g/66bd3507beff1b87.webp"
@@ -21773,7 +22556,10 @@
     "earned": 1,
     "total": 70,
     "first": "2014-11-18",
-    "last": "2014-11-18"
+    "last": "2014-11-18",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/fc067d742f2a90af.webp"
@@ -22073,7 +22859,10 @@
     "earned": 1,
     "total": 14,
     "first": "2014-11-09",
-    "last": "2014-11-09"
+    "last": "2014-11-09",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/82b1d417c5e12cbd.webp"
@@ -22127,7 +22916,10 @@
     "earned": 1,
     "total": 11,
     "first": "2014-10-08",
-    "last": "2014-10-08"
+    "last": "2014-10-08",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/fa26254a6e7b8691.webp"
@@ -22227,7 +23019,10 @@
     "earned": 2,
     "total": 31,
     "first": "2014-10-07",
-    "last": "2014-10-07"
+    "last": "2014-10-07",
+    "earned_by_year": {
+     "2014": 2
+    }
    }
   ],
   "img": "img/g/043a38cddc50149a.webp"
@@ -22266,7 +23061,10 @@
     "earned": 3,
     "total": 14,
     "first": "2010-03-06",
-    "last": "2010-03-06"
+    "last": "2010-03-06",
+    "earned_by_year": {
+     "2010": 3
+    }
    },
    {
     "id": "psn-played:CUSA00144_00",
@@ -22291,7 +23089,10 @@
     "earned": 1,
     "total": 14,
     "first": "2014-10-03",
-    "last": "2014-10-03"
+    "last": "2014-10-03",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/1e8dedfb8d0c7f9b.webp"
@@ -22415,7 +23216,10 @@
     "earned": 25,
     "total": 54,
     "first": "2014-08-22",
-    "last": "2014-09-06"
+    "last": "2014-09-06",
+    "earned_by_year": {
+     "2014": 25
+    }
    }
   ],
   "img": "img/g/709ffedaaed0fb96.webp"
@@ -22469,7 +23273,10 @@
     "earned": 5,
     "total": 61,
     "first": "2014-09-09",
-    "last": "2014-09-10"
+    "last": "2014-09-10",
+    "earned_by_year": {
+     "2014": 5
+    }
    }
   ],
   "img": "img/g/14eac7f84cc4c75d.webp"
@@ -22519,7 +23326,10 @@
     "earned": 2,
     "total": 48,
     "first": "2014-09-02",
-    "last": "2014-09-02"
+    "last": "2014-09-02",
+    "earned_by_year": {
+     "2014": 2
+    }
    }
   ],
   "img": "img/g/4a87d55960de80f1.webp"
@@ -22569,7 +23379,10 @@
     "earned": 2,
     "total": 56,
     "first": "2014-08-16",
-    "last": "2014-08-16"
+    "last": "2014-08-16",
+    "earned_by_year": {
+     "2014": 2
+    }
    }
   ],
   "img": "img/g/23379e9372394ada.webp"
@@ -22621,7 +23434,10 @@
     "earned": 1,
     "total": 20,
     "first": "2014-08-11",
-    "last": "2014-08-11"
+    "last": "2014-08-11",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/4c3cf03ad49fd9e2.webp"
@@ -22664,7 +23480,10 @@
     "earned": 2,
     "total": 50,
     "first": "2013-06-30",
-    "last": "2013-07-12"
+    "last": "2013-07-12",
+    "earned_by_year": {
+     "2013": 2
+    }
    },
    {
     "id": "psn-played:CUSA00552_00",
@@ -22741,7 +23560,10 @@
     "earned": 2,
     "total": 37,
     "first": "2014-07-26",
-    "last": "2014-07-26"
+    "last": "2014-07-26",
+    "earned_by_year": {
+     "2014": 2
+    }
    }
   ],
   "img": "img/g/1e513d2faeb32f36.webp"
@@ -22950,7 +23772,10 @@
     "earned": 3,
     "total": 51,
     "first": "2013-10-31",
-    "last": "2013-11-03"
+    "last": "2013-11-03",
+    "earned_by_year": {
+     "2013": 3
+    }
    },
    {
     "id": "psn:NPWR05187_00",
@@ -22962,7 +23787,11 @@
     "earned": 9,
     "total": 51,
     "first": "2013-11-16",
-    "last": "2014-04-24"
+    "last": "2014-04-24",
+    "earned_by_year": {
+     "2013": 8,
+     "2014": 9
+    }
    }
   ],
   "img": "img/g/65123018509f4b84.webp"
@@ -23014,7 +23843,10 @@
     "earned": 2,
     "total": 12,
     "first": "2014-03-26",
-    "last": "2014-03-29"
+    "last": "2014-03-29",
+    "earned_by_year": {
+     "2014": 2
+    }
    }
   ],
   "img": "img/g/bdf63173c5ab3ded.webp"
@@ -23066,7 +23898,10 @@
     "earned": 1,
     "total": 48,
     "first": "2014-03-21",
-    "last": "2014-03-21"
+    "last": "2014-03-21",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/7cb3077ecd6dc936.webp"
@@ -23116,7 +23951,10 @@
     "earned": 1,
     "total": 41,
     "first": "2014-03-04",
-    "last": "2014-03-04"
+    "last": "2014-03-04",
+    "earned_by_year": {
+     "2014": 1
+    }
    }
   ],
   "img": "img/g/35f45a9dc045f391.webp"
@@ -23167,7 +24005,10 @@
     "earned": 13,
     "total": 51,
     "first": "2013-03-16",
-    "last": "2013-03-31"
+    "last": "2013-03-31",
+    "earned_by_year": {
+     "2013": 13
+    }
    },
    {
     "id": "psn-played:CUSA00107_00",
@@ -23192,7 +24033,10 @@
     "earned": 3,
     "total": 51,
     "first": "2014-02-09",
-    "last": "2014-02-21"
+    "last": "2014-02-21",
+    "earned_by_year": {
+     "2014": 3
+    }
    }
   ],
   "img": "img/g/92fe5e20b97583c4.webp"
@@ -23244,7 +24088,10 @@
     "earned": 3,
     "total": 49,
     "first": "2014-02-08",
-    "last": "2014-02-08"
+    "last": "2014-02-08",
+    "earned_by_year": {
+     "2014": 3
+    }
    }
   ],
   "img": "img/g/d4a956806c02a618.webp"
@@ -23521,7 +24368,10 @@
     "earned": 6,
     "total": 36,
     "first": "2013-11-17",
-    "last": "2013-11-17"
+    "last": "2013-11-17",
+    "earned_by_year": {
+     "2013": 6
+    }
    }
   ],
   "img": "img/g/4cce1ecca65589ec.webp"
@@ -23668,7 +24518,10 @@
     "earned": 6,
     "total": 38,
     "first": "2013-08-16",
-    "last": "2013-09-14"
+    "last": "2013-09-14",
+    "earned_by_year": {
+     "2013": 6
+    }
    }
   ],
   "img": "img/g/5b8f5438c7391e72.webp"
@@ -23705,7 +24558,10 @@
     "earned": 1,
     "total": 45,
     "first": "2013-08-03",
-    "last": "2013-08-03"
+    "last": "2013-08-03",
+    "earned_by_year": {
+     "2013": 1
+    }
    }
   ],
   "img": "img/g/3b79a0f8a68ab542.webp"
@@ -23742,7 +24598,10 @@
     "earned": 4,
     "total": 48,
     "first": "2013-07-13",
-    "last": "2013-07-13"
+    "last": "2013-07-13",
+    "earned_by_year": {
+     "2013": 4
+    }
    }
   ],
   "img": "img/g/76dea677fce77897.webp"
@@ -23795,7 +24654,11 @@
     "earned": 13,
     "total": 56,
     "first": "2012-10-02",
-    "last": "2013-05-28"
+    "last": "2013-05-28",
+    "earned_by_year": {
+     "2012": 8,
+     "2013": 13
+    }
    }
   ],
   "img": "img/g/3dab7a08a15df3b7.webp"
@@ -23834,7 +24697,11 @@
     "earned": 2,
     "total": 91,
     "first": "2010-05-27",
-    "last": "2012-11-05"
+    "last": "2012-11-05",
+    "earned_by_year": {
+     "2010": 1,
+     "2012": 2
+    }
    }
   ],
   "img": "img/g/f056a958118047f6.webp"
@@ -23905,7 +24772,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.32720.14413478628294773.44793e9e-c43c-4ee0-bfb7-ff2be27983e7.1333f53d-6138-45a2-9e0a-1a73601680d5",
     "first": "2011-05-04",
-    "last": "2012-01-11"
+    "last": "2012-01-11",
+    "earned_by_year": {
+     "2011": 10
+    }
    },
    {
     "id": "psn:NPWR02221_00",
@@ -23917,7 +24787,10 @@
     "earned": 12,
     "total": 51,
     "first": "2012-05-07",
-    "last": "2012-07-22"
+    "last": "2012-07-22",
+    "earned_by_year": {
+     "2012": 12
+    }
    },
    {
     "id": "psn:NPWR01747_00",
@@ -23929,7 +24802,10 @@
     "earned": 5,
     "total": 51,
     "first": "2012-08-11",
-    "last": "2012-10-29"
+    "last": "2012-10-29",
+    "earned_by_year": {
+     "2012": 5
+    }
    }
   ],
   "img": "img/g/75bc070d401e568e.webp"
@@ -23974,7 +24850,10 @@
     "earned": 9,
     "total": 49,
     "first": "2012-09-28",
-    "last": "2012-10-12"
+    "last": "2012-10-12",
+    "earned_by_year": {
+     "2012": 9
+    }
    }
   ],
   "img": "img/g/db5916c6bf652fb6.webp"
@@ -24019,7 +24898,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.47457.71954391781809255.0e329531-7a50-422e-9004-4fc3256efaae.ada9a47d-cb5d-4703-97f7-7c65aa2e079d",
     "first": "2010-11-20",
-    "last": "2010-12-04"
+    "last": "2010-12-04",
+    "earned_by_year": {
+     "2010": 6
+    }
    },
    {
     "id": "psn:NPWR01441_00",
@@ -24031,7 +24913,10 @@
     "earned": 5,
     "total": 15,
     "first": "2012-10-02",
-    "last": "2012-10-02"
+    "last": "2012-10-02",
+    "earned_by_year": {
+     "2012": 5
+    }
    }
   ],
   "img": "img/g/5c7e97d547a08bb9.webp"
@@ -24074,7 +24959,10 @@
     "earned": 4,
     "total": 42,
     "first": "2012-09-03",
-    "last": "2012-09-19"
+    "last": "2012-09-19",
+    "earned_by_year": {
+     "2012": 4
+    }
    }
   ],
   "img": "img/g/e1b6b312e0f11689.webp"
@@ -24143,7 +25031,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuN1LADXkUj4M6yOSmf9VmxAb_v0lHamMvsePQoxxPZxft9z9LHCLimw2jJB4OtejcQ--",
     "first": "2011-10-14",
-    "last": "2012-05-08"
+    "last": "2012-05-08",
+    "earned_by_year": {
+     "2011": 11
+    }
    },
    {
     "id": "psn:NPWR02284_00",
@@ -24155,7 +25046,10 @@
     "earned": 12,
     "total": 59,
     "first": "2012-06-13",
-    "last": "2012-07-30"
+    "last": "2012-07-30",
+    "earned_by_year": {
+     "2012": 12
+    }
    }
   ],
   "img": "img/g/366dd831201376d2.webp"
@@ -24212,7 +25106,10 @@
     "earned": 33,
     "total": 69,
     "first": "2012-04-28",
-    "last": "2012-07-12"
+    "last": "2012-07-12",
+    "earned_by_year": {
+     "2012": 33
+    }
    }
   ],
   "img": "img/g/f6401f2da113430b.webp"
@@ -24249,7 +25146,10 @@
     "earned": 3,
     "total": 51,
     "first": "2012-06-08",
-    "last": "2012-06-08"
+    "last": "2012-06-08",
+    "earned_by_year": {
+     "2012": 3
+    }
    }
   ],
   "img": "img/g/7cdb25f6b2349c29.webp"
@@ -24302,7 +25202,10 @@
     "earned": 15,
     "total": 40,
     "first": "2012-03-11",
-    "last": "2012-05-28"
+    "last": "2012-05-28",
+    "earned_by_year": {
+     "2012": 15
+    }
    }
   ],
   "img": "img/g/7f5c30ce43ba986c.webp"
@@ -24339,7 +25242,10 @@
     "earned": 2,
     "total": 56,
     "first": "2012-05-10",
-    "last": "2012-05-10"
+    "last": "2012-05-10",
+    "earned_by_year": {
+     "2012": 2
+    }
    }
   ],
   "img": "img/g/8a429552a705fbd0.webp"
@@ -24380,7 +25286,10 @@
     "earned": 6,
     "total": 36,
     "first": "2012-04-19",
-    "last": "2012-04-30"
+    "last": "2012-04-30",
+    "earned_by_year": {
+     "2012": 6
+    }
    }
   ],
   "img": "img/g/165185d6d199f8b4.webp"
@@ -24419,7 +25328,10 @@
     "earned": 3,
     "total": 13,
     "first": "2012-02-27",
-    "last": "2012-03-10"
+    "last": "2012-03-10",
+    "earned_by_year": {
+     "2012": 3
+    }
    }
   ],
   "img": "img/g/58aa771b532f25a7.webp"
@@ -24456,7 +25368,10 @@
     "earned": 2,
     "total": 36,
     "first": "2012-03-09",
-    "last": "2012-03-09"
+    "last": "2012-03-09",
+    "earned_by_year": {
+     "2012": 2
+    }
    }
   ],
   "img": "img/g/0a7d9faee38b4080.webp"
@@ -24493,7 +25408,10 @@
     "earned": 2,
     "total": 12,
     "first": "2011-12-10",
-    "last": "2011-12-10"
+    "last": "2011-12-10",
+    "earned_by_year": {
+     "2011": 2
+    }
    }
   ],
   "img": "img/g/d985a8bafebefb85.webp"
@@ -24532,7 +25450,10 @@
     "earned": 8,
     "total": 36,
     "first": "2011-09-25",
-    "last": "2011-10-02"
+    "last": "2011-10-02",
+    "earned_by_year": {
+     "2011": 8
+    }
    }
   ],
   "img": "img/g/6d489d5d3ba00c1c.webp"
@@ -24598,7 +25519,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=sRVbQFQ1v0yjaf073.4Rll0l47KR5AZVdRUNfGvlnBfncol5s8rXBd9fOqG8zO0GBeQDKpAHPNh46U2QxcYP4m1uI_WFrfmTjsz.oViWQ.ByKRRmq_uXurMlstjI4worHFW22ZH.29ZtoBJwBlAt0A--",
     "first": "2007-12-06",
-    "last": "2007-12-10"
+    "last": "2007-12-10",
+    "earned_by_year": {
+     "2007": 14
+    }
    },
    {
     "id": "xbox:rogerage:1161889801",
@@ -24611,7 +25535,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=sRVbQFQ1v0yjaf073.4Rll0l47KR5AZVdRUNfGvlnBfncol5s8rXBd9fOqG8zO0GBeQDKpAHPNh46U2QxcYP4m1uI_WFrfmTjsz.oViWQ.ByKRRmq_uXurMlstjI4worHFW22ZH.29ZtoBJwBlAt0A--",
     "first": "2010-08-18",
-    "last": "2011-09-14"
+    "last": "2011-09-14",
+    "earned_by_year": {
+     "2010": 17
+    }
    }
   ],
   "img": "img/g/7a282f24a41ce266.webp"
@@ -24649,7 +25576,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuFnAzisYXEz6hGQ1fNFRu9OepsJCfoUAFzl_uVFocWYTiEbfHm3hyhsBM1miFKlTFQ--",
     "first": "2011-09-12",
-    "last": "2011-09-12"
+    "last": "2011-09-12",
+    "earned_by_year": {
+     "2011": 4
+    }
    }
   ],
   "img": "img/g/b42df169bf9835f0.webp"
@@ -24697,7 +25627,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuDtEOb9QJ1vRzv3ZIpKh_iln1FtBFq5FplOfhfWo2qtsJb_RpUB_rXggDQ2Rj_nwiQ--",
     "first": "2011-07-13",
-    "last": "2011-09-05"
+    "last": "2011-09-05",
+    "earned_by_year": {
+     "2011": 8
+    }
    }
   ],
   "img": "img/g/a90538be8eb881cf.webp"
@@ -24743,7 +25676,11 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuF4Sydp3BUUvrhUE7bBXfHyg.UcUxdva.S0aQdhXuz4pZEcFfW1uCW0rjhcA2cqlPQ--",
     "first": "2010-11-04",
-    "last": "2011-09-04"
+    "last": "2011-09-04",
+    "earned_by_year": {
+     "2010": 8,
+     "2011": 9
+    }
    }
   ],
   "img": "img/g/3ad83adfa7a81b9e.webp"
@@ -24787,7 +25724,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuG9dsEhbpXywHwT4RBxqy2s1XNFGxgbOvWKJ4OipC4Gry5ucl8OBmahKyG7dRLdalg--",
     "first": "2011-02-11",
-    "last": "2011-08-14"
+    "last": "2011-08-14",
+    "earned_by_year": {
+     "2011": 15
+    }
    }
   ],
   "img": "img/g/8dccfe354d56a2c5.webp"
@@ -24849,7 +25789,11 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuF9vLJ8gjp4UwiLaui9GrVsc2lLchKsjgQo2Qy6iKpr.t6b9LOfDsvhYLgXOBxb3Yg--",
     "first": "2010-10-06",
-    "last": "2011-07-09"
+    "last": "2011-07-09",
+    "earned_by_year": {
+     "2010": 14,
+     "2011": 22
+    }
    }
   ],
   "img": "img/g/cf18222d475055f0.webp"
@@ -24887,7 +25831,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuADsa_QLKpifoipouSeuTA57r.1bninlhE3MhbDzeqGU21Df4CgU9e9ZFgblMt8ikQ--",
     "first": "2011-06-14",
-    "last": "2011-06-14"
+    "last": "2011-06-14",
+    "earned_by_year": {
+     "2011": 4
+    }
    }
   ],
   "img": "img/g/6ac4ff01b5e9e9b7.webp"
@@ -24927,7 +25874,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.52715.68498900770156313.92e56773-a548-4837-beb1-dcdb80ecefdb.8bbcbe9e-ba6c-482c-b276-4a0d94f1f8f6",
     "first": "2011-05-16",
-    "last": "2011-05-22"
+    "last": "2011-05-22",
+    "earned_by_year": {
+     "2011": 1
+    }
    },
    {
     "id": "psn:NPWR01265_00",
@@ -24979,7 +25929,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuJuPl9uHBhQ2Z9enOZVBJO26L5yT4hMbZGXmiZoctDC3au8_6KlJ_Xm8rpcnnodyAA--",
     "first": "2010-11-04",
-    "last": "2011-04-09"
+    "last": "2011-04-09",
+    "earned_by_year": {
+     "2010": 4
+    }
    }
   ],
   "img": "img/g/15f16b86cec956a8.webp"
@@ -25025,7 +25978,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuMCZBudG2WT_NoujvGp7pCRInku.jLBotk_uc94qjJ5imne1Zo76zs2LxL4bnlqfZw--",
     "first": "2011-03-23",
-    "last": "2011-03-30"
+    "last": "2011-03-30",
+    "earned_by_year": {
+     "2011": 16
+    }
    }
   ],
   "img": "img/g/02db60d844000161.webp"
@@ -25070,7 +26026,10 @@
     "earned": 15,
     "total": 79,
     "first": "2011-01-19",
-    "last": "2011-02-01"
+    "last": "2011-02-01",
+    "earned_by_year": {
+     "2011": 15
+    }
    }
   ],
   "img": "img/g/faf396e7f0efc44c.webp"
@@ -25110,7 +26069,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.28789.64229180381754763.b2b4aed8-d775-49f6-863b-b61a0c069aa0.06d4dcba-8601-4315-b8ca-1d56e49903b5",
     "first": "2011-01-05",
-    "last": "2011-01-26"
+    "last": "2011-01-26",
+    "earned_by_year": {
+     "2011": 2
+    }
    }
   ],
   "img": "img/g/4cb7cb587ec340c7.webp"
@@ -25198,7 +26160,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.49206.68952782261614407.207517f2-cff8-4d40-84e1-b44139d6e70b.77a300c7-676b-4530-ae94-7438be18bd8e",
     "first": "2010-10-31",
-    "last": "2010-11-09"
+    "last": "2010-11-09",
+    "earned_by_year": {
+     "2010": 20
+    }
    }
   ],
   "img": "img/g/97bac83c3440871f.webp"
@@ -25238,7 +26203,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuEvTvrf8QZnULwVURyscB6k4w0fNkjrwiPQKt06sdQR.0waJA5x9E0u7MKXuUFpFaQ--",
     "first": "2010-11-04",
-    "last": "2010-11-05"
+    "last": "2010-11-05",
+    "earned_by_year": {
+     "2010": 6
+    }
    }
   ],
   "img": "img/g/a2daefc74559bba6.webp"
@@ -25276,7 +26244,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.12706.66274487452813675.86971dec-0f03-42bb-b657-322859f064f4.5b8be489-c377-4439-a4a5-5564da9a165b",
     "first": "2010-10-21",
-    "last": "2010-10-21"
+    "last": "2010-10-21",
+    "earned_by_year": {
+     "2010": 2
+    }
    }
   ],
   "img": "img/g/a58ff065a563d204.webp"
@@ -25318,7 +26289,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuHyWadbr0tmJ5O9IVaoGacaLXidWkKh8DYRY.GaAmiMY6KocQfDABYFBwxeScc7GEg--",
     "first": "2010-10-04",
-    "last": "2010-10-08"
+    "last": "2010-10-08",
+    "earned_by_year": {
+     "2010": 12
+    }
    }
   ],
   "img": "img/g/0a62b51458a61b2a.webp"
@@ -25364,7 +26338,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuOFSv5IG.SJHrJ8Hvb5DGfkWG7v3qfuPStwNd4NjCHSetLNJf3c9zdTBW4Waqdi4Zg--",
     "first": "2010-09-07",
-    "last": "2010-09-25"
+    "last": "2010-09-25",
+    "earned_by_year": {
+     "2010": 7
+    }
    }
   ],
   "img": "img/g/d91b2b813f2e806f.webp"
@@ -25402,7 +26379,10 @@
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuPh8l4U_GiHUhQMMdVmL56NDLEGqFmxBzahWRCT8vrwa5kPbZNP46UzDdVKEVTA2gw--",
     "first": "2010-09-25",
-    "last": "2010-09-25"
+    "last": "2010-09-25",
+    "earned_by_year": {
+     "2010": 2
+    }
    }
   ],
   "img": "img/g/be35b19d8d5aff8d.webp"
@@ -25448,7 +26428,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.54437.63225107553541752.1c540946-cc4f-4e0f-aca3-13134473f9ad.3c631fb5-eee3-4e80-9644-c2a46a9d15f9",
     "first": "2007-03-31",
-    "last": "2007-05-14"
+    "last": "2007-05-14",
+    "earned_by_year": {
+     "2007": 4
+    }
    },
    {
     "id": "xbox:rogerage:1279330263",
@@ -25461,7 +26444,10 @@
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.6207.70527735771150709.4384318c-4020-4dc0-a05e-3164e04d5d24.d3c47cd2-0e7e-4c5d-8282-d9ef536fad6f",
     "first": "2010-08-30",
-    "last": "2010-09-03"
+    "last": "2010-09-03",
+    "earned_by_year": {
+     "2010": 4
+    }
    }
   ],
   "img": "img/g/ecfba96b5be3e7b3.webp"
@@ -25502,7 +26488,10 @@
     "earned": 5,
     "total": 51,
     "first": "2010-06-10",
-    "last": "2010-08-16"
+    "last": "2010-08-16",
+    "earned_by_year": {
+     "2010": 5
+    }
    }
   ],
   "img": "img/g/5ee4ffa680893abd.webp"
@@ -25539,7 +26528,10 @@
     "earned": 4,
     "total": 12,
     "first": "2010-08-14",
-    "last": "2010-08-14"
+    "last": "2010-08-14",
+    "earned_by_year": {
+     "2010": 4
+    }
    }
   ],
   "img": "img/g/fcb1106c6067f000.webp"
@@ -25586,7 +26578,10 @@
     "earned": 16,
     "total": 51,
     "first": "2010-07-13",
-    "last": "2010-08-01"
+    "last": "2010-08-01",
+    "earned_by_year": {
+     "2010": 16
+    }
    }
   ],
   "img": "img/g/63bde2f08b904cff.webp"
@@ -25625,7 +26620,10 @@
     "earned": 6,
     "total": 12,
     "first": "2010-06-10",
-    "last": "2010-06-12"
+    "last": "2010-06-12",
+    "earned_by_year": {
+     "2010": 6
+    }
    }
   ],
   "img": "img/g/817f3aa7aceb6693.webp"
@@ -25668,7 +26666,10 @@
     "earned": 7,
     "total": 43,
     "first": "2010-05-01",
-    "last": "2010-05-27"
+    "last": "2010-05-27",
+    "earned_by_year": {
+     "2010": 7
+    }
    }
   ],
   "img": "img/g/6f762a4f58f82dce.webp"
@@ -25711,7 +26712,11 @@
     "earned": 8,
     "total": 21,
     "first": "2009-07-08",
-    "last": "2010-05-09"
+    "last": "2010-05-09",
+    "earned_by_year": {
+     "2009": 6,
+     "2010": 8
+    }
    }
   ],
   "img": "img/g/05cde81a9e76d741.webp"
@@ -25750,7 +26755,10 @@
     "earned": 4,
     "total": 43,
     "first": "2010-04-25",
-    "last": "2010-05-01"
+    "last": "2010-05-01",
+    "earned_by_year": {
+     "2010": 4
+    }
    },
    {
     "id": "steam:50620",
@@ -25801,7 +26809,10 @@
     "earned": 3,
     "total": 12,
     "first": "2010-03-18",
-    "last": "2010-03-20"
+    "last": "2010-03-20",
+    "earned_by_year": {
+     "2010": 3
+    }
    }
   ],
   "img": "img/g/c161641e73bf7810.webp"
@@ -25838,7 +26849,10 @@
     "earned": 4,
     "total": 73,
     "first": "2010-02-21",
-    "last": "2010-02-21"
+    "last": "2010-02-21",
+    "earned_by_year": {
+     "2010": 4
+    }
    }
   ],
   "img": "img/g/4aa8f8f111deeed4.webp"
@@ -25885,7 +26899,10 @@
     "earned": 26,
     "total": 35,
     "first": "2010-01-31",
-    "last": "2010-02-13"
+    "last": "2010-02-13",
+    "earned_by_year": {
+     "2010": 26
+    }
    }
   ],
   "img": "img/g/fcf44d1b497a1296.webp"
@@ -25923,7 +26940,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuC5rQsTAFBN3xha2q.kjSeefLgfS0XkIzLe5YQFRBNCWFzQgyWpuYsE3dj_BfiBuQw--",
     "first": "2009-12-27",
-    "last": "2009-12-27"
+    "last": "2009-12-27",
+    "earned_by_year": {
+     "2009": 9
+    }
    }
   ],
   "img": "img/g/546c59cb78408a02.webp"
@@ -25978,7 +26998,11 @@
     "earned": 26,
     "total": 70,
     "first": "2008-10-31",
-    "last": "2009-11-29"
+    "last": "2009-11-29",
+    "earned_by_year": {
+     "2008": 17,
+     "2009": 26
+    }
    }
   ],
   "img": "img/g/f0a1c09e86d0f30d.webp"
@@ -26017,7 +27041,10 @@
     "earned": 4,
     "total": 50,
     "first": "2009-10-13",
-    "last": "2009-11-14"
+    "last": "2009-11-14",
+    "earned_by_year": {
+     "2009": 4
+    }
    }
   ],
   "img": "img/g/70df74297fdac310.webp"
@@ -26066,7 +27093,10 @@
     "earned": 16,
     "total": 30,
     "first": "2009-08-30",
-    "last": "2009-10-12"
+    "last": "2009-10-12",
+    "earned_by_year": {
+     "2009": 16
+    }
    }
   ],
   "img": "img/g/6ff143326823f112.webp"
@@ -26113,7 +27143,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.13644.63106309821199100.9620a5eb-7967-4a1f-afe8-9a7568a40f30.3fa4801d-8133-4f2a-8ada-8d63b43663f4",
     "first": "2007-06-19",
-    "last": "2007-07-10"
+    "last": "2007-07-10",
+    "earned_by_year": {
+     "2007": 3
+    }
    },
    {
     "id": "psn:NPWR00374_00",
@@ -26125,7 +27158,10 @@
     "earned": 8,
     "total": 61,
     "first": "2009-09-20",
-    "last": "2009-09-20"
+    "last": "2009-09-20",
+    "earned_by_year": {
+     "2009": 8
+    }
    }
   ],
   "img": "img/g/b73ff6b02a949d68.webp"
@@ -26170,7 +27206,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.28261.71651075223211151.75185e46-09e0-427b-89cd-8c958883a66d.2898e566-a2da-48a4-a180-405bbf2bac78",
     "first": "2007-08-26",
-    "last": "2007-10-15"
+    "last": "2007-10-15",
+    "earned_by_year": {
+     "2007": 10
+    }
    },
    {
     "id": "psn:NPWR00352_00",
@@ -26182,7 +27221,10 @@
     "earned": 4,
     "total": 66,
     "first": "2009-08-29",
-    "last": "2009-08-29"
+    "last": "2009-08-29",
+    "earned_by_year": {
+     "2009": 4
+    }
    }
   ],
   "img": "img/g/5bbb27f3c0e5a864.webp"
@@ -26219,7 +27261,10 @@
     "earned": 3,
     "total": 50,
     "first": "2009-08-17",
-    "last": "2009-08-17"
+    "last": "2009-08-17",
+    "earned_by_year": {
+     "2009": 3
+    }
    }
   ],
   "img": "img/g/6526f3965168f132.webp"
@@ -26256,7 +27301,10 @@
     "earned": 1,
     "total": 43,
     "first": "2009-08-08",
-    "last": "2009-08-08"
+    "last": "2009-08-08",
+    "earned_by_year": {
+     "2009": 1
+    }
    }
   ],
   "img": "img/g/3009da392d9486c3.webp"
@@ -26297,7 +27345,10 @@
     "earned": 11,
     "total": 50,
     "first": "2009-07-30",
-    "last": "2009-08-03"
+    "last": "2009-08-03",
+    "earned_by_year": {
+     "2009": 11
+    }
    }
   ],
   "img": "img/g/18f7bf10441a55cc.webp"
@@ -26334,7 +27385,10 @@
     "earned": 5,
     "total": 38,
     "first": "2009-07-10",
-    "last": "2009-07-10"
+    "last": "2009-07-10",
+    "earned_by_year": {
+     "2009": 5
+    }
    }
   ],
   "img": "img/g/89f11a9d88914b02.webp"
@@ -26389,7 +27443,11 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuLrAjyZZAz.CovHxvbhKJWR6JGcgNjQA3I.hiJsJsqlaJpm_XbK9F6dLdT7bHnQ8Fg--",
     "first": "2008-11-23",
-    "last": "2009-01-30"
+    "last": "2009-01-30",
+    "earned_by_year": {
+     "2008": 5,
+     "2009": 6
+    }
    },
    {
     "id": "psn:NPWR00440_00",
@@ -26401,7 +27459,10 @@
     "earned": 8,
     "total": 51,
     "first": "2009-03-15",
-    "last": "2009-05-14"
+    "last": "2009-05-14",
+    "earned_by_year": {
+     "2009": 8
+    }
    }
   ],
   "img": "img/g/6c9613b0ac0a7782.webp"
@@ -26446,7 +27507,10 @@
     "earned": 14,
     "total": 57,
     "first": "2009-03-19",
-    "last": "2009-03-29"
+    "last": "2009-03-29",
+    "earned_by_year": {
+     "2009": 14
+    }
    }
   ],
   "img": "img/g/fc3ab3a186913055.webp"
@@ -26484,7 +27548,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.24121.71496330674869702.dd1fba79-be61-49c1-9eeb-7d7482f4df0f.aebc7981-d6bf-46d6-b7c8-854790730ead",
     "first": "2009-01-30",
-    "last": "2009-01-30"
+    "last": "2009-01-30",
+    "earned_by_year": {
+     "2009": 1
+    }
    }
   ],
   "img": "img/g/3b62dcd25ff674b0.webp"
@@ -26552,7 +27619,11 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuL0oS4wArU3LkaifT23ENmPyqeez00IvXBNvHwDYxYEHp.WGwggJHI9liDKN2UvMrA--",
     "first": "2007-07-23",
-    "last": "2008-01-07"
+    "last": "2008-01-07",
+    "earned_by_year": {
+     "2007": 15,
+     "2008": 16
+    }
    }
   ],
   "img": "img/g/d7456c044a6926c2.webp"
@@ -26590,7 +27661,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuPJvCHw5uiDfh3tNH2.ZOHrND295TtTtCB9KsizguVTcm7V6YctuygoJGQF.gRFS7g--",
     "first": "2007-11-23",
-    "last": "2007-11-23"
+    "last": "2007-11-23",
+    "earned_by_year": {
+     "2007": 3
+    }
    }
   ],
   "img": "img/g/8ceb2667e4dfd343.webp"
@@ -26628,7 +27702,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuNVfgjfI64oVS7bYc5CFzr88AHAJ6jR62.N4v1gdEmsaipnDQUsH.9kAZw.eMObSSg--",
     "first": "2007-11-19",
-    "last": "2007-11-19"
+    "last": "2007-11-19",
+    "earned_by_year": {
+     "2007": 1
+    }
    }
   ],
   "img": "img/g/d0740e3097384987.webp"
@@ -26668,7 +27745,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuOtfLD2ZfqlpEeHaqZVNoh4SQlhpSmXQdIWyM4_7W1w.An6WYcD7JW4OyxymKXfbzA--",
     "first": "2007-10-16",
-    "last": "2007-10-24"
+    "last": "2007-10-24",
+    "earned_by_year": {
+     "2007": 2
+    }
    }
   ],
   "img": "img/g/2b3a86d30cc44e40.webp"
@@ -26710,7 +27790,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.64257.63886200083423285.658fbb71-3aa6-464f-aa15-00dc29580247.913a6955-ae0f-42c8-8fd0-0af7fedf7222",
     "first": "2007-09-27",
-    "last": "2007-10-16"
+    "last": "2007-10-16",
+    "earned_by_year": {
+     "2007": 3
+    }
    }
   ],
   "img": "img/g/77874f29c9da0de8.webp"
@@ -26748,7 +27831,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=rwljod2fPqLqGP3DBV9F_1ccNl6rX1PJocYvR2TqEhMyUvBpysCOZVQjHrOqFN3uTeoW8QxkuYuk6dP84LVRxCG5HyBtc5rBAV681zS_zUM-",
     "first": "2007-10-15",
-    "last": "2007-10-15"
+    "last": "2007-10-15",
+    "earned_by_year": {
+     "2007": 2
+    }
    }
   ],
   "img": "img/g/9a1e53e524b6cbcf.webp"
@@ -26786,7 +27872,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.46397.67543473834960432.5184bed1-deff-4ba7-8a18-57d17b95df3a.ed53631a-8072-4f9b-b83c-6e869d4db2e3",
     "first": "2007-10-13",
-    "last": "2007-10-13"
+    "last": "2007-10-13",
+    "earned_by_year": {
+     "2007": 1
+    }
    }
   ],
   "img": "img/g/30a354d8d1306b65.webp"
@@ -26826,7 +27915,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuEz3tx9cmqh9K3YD1oq3Rtfas1DrDs4IvUmPKSOMJ.JfYKs.CVnb7E7mqsXT8_5VtQ--",
     "first": "2007-08-16",
-    "last": "2007-08-19"
+    "last": "2007-08-19",
+    "earned_by_year": {
+     "2007": 11
+    }
    }
   ],
   "img": "img/g/d30cfd0ec8d48821.webp"
@@ -26872,7 +27964,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuKMsfx79GlZZWQMTzcUjtsxR7U6xWCaKv.KqWDRD5WhaXYoooZ1IZaLaoaBiyyqhiA--",
     "first": "2007-07-21",
-    "last": "2007-08-01"
+    "last": "2007-08-01",
+    "earned_by_year": {
+     "2007": 37
+    }
    }
   ],
   "img": "img/g/8c60699366b372f9.webp"
@@ -26918,7 +28013,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.50245.68084662266854351.b57bdb58-5fd0-48a5-a8ec-80ef76ade173.a1c50ded-e249-41aa-ae33-6e4e06f0a0e5",
     "first": "2007-07-11",
-    "last": "2007-07-31"
+    "last": "2007-07-31",
+    "earned_by_year": {
+     "2007": 9
+    }
    }
   ],
   "img": "img/g/5924509aa7c82310.webp"
@@ -26968,7 +28066,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuNBAFaiNS.rHdx6Z835cJULRpQ5qujZ5QPppq.hGaAgP7_8kttyiflhVtRTZzdqT3w--",
     "first": "2007-07-09",
-    "last": "2007-07-17"
+    "last": "2007-07-17",
+    "earned_by_year": {
+     "2007": 29
+    }
    }
   ],
   "img": "img/g/f765c6cad7010cf3.webp"
@@ -27008,7 +28109,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuEWwKHt8DR3jb5mAklT0UkupW4WFYpPnvqecJeY7PiiRj3LfbLBLX_GbOiSvcQxrvw--",
     "first": "2007-06-03",
-    "last": "2007-06-06"
+    "last": "2007-06-06",
+    "earned_by_year": {
+     "2007": 5
+    }
    }
   ],
   "img": "img/g/258bf4b8f6b3f10b.webp"
@@ -27048,7 +28152,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuBZbkFFra0hTZhnDmE0VvaH0OeKBgHoOtBXeuGMHvusIA4FcRmtatR_Znv3K9N_OQg--",
     "first": "2007-06-02",
-    "last": "2007-06-03"
+    "last": "2007-06-03",
+    "earned_by_year": {
+     "2007": 4
+    }
    }
   ],
   "img": "img/g/f791f17ba3b2bc00.webp"
@@ -27104,7 +28211,11 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuI0Nxa3pYkAlT_FZIVB4fYPoE68MD8EK_WZ4CVVkav5ut_VcGuQ4jMpIuxVvVQcohg--",
     "first": "2006-10-15",
-    "last": "2007-05-18"
+    "last": "2007-05-18",
+    "earned_by_year": {
+     "2006": 15,
+     "2007": 26
+    }
    }
   ],
   "img": "img/g/5946fedb404e8fe2.webp"
@@ -27144,7 +28255,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.18774.64265361305508273.98e0a12c-63db-4e48-94c8-7a1cfe9cf737.46979012-cb60-49f4-adcf-b4143be89f5f",
     "first": "2007-03-28",
-    "last": "2007-03-31"
+    "last": "2007-03-31",
+    "earned_by_year": {
+     "2007": 2
+    }
    }
   ],
   "img": "img/g/f0b5deb3371e3a74.webp"
@@ -27184,7 +28298,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuGjYtcskhC_k.RcNEsNXHmkJzwquf8OS.v9jWIaQ9D63UFWODc.I0Pw1UwdGQ4HrsA--",
     "first": "2007-03-14",
-    "last": "2007-03-16"
+    "last": "2007-03-16",
+    "earned_by_year": {
+     "2007": 5
+    }
    }
   ],
   "img": "img/g/959c5c3649b08389.webp"
@@ -27224,7 +28341,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuOsxiZlJMPJWVn9BWjiY1S9KHUCviVibW2rWOlhsMXXkktfE8Ti9c136oIHRJKGW4Q--",
     "first": "2007-03-04",
-    "last": "2007-03-14"
+    "last": "2007-03-14",
+    "earned_by_year": {
+     "2007": 4
+    }
    }
   ],
   "img": "img/g/c6580d533f97d126.webp"
@@ -27262,7 +28382,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.54667.66831976381179541.2c21c831-d350-4ce2-84f7-5eca93660c20.598435b7-fdc1-4cda-a09d-89754f15ca71",
     "first": "2007-02-24",
-    "last": "2007-02-24"
+    "last": "2007-02-24",
+    "earned_by_year": {
+     "2007": 1
+    }
    }
   ],
   "img": "img/g/5e9d8c9aecef116b.webp"
@@ -27308,7 +28431,11 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVJOm452x8N2so4pSzOln5tnDF3zDxkMcFiJpXVwjVO_Zei14F59w12.0bM_jF.xQCY-",
     "first": "2006-05-15",
-    "last": "2007-02-23"
+    "last": "2007-02-23",
+    "earned_by_year": {
+     "2006": 6,
+     "2007": 10
+    }
    }
   ],
   "img": "img/g/e8182250776bf21c.webp"
@@ -27350,7 +28477,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuKry8PV1bEy6Ei0kmVnrmEYW1p729WNpIZou2VNkdZVVRecGuLHagNxXdOuV50.UTQ--",
     "first": "2007-02-01",
-    "last": "2007-02-13"
+    "last": "2007-02-13",
+    "earned_by_year": {
+     "2007": 8
+    }
    }
   ],
   "img": "img/g/864d694e334964ec.webp"
@@ -27388,7 +28518,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.37229.68631123789499032.6299bbb9-6778-40d5-965f-080b552baa15.be2992c1-0236-4fd3-983a-9a9d9df0877e",
     "first": "2007-02-04",
-    "last": "2007-02-04"
+    "last": "2007-02-04",
+    "earned_by_year": {
+     "2007": 1
+    }
    }
   ],
   "img": "img/g/54942352bbd48564.webp"
@@ -27430,7 +28563,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.1970.71281955306820205.b0dfc2fa-d15e-44ca-9c1f-56013aadc25c.6b468d07-2a4a-4a31-a886-5676fab41544",
     "first": "2006-10-28",
-    "last": "2006-11-15"
+    "last": "2006-11-15",
+    "earned_by_year": {
+     "2006": 4
+    }
    }
   ],
   "img": "img/g/06ceb14deb06cfe3.webp"
@@ -27470,7 +28606,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.17819.67208579538253955.48dedd01-983d-40c8-b3a3-2ffb0e518901.94e5e9df-0b52-43e7-9420-5f1bd3631dc6",
     "first": "2006-11-08",
-    "last": "2006-11-14"
+    "last": "2006-11-14",
+    "earned_by_year": {
+     "2006": 5
+    }
    }
   ],
   "img": "img/g/5f13f77cb2154fd1.webp"
@@ -27508,7 +28647,10 @@
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.45067.67239414110062952.96aaa173-4598-4591-add8-4e72f4c963c7.17438203-a39e-4bf9-b0a5-81c35b878929",
     "first": "2006-04-07",
-    "last": "2006-04-07"
+    "last": "2006-04-07",
+    "earned_by_year": {
+     "2006": 1
+    }
    }
   ],
   "img": "img/g/512f2a60a6787021.webp"

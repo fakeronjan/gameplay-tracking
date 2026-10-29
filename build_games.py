@@ -379,6 +379,19 @@ def build():
         u["game"] = entry_game.get(u["entry"])
         u["name"] = clean(u["name"] or "")
     unlocks = [u for u in unlocks if u["game"]]
+    # Each trophy list's running count of unlocks at the end of every year it had one (dated
+    # unlocks only); the Timeline ranks a year's "Most completed" by that count over the total
+    by_year = defaultdict(lambda: defaultdict(int))
+    for u in unlocks:
+        if u["earned"]:
+            by_year[u["entry"]][u["earned"][:4]] += 1
+    for row in games:
+        for e in row["entries"]:
+            if e.get("total") and by_year.get(e["id"]):
+                run, e["earned_by_year"] = 0, {}
+                for y in sorted(by_year[e["id"]]):
+                    run += by_year[e["id"]][y]
+                    e["earned_by_year"][y] = run
     unlocks.sort(key=lambda u: (u["earned"] or "", u["game"], u["name"]), reverse=True)
 
     (DATA / "games.json").write_text(json.dumps(games, indent=1, ensure_ascii=False) + "\n")
