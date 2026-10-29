@@ -4,7 +4,7 @@
   "name": "Mass Effect",
   "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
   "first": "2007-12-05",
-  "last": "2026-10-27",
+  "last": "2026-10-28",
   "days": [
    "2007-12-05",
    "2010-08-28",
@@ -15,7 +15,8 @@
    "2019-02-10",
    "2019-02-18",
    "2021-05-23",
-   "2026-10-27"
+   "2026-10-27",
+   "2026-10-28"
   ],
   "families": [
    "PlayStation",
@@ -24,7 +25,8 @@
   "days_by_family": {
    "PlayStation": [
     "2013-05-10",
-    "2026-10-27"
+    "2026-10-27",
+    "2026-10-28"
    ],
    "Xbox": [
     "2007-12-05",
@@ -37,12 +39,12 @@
     "2021-05-23"
    ]
   },
-  "hours": 7.9,
+  "hours": 8.1,
   "hours_estimated": true,
   "estimated_from": [
    "Mass Effect Legendary Edition"
   ],
-  "sessions": 2,
+  "sessions": 3,
   "entries": [
    {
     "id": "xbox:thesurfshop19:1297287144",
@@ -130,13 +132,13 @@
     "family": "PlayStation",
     "platform": "PS4",
     "name": "Mass Effect",
-    "minutes": 288,
+    "minutes": 298,
     "art": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D1A6BEB57B203FC04CF55F08888118D2ABCBF868.PNG",
     "earned": 4,
     "total": 35,
-    "sessions": 2,
+    "sessions": 3,
     "first": "2026-10-27",
-    "last": "2026-10-27",
+    "last": "2026-10-28",
     "earned_by_year": {
      "2026": 4
     }
