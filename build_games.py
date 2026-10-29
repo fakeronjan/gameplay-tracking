@@ -385,8 +385,12 @@ def build():
     for u in unlocks:
         if u["earned"]:
             by_year[u["entry"]][u["earned"][:4]] += 1
+    # A trophy list whose platinum is earned (PlayStation; the Games tab shows a Platinum pill)
+    platinum = {u["entry"] for u in unlocks if u["earned"] and u.get("kind") == "platinum"}
     for row in games:
         for e in row["entries"]:
+            if e["id"] in platinum:
+                e["platinum"] = True
             if e.get("total") and by_year.get(e["id"]):
                 run, e["earned_by_year"] = 0, {}
                 for y in sorted(by_year[e["id"]]):

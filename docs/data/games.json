@@ -4784,6 +4784,7 @@
     "total": 63,
     "first": "2024-10-01",
     "last": "2025-09-24",
+    "platinum": true,
     "earned_by_year": {
      "2024": 51,
      "2025": 56
@@ -21586,6 +21587,7 @@
     "total": 49,
     "first": "2014-12-02",
     "last": "2015-11-21",
+    "platinum": true,
     "earned_by_year": {
      "2014": 8,
      "2015": 49
@@ -22311,6 +22313,7 @@
     "total": 49,
     "first": "2012-12-08",
     "last": "2013-07-27",
+    "platinum": true,
     "earned_by_year": {
      "2012": 41,
      "2013": 48
