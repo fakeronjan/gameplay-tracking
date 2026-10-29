@@ -110,12 +110,12 @@ def main():
         data, shots, out = build_and_publish()
     except Exception as e:
         log(f"FAILED: {e}")
-        notify("Gameplay History", f"Screenshot update failed: {e}. Log: local/sync.log")
+        notify("Gameplay Stats", f"Screenshot update failed: {e}. Log: local/sync.log")
         raise SystemExit(1)
     STATE.write_text(json.dumps({"done": [count, newest], "at": datetime.now().isoformat(timespec="seconds")}))
     summary = " ".join(l for l in out.splitlines() if l.startswith("gallery:"))
     log(f"done: data {'pushed' if data else 'unchanged'}, screenshots {'pushed' if shots else 'unchanged'}")
-    notify("Gameplay History", f"New screenshots published. {summary}" if data or shots else "Screenshots checked; nothing new to publish")
+    notify("Gameplay Stats", f"New screenshots published. {summary}" if data or shots else "Screenshots checked; nothing new to publish")
 
 
 if __name__ == "__main__":

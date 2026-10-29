@@ -1,4 +1,4 @@
-name: Update Gameplay History
+name: Update Gameplay Stats
 
 on:
   schedule:
