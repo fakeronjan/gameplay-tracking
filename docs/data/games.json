@@ -11302,7 +11302,7 @@
     "sessions": 153,
     "earned": null,
     "total": null,
-    "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00707_00/4/i_7dc8cc218eba684c14efebbdfdb7fc3be459a452239530a188fadf2ee7acbefe/i/icon0.png",
+    "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA00722_00/6/i_80d620da22600829442291c8ec0e2521ff622d5a78c6ea3405c9708b96a0a97e/i/icon0.png",
     "first": "2014-09-27",
     "last": "2022-07-16"
    },
@@ -16272,8 +16272,8 @@
   "img": "img/g/f3eef3ff10fd9d5c.webp"
  },
  {
-  "id": "lego-superh-roes-de-marvel",
-  "name": "LEGO Superhéroes de Marvel",
+  "id": "lego-marvel-super-heroes",
+  "name": "LEGO Marvel Super Heroes",
   "art": "https://image.api.playstation.com/trophy/np/NPWR05341_00_007AD3964B67D865810DEF7380209937FBE495843D/FF1AFF017F589B451E6A15DFBAA2A147730333E1.PNG",
   "first": "2016-05-08",
   "last": "2020-09-07",
@@ -16301,7 +16301,7 @@
     "id": "psn-played:CUSA00083_00",
     "family": "PlayStation",
     "platform": "PS4",
-    "name": "LEGO Superhéroes de Marvel",
+    "name": "LEGO Marvel Super Heroes",
     "minutes": 261,
     "sessions": 8,
     "earned": null,
