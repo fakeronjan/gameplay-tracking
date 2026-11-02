@@ -1,6 +1,28 @@
 [
  {
   "entry": "psn:NPWR20850_00#*",
+  "name": "Asari Ally",
+  "detail": "ME1: Complete 5 missions with the asari squad member",
+  "kind": "bronze",
+  "rarity": 30.6,
+  "earned": "2026-11-01T20:18:05Z",
+  "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/36FE00F8562497BEB8187E7FE8B3000FBDF11784.PNG",
+  "game": "mass-effect",
+  "img": "img/u/0673427885f4cc6d.webp"
+ },
+ {
+  "entry": "psn:NPWR20850_00#*",
+  "name": "Quarian Ally",
+  "detail": "ME1: Complete 5 missions with the quarian squad member",
+  "kind": "bronze",
+  "rarity": 40.4,
+  "earned": "2026-11-01T19:26:57Z",
+  "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/6056E4558869CE50F88B78DC16ACDC6B66F5B730.PNG",
+  "game": "mass-effect",
+  "img": "img/u/9bbff4ca22b6fa27.webp"
+ },
+ {
+  "entry": "psn:NPWR20850_00#*",
   "name": "Search and Rescue",
   "detail": "ME1: Locate Dr. T'soni in the Artemis Tau cluster",
   "kind": "silver",
@@ -15,7 +37,7 @@
   "name": "Archivist",
   "detail": "ME1: Find all primary Alien: Council Races, Extinct Races and Non-Council Races codex entries ",
   "kind": "silver",
-  "rarity": 17.0,
+  "rarity": 17.1,
   "earned": "2026-10-28T00:27:12Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/8C2F762C49417C4BB5F2237B372FCE075987D02E.PNG",
   "game": "mass-effect",
@@ -26,7 +48,7 @@
   "name": "Spectre Inductee",
   "detail": "ME1: Become a Spectre",
   "kind": "bronze",
-  "rarity": 52.4,
+  "rarity": 52.5,
   "earned": "2026-10-28T00:00:30Z",
   "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D68F0142D3A715931A509B5C19263089F371D3D2.PNG",
   "game": "mass-effect",

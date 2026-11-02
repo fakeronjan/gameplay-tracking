@@ -1379,7 +1379,7 @@
    "category": "ps4_game",
    "concept_id": 228748,
    "first_played": "2018-04-30T02:00:17.120000Z",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/0b31b8306c4fae90e94a2fbf5d14fe9cf3ea014da70309cf.png",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2822/9540e915e26a7168ee5dfc697d8fa756b6a6343b8969d6e5.png",
    "last_played": "2018-04-30T02:00:17.120000Z",
    "minutes": 21,
    "name": "Fortnite",
@@ -1889,10 +1889,10 @@
    "concept_id": 10000606,
    "first_played": "2026-10-27T12:00:43.600000Z",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/2517/xK2b8gY5A5oyYlc1pnUUVEm5.png",
-   "last_played": "2026-11-01T17:35:07.040000Z",
-   "minutes": 349,
+   "last_played": "2026-11-01T20:27:01.080000Z",
+   "minutes": 425,
    "name": "Mass Effect™ Legendary Edition",
-   "play_count": 4,
+   "play_count": 5,
    "trophy_lists": [
     "NPWR20850_00",
     "NPWR21469_00"
@@ -2054,7 +2054,7 @@
    "category": "ps5_native_game",
    "concept_id": 228748,
    "first_played": "2024-01-12T02:22:30.220000Z",
-   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202609/2817/0b31b8306c4fae90e94a2fbf5d14fe9cf3ea014da70309cf.png",
+   "image": "https://image.api.playstation.com/vulcan/ap/rnd/202610/2822/9540e915e26a7168ee5dfc697d8fa756b6a6343b8969d6e5.png",
    "last_played": "2026-02-16T00:47:12.780000Z",
    "minutes": 456,
    "name": "Fortnite",
@@ -2211,10 +2211,10 @@
    "concept_id": 201930,
    "first_played": "2022-07-16T19:40:54.700000Z",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202202/2816/K6mmm89oNII1iI1aqaClO0wh.png",
-   "last_played": "2026-10-04T01:22:01.470000Z",
-   "minutes": 1411,
+   "last_played": "2026-11-02T00:16:05.340000Z",
+   "minutes": 1479,
    "name": "Grand Theft Auto V (PlayStation®5)",
-   "play_count": 18,
+   "play_count": 19,
    "trophy_lists": [
     "NPWR21647_00"
    ]
@@ -3070,17 +3070,17 @@
  },
  "summary": {
   "earnedTrophies": {
-   "bronze": 1880,
+   "bronze": 1882,
    "gold": 80,
    "platinum": 3,
    "silver": 348
   },
-  "progress": 66,
+  "progress": 73,
   "tier": 3,
   "trophyLevel": 270,
   "trophyLevelBasePoint": 46440,
   "trophyLevelNextPoint": 46890,
-  "trophyPoint": 46740
+  "trophyPoint": 46770
  },
  "titles": {
   "NPWR00071_00": {
@@ -24477,16 +24477,16 @@
     "silver": 10
    },
    "earned_counts": {
-    "bronze": 1,
+    "bronze": 3,
     "gold": 0,
     "platinum": 0,
     "silver": 3
    },
    "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D1A6BEB57B203FC04CF55F08888118D2ABCBF868.PNG",
-   "last_updated": "2026-10-28T01:33:18Z",
+   "last_updated": "2026-11-01T20:18:09Z",
    "name": "Legendary Edition: Mass Effect",
    "platform": "PS4",
-   "progress": 10,
+   "progress": 14,
    "service": "trophy",
    "trophies": [
     {
@@ -24506,7 +24506,7 @@
      "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/D68F0142D3A715931A509B5C19263089F371D3D2.PNG",
      "id": 31,
      "name": "Spectre Inductee",
-     "rarity": 52.4,
+     "rarity": 52.5,
      "type": "bronze"
     },
     {
@@ -24516,7 +24516,7 @@
      "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/8C2F762C49417C4BB5F2237B372FCE075987D02E.PNG",
      "id": 19,
      "name": "Archivist",
-     "rarity": 17.0,
+     "rarity": 17.1,
      "type": "silver"
     },
     {
@@ -24528,6 +24528,26 @@
      "name": "Search and Rescue",
      "rarity": 41.8,
      "type": "silver"
+    },
+    {
+     "detail": "ME1: Complete 5 missions with the quarian squad member",
+     "earned": "2026-11-01T19:26:57Z",
+     "group": "default",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/6056E4558869CE50F88B78DC16ACDC6B66F5B730.PNG",
+     "id": 28,
+     "name": "Quarian Ally",
+     "rarity": 40.4,
+     "type": "bronze"
+    },
+    {
+     "detail": "ME1: Complete 5 missions with the asari squad member",
+     "earned": "2026-11-01T20:18:05Z",
+     "group": "default",
+     "icon": "https://image.api.playstation.com/trophy/np/NPWR20850_00_004BB7FB18AEF164F63478A9D106882BCF8E99A054/36FE00F8562497BEB8187E7FE8B3000FBDF11784.PNG",
+     "id": 29,
+     "name": "Asari Ally",
+     "rarity": 30.6,
+     "type": "bronze"
     }
    ]
   },
@@ -33589,5 +33609,5 @@
    ]
   }
  },
- "updated": "2026-11-01T18:33:16Z"
+ "updated": "2026-11-02T10:43:13Z"
 }

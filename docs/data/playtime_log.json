@@ -22,5 +22,21 @@
   "name": "Mass Effect™ Legendary Edition",
   "platform": "psn",
   "time": "2026-11-01T18:33:16Z"
+ },
+ {
+  "id": "PPSA03420_00",
+  "minutes_delta": 68,
+  "minutes_total": 1479,
+  "name": "Grand Theft Auto V (PlayStation®5)",
+  "platform": "psn",
+  "time": "2026-11-02T10:43:13Z"
+ },
+ {
+  "id": "CUSA19500_00",
+  "minutes_delta": 76,
+  "minutes_total": 425,
+  "name": "Mass Effect™ Legendary Edition",
+  "platform": "psn",
+  "time": "2026-11-02T10:43:13Z"
  }
 ]
