@@ -2161,7 +2161,7 @@
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0109/4d4f67a277b41db5d4f78d7827784e80188086ee6c526161.png",
    "last_played": "2022-07-24T20:59:41.950000Z",
    "minutes": 15,
-   "name": "Genshin Impact 6th Anniversary",
+   "name": "Genshin Impact",
    "play_count": 0,
    "trophy_lists": [
     "NPWR22724_00"
@@ -3059,10 +3059,10 @@
    "concept_id": 10016736,
    "first_played": "2026-08-14T00:28:00.310000Z",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
-   "last_played": "2026-09-06T13:46:14.410000Z",
-   "minutes": 697,
+   "last_played": "2026-11-04T00:55:25.650000Z",
+   "minutes": 722,
    "name": "EA SPORTS™ Madden NFL 27",
-   "play_count": 9,
+   "play_count": 10,
    "trophy_lists": [
     "NPWR55851_00"
    ]
@@ -33609,5 +33609,5 @@
    ]
   }
  },
- "updated": "2026-11-03T20:16:23Z"
+ "updated": "2026-11-04T10:43:13Z"
 }

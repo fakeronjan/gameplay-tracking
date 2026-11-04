@@ -1,5 +1,66 @@
 [
  {
+  "id": "madden-nfl-27",
+  "name": "Madden NFL 27",
+  "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55851_00/ac0576f2-81aa-476b-8176-7b40a9249404.png",
+  "first": "2026-08-13",
+  "last": "2026-11-03",
+  "days": [
+   "2026-08-13",
+   "2026-08-16",
+   "2026-08-28",
+   "2026-09-04",
+   "2026-11-03"
+  ],
+  "families": [
+   "PlayStation"
+  ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-08-13",
+    "2026-08-16",
+    "2026-08-28",
+    "2026-09-04",
+    "2026-11-03"
+   ]
+  },
+  "hours": 12.0,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": 10,
+  "entries": [
+   {
+    "id": "psn-played:PPSA32904_00",
+    "family": "PlayStation",
+    "platform": "PS5",
+    "name": "Madden NFL 27",
+    "minutes": 722,
+    "sessions": 10,
+    "earned": null,
+    "total": null,
+    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
+    "first": "2026-08-13",
+    "last": "2026-11-03"
+   },
+   {
+    "id": "psn:NPWR55851_00",
+    "family": "PlayStation",
+    "platform": "PS5",
+    "name": "Madden NFL 27",
+    "minutes": null,
+    "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55851_00/ac0576f2-81aa-476b-8176-7b40a9249404.png",
+    "earned": 5,
+    "total": 25,
+    "first": "2026-08-13",
+    "last": "2026-09-04",
+    "earned_by_year": {
+     "2026": 5
+    }
+   }
+  ],
+  "img": "img/g/2f63219becf51e0a.webp"
+ },
+ {
   "id": "mass-effect",
   "name": "Mass Effect",
   "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
@@ -679,67 +740,6 @@
    }
   ],
   "img": "img/g/0ac9b69f380d3aa5.webp"
- },
- {
-  "id": "madden-nfl-27",
-  "name": "Madden NFL 27",
-  "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55851_00/ac0576f2-81aa-476b-8176-7b40a9249404.png",
-  "first": "2026-08-13",
-  "last": "2026-09-06",
-  "days": [
-   "2026-08-13",
-   "2026-08-16",
-   "2026-08-28",
-   "2026-09-04",
-   "2026-09-06"
-  ],
-  "families": [
-   "PlayStation"
-  ],
-  "days_by_family": {
-   "PlayStation": [
-    "2026-08-13",
-    "2026-08-16",
-    "2026-08-28",
-    "2026-09-04",
-    "2026-09-06"
-   ]
-  },
-  "hours": 11.6,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": 9,
-  "entries": [
-   {
-    "id": "psn-played:PPSA32904_00",
-    "family": "PlayStation",
-    "platform": "PS5",
-    "name": "Madden NFL 27",
-    "minutes": 697,
-    "sessions": 9,
-    "earned": null,
-    "total": null,
-    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202606/0319/ade29beabeee19397b478452ce70b913aeb69cec536366b3.png",
-    "first": "2026-08-13",
-    "last": "2026-09-06"
-   },
-   {
-    "id": "psn:NPWR55851_00",
-    "family": "PlayStation",
-    "platform": "PS5",
-    "name": "Madden NFL 27",
-    "minutes": null,
-    "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR55851_00/ac0576f2-81aa-476b-8176-7b40a9249404.png",
-    "earned": 5,
-    "total": 25,
-    "first": "2026-08-13",
-    "last": "2026-09-04",
-    "earned_by_year": {
-     "2026": 5
-    }
-   }
-  ],
-  "img": "img/g/2f63219becf51e0a.webp"
  },
  {
   "id": "grand-theft-auto-vice-city",
