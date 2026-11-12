@@ -51601,7 +51601,7 @@
     "2014-08-13"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "hours": 2.0,
   "hours_estimated": false,
   "estimated_from": [],
@@ -51617,7 +51617,7 @@
     "total": null,
     "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/15fa87525d6a69680793064279ed6410.png",
     "days_played": 6,
-    "family_play": false,
+    "family_play": true,
     "span": [
      "2014-04-13",
      "2014-08-13"
@@ -53272,7 +53272,7 @@
     "2013-06-22"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "hours": 17.1,
   "hours_estimated": false,
   "estimated_from": [],
@@ -53288,7 +53288,7 @@
     "total": null,
     "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/59188beed6611cc5235c16d66aaef33b.png",
     "days_played": 7,
-    "family_play": false,
+    "family_play": true,
     "span": [
      "2013-06-16",
      "2013-06-22"
