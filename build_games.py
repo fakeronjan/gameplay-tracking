@@ -558,10 +558,11 @@ def build():
             entries[i]["minutes"] = round(total * len(unlock_days[i]) / sum(len(unlock_days[j]) for j in todo))
             entries[i]["estimated"] = True
 
-    # PlayStation, Steam, and Xbox play records: real hours and real first and last played, no dates
-    # in between. The play model spreads the hours over first-to-last, with the row's trophy or
-    # achievement days on that platform counting as real play days. Estimated hours (PS3, Vita, 360,
-    # collection shares) stay on their days.
+    # PlayStation, Steam, and Xbox: the play model spreads a copy's hours over its first-to-last
+    # played, with the row's trophy or achievement days on that platform counting as real play days.
+    # Play records (PS4, PS5, Steam, Xbox One) have real hours and real first and last played; copies
+    # with estimated hours (PS3, Vita, 360, collection shares) span first to last trophy or
+    # achievement (Ronjan, 2026-11-12).
     ncfg = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())
     for ids in rows.values():
         fam_days = defaultdict(set)
@@ -569,7 +570,7 @@ def build():
             fam_days[entries[i]["family"]] |= unlock_days.get(i, set())
         for i in ids:
             e = entries[i]
-            if e["family"] == "Nintendo" or not e["minutes"] or e.get("estimated") or len(set(e["days"])) < 2:
+            if e["family"] == "Nintendo" or not e["minutes"] or len(set(e["days"])) < 2:
                 continue
             first, last = min(e["days"]), max(e["days"])
             real = sorted(d for d in fam_days[e["family"]] | set(e["days"]) if first <= d <= last)
