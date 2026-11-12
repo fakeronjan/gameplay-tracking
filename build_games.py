@@ -230,6 +230,32 @@ def model_span(first, end, pinned_end, n_days, minutes, p, anchor=None, real=(),
     return {m: [round(d, 2), round(mi, 1)] for m, (d, mi) in sorted(out.items())}
 
 
+def hours_span(first, last, minutes, p, real, ev):
+    """A PlayStation, Steam, or Xbox play record's minutes by month, {"YYYY-MM": minutes}: real total
+    and real first and last played, nothing recorded in between. Weights per day are the play model
+    (launch burst, burst before last played, floor) plus one kernel per real play day (trophy or
+    achievement days, first and last played), as Switch screenshot days work for Nintendo."""
+    a, b = date.fromisoformat(first).toordinal(), date.fromisoformat(last).toordinal()
+    L = b - a
+    ws, we, ts, te = p["launch_share"], p["end_share"], p["tau_days"], p["tau_end"]
+    w = [ws * math.exp(-t / ts) / ts + we * math.exp(-(L - t) / te) / te + (1 - ws - we) / L for t in range(L + 1)]
+    tot = sum(w)
+    w = [ev["prior_weight"] * x / tot for x in w]
+    bw = ev["bandwidth_days"]
+    for d in real:
+        s_ = date.fromisoformat(d).toordinal() - a
+        k = [math.exp(-abs(t - s_) / bw) for t in range(L + 1)]
+        kt = sum(k)
+        for t in range(L + 1):
+            w[t] += k[t] / kt
+    tot = sum(w)
+    out = {}
+    for t in range(L + 1):
+        m = date.fromordinal(a + t).isoformat()[:7]
+        out[m] = out.get(m, 0) + minutes * w[t] / tot
+    return {m: round(v, 1) for m, v in out.items() if v >= 0.05}
+
+
 def modeled_last_day(first, end, pinned_end, modeled):
     """Where a record's span band ends: its last played day, or for an open end, the end of the
     last month the model gives at least a twentieth of a day."""
@@ -532,6 +558,24 @@ def build():
             entries[i]["minutes"] = round(total * len(unlock_days[i]) / sum(len(unlock_days[j]) for j in todo))
             entries[i]["estimated"] = True
 
+    # PlayStation, Steam, and Xbox play records: real hours and real first and last played, no dates
+    # in between. The play model spreads the hours over first-to-last, with the row's trophy or
+    # achievement days on that platform counting as real play days. Estimated hours (PS3, Vita, 360,
+    # collection shares) stay on their days.
+    ncfg = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())
+    for ids in rows.values():
+        fam_days = defaultdict(set)
+        for i in ids:
+            fam_days[entries[i]["family"]] |= unlock_days.get(i, set())
+        for i in ids:
+            e = entries[i]
+            if e["family"] == "Nintendo" or not e["minutes"] or e.get("estimated") or len(set(e["days"])) < 2:
+                continue
+            first, last = min(e["days"]), max(e["days"])
+            real = sorted(d for d in fam_days[e["family"]] | set(e["days"]) if first <= d <= last)
+            e["modeled_hours"] = hours_span(first, last, e["minutes"], ncfg["model"], real, ncfg["evidence"])
+            e["span"] = [first, last]
+
     games = []
     for ids in rows.values():
         # Miiverse doesn't say which console a post was about: take it from Nintendo's own records
@@ -569,7 +613,8 @@ def build():
             "days_played": len(days) + max(0, sum(e.get("days_played") or 0 for e in es)
                                            - len({d for e in es if e["family"] == "Nintendo" for d in e["days"]})),
             # First-to-last played on a Nintendo record, for the timeline's span bar
-            "spans": sorted(e["span"] for e in es if e.get("span")),
+            # [first, last, platform family] per modeled record, for the Timeline's bands
+            "spans": sorted(e["span"] + [e["family"]] for e in es if e.get("span")),
             "family_play": any(e.get("family_play") for e in es) or bool(set(ids) & set(cfg.get("family_play", []))),
             # Shown on the Timeline even with family play hidden (config "timeline_always")
             "timeline_always": bool(set(ids) & set(cfg.get("timeline_always", []))),
