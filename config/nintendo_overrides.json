@@ -111,5 +111,16 @@
   "open_end_days": 730
  },
  "_model_overrides": "Per game, on top of model. None yet (A Link Between Worlds tighter-window idea parked until the fitted model is reviewed)",
- "model_overrides": {}
+ "model_overrides": {},
+ "_anchors": "Known totals by a date, which the model must meet: before that date gets exactly this many minutes (and days, if given) and the model shapes the rest. Super Mario Maker Wii U: 84 h 10 min by 2015-12-18 (Ronjan's in-game stats, quoted in his 'Let's talk game of the year(s)!' post that day). A Link Between Worlds: half its days and time by the end of 2013 (Ronjan: beat it by then; a friend borrowed his 3DS and played it later).",
+ "anchors": {
+  "000500001018dc00": {
+   "by": "2015-12-18",
+   "minutes": 5050
+  },
+  "00040000000ec300": {
+   "by": "2013-12-31",
+   "share": 0.5
+  }
+ }
 }

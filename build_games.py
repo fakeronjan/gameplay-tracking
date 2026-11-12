@@ -133,7 +133,7 @@ class Groups:
         self.parent[self.find(a)] = self.find(b)
 
 
-def model_days(first, end, pinned_end, n_days, p):
+def model_days(first, end, pinned_end, n_days, p, cut=None):
     """Chance of play on each day from first to end, for a record with n_days played there.
     First (and end, when it is a real last-played day) are played. The rest follow a launch burst
     + a burst before last played + a floor (shares and decay in config/nintendo_overrides.json
@@ -151,24 +151,40 @@ def model_days(first, end, pinned_end, n_days, p):
     ws, we = p["launch_share"], (p["end_share"] if pinned_end else 0.0)
     ts, te = p["tau_days"], p["tau_end"]
     w = {t: ws * math.exp(-t / ts) / ts + we * math.exp(-(L - t) / te) / te + (1 - ws - we) / L for t in inner}
-    free = set(inner)
-    while left > 1e-9 and free:
-        total = sum(w[t] for t in free)
-        for t in free:
-            prob[t] += w[t] / total * left
-        left = sum(prob[t] - 1 for t in free if prob[t] > 1)
-        for t in [t for t in free if prob[t] >= 1]:
-            prob[t] = 1.0
-            free.discard(t)
+    # cut = (day offset, days played up to and including it): an anchor splits the days in two
+    parts = [(set(inner), left)]
+    if cut:
+        k, upto = cut
+        before = {t for t in inner if t <= k}
+        need = max(0.0, min(upto - 1, len(before)))  # day 0 is played and counts toward it
+        parts = [(before, need), (set(inner) - before, max(0.0, left - need))]
+    for free, left in parts:
+        while left > 1e-9 and free:
+            total = sum(w[t] for t in free)
+            for t in free:
+                prob[t] += w[t] / total * left
+            left = sum(prob[t] - 1 for t in free if prob[t] > 1)
+            for t in [t for t in free if prob[t] >= 1]:
+                prob[t] = 1.0
+                free.discard(t)
     return a, prob
 
 
-def model_span(first, end, pinned_end, n_days, minutes, p):
+def model_span(first, end, pinned_end, n_days, minutes, p, anchor=None):
     """Modeled play by month, {"YYYY-MM": [days, minutes]}: days from model_days, minutes in
-    proportion to them (times an early-session boost when the model has one)."""
-    a, prob = model_days(first, end, pinned_end, n_days, p)
+    proportion to them (times an early-session boost when the model has one). An anchor
+    ({"by": date, "minutes": n} or {"by": date, "share": f}, config "anchors") fixes how much
+    falls up to that date; the model shapes each side."""
+    k = date.fromisoformat(anchor["by"]).toordinal() - date.fromisoformat(first).toordinal() if anchor else None
+    cut = (k, anchor["share"] * n_days) if anchor and "share" in anchor else None
+    a, prob = model_days(first, end, pinned_end, n_days, p, cut)
     boost = [1 + p.get("early_hours_boost", 0) * math.exp(-t / p["tau_hours"]) for t in range(len(prob))]
-    mw = [q * k for q, k in zip(prob, boost)]
+    mw = [q * k_ for q, k_ in zip(prob, boost)]
+    if anchor:  # minutes up to the anchor date: the anchor's share or count; the rest after
+        upto = anchor["minutes"] if "minutes" in anchor else anchor["share"] * minutes
+        b1, b2 = sum(mw[:k + 1]), sum(mw[k + 1:])
+        mw = [x * (upto / b1 if t <= k else (minutes - upto) / b2 if b2 else 0) / (minutes or 1)
+              for t, x in enumerate(mw)]
     mtotal = sum(mw) or 1
     out = {}
     for t, q in enumerate(prob):
@@ -288,7 +304,8 @@ def entries_and_unlocks(cfg=None):
             else:
                 end = min(day_before_start, (date.fromisoformat(first) + timedelta(days=ncfg["model"]["open_end_days"])).isoformat())
             modeled = model_span(first, end, pinned_end, rest_days, rest_minutes,
-                                 {**ncfg["model"], **ncfg.get("model_overrides", {}).get(tid, {})}) if first < end else None
+                                 {**ncfg["model"], **ncfg.get("model_overrides", {}).get(tid, {})},
+                                 ncfg.get("anchors", {}).get(tid)) if first < end else None
         else:
             modeled = None
         span = [first, modeled_last_day(first, end, pinned_end, modeled)] if modeled else None
