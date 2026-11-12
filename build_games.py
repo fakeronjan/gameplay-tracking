@@ -21,6 +21,26 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 HERE = Path(__file__).parent
+# Hours for games no platform recorded hours for (PS3, Vita, Xbox 360), from their days with a
+# trophy or achievement (fit 2026-11-12 on games with real hours; leave-one-out backtests):
+#   most games: hours = 0.754 x days^1.48 (145 games; typical miss 1.96x vs 2.62x for a flat
+#     rate), straight-line past 28 days, the most in the fit, so it can't run away
+#   sports: 2.54 h per day (flat beat a per-series rate: 1.75x vs 2.06x, as hours within a series
+#     swing too much, FIFA 15 183 h on 6 days vs FC 24 1.7 h on 1)
+# Game lengths from HowLongToBeat were tested and added nothing on top (1.97x); not used.
+UNLOCK_CURVE = (0.754, 1.48, 28)
+SPORTS_HOURS_PER_UNLOCK_DAY = 2.54
+SPORTS = re.compile(r"^(NBA|Madden|EA Sports|FIFA|MLB|NHL|NCAA|College Football|WWE|Top Spin|The BIGS|Fight Night|UFC|"
+                    r"All Pro Football|Tiger Woods|PGA|Super Mega Baseball|Retro Bowl|Mutant Football|2010 FIFA)", re.I)
+
+
+def hours_from_unlock_days(name, days):
+    if SPORTS.search(name):
+        return SPORTS_HOURS_PER_UNLOCK_DAY * days
+    a, b, cap = UNLOCK_CURVE
+    if days <= cap:
+        return a * days ** b
+    return a * cap ** b + a * b * cap ** (b - 1) * (days - cap)  # past the fit: its slope at the cap
 DATA = HERE / "docs" / "data"
 ET = ZoneInfo("America/New_York")
 
@@ -487,6 +507,23 @@ def build():
     rows = defaultdict(list)
     for eid in entries:
         rows[g.find(eid)].append(eid)
+    # A game no platform recorded hours for gets an estimate from its days with unlocks
+    unlock_days = defaultdict(set)
+    for u in unlocks:
+        if u["earned"]:
+            unlock_days[u["entry"]].add(et_day(u["earned"]))
+    for ids in rows.values():
+        if any(entries[i]["minutes"] for i in ids):
+            continue
+        days = set().union(*(unlock_days.get(i, set()) for i in ids))
+        if not days:
+            continue
+        name = display_name([{**entries[i], "id": i} for i in ids])
+        total = hours_from_unlock_days(name, len(days)) * 60
+        for i in ids:  # the game's estimate, shared by each platform's days
+            if unlock_days.get(i):
+                entries[i]["minutes"] = round(total * len(unlock_days[i]) / sum(len(unlock_days.get(j, ())) for j in ids))
+                entries[i]["estimated"] = True
 
     games = []
     for ids in rows.values():
