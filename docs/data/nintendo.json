@@ -1493,7 +1493,7 @@
   },
   "01007e3006dda000": {
    "days_played": 76,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2018-04-01T20:45:48Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/bc7bae4189e34b88ab077aa06bc0071a_512",
    "last_played": "2026-02-14T22:55:03Z",
@@ -2172,5 +2172,5 @@
    "platform": "Switch 2"
   }
  },
- "updated": "2026-11-12T19:56:34Z"
+ "updated": "2026-11-12T20:00:39Z"
 }

@@ -12876,7 +12876,7 @@
     "2026-02-14"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "hours": 40.5,
   "hours_estimated": false,
   "estimated_from": [],
@@ -12892,7 +12892,7 @@
     "total": null,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/bc7bae4189e34b88ab077aa06bc0071a_512",
     "days_played": 76,
-    "family_play": false,
+    "family_play": true,
     "span": [
      "2018-04-01",
      "2026-02-14"
