@@ -1,18 +1,23 @@
-"""Daily refresh of PlayStation and Steam gameplay data into docs/data/.
+"""Daily refresh of PlayStation, Steam, and Nintendo gameplay data into docs/data/.
 
 Incremental: a game is refetched only when the platform says it changed since
 the last run (PSN trophy title lastUpdatedDateTime, Steam rtime_last_played).
 Play-time totals that moved since the last run are appended to
 playtime_log.json, which is the only source of day-by-day hours.
 
+Nintendo (the Nintendo Store app's play history) has lifetime totals per game plus
+exact minutes per game for the last 7 days; each run adds those days to
+nintendo_days.json, so play from tracking day one on has real dates.
+
 Secrets come from the environment (GitHub Actions secrets in CI):
-    PSN_NPSSO, STEAM_API_KEY
+    PSN_NPSSO, STEAM_API_KEY, NINTENDO_SESSION_TOKEN
 Locally, missing variables fall back to the macOS Keychain entries
-psn-npsso and steam-api-key.
+psn-npsso, steam-api-key, and nintendo-session-token.
 
     python update.py            # both platforms
     python update.py psn        # one platform
     python update.py --seed-psn local/psn_raw   # build psn.json from a local raw dump
+    python update.py --seed-nintendo local/nintendo_play_histories.json   # same, from a saved response
 """
 
 import json
@@ -26,7 +31,8 @@ import urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-DATA = Path(__file__).parent / "docs" / "data"
+HERE = Path(__file__).parent
+DATA = HERE / "docs" / "data"
 TROPHY = "https://m.np.playstation.com/api/trophy/v1"
 GAMELIST = "https://m.np.playstation.com/api/gamelist/v2"
 STEAM = "https://api.steampowered.com"
@@ -175,6 +181,75 @@ def update_psn(log):
     print(f"psn: {len(titles)} trophy titles ({changed} refetched), {len(played)} played titles")
 
 
+# ------------------------------------------------------------------- Nintendo
+# Same sign-in and endpoint as tools/ns_play_history.py (the Nintendo Store app's client)
+NINTENDO_CLIENT_ID = "5c38e31cd085304b"
+NINTENDO_ACCOUNTS = "https://accounts.nintendo.com/connect/1.0.0"
+NINTENDO_API = "https://app-api.znej.nintendo.com/api/v2.0/users/me/play_histories"
+NINTENDO_PLATFORMS = {"HAC": "Switch", "BEE": "Switch 2", "CTR": "3DS", "WUP": "Wii U"}
+
+
+def nintendo_fetch():
+    def call(req):
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.load(r)
+    token = call(urllib.request.Request(f"{NINTENDO_ACCOUNTS}/api/token", method="POST", data=json.dumps({
+        "client_id": NINTENDO_CLIENT_ID, "session_token": secret("NINTENDO_SESSION_TOKEN", "nintendo-session-token"),
+        "grant_type": "urn:ietf:params:oauth:grant-type:jwt-bearer-session-token"}).encode(),
+        headers={"Content-Type": "application/json; charset=utf-8"}))["access_token"]
+    return call(urllib.request.Request(NINTENDO_API, headers={
+        "Authorization": f"Bearer {token}", "Accept": "application/json", "gentry-locale": "en-US"}))
+
+
+def nintendo_shape(raw):
+    """Per game: first and last played, days played, and minutes, from Nintendo's own records.
+    Nintendo gives how many days, not which days, so first and last played are the only dates
+    (nintendo_days.json has the real days since tracking began)."""
+    cfg = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())
+    rows = raw["playHistories"]
+    unknown_platforms = sorted({r["platform"] for r in rows} - set(NINTENDO_PLATFORMS))
+    if unknown_platforms:
+        raise RuntimeError(f"Nintendo play history has platforms with no label: {unknown_platforms}")
+    titles = {}
+    for r in rows:
+        tid = r["titleId"].lower()
+        if tid in cfg["exclude"]:
+            continue
+        bad_days = set(cfg["unknown_dates"].get(r["platform"], []))
+        day = lambda k: None if not r.get(k) or r[k][:10] in bad_days else r[k]
+        titles[tid] = {
+            # "Animal Crossing: New Horizons - Nintendo Switch 2 Edition" is the same game
+            "name": re.sub(r"\s*[\u2013\u2014-]\s*Nintendo Switch 2 Edition$", "", r["titleName"]),
+            # A Switch game upgraded to its Switch 2 Edition keeps its Switch title id (0100...)
+            # and one record for both consoles
+            "platform": "Switch, Switch 2" if r["platform"] == "BEE" and tid.startswith("0100") else NINTENDO_PLATFORMS[r["platform"]],
+            "first_played": day("firstPlayedAt"), "last_played": day("lastPlayedAt"),
+            "days_played": r["totalPlayedDays"], "minutes": r["totalPlayedMinutes"],
+            "image": r.get("imageUrl"), "family_play": tid in cfg["family_play"],
+        }
+    return titles
+
+
+def nintendo_save(raw, log):
+    old = load("nintendo.json", {"titles": {}})["titles"]
+    titles = nintendo_shape(raw)
+    for tid, t in titles.items():
+        before = old.get(tid, {}).get("minutes", 0) if old else None
+        log_playtime(log, "nintendo", tid, t["name"], before, t["minutes"])
+    # The last 7 days, game by game: add them to the running day log (a later run's figure for
+    # the same day replaces an earlier one, since a day still in progress grows)
+    days = load("nintendo_days.json", {})
+    for d in raw.get("recentPlayHistories", []):
+        days[d["playedDate"][:10]] = {g["titleId"].lower(): g["totalPlayedMinutes"] for g in d["dailyPlayHistories"]}
+    save("nintendo_days.json", days)
+    save("nintendo.json", {"updated": NOW, "note": "Nintendo Store app play history; times are UTC", "titles": titles})
+    print(f"nintendo: {len(titles)} titles, {len(days)} logged days")
+
+
+def update_nintendo(log):
+    nintendo_save(nintendo_fetch(), log)
+
+
 # ---------------------------------------------------------------------- Steam
 
 def steam_get(path, **params):
@@ -244,10 +319,13 @@ def main():
     if args[:1] == ["--seed-psn"]:
         seed_psn(args[1])
         return
-    platforms = args or ["psn", "steam"]
+    if args[:1] == ["--seed-nintendo"]:
+        nintendo_save(json.loads(Path(args[1]).read_text()), [])
+        return
+    platforms = args or ["psn", "steam", "nintendo"]
     log = load("playtime_log.json", [])
     failed = []
-    for name, fn in (("psn", update_psn), ("steam", update_steam)):
+    for name, fn in (("psn", update_psn), ("steam", update_steam), ("nintendo", update_nintendo)):
         if name not in platforms:
             continue
         try:
@@ -258,7 +336,8 @@ def main():
     save("playtime_log.json", log)
     status = load("status.json", {})
     status.update({"updated": NOW, "failed": failed,
-                   "psn_npsso_expires": os.environ.get("PSN_NPSSO_EXPIRES", status.get("psn_npsso_expires"))})
+                   "psn_npsso_expires": os.environ.get("PSN_NPSSO_EXPIRES", status.get("psn_npsso_expires")),
+                   "nintendo_token_expires": os.environ.get("NINTENDO_TOKEN_EXPIRES", status.get("nintendo_token_expires"))})
     for name in platforms:
         if name not in failed:
             status[f"{name}_ok"] = NOW

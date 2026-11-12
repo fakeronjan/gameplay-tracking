@@ -3,12 +3,14 @@
   "id": "the-legend-of-zelda-ocarina-of-time",
   "name": "The Legend of Zelda: Ocarina of Time",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
-  "first": "2015-07-10",
+  "first": "2015-07-11",
   "last": "2026-11-11",
   "days": [
-   "2015-07-10",
-   "2020-02-01",
+   "2015-07-11",
+   "2020-02-02",
    "2026-11-05",
+   "2026-11-07",
+   "2026-11-08",
    "2026-11-11"
   ],
   "families": [
@@ -16,21 +18,23 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-07-10",
-    "2020-02-01",
+    "2015-07-11",
+    "2020-02-02",
     "2026-11-05",
+    "2026-11-07",
+    "2026-11-08",
     "2026-11-11"
    ]
   },
   "days_played": 11,
   "spans": [
    [
-    "2015-07-10",
-    "2020-02-01"
+    "2015-07-11",
+    "2020-02-02"
    ],
    [
     "2026-11-05",
-    "2026-11-11"
+    "2026-11-06"
    ]
   ],
   "family_play": false,
@@ -51,11 +55,14 @@
     "days_played": 7,
     "family_play": false,
     "span": [
-     "2015-07-10",
-     "2020-02-01"
+     "2015-07-11",
+     "2020-02-02"
     ],
-    "first": "2015-07-10",
-    "last": "2020-02-01"
+    "span_days": 7,
+    "span_minutes": 70,
+    "day_minutes": {},
+    "first": "2015-07-11",
+    "last": "2020-02-02"
    },
    {
     "id": "nintendo:0400486024dec000",
@@ -70,8 +77,15 @@
     "family_play": false,
     "span": [
      "2026-11-05",
-     "2026-11-11"
+     "2026-11-06"
     ],
+    "span_days": 1,
+    "span_minutes": 20,
+    "day_minutes": {
+     "2026-11-07": 393,
+     "2026-11-08": 44,
+     "2026-11-11": 102
+    },
     "first": "2026-11-05",
     "last": "2026-11-11"
    }
@@ -435,7 +449,7 @@
   "spans": [
    [
     "2020-03-20",
-    "2026-11-08"
+    "2026-11-06"
    ]
   ],
   "family_play": true,
@@ -457,8 +471,13 @@
     "family_play": true,
     "span": [
      "2020-03-20",
-     "2026-11-08"
+     "2026-11-06"
     ],
+    "span_days": 413,
+    "span_minutes": 29013,
+    "day_minutes": {
+     "2026-11-08": 13
+    },
     "first": "2020-03-20",
     "last": "2026-11-08"
    },
@@ -1065,6 +1084,9 @@
      "2019-09-05",
      "2026-10-29"
     ],
+    "span_days": 143,
+    "span_minutes": 3465,
+    "day_minutes": {},
     "first": "2019-09-05",
     "last": "2026-10-29"
    },
@@ -1184,6 +1206,9 @@
      "2019-11-30",
      "2019-12-31"
     ],
+    "span_days": 5,
+    "span_minutes": 237,
+    "day_minutes": {},
     "first": "2019-11-30",
     "last": "2019-12-31"
    },
@@ -1240,6 +1265,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2026-10-26": 5
+    },
     "first": "2026-10-26",
     "last": "2026-10-26"
    },
@@ -1424,6 +1454,9 @@
      "2017-09-12",
      "2026-10-25"
     ],
+    "span_days": 24,
+    "span_minutes": 421,
+    "day_minutes": {},
     "first": "2017-09-12",
     "last": "2026-10-25"
    },
@@ -1490,6 +1523,9 @@
      "2021-06-03",
      "2026-10-17"
     ],
+    "span_days": 137,
+    "span_minutes": 8093,
+    "day_minutes": {},
     "first": "2021-06-03",
     "last": "2026-10-17"
    }
@@ -1543,6 +1579,9 @@
      "2023-02-10",
      "2026-09-27"
     ],
+    "span_days": 9,
+    "span_minutes": 70,
+    "day_minutes": {},
     "first": "2023-02-10",
     "last": "2026-09-27"
    }
@@ -1596,6 +1635,9 @@
      "2025-07-26",
      "2026-09-27"
     ],
+    "span_days": 9,
+    "span_minutes": 101,
+    "day_minutes": {},
     "first": "2025-07-26",
     "last": "2026-09-27"
    }
@@ -1651,6 +1693,9 @@
      "2021-10-09",
      "2026-09-27"
     ],
+    "span_days": 5,
+    "span_minutes": 207,
+    "day_minutes": {},
     "first": "2021-10-09",
     "last": "2026-09-27"
    },
@@ -1717,6 +1762,9 @@
      "2025-06-07",
      "2026-09-27"
     ],
+    "span_days": 16,
+    "span_minutes": 624,
+    "day_minutes": {},
     "first": "2025-06-07",
     "last": "2026-09-27"
    }
@@ -1890,6 +1938,9 @@
      "2023-05-12",
      "2026-09-06"
     ],
+    "span_days": 24,
+    "span_minutes": 2681,
+    "day_minutes": {},
     "first": "2023-05-12",
     "last": "2026-09-06"
    },
@@ -1988,6 +2039,9 @@
      "2017-03-04",
      "2026-09-06"
     ],
+    "span_days": 46,
+    "span_minutes": 2835,
+    "day_minutes": {},
     "first": "2017-03-04",
     "last": "2026-09-06"
    },
@@ -2068,6 +2122,9 @@
      "2021-10-25",
      "2026-09-06"
     ],
+    "span_days": 37,
+    "span_minutes": 939,
+    "day_minutes": {},
     "first": "2021-10-25",
     "last": "2026-09-06"
    },
@@ -2134,6 +2191,9 @@
      "2025-06-05",
      "2026-09-06"
     ],
+    "span_days": 12,
+    "span_minutes": 182,
+    "day_minutes": {},
     "first": "2025-06-05",
     "last": "2026-09-06"
    }
@@ -2190,6 +2250,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2026-06-09": 27
+    },
     "first": "2026-06-09",
     "last": "2026-06-09"
    },
@@ -2221,6 +2286,9 @@
      "2026-06-26",
      "2026-09-06"
     ],
+    "span_days": 6,
+    "span_minutes": 456,
+    "day_minutes": {},
     "first": "2026-06-26",
     "last": "2026-09-06"
    }
@@ -2310,6 +2378,9 @@
      "2017-10-27",
      "2026-09-04"
     ],
+    "span_days": 169,
+    "span_minutes": 8162,
+    "day_minutes": {},
     "first": "2017-10-27",
     "last": "2026-09-04"
    },
@@ -2520,6 +2591,9 @@
      "2018-06-22",
      "2026-09-03"
     ],
+    "span_days": 139,
+    "span_minutes": 4238,
+    "day_minutes": {},
     "first": "2018-06-22",
     "last": "2026-09-03"
    },
@@ -2776,6 +2850,9 @@
      "2018-12-07",
      "2026-08-26"
     ],
+    "span_days": 449,
+    "span_minutes": 25585,
+    "day_minutes": {},
     "first": "2018-12-07",
     "last": "2026-08-26"
    }
@@ -3032,6 +3109,9 @@
      "2023-02-10",
      "2026-07-11"
     ],
+    "span_days": 8,
+    "span_minutes": 52,
+    "day_minutes": {},
     "first": "2023-02-10",
     "last": "2026-07-11"
    }
@@ -3138,6 +3218,9 @@
      "2026-07-02",
      "2026-07-03"
     ],
+    "span_days": 2,
+    "span_minutes": 14,
+    "day_minutes": {},
     "first": "2026-07-02",
     "last": "2026-07-03"
    },
@@ -3273,6 +3356,9 @@
      "2023-11-05",
      "2026-06-27"
     ],
+    "span_days": 5,
+    "span_minutes": 473,
+    "day_minutes": {},
     "first": "2023-11-05",
     "last": "2026-06-27"
    },
@@ -3411,6 +3497,9 @@
      "2018-09-19",
      "2026-06-22"
     ],
+    "span_days": 103,
+    "span_minutes": 1951,
+    "day_minutes": {},
     "first": "2018-09-19",
     "last": "2026-06-22"
    },
@@ -3493,6 +3582,9 @@
      "2019-06-29",
      "2026-06-22"
     ],
+    "span_days": 94,
+    "span_minutes": 3746,
+    "day_minutes": {},
     "first": "2019-06-29",
     "last": "2026-06-22"
    },
@@ -3652,6 +3744,9 @@
      "2019-01-05",
      "2019-01-07"
     ],
+    "span_days": 3,
+    "span_minutes": 316,
+    "day_minutes": {},
     "first": "2019-01-05",
     "last": "2019-01-07"
    },
@@ -3721,6 +3816,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2026-06-09": 34
+    },
     "first": "2026-06-09",
     "last": "2026-06-09"
    }
@@ -3856,9 +3956,9 @@
    "2015-05-28",
    "2015-05-30",
    "2015-05-31",
-   "2016-01-21",
+   "2016-01-22",
    "2016-05-11",
-   "2017-01-11",
+   "2017-01-12",
    "2017-03-04",
    "2019-12-14",
    "2019-12-15",
@@ -3877,8 +3977,8 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-01-21",
-    "2017-01-11",
+    "2016-01-22",
+    "2017-01-12",
     "2017-03-04",
     "2019-12-14",
     "2019-12-15",
@@ -3905,8 +4005,8 @@
   "days_played": 61,
   "spans": [
    [
-    "2016-01-21",
-    "2017-01-11"
+    "2016-01-22",
+    "2017-01-12"
    ],
    [
     "2017-03-04",
@@ -3960,11 +4060,14 @@
     "days_played": 5,
     "family_play": false,
     "span": [
-     "2016-01-21",
-     "2017-01-11"
+     "2016-01-22",
+     "2017-01-12"
     ],
-    "first": "2016-01-21",
-    "last": "2017-01-11"
+    "span_days": 5,
+    "span_minutes": 78,
+    "day_minutes": {},
+    "first": "2016-01-22",
+    "last": "2017-01-12"
    },
    {
     "id": "nintendo:010057d0021e8000",
@@ -3981,6 +4084,9 @@
      "2017-03-04",
      "2026-06-07"
     ],
+    "span_days": 47,
+    "span_minutes": 3400,
+    "day_minutes": {},
     "first": "2017-03-04",
     "last": "2026-06-07"
    },
@@ -4072,6 +4178,9 @@
      "2024-07-20",
      "2026-06-07"
     ],
+    "span_days": 2,
+    "span_minutes": 15,
+    "day_minutes": {},
     "first": "2024-07-20",
     "last": "2026-06-07"
    }
@@ -4125,6 +4234,9 @@
      "2026-05-09",
      "2026-06-07"
     ],
+    "span_days": 3,
+    "span_minutes": 221,
+    "day_minutes": {},
     "first": "2026-05-09",
     "last": "2026-06-07"
    }
@@ -4292,6 +4404,9 @@
      "2026-04-09",
      "2026-05-03"
     ],
+    "span_days": 2,
+    "span_minutes": 67,
+    "day_minutes": {},
     "first": "2026-04-09",
     "last": "2026-05-03"
    }
@@ -4306,8 +4421,8 @@
   "last": "2026-05-03",
   "days": [
    "2016-06-19",
-   "2016-12-29",
-   "2018-02-18",
+   "2016-12-30",
+   "2018-02-19",
    "2019-02-17",
    "2026-05-03"
   ],
@@ -4318,8 +4433,8 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-12-29",
-    "2018-02-18"
+    "2016-12-30",
+    "2018-02-19"
    ],
    "PlayStation": [
     "2016-06-19",
@@ -4332,8 +4447,8 @@
   "days_played": 9,
   "spans": [
    [
-    "2016-12-29",
-    "2018-02-18"
+    "2016-12-30",
+    "2018-02-19"
    ]
   ],
   "family_play": false,
@@ -4367,11 +4482,14 @@
     "days_played": 6,
     "family_play": false,
     "span": [
-     "2016-12-29",
-     "2018-02-18"
+     "2016-12-30",
+     "2018-02-19"
     ],
-    "first": "2016-12-29",
-    "last": "2018-02-18"
+    "span_days": 6,
+    "span_minutes": 28,
+    "day_minutes": {},
+    "first": "2016-12-30",
+    "last": "2018-02-19"
    },
    {
     "id": "xbox:fakeronjan:1535750831",
@@ -4775,6 +4893,9 @@
      "2020-06-20",
      "2025-06-13"
     ],
+    "span_days": 6,
+    "span_minutes": 303,
+    "day_minutes": {},
     "first": "2020-06-20",
     "last": "2025-06-13"
    },
@@ -4873,6 +4994,9 @@
      "2023-11-17",
      "2026-04-25"
     ],
+    "span_days": 12,
+    "span_minutes": 1049,
+    "day_minutes": {},
     "first": "2023-11-17",
     "last": "2026-04-25"
    },
@@ -4959,6 +5083,9 @@
      "2024-05-23",
      "2026-04-25"
     ],
+    "span_days": 14,
+    "span_minutes": 1967,
+    "day_minutes": {},
     "first": "2024-05-23",
     "last": "2026-04-25"
    },
@@ -5397,6 +5524,9 @@
      "2024-04-03",
      "2024-12-16"
     ],
+    "span_days": 35,
+    "span_minutes": 2461,
+    "day_minutes": {},
     "first": "2024-04-03",
     "last": "2024-12-16"
    },
@@ -5678,6 +5808,9 @@
      "2025-06-08",
      "2025-06-14"
     ],
+    "span_days": 4,
+    "span_minutes": 499,
+    "day_minutes": {},
     "first": "2025-06-08",
     "last": "2025-06-14"
    },
@@ -5965,6 +6098,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2020-10-11": 100
+    },
     "first": "2020-10-11",
     "last": "2020-10-11"
    },
@@ -6152,6 +6290,9 @@
      "2023-09-15",
      "2025-06-21"
     ],
+    "span_days": 5,
+    "span_minutes": 59,
+    "day_minutes": {},
     "first": "2023-09-15",
     "last": "2025-06-21"
    },
@@ -6246,6 +6387,9 @@
      "2018-02-19",
      "2018-04-05"
     ],
+    "span_days": 6,
+    "span_minutes": 399,
+    "day_minutes": {},
     "first": "2018-02-19",
     "last": "2018-04-05"
    },
@@ -6457,6 +6601,9 @@
      "2018-04-01",
      "2026-02-14"
     ],
+    "span_days": 76,
+    "span_minutes": 2427,
+    "day_minutes": {},
     "first": "2018-04-01",
     "last": "2026-02-14"
    },
@@ -7160,6 +7307,9 @@
      "2019-06-24",
      "2019-09-13"
     ],
+    "span_days": 4,
+    "span_minutes": 90,
+    "day_minutes": {},
     "first": "2019-06-24",
     "last": "2019-09-13"
    },
@@ -7627,6 +7777,9 @@
      "2025-07-17",
      "2025-08-03"
     ],
+    "span_days": 5,
+    "span_minutes": 620,
+    "day_minutes": {},
     "first": "2025-07-17",
     "last": "2025-08-03"
    }
@@ -7746,6 +7899,9 @@
      "2023-07-09",
      "2025-07-05"
     ],
+    "span_days": 3,
+    "span_minutes": 26,
+    "day_minutes": {},
     "first": "2023-07-09",
     "last": "2025-07-05"
    }
@@ -7756,12 +7912,12 @@
   "id": "donkey-kong-country-tropical-freeze",
   "name": "Donkey Kong Country Tropical Freeze",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/42c5d1a0bde94b18b35d6babe6e2a436_512",
-  "first": "2014-10-17",
+  "first": "2014-10-18",
   "last": "2025-06-29",
   "days": [
-   "2014-10-17",
+   "2014-10-18",
    "2015-08-28",
-   "2017-01-28",
+   "2017-01-29",
    "2018-05-04",
    "2025-06-29"
   ],
@@ -7770,9 +7926,9 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-10-17",
+    "2014-10-18",
     "2015-08-28",
-    "2017-01-28",
+    "2017-01-29",
     "2018-05-04",
     "2025-06-29"
    ]
@@ -7780,8 +7936,8 @@
   "days_played": 56,
   "spans": [
    [
-    "2014-10-17",
-    "2017-01-28"
+    "2014-10-18",
+    "2017-01-29"
    ],
    [
     "2018-05-04",
@@ -7806,16 +7962,19 @@
     "days_played": 21,
     "family_play": false,
     "span": [
-     "2014-10-17",
-     "2017-01-28"
+     "2014-10-18",
+     "2017-01-29"
     ],
-    "first": "2014-10-17",
-    "last": "2017-01-28"
+    "span_days": 21,
+    "span_minutes": 1015,
+    "day_minutes": {},
+    "first": "2014-10-18",
+    "last": "2017-01-29"
    },
    {
     "id": "miiverse:Donkey Kong Country: Tropical Freeze",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "Wii U",
     "name": "Donkey Kong Country: Tropical Freeze",
     "minutes": null,
     "earned": null,
@@ -7839,6 +7998,9 @@
      "2018-05-04",
      "2025-06-29"
     ],
+    "span_days": 35,
+    "span_minutes": 883,
+    "day_minutes": {},
     "first": "2018-05-04",
     "last": "2025-06-29"
    }
@@ -7892,6 +8054,9 @@
      "2025-06-21",
      "2025-06-28"
     ],
+    "span_days": 3,
+    "span_minutes": 159,
+    "day_minutes": {},
     "first": "2025-06-21",
     "last": "2025-06-28"
    },
@@ -7958,6 +8123,9 @@
      "2020-09-18",
      "2025-06-24"
     ],
+    "span_days": 6,
+    "span_minutes": 81,
+    "day_minutes": {},
     "first": "2020-09-18",
     "last": "2025-06-24"
    },
@@ -8024,6 +8192,9 @@
      "2023-02-11",
      "2025-06-22"
     ],
+    "span_days": 2,
+    "span_minutes": 33,
+    "day_minutes": {},
     "first": "2023-02-11",
     "last": "2025-06-22"
    }
@@ -8067,6 +8238,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2025-06-21": 119
+    },
     "first": "2025-06-21",
     "last": "2025-06-21"
    },
@@ -8141,6 +8317,9 @@
      "2020-10-01",
      "2025-06-13"
     ],
+    "span_days": 9,
+    "span_minutes": 224,
+    "day_minutes": {},
     "first": "2020-10-01",
     "last": "2025-06-13"
    },
@@ -8212,6 +8391,9 @@
      "2019-02-04",
      "2025-06-13"
     ],
+    "span_days": 2,
+    "span_minutes": 73,
+    "day_minutes": {},
     "first": "2019-02-04",
     "last": "2025-06-13"
    },
@@ -8235,11 +8417,11 @@
   "id": "super-mario-3d-world-bowser-s-fury",
   "name": "Super Mario 3D World + Bowser's Fury",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/52bdb6cf034e4a33b669624b0da0620f_512",
-  "first": "2015-03-21",
+  "first": "2015-03-22",
   "last": "2025-06-07",
   "days": [
-   "2015-03-21",
-   "2019-11-29",
+   "2015-03-22",
+   "2019-11-30",
    "2022-07-02",
    "2025-06-07"
   ],
@@ -8248,8 +8430,8 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-03-21",
-    "2019-11-29",
+    "2015-03-22",
+    "2019-11-30",
     "2022-07-02",
     "2025-06-07"
    ]
@@ -8257,8 +8439,8 @@
   "days_played": 83,
   "spans": [
    [
-    "2015-03-21",
-    "2019-11-29"
+    "2015-03-22",
+    "2019-11-30"
    ],
    [
     "2022-07-02",
@@ -8283,11 +8465,14 @@
     "days_played": 80,
     "family_play": false,
     "span": [
-     "2015-03-21",
-     "2019-11-29"
+     "2015-03-22",
+     "2019-11-30"
     ],
-    "first": "2015-03-21",
-    "last": "2019-11-29"
+    "span_days": 80,
+    "span_minutes": 2954,
+    "day_minutes": {},
+    "first": "2015-03-22",
+    "last": "2019-11-30"
    },
    {
     "id": "nintendo:010028600ebda000",
@@ -8304,6 +8489,9 @@
      "2022-07-02",
      "2025-06-07"
     ],
+    "span_days": 3,
+    "span_minutes": 49,
+    "day_minutes": {},
     "first": "2022-07-02",
     "last": "2025-06-07"
    }
@@ -8314,16 +8502,16 @@
   "id": "mario-kart-8",
   "name": "Mario Kart 8",
   "art": "https://img-eshop.cdn.nintendo.net/i/55e0720b1a064e28b5df173d30b343ecd91287dc86942f833ffbf979a7a66ec9.jpg",
-  "first": "2014-10-17",
+  "first": "2014-10-18",
   "last": "2025-06-04",
   "days": [
-   "2014-10-17",
+   "2014-10-18",
    "2017-04-28",
    "2017-05-06",
    "2017-12-29",
    "2018-01-26",
    "2018-02-09",
-   "2018-03-02",
+   "2018-03-03",
    "2020-03-13",
    "2020-03-19",
    "2020-04-10",
@@ -8335,13 +8523,13 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-10-17",
+    "2014-10-18",
     "2017-04-28",
     "2017-05-06",
     "2017-12-29",
     "2018-01-26",
     "2018-02-09",
-    "2018-03-02",
+    "2018-03-03",
     "2020-03-13",
     "2020-03-19",
     "2020-04-10",
@@ -8352,8 +8540,8 @@
   "days_played": 333,
   "spans": [
    [
-    "2014-10-17",
-    "2018-03-02"
+    "2014-10-18",
+    "2018-03-03"
    ],
    [
     "2017-04-28",
@@ -8378,11 +8566,14 @@
     "days_played": 92,
     "family_play": false,
     "span": [
-     "2014-10-17",
-     "2018-03-02"
+     "2014-10-18",
+     "2018-03-03"
     ],
-    "first": "2014-10-17",
-    "last": "2018-03-02"
+    "span_days": 92,
+    "span_minutes": 2678,
+    "day_minutes": {},
+    "first": "2014-10-18",
+    "last": "2018-03-03"
    },
    {
     "id": "nintendo:0100152000022000",
@@ -8399,6 +8590,9 @@
      "2017-04-28",
      "2025-06-04"
     ],
+    "span_days": 241,
+    "span_minutes": 8243,
+    "day_minutes": {},
     "first": "2017-04-28",
     "last": "2025-06-04"
    },
@@ -8639,6 +8833,9 @@
      "2018-05-29",
      "2020-04-22"
     ],
+    "span_days": 68,
+    "span_minutes": 2621,
+    "day_minutes": {},
     "first": "2018-05-29",
     "last": "2020-04-22"
    },
@@ -9280,6 +9477,9 @@
      "2018-08-11",
      "2018-08-12"
     ],
+    "span_days": 2,
+    "span_minutes": 191,
+    "day_minutes": {},
     "first": "2018-08-11",
     "last": "2018-08-12"
    },
@@ -9561,6 +9761,9 @@
      "2019-11-01",
      "2022-06-04"
     ],
+    "span_days": 6,
+    "span_minutes": 246,
+    "day_minutes": {},
     "first": "2019-11-01",
     "last": "2022-06-04"
    },
@@ -9773,6 +9976,9 @@
      "2022-09-06",
      "2024-11-17"
     ],
+    "span_days": 11,
+    "span_minutes": 1081,
+    "day_minutes": {},
     "first": "2022-09-06",
     "last": "2024-11-17"
    }
@@ -9816,6 +10022,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2024-11-10": 121
+    },
     "first": "2024-11-10",
     "last": "2024-11-10"
    }
@@ -9888,13 +10099,13 @@
   "id": "phoenix-wright-ace-attorney-trilogy",
   "name": "Phoenix Wright: Ace Attorney Trilogy",
   "art": "https://img-eshop.cdn.nintendo.net/i/0add5a50603d9fdf3792e1aac7e1d0866e7e32e3c1c7a0fc3981afe850c29bde.jpg",
-  "first": "2017-01-02",
+  "first": "2017-01-03",
   "last": "2024-10-27",
   "days": [
-   "2017-01-02",
+   "2017-01-03",
    "2017-02-05",
    "2017-02-19",
-   "2017-07-08",
+   "2017-07-09",
    "2019-04-21",
    "2019-09-15",
    "2019-09-17",
@@ -9916,10 +10127,10 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2017-01-02",
+    "2017-01-03",
     "2017-02-05",
     "2017-02-19",
-    "2017-07-08",
+    "2017-07-09",
     "2019-04-21",
     "2019-09-15",
     "2019-09-17"
@@ -9942,8 +10153,8 @@
   "days_played": 42,
   "spans": [
    [
-    "2017-01-02",
-    "2017-07-08"
+    "2017-01-03",
+    "2017-07-09"
    ],
    [
     "2019-04-21",
@@ -9968,16 +10179,19 @@
     "days_played": 22,
     "family_play": false,
     "span": [
-     "2017-01-02",
-     "2017-07-08"
+     "2017-01-03",
+     "2017-07-09"
     ],
-    "first": "2017-01-02",
-    "last": "2017-07-08"
+    "span_days": 22,
+    "span_minutes": 1304,
+    "day_minutes": {},
+    "first": "2017-01-03",
+    "last": "2017-07-09"
    },
    {
     "id": "miiverse:Phoenix Wright: Ace Attorney Trilogy",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "3DS",
     "name": "Phoenix Wright: Ace Attorney Trilogy",
     "minutes": null,
     "earned": null,
@@ -10001,6 +10215,9 @@
      "2019-04-21",
      "2019-09-17"
     ],
+    "span_days": 10,
+    "span_minutes": 209,
+    "day_minutes": {},
     "first": "2019-04-21",
     "last": "2019-09-17"
    },
@@ -10557,6 +10774,9 @@
      "2018-07-13",
      "2022-03-12"
     ],
+    "span_days": 11,
+    "span_minutes": 695,
+    "day_minutes": {},
     "first": "2018-07-13",
     "last": "2022-03-12"
    },
@@ -11162,6 +11382,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2024-04-14": 14
+    },
     "first": "2024-04-14",
     "last": "2024-04-14"
    },
@@ -11507,6 +11732,9 @@
      "2020-06-13",
      "2024-03-03"
     ],
+    "span_days": 11,
+    "span_minutes": 283,
+    "day_minutes": {},
     "first": "2020-06-13",
     "last": "2024-03-03"
    },
@@ -11819,6 +12047,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2023-09-15": 21
+    },
     "first": "2023-09-15",
     "last": "2023-09-15"
    },
@@ -12107,6 +12340,9 @@
      "2020-03-26",
      "2021-04-23"
     ],
+    "span_days": 5,
+    "span_minutes": 172,
+    "day_minutes": {},
     "first": "2020-03-26",
     "last": "2021-04-23"
    },
@@ -12260,6 +12496,9 @@
      "2019-08-31",
      "2023-07-05"
     ],
+    "span_days": 13,
+    "span_minutes": 222,
+    "day_minutes": {},
     "first": "2019-08-31",
     "last": "2023-07-05"
    },
@@ -12625,6 +12864,9 @@
      "2019-09-21",
      "2023-05-13"
     ],
+    "span_days": 25,
+    "span_minutes": 1474,
+    "day_minutes": {},
     "first": "2019-09-21",
     "last": "2023-05-13"
    },
@@ -12648,11 +12890,11 @@
   "id": "new-super-mario-bros-u",
   "name": "New Super Mario Bros. U",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/0707a98b47cd452dbaf0ef7ff9bf124b_512",
-  "first": "2015-08-29",
+  "first": "2015-08-30",
   "last": "2023-05-13",
   "days": [
-   "2015-08-29",
-   "2018-03-05",
+   "2015-08-30",
+   "2018-03-06",
    "2019-01-11",
    "2023-05-13"
   ],
@@ -12661,8 +12903,8 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-08-29",
-    "2018-03-05",
+    "2015-08-30",
+    "2018-03-06",
     "2019-01-11",
     "2023-05-13"
    ]
@@ -12670,8 +12912,8 @@
   "days_played": 88,
   "spans": [
    [
-    "2015-08-29",
-    "2018-03-05"
+    "2015-08-30",
+    "2018-03-06"
    ],
    [
     "2019-01-11",
@@ -12696,11 +12938,14 @@
     "days_played": 44,
     "family_play": false,
     "span": [
-     "2015-08-29",
-     "2018-03-05"
+     "2015-08-30",
+     "2018-03-06"
     ],
-    "first": "2015-08-29",
-    "last": "2018-03-05"
+    "span_days": 44,
+    "span_minutes": 788,
+    "day_minutes": {},
+    "first": "2015-08-30",
+    "last": "2018-03-06"
    },
    {
     "id": "nintendo:0100ea80032ea000",
@@ -12717,6 +12962,9 @@
      "2019-01-11",
      "2023-05-13"
     ],
+    "span_days": 44,
+    "span_minutes": 1507,
+    "day_minutes": {},
     "first": "2019-01-11",
     "last": "2023-05-13"
    }
@@ -12821,6 +13069,9 @@
      "2019-06-16",
      "2023-05-01"
     ],
+    "span_days": 12,
+    "span_minutes": 494,
+    "day_minutes": {},
     "first": "2019-06-16",
     "last": "2023-05-01"
    },
@@ -13353,6 +13604,9 @@
      "2019-09-17",
      "2020-05-17"
     ],
+    "span_days": 8,
+    "span_minutes": 181,
+    "day_minutes": {},
     "first": "2019-09-17",
     "last": "2020-05-17"
    },
@@ -13698,6 +13952,9 @@
      "2022-07-30",
      "2022-10-27"
     ],
+    "span_days": 26,
+    "span_minutes": 1448,
+    "day_minutes": {},
     "first": "2022-07-30",
     "last": "2022-10-27"
    },
@@ -13782,6 +14039,9 @@
      "2017-03-26",
      "2019-02-17"
     ],
+    "span_days": 102,
+    "span_minutes": 1955,
+    "day_minutes": {},
     "first": "2017-03-26",
     "last": "2019-02-17"
    },
@@ -13813,6 +14073,9 @@
      "2020-05-16",
      "2022-10-27"
     ],
+    "span_days": 8,
+    "span_minutes": 106,
+    "day_minutes": {},
     "first": "2020-05-16",
     "last": "2022-10-27"
    }
@@ -13866,6 +14129,9 @@
      "2022-04-19",
      "2022-10-02"
     ],
+    "span_days": 4,
+    "span_minutes": 19,
+    "day_minutes": {},
     "first": "2022-04-19",
     "last": "2022-10-02"
    }
@@ -14092,6 +14358,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2019-09-29": 1
+    },
     "first": "2019-09-29",
     "last": "2019-09-29"
    },
@@ -14709,6 +14980,9 @@
      "2019-07-28",
      "2019-08-06"
     ],
+    "span_days": 2,
+    "span_minutes": 18,
+    "day_minutes": {},
     "first": "2019-07-28",
     "last": "2019-08-06"
    },
@@ -14930,6 +15204,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-10-17": 27
+    },
     "first": "2018-10-17",
     "last": "2018-10-17"
    },
@@ -15422,6 +15701,9 @@
      "2018-11-16",
      "2022-07-11"
     ],
+    "span_days": 12,
+    "span_minutes": 1289,
+    "day_minutes": {},
     "first": "2018-11-16",
     "last": "2022-07-11"
    }
@@ -15465,6 +15747,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2022-07-11": 17
+    },
     "first": "2022-07-11",
     "last": "2022-07-11"
    }
@@ -15571,6 +15858,9 @@
      "2021-11-05",
      "2022-07-08"
     ],
+    "span_days": 7,
+    "span_minutes": 345,
+    "day_minutes": {},
     "first": "2021-11-05",
     "last": "2022-07-08"
    }
@@ -15866,6 +16156,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2022-06-05": 30
+    },
     "first": "2022-06-05",
     "last": "2022-06-05"
    },
@@ -15922,6 +16217,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2022-05-22": 7
+    },
     "first": "2022-05-22",
     "last": "2022-05-22"
    },
@@ -16130,6 +16430,9 @@
      "2019-10-12",
      "2019-12-26"
     ],
+    "span_days": 2,
+    "span_minutes": 23,
+    "day_minutes": {},
     "first": "2019-10-12",
     "last": "2019-12-26"
    },
@@ -16240,6 +16543,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2022-04-02": 1
+    },
     "first": "2022-04-02",
     "last": "2022-04-02"
    }
@@ -16671,7 +16979,7 @@
     "2022-01-22"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "hours": 104.3,
   "hours_estimated": false,
   "estimated_from": [],
@@ -16687,11 +16995,14 @@
     "total": null,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/be2c8d5f9bcf4e478596df921326a536_512",
     "days_played": 122,
-    "family_play": false,
+    "family_play": true,
     "span": [
      "2018-10-05",
      "2022-01-22"
     ],
+    "span_days": 122,
+    "span_minutes": 6260,
+    "day_minutes": {},
     "first": "2018-10-05",
     "last": "2022-01-22"
    },
@@ -16893,6 +17204,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2021-12-29": 16
+    },
     "first": "2021-12-29",
     "last": "2021-12-29"
    }
@@ -17189,6 +17505,9 @@
      "2021-12-24",
      "2021-12-25"
     ],
+    "span_days": 2,
+    "span_minutes": 19,
+    "day_minutes": {},
     "first": "2021-12-24",
     "last": "2021-12-25"
    }
@@ -17283,6 +17602,9 @@
      "2019-11-10",
      "2021-12-17"
     ],
+    "span_days": 14,
+    "span_minutes": 486,
+    "day_minutes": {},
     "first": "2019-11-10",
     "last": "2021-12-17"
    }
@@ -17733,6 +18055,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2021-10-02": 3
+    },
     "first": "2021-10-02",
     "last": "2021-10-02"
    }
@@ -17837,6 +18164,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2021-09-06": 39
+    },
     "first": "2021-09-06",
     "last": "2021-09-06"
    }
@@ -17897,8 +18229,8 @@
   "days": [
    "2015-09-10",
    "2015-09-12",
-   "2017-09-29",
-   "2017-12-01",
+   "2017-09-30",
+   "2017-12-02",
    "2017-12-09",
    "2017-12-26",
    "2018-01-01",
@@ -17919,8 +18251,8 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2017-09-29",
-    "2017-12-01"
+    "2017-09-30",
+    "2017-12-02"
    ],
    "PlayStation": [
     "2015-09-10",
@@ -17944,8 +18276,8 @@
   "days_played": 23,
   "spans": [
    [
-    "2017-09-29",
-    "2017-12-01"
+    "2017-09-30",
+    "2017-12-02"
    ]
   ],
   "family_play": true,
@@ -17998,11 +18330,14 @@
     "days_played": 9,
     "family_play": false,
     "span": [
-     "2017-09-29",
-     "2017-12-01"
+     "2017-09-30",
+     "2017-12-02"
     ],
-    "first": "2017-09-29",
-    "last": "2017-12-01"
+    "span_days": 9,
+    "span_minutes": 490,
+    "day_minutes": {},
+    "first": "2017-09-30",
+    "last": "2017-12-02"
    },
    {
     "id": "xbox:fakeronjan:153292310",
@@ -18167,6 +18502,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-12-31": 27
+    },
     "first": "2018-12-31",
     "last": "2018-12-31"
    },
@@ -18371,6 +18711,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2021-06-12": 53
+    },
     "first": "2021-06-12",
     "last": "2021-06-12"
    }
@@ -19848,6 +20193,9 @@
      "2018-01-13",
      "2018-01-14"
     ],
+    "span_days": 2,
+    "span_minutes": 30,
+    "day_minutes": {},
     "first": "2018-01-13",
     "last": "2018-01-14"
    },
@@ -20849,6 +21197,9 @@
      "2017-07-21",
      "2020-09-13"
     ],
+    "span_days": 29,
+    "span_minutes": 826,
+    "day_minutes": {},
     "first": "2017-07-21",
     "last": "2020-09-13"
    },
@@ -20927,6 +21278,9 @@
      "2017-04-04",
      "2020-09-13"
     ],
+    "span_days": 35,
+    "span_minutes": 1701,
+    "day_minutes": {},
     "first": "2017-04-04",
     "last": "2020-09-13"
    },
@@ -21387,6 +21741,9 @@
      "2020-01-24",
      "2020-06-25"
     ],
+    "span_days": 3,
+    "span_minutes": 67,
+    "day_minutes": {},
     "first": "2020-01-24",
     "last": "2020-06-25"
    }
@@ -21488,6 +21845,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2020-06-20": 38
+    },
     "first": "2020-06-20",
     "last": "2020-06-20"
    },
@@ -21544,6 +21906,11 @@
     "days_played": 2,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2020-06-14": 111
+    },
     "first": "2020-06-14",
     "last": "2020-06-14"
    },
@@ -21600,6 +21967,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2020-05-30": 62
+    },
     "first": "2020-05-30",
     "last": "2020-05-30"
    },
@@ -21666,6 +22038,9 @@
      "2020-03-27",
      "2020-05-10"
     ],
+    "span_days": 2,
+    "span_minutes": 110,
+    "day_minutes": {},
     "first": "2020-03-27",
     "last": "2020-05-10"
    }
@@ -21729,6 +22104,9 @@
      "2017-05-26",
      "2020-05-08"
     ],
+    "span_days": 27,
+    "span_minutes": 551,
+    "day_minutes": {},
     "first": "2017-05-26",
     "last": "2020-05-08"
    },
@@ -21795,6 +22173,9 @@
      "2019-03-31",
      "2020-04-27"
     ],
+    "span_days": 5,
+    "span_minutes": 104,
+    "day_minutes": {},
     "first": "2019-03-31",
     "last": "2020-04-27"
    }
@@ -22218,6 +22599,9 @@
      "2018-11-16",
      "2018-11-26"
     ],
+    "span_days": 4,
+    "span_minutes": 687,
+    "day_minutes": {},
     "first": "2018-11-16",
     "last": "2018-11-26"
    },
@@ -22373,6 +22757,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2020-03-02": 86
+    },
     "first": "2020-03-02",
     "last": "2020-03-02"
    }
@@ -22383,26 +22772,26 @@
   "id": "metroid-zero-mission",
   "name": "Metroid: Zero Mission",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/52dddbaf595e7d15647e6d005c944b1e.png",
-  "first": "2016-02-28",
-  "last": "2020-02-21",
+  "first": "2016-02-29",
+  "last": "2020-02-22",
   "days": [
-   "2016-02-28",
-   "2020-02-21"
+   "2016-02-29",
+   "2020-02-22"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-02-28",
-    "2020-02-21"
+    "2016-02-29",
+    "2020-02-22"
    ]
   },
   "days_played": 11,
   "spans": [
    [
-    "2016-02-28",
-    "2020-02-21"
+    "2016-02-29",
+    "2020-02-22"
    ]
   ],
   "family_play": false,
@@ -22423,11 +22812,14 @@
     "days_played": 11,
     "family_play": false,
     "span": [
-     "2016-02-28",
-     "2020-02-21"
+     "2016-02-29",
+     "2020-02-22"
     ],
-    "first": "2016-02-28",
-    "last": "2020-02-21"
+    "span_days": 11,
+    "span_minutes": 306,
+    "day_minutes": {},
+    "first": "2016-02-29",
+    "last": "2020-02-22"
    }
   ],
   "img": "img/g/734e05bc08585f4d.webp"
@@ -22436,26 +22828,26 @@
   "id": "big-brain-academy",
   "name": "Big Brain Academy",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/00e94e9c7d3138c86218dac9239a42c4.png",
-  "first": "2019-12-24",
-  "last": "2020-02-21",
+  "first": "2019-12-25",
+  "last": "2020-02-22",
   "days": [
-   "2019-12-24",
-   "2020-02-21"
+   "2019-12-25",
+   "2020-02-22"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2019-12-24",
-    "2020-02-21"
+    "2019-12-25",
+    "2020-02-22"
    ]
   },
   "days_played": 8,
   "spans": [
    [
-    "2019-12-24",
-    "2020-02-21"
+    "2019-12-25",
+    "2020-02-22"
    ]
   ],
   "family_play": false,
@@ -22476,11 +22868,14 @@
     "days_played": 8,
     "family_play": false,
     "span": [
-     "2019-12-24",
-     "2020-02-21"
+     "2019-12-25",
+     "2020-02-22"
     ],
-    "first": "2019-12-24",
-    "last": "2020-02-21"
+    "span_days": 8,
+    "span_minutes": 30,
+    "day_minutes": {},
+    "first": "2019-12-25",
+    "last": "2020-02-22"
    }
   ],
   "img": "img/g/ca01a07523ac2864.webp"
@@ -22536,6 +22931,9 @@
      "2019-11-16",
      "2020-02-15"
     ],
+    "span_days": 6,
+    "span_minutes": 612,
+    "day_minutes": {},
     "first": "2019-11-16",
     "last": "2020-02-15"
    },
@@ -22559,26 +22957,26 @@
   "id": "the-legend-of-zelda-the-wind-waker-hd",
   "name": "The Legend of Zelda: The Wind Waker HD",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/794cf7efdcac9cb1b22eec888bfd3d42.png",
-  "first": "2014-10-17",
-  "last": "2020-02-01",
+  "first": "2014-10-18",
+  "last": "2020-02-02",
   "days": [
-   "2014-10-17",
-   "2020-02-01"
+   "2014-10-18",
+   "2020-02-02"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-10-17",
-    "2020-02-01"
+    "2014-10-18",
+    "2020-02-02"
    ]
   },
   "days_played": 49,
   "spans": [
    [
-    "2014-10-17",
-    "2020-02-01"
+    "2014-10-18",
+    "2020-02-02"
    ]
   ],
   "family_play": false,
@@ -22599,11 +22997,14 @@
     "days_played": 49,
     "family_play": false,
     "span": [
-     "2014-10-17",
-     "2020-02-01"
+     "2014-10-18",
+     "2020-02-02"
     ],
-    "first": "2014-10-17",
-    "last": "2020-02-01"
+    "span_days": 49,
+    "span_minutes": 2521,
+    "day_minutes": {},
+    "first": "2014-10-18",
+    "last": "2020-02-02"
    }
   ],
   "img": "img/g/02ba63db003bf4fc.webp"
@@ -22612,26 +23013,26 @@
   "id": "super-mario-64",
   "name": "Super Mario 64",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/aa8711ec695925031654cd6818c9ea24.png",
-  "first": "2015-03-31",
-  "last": "2019-12-24",
+  "first": "2015-04-01",
+  "last": "2019-12-25",
   "days": [
-   "2015-03-31",
-   "2019-12-24"
+   "2015-04-01",
+   "2019-12-25"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-03-31",
-    "2019-12-24"
+    "2015-04-01",
+    "2019-12-25"
    ]
   },
   "days_played": 12,
   "spans": [
    [
-    "2015-03-31",
-    "2019-12-24"
+    "2015-04-01",
+    "2019-12-25"
    ]
   ],
   "family_play": false,
@@ -22652,11 +23053,14 @@
     "days_played": 12,
     "family_play": false,
     "span": [
-     "2015-03-31",
-     "2019-12-24"
+     "2015-04-01",
+     "2019-12-25"
     ],
-    "first": "2015-03-31",
-    "last": "2019-12-24"
+    "span_days": 12,
+    "span_minutes": 104,
+    "day_minutes": {},
+    "first": "2015-04-01",
+    "last": "2019-12-25"
    }
   ],
   "img": "img/g/441a2868adfb46be.webp"
@@ -22698,6 +23102,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2019-12-14": 89
+    },
     "first": "2019-12-14",
     "last": "2019-12-14"
    },
@@ -22721,28 +23130,28 @@
   "id": "donkey-kong-country-2-diddy-s-kong-quest",
   "name": "Donkey Kong Country 2: Diddy's Kong Quest",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/e29312f099c6679e5d1080f767dd9768.png",
-  "first": "2015-03-19",
-  "last": "2019-11-29",
+  "first": "2015-03-20",
+  "last": "2019-11-30",
   "days": [
-   "2015-03-19",
-   "2017-10-09",
-   "2019-11-29"
+   "2015-03-20",
+   "2017-10-10",
+   "2019-11-30"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-03-19",
-    "2017-10-09",
-    "2019-11-29"
+    "2015-03-20",
+    "2017-10-10",
+    "2019-11-30"
    ]
   },
   "days_played": 11,
   "spans": [
    [
-    "2015-03-19",
-    "2019-11-29"
+    "2015-03-20",
+    "2019-11-30"
    ]
   ],
   "family_play": false,
@@ -22763,11 +23172,14 @@
     "days_played": 7,
     "family_play": false,
     "span": [
-     "2015-03-19",
-     "2019-11-29"
+     "2015-03-20",
+     "2019-11-30"
     ],
-    "first": "2015-03-19",
-    "last": "2019-11-29"
+    "span_days": 7,
+    "span_minutes": 50,
+    "day_minutes": {},
+    "first": "2015-03-20",
+    "last": "2019-11-30"
    },
    {
     "id": "nintendo:000400000f702000",
@@ -22781,8 +23193,13 @@
     "days_played": 4,
     "family_play": false,
     "span": null,
-    "first": "2017-10-09",
-    "last": "2017-10-09"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2017-10-10": 27
+    },
+    "first": "2017-10-10",
+    "last": "2017-10-10"
    }
   ],
   "img": "img/g/9677f74b6826431e.webp"
@@ -22791,29 +23208,29 @@
   "id": "super-smash-bros-for-wii-u",
   "name": "Super Smash Bros. for Wii U",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/2fb55a8cc8042d37dae00a84ce2f6ebc.png",
-  "first": "2014-11-22",
-  "last": "2019-11-27",
+  "first": "2014-11-23",
+  "last": "2019-11-28",
   "days": [
-   "2014-11-22",
-   "2019-11-27"
+   "2014-11-23",
+   "2019-11-28"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-11-22",
-    "2019-11-27"
+    "2014-11-23",
+    "2019-11-28"
    ]
   },
   "days_played": 145,
   "spans": [
    [
-    "2014-11-22",
-    "2019-11-27"
+    "2014-11-23",
+    "2019-11-28"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "hours": 231.3,
   "hours_estimated": false,
   "estimated_from": [],
@@ -22829,13 +23246,16 @@
     "total": null,
     "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/2fb55a8cc8042d37dae00a84ce2f6ebc.png",
     "days_played": 145,
-    "family_play": false,
+    "family_play": true,
     "span": [
-     "2014-11-22",
-     "2019-11-27"
+     "2014-11-23",
+     "2019-11-28"
     ],
-    "first": "2014-11-22",
-    "last": "2019-11-27"
+    "span_days": 145,
+    "span_minutes": 13876,
+    "day_minutes": {},
+    "first": "2014-11-23",
+    "last": "2019-11-28"
    }
   ],
   "img": "img/g/188aed8dc3b6f3ac.webp"
@@ -22844,10 +23264,9 @@
   "id": "super-mario-maker",
   "name": "Super Mario Maker",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/e81f1166b6b8bfe4c892a40eb4b33809.png",
-  "first": "2015-09-10",
-  "last": "2019-11-27",
+  "first": "2015-09-11",
+  "last": "2019-11-28",
   "days": [
-   "2015-09-10",
    "2015-09-11",
    "2015-09-12",
    "2015-09-13",
@@ -22858,14 +23277,13 @@
    "2015-10-12",
    "2016-01-23",
    "2016-11-13",
-   "2019-11-27"
+   "2019-11-28"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-09-10",
     "2015-09-11",
     "2015-09-12",
     "2015-09-13",
@@ -22876,14 +23294,14 @@
     "2015-10-12",
     "2016-01-23",
     "2016-11-13",
-    "2019-11-27"
+    "2019-11-28"
    ]
   },
   "days_played": 156,
   "spans": [
    [
-    "2015-09-10",
-    "2019-11-27"
+    "2015-09-11",
+    "2019-11-28"
    ]
   ],
   "family_play": false,
@@ -22892,6 +23310,18 @@
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "miiverse:Super Mario Maker",
+    "family": "Nintendo",
+    "platform": "Wii U",
+    "name": "Super Mario Maker",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "img/miiverse/6437256808751874777.png",
+    "first": "2015-09-11",
+    "last": "2016-11-13"
+   },
    {
     "id": "nintendo:000500001018dc00",
     "family": "Nintendo",
@@ -22904,23 +23334,14 @@
     "days_played": 156,
     "family_play": false,
     "span": [
-     "2015-09-10",
-     "2019-11-27"
+     "2015-09-11",
+     "2019-11-28"
     ],
-    "first": "2015-09-10",
-    "last": "2019-11-27"
-   },
-   {
-    "id": "miiverse:Super Mario Maker",
-    "family": "Nintendo",
-    "platform": "Wii U/3DS",
-    "name": "Super Mario Maker",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "art": "img/miiverse/6437256808751874777.png",
+    "span_days": 156,
+    "span_minutes": 8987,
+    "day_minutes": {},
     "first": "2015-09-11",
-    "last": "2016-11-13"
+    "last": "2019-11-28"
    }
   ],
   "img": "img/g/392b4b9e80fb17b0.webp"
@@ -22929,28 +23350,28 @@
   "id": "paper-mario",
   "name": "Paper Mario",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a69bd0d90559f747c3d2f7c395482d0f.png",
-  "first": "2016-07-22",
-  "last": "2019-11-27",
+  "first": "2016-07-23",
+  "last": "2019-11-28",
   "days": [
-   "2016-07-22",
+   "2016-07-23",
    "2016-08-28",
-   "2019-11-27"
+   "2019-11-28"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-07-22",
+    "2016-07-23",
     "2016-08-28",
-    "2019-11-27"
+    "2019-11-28"
    ]
   },
   "days_played": 14,
   "spans": [
    [
-    "2016-07-22",
-    "2019-11-27"
+    "2016-07-23",
+    "2019-11-28"
    ]
   ],
   "family_play": false,
@@ -22971,16 +23392,19 @@
     "days_played": 14,
     "family_play": false,
     "span": [
-     "2016-07-22",
-     "2019-11-27"
+     "2016-07-23",
+     "2019-11-28"
     ],
-    "first": "2016-07-22",
-    "last": "2019-11-27"
+    "span_days": 14,
+    "span_minutes": 634,
+    "day_minutes": {},
+    "first": "2016-07-23",
+    "last": "2019-11-28"
    },
    {
     "id": "miiverse:Paper Mario",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "Wii U",
     "name": "Paper Mario",
     "minutes": null,
     "earned": null,
@@ -22996,38 +23420,38 @@
   "id": "earthbound",
   "name": "EarthBound",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/191ced42bfbec56f3731e95686896c71.png",
-  "first": "2015-03-21",
-  "last": "2019-11-27",
+  "first": "2015-03-22",
+  "last": "2019-11-28",
   "days": [
-   "2015-03-21",
+   "2015-03-22",
    "2015-04-08",
    "2015-04-11",
-   "2017-06-21",
-   "2018-02-18",
-   "2019-11-27"
+   "2017-06-22",
+   "2018-02-19",
+   "2019-11-28"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-03-21",
+    "2015-03-22",
     "2015-04-08",
     "2015-04-11",
-    "2017-06-21",
-    "2018-02-18",
-    "2019-11-27"
+    "2017-06-22",
+    "2018-02-19",
+    "2019-11-28"
    ]
   },
   "days_played": 17,
   "spans": [
    [
-    "2015-03-21",
-    "2019-11-27"
+    "2015-03-22",
+    "2019-11-28"
    ],
    [
-    "2017-06-21",
-    "2018-02-18"
+    "2017-06-22",
+    "2018-02-19"
    ]
   ],
   "family_play": false,
@@ -23048,16 +23472,19 @@
     "days_played": 12,
     "family_play": false,
     "span": [
-     "2015-03-21",
-     "2019-11-27"
+     "2015-03-22",
+     "2019-11-28"
     ],
-    "first": "2015-03-21",
-    "last": "2019-11-27"
+    "span_days": 12,
+    "span_minutes": 1397,
+    "day_minutes": {},
+    "first": "2015-03-22",
+    "last": "2019-11-28"
    },
    {
     "id": "miiverse:EarthBound",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "Wii U",
     "name": "EarthBound",
     "minutes": null,
     "earned": null,
@@ -23078,11 +23505,14 @@
     "days_played": 5,
     "family_play": false,
     "span": [
-     "2017-06-21",
-     "2018-02-18"
+     "2017-06-22",
+     "2018-02-19"
     ],
-    "first": "2017-06-21",
-    "last": "2018-02-18"
+    "span_days": 5,
+    "span_minutes": 153,
+    "day_minutes": {},
+    "first": "2017-06-22",
+    "last": "2018-02-19"
    }
   ],
   "img": "img/g/9026d5b9dbbeef71.webp"
@@ -23091,26 +23521,26 @@
   "id": "donkey-kong-64",
   "name": "Donkey Kong 64",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/2b8ad60f99a244e065643411cc5e858e.png",
-  "first": "2015-04-15",
-  "last": "2019-11-27",
+  "first": "2015-04-16",
+  "last": "2019-11-28",
   "days": [
-   "2015-04-15",
-   "2019-11-27"
+   "2015-04-16",
+   "2019-11-28"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-04-15",
-    "2019-11-27"
+    "2015-04-16",
+    "2019-11-28"
    ]
   },
   "days_played": 7,
   "spans": [
    [
-    "2015-04-15",
-    "2019-11-27"
+    "2015-04-16",
+    "2019-11-28"
    ]
   ],
   "family_play": false,
@@ -23131,11 +23561,14 @@
     "days_played": 7,
     "family_play": false,
     "span": [
-     "2015-04-15",
-     "2019-11-27"
+     "2015-04-16",
+     "2019-11-28"
     ],
-    "first": "2015-04-15",
-    "last": "2019-11-27"
+    "span_days": 7,
+    "span_minutes": 96,
+    "day_minutes": {},
+    "first": "2015-04-16",
+    "last": "2019-11-28"
    }
   ],
   "img": "img/g/47a8acd310361f69.webp"
@@ -23187,6 +23620,9 @@
      "2019-10-11",
      "2019-10-12"
     ],
+    "span_days": 2,
+    "span_minutes": 124,
+    "day_minutes": {},
     "first": "2019-10-11",
     "last": "2019-10-12"
    },
@@ -23342,6 +23778,9 @@
      "2018-09-11",
      "2018-11-16"
     ],
+    "span_days": 3,
+    "span_minutes": 298,
+    "day_minutes": {},
     "first": "2018-09-11",
     "last": "2018-11-16"
    },
@@ -23408,6 +23847,9 @@
      "2019-07-28",
      "2019-07-29"
     ],
+    "span_days": 2,
+    "span_minutes": 60,
+    "day_minutes": {},
     "first": "2019-07-28",
     "last": "2019-07-29"
    }
@@ -23463,6 +23905,9 @@
      "2019-06-14",
      "2019-06-24"
     ],
+    "span_days": 3,
+    "span_minutes": 32,
+    "day_minutes": {},
     "first": "2019-06-14",
     "last": "2019-06-24"
    },
@@ -23519,6 +23964,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2019-05-22": 25
+    },
     "first": "2019-05-22",
     "last": "2019-05-22"
    },
@@ -23609,6 +24059,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2019-05-17": 52
+    },
     "first": "2019-05-17",
     "last": "2019-05-17"
    },
@@ -23677,6 +24132,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2019-02-17": 8
+    },
     "first": "2019-02-17",
     "last": "2019-02-17"
    },
@@ -23786,6 +24246,9 @@
      "2019-01-06",
      "2019-01-19"
     ],
+    "span_days": 3,
+    "span_minutes": 64,
+    "day_minutes": {},
     "first": "2019-01-06",
     "last": "2019-01-19"
    },
@@ -23854,6 +24317,9 @@
      "2018-08-11",
      "2019-01-05"
     ],
+    "span_days": 9,
+    "span_minutes": 356,
+    "day_minutes": {},
     "first": "2018-08-11",
     "last": "2019-01-05"
    },
@@ -23910,6 +24376,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-12-16": 20
+    },
     "first": "2018-12-16",
     "last": "2018-12-16"
    },
@@ -23988,6 +24459,9 @@
      "2018-12-08",
      "2018-12-15"
     ],
+    "span_days": 2,
+    "span_minutes": 9,
+    "day_minutes": {},
     "first": "2018-12-08",
     "last": "2018-12-15"
    }
@@ -24043,6 +24517,9 @@
      "2018-11-18",
      "2018-11-25"
     ],
+    "span_days": 5,
+    "span_minutes": 180,
+    "day_minutes": {},
     "first": "2018-11-18",
     "last": "2018-11-25"
    },
@@ -24066,29 +24543,29 @@
   "id": "super-smash-bros-for-nintendo-3ds",
   "name": "Super Smash Bros. for Nintendo 3DS",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/b612307f3fcde34af44e3b4a54fee4cd.png",
-  "first": "2018-04-30",
-  "last": "2018-11-03",
+  "first": "2018-05-01",
+  "last": "2018-11-04",
   "days": [
-   "2018-04-30",
-   "2018-11-03"
+   "2018-05-01",
+   "2018-11-04"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2018-04-30",
-    "2018-11-03"
+    "2018-05-01",
+    "2018-11-04"
    ]
   },
   "days_played": 58,
   "spans": [
    [
-    "2018-04-30",
-    "2018-11-03"
+    "2018-05-01",
+    "2018-11-04"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "hours": 61.1,
   "hours_estimated": false,
   "estimated_from": [],
@@ -24104,13 +24581,16 @@
     "total": null,
     "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/b612307f3fcde34af44e3b4a54fee4cd.png",
     "days_played": 58,
-    "family_play": false,
+    "family_play": true,
     "span": [
-     "2018-04-30",
-     "2018-11-03"
+     "2018-05-01",
+     "2018-11-04"
     ],
-    "first": "2018-04-30",
-    "last": "2018-11-03"
+    "span_days": 58,
+    "span_minutes": 3664,
+    "day_minutes": {},
+    "first": "2018-05-01",
+    "last": "2018-11-04"
    }
   ],
   "img": "img/g/4e85f4d72ed66140.webp"
@@ -24119,36 +24599,36 @@
   "id": "super-mario-kart",
   "name": "Super Mario Kart",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/063dc42092d2a1a798a41cba29ee5c35.png",
-  "first": "2015-02-21",
-  "last": "2018-10-08",
+  "first": "2015-02-22",
+  "last": "2018-10-09",
   "days": [
-   "2015-02-21",
-   "2016-10-15",
+   "2015-02-22",
+   "2016-10-16",
    "2016-10-29",
-   "2018-07-03",
-   "2018-10-08"
+   "2018-07-04",
+   "2018-10-09"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-21",
-    "2016-10-15",
+    "2015-02-22",
+    "2016-10-16",
     "2016-10-29",
-    "2018-07-03",
-    "2018-10-08"
+    "2018-07-04",
+    "2018-10-09"
    ]
   },
   "days_played": 20,
   "spans": [
    [
-    "2015-02-21",
-    "2018-07-03"
+    "2015-02-22",
+    "2018-07-04"
    ],
    [
-    "2016-10-15",
-    "2018-10-08"
+    "2016-10-16",
+    "2018-10-09"
    ]
   ],
   "family_play": false,
@@ -24169,11 +24649,14 @@
     "days_played": 11,
     "family_play": false,
     "span": [
-     "2015-02-21",
-     "2018-07-03"
+     "2015-02-22",
+     "2018-07-04"
     ],
-    "first": "2015-02-21",
-    "last": "2018-07-03"
+    "span_days": 11,
+    "span_minutes": 58,
+    "day_minutes": {},
+    "first": "2015-02-22",
+    "last": "2018-07-04"
    },
    {
     "id": "nintendo:000400000f701400",
@@ -24187,11 +24670,14 @@
     "days_played": 9,
     "family_play": false,
     "span": [
-     "2016-10-15",
-     "2018-10-08"
+     "2016-10-16",
+     "2018-10-09"
     ],
-    "first": "2016-10-15",
-    "last": "2018-10-08"
+    "span_days": 9,
+    "span_minutes": 88,
+    "day_minutes": {},
+    "first": "2016-10-16",
+    "last": "2018-10-09"
    },
    {
     "id": "miiverse:Super Mario Kart",
@@ -24212,26 +24698,26 @@
   "id": "mario-kart-7",
   "name": "Mario Kart 7",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/c7b27aaea8d086f2d6cf89c1d61b8b2f.png",
-  "first": "2013-05-17",
-  "last": "2018-10-06",
+  "first": "2013-05-18",
+  "last": "2018-10-07",
   "days": [
-   "2013-05-17",
-   "2018-10-06"
+   "2013-05-18",
+   "2018-10-07"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-05-17",
-    "2018-10-06"
+    "2013-05-18",
+    "2018-10-07"
    ]
   },
   "days_played": 31,
   "spans": [
    [
-    "2013-05-17",
-    "2018-10-06"
+    "2013-05-18",
+    "2018-10-07"
    ]
   ],
   "family_play": false,
@@ -24252,11 +24738,14 @@
     "days_played": 31,
     "family_play": false,
     "span": [
-     "2013-05-17",
-     "2018-10-06"
+     "2013-05-18",
+     "2018-10-07"
     ],
-    "first": "2013-05-17",
-    "last": "2018-10-06"
+    "span_days": 31,
+    "span_minutes": 640,
+    "day_minutes": {},
+    "first": "2013-05-18",
+    "last": "2018-10-07"
    }
   ],
   "img": "img/g/65ff1a4e7e65a786.webp"
@@ -24308,6 +24797,9 @@
      "2018-09-15",
      "2018-09-16"
     ],
+    "span_days": 2,
+    "span_minutes": 33,
+    "day_minutes": {},
     "first": "2018-09-15",
     "last": "2018-09-16"
    }
@@ -24351,6 +24843,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-08-25": 24
+    },
     "first": "2018-08-25",
     "last": "2018-08-25"
    }
@@ -24361,26 +24858,26 @@
   "id": "super-mario-maker-for-nintendo-3ds",
   "name": "Super Mario Maker for Nintendo 3DS",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/6731e07330bb6ecf875c1dab863c0dc9.png",
-  "first": "2016-12-01",
-  "last": "2018-08-13",
+  "first": "2016-12-02",
+  "last": "2018-08-14",
   "days": [
-   "2016-12-01",
-   "2018-08-13"
+   "2016-12-02",
+   "2018-08-14"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-12-01",
-    "2018-08-13"
+    "2016-12-02",
+    "2018-08-14"
    ]
   },
   "days_played": 44,
   "spans": [
    [
-    "2016-12-01",
-    "2018-08-13"
+    "2016-12-02",
+    "2018-08-14"
    ]
   ],
   "family_play": false,
@@ -24401,11 +24898,14 @@
     "days_played": 44,
     "family_play": false,
     "span": [
-     "2016-12-01",
-     "2018-08-13"
+     "2016-12-02",
+     "2018-08-14"
     ],
-    "first": "2016-12-01",
-    "last": "2018-08-13"
+    "span_days": 44,
+    "span_minutes": 2061,
+    "day_minutes": {},
+    "first": "2016-12-02",
+    "last": "2018-08-14"
    }
   ],
   "img": "img/g/a802a5d2f9183546.webp"
@@ -24457,6 +24957,9 @@
      "2018-05-28",
      "2018-07-22"
     ],
+    "span_days": 2,
+    "span_minutes": 158,
+    "day_minutes": {},
     "first": "2018-05-28",
     "last": "2018-07-22"
    },
@@ -24564,26 +25067,26 @@
   "id": "street-fighter-ii-turbo-hyper-fighting",
   "name": "Street Fighter II Turbo Hyper Fighting",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/caa165e28fa0175b9041ab7681170d70.png",
-  "first": "2015-02-25",
-  "last": "2018-07-05",
+  "first": "2015-02-26",
+  "last": "2018-07-06",
   "days": [
-   "2015-02-25",
-   "2018-07-05"
+   "2015-02-26",
+   "2018-07-06"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-25",
-    "2018-07-05"
+    "2015-02-26",
+    "2018-07-06"
    ]
   },
   "days_played": 4,
   "spans": [
    [
-    "2015-02-25",
-    "2018-07-05"
+    "2015-02-26",
+    "2018-07-06"
    ]
   ],
   "family_play": false,
@@ -24604,11 +25107,14 @@
     "days_played": 4,
     "family_play": false,
     "span": [
-     "2015-02-25",
-     "2018-07-05"
+     "2015-02-26",
+     "2018-07-06"
     ],
-    "first": "2015-02-25",
-    "last": "2018-07-05"
+    "span_days": 4,
+    "span_minutes": 33,
+    "day_minutes": {},
+    "first": "2015-02-26",
+    "last": "2018-07-06"
    }
   ],
   "img": "img/g/0f0c1d3f7baf4327.webp"
@@ -24617,40 +25123,40 @@
   "id": "super-mario-world",
   "name": "Super Mario World",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/afbb32b43ab11b306deca265d76e8dee.png",
-  "first": "2014-10-21",
-  "last": "2018-07-03",
+  "first": "2014-10-22",
+  "last": "2018-07-04",
   "days": [
-   "2014-10-21",
+   "2014-10-22",
    "2015-08-14",
-   "2016-10-09",
+   "2016-10-10",
    "2016-11-22",
    "2016-11-24",
-   "2018-06-09",
-   "2018-07-03"
+   "2018-06-10",
+   "2018-07-04"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-10-21",
+    "2014-10-22",
     "2015-08-14",
-    "2016-10-09",
+    "2016-10-10",
     "2016-11-22",
     "2016-11-24",
-    "2018-06-09",
-    "2018-07-03"
+    "2018-06-10",
+    "2018-07-04"
    ]
   },
   "days_played": 57,
   "spans": [
    [
-    "2014-10-21",
-    "2018-07-03"
+    "2014-10-22",
+    "2018-07-04"
    ],
    [
-    "2016-10-09",
-    "2018-06-09"
+    "2016-10-10",
+    "2018-06-10"
    ]
   ],
   "family_play": false,
@@ -24671,16 +25177,19 @@
     "days_played": 26,
     "family_play": false,
     "span": [
-     "2014-10-21",
-     "2018-07-03"
+     "2014-10-22",
+     "2018-07-04"
     ],
-    "first": "2014-10-21",
-    "last": "2018-07-03"
+    "span_days": 26,
+    "span_minutes": 353,
+    "day_minutes": {},
+    "first": "2014-10-22",
+    "last": "2018-07-04"
    },
    {
     "id": "miiverse:Super Mario World",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "Wii U",
     "name": "Super Mario World",
     "minutes": null,
     "earned": null,
@@ -24701,11 +25210,14 @@
     "days_played": 31,
     "family_play": false,
     "span": [
-     "2016-10-09",
-     "2018-06-09"
+     "2016-10-10",
+     "2018-06-10"
     ],
-    "first": "2016-10-09",
-    "last": "2018-06-09"
+    "span_days": 31,
+    "span_minutes": 396,
+    "day_minutes": {},
+    "first": "2016-10-10",
+    "last": "2018-06-10"
    }
   ],
   "img": "img/g/0718b1892b3785f6.webp"
@@ -24714,34 +25226,34 @@
   "id": "super-mario-bros-3",
   "name": "Super Mario Bros. 3",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/c91c9a5e680bb4d87dfb962cc032d80d.png",
-  "first": "2014-09-19",
-  "last": "2018-07-03",
+  "first": "2014-09-20",
+  "last": "2018-07-04",
   "days": [
-   "2014-09-19",
-   "2014-09-26",
-   "2015-02-20",
-   "2018-07-03"
+   "2014-09-20",
+   "2014-09-27",
+   "2015-02-21",
+   "2018-07-04"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-09-19",
-    "2014-09-26",
-    "2015-02-20",
-    "2018-07-03"
+    "2014-09-20",
+    "2014-09-27",
+    "2015-02-21",
+    "2018-07-04"
    ]
   },
   "days_played": 9,
   "spans": [
    [
-    "2014-09-19",
-    "2014-09-26"
+    "2014-09-20",
+    "2014-09-27"
    ],
    [
-    "2015-02-20",
-    "2018-07-03"
+    "2015-02-21",
+    "2018-07-04"
    ]
   ],
   "family_play": false,
@@ -24762,11 +25274,14 @@
     "days_played": 3,
     "family_play": false,
     "span": [
-     "2014-09-19",
-     "2014-09-26"
+     "2014-09-20",
+     "2014-09-27"
     ],
-    "first": "2014-09-19",
-    "last": "2014-09-26"
+    "span_days": 3,
+    "span_minutes": 19,
+    "day_minutes": {},
+    "first": "2014-09-20",
+    "last": "2014-09-27"
    },
    {
     "id": "nintendo:0005000010107000",
@@ -24780,11 +25295,14 @@
     "days_played": 6,
     "family_play": false,
     "span": [
-     "2015-02-20",
-     "2018-07-03"
+     "2015-02-21",
+     "2018-07-04"
     ],
-    "first": "2015-02-20",
-    "last": "2018-07-03"
+    "span_days": 6,
+    "span_minutes": 37,
+    "day_minutes": {},
+    "first": "2015-02-21",
+    "last": "2018-07-04"
    }
   ],
   "img": "img/g/f1b4b2137a6e6d46.webp"
@@ -24793,34 +25311,34 @@
   "id": "super-mario-bros",
   "name": "Super Mario Bros.",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/b5bf771358e7830d89d49e87042e8cd3.png",
-  "first": "2013-04-25",
-  "last": "2018-07-03",
+  "first": "2013-04-26",
+  "last": "2018-07-04",
   "days": [
-   "2013-04-25",
-   "2014-11-06",
-   "2015-02-20",
-   "2018-07-03"
+   "2013-04-26",
+   "2014-11-07",
+   "2015-02-21",
+   "2018-07-04"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-04-25",
-    "2014-11-06",
-    "2015-02-20",
-    "2018-07-03"
+    "2013-04-26",
+    "2014-11-07",
+    "2015-02-21",
+    "2018-07-04"
    ]
   },
   "days_played": 16,
   "spans": [
    [
-    "2013-04-25",
-    "2014-11-06"
+    "2013-04-26",
+    "2014-11-07"
    ],
    [
-    "2015-02-20",
-    "2018-07-03"
+    "2015-02-21",
+    "2018-07-04"
    ]
   ],
   "family_play": false,
@@ -24841,11 +25359,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2013-04-25",
-     "2014-11-06"
+     "2013-04-26",
+     "2014-11-07"
     ],
-    "first": "2013-04-25",
-    "last": "2014-11-06"
+    "span_days": 2,
+    "span_minutes": 14,
+    "day_minutes": {},
+    "first": "2013-04-26",
+    "last": "2014-11-07"
    },
    {
     "id": "nintendo:0005000010106d00",
@@ -24859,11 +25380,14 @@
     "days_played": 14,
     "family_play": false,
     "span": [
-     "2015-02-20",
-     "2018-07-03"
+     "2015-02-21",
+     "2018-07-04"
     ],
-    "first": "2015-02-20",
-    "last": "2018-07-03"
+    "span_days": 14,
+    "span_minutes": 111,
+    "day_minutes": {},
+    "first": "2015-02-21",
+    "last": "2018-07-04"
    }
   ],
   "img": "img/g/26689662130bab74.webp"
@@ -24872,26 +25396,26 @@
   "id": "mario-and-luigi-superstar-saga",
   "name": "Mario & Luigi: Superstar Saga",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/f2088a518f59c367537b3480e1e715f7.png",
-  "first": "2014-11-15",
-  "last": "2018-07-03",
+  "first": "2014-11-16",
+  "last": "2018-07-04",
   "days": [
-   "2014-11-15",
-   "2018-07-03"
+   "2014-11-16",
+   "2018-07-04"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-11-15",
-    "2018-07-03"
+    "2014-11-16",
+    "2018-07-04"
    ]
   },
   "days_played": 3,
   "spans": [
    [
-    "2014-11-15",
-    "2018-07-03"
+    "2014-11-16",
+    "2018-07-04"
    ]
   ],
   "family_play": false,
@@ -24912,11 +25436,14 @@
     "days_played": 3,
     "family_play": false,
     "span": [
-     "2014-11-15",
-     "2018-07-03"
+     "2014-11-16",
+     "2018-07-04"
     ],
-    "first": "2014-11-15",
-    "last": "2018-07-03"
+    "span_days": 3,
+    "span_minutes": 128,
+    "day_minutes": {},
+    "first": "2014-11-16",
+    "last": "2018-07-04"
    }
   ],
   "img": "img/g/6318c10108fc676a.webp"
@@ -24925,26 +25452,26 @@
   "id": "donkey-kong-country-3-dixie-kong-s-double-trouble",
   "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/5e02dc1502e7989b0cfda43f57944fb4.png",
-  "first": "2015-08-07",
-  "last": "2018-07-03",
+  "first": "2015-08-08",
+  "last": "2018-07-04",
   "days": [
-   "2015-08-07",
-   "2018-07-03"
+   "2015-08-08",
+   "2018-07-04"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-08-07",
-    "2018-07-03"
+    "2015-08-08",
+    "2018-07-04"
    ]
   },
   "days_played": 7,
   "spans": [
    [
-    "2015-08-07",
-    "2018-07-03"
+    "2015-08-08",
+    "2018-07-04"
    ]
   ],
   "family_play": false,
@@ -24965,11 +25492,14 @@
     "days_played": 7,
     "family_play": false,
     "span": [
-     "2015-08-07",
-     "2018-07-03"
+     "2015-08-08",
+     "2018-07-04"
     ],
-    "first": "2015-08-07",
-    "last": "2018-07-03"
+    "span_days": 7,
+    "span_minutes": 108,
+    "day_minutes": {},
+    "first": "2015-08-08",
+    "last": "2018-07-04"
    }
   ],
   "img": "img/g/87aed6c0b4753efd.webp"
@@ -24979,10 +25509,10 @@
   "name": "The Legend of Zelda: A Link Between Worlds",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/fdf61796d0ce849e7139ca4c01d7b401.png",
   "first": "2015-03-22",
-  "last": "2018-07-02",
+  "last": "2018-07-03",
   "days": [
    "2015-03-22",
-   "2018-07-02"
+   "2018-07-03"
   ],
   "families": [
    "Nintendo"
@@ -24990,7 +25520,7 @@
   "days_by_family": {
    "Nintendo": [
     "2015-03-22",
-    "2018-07-02"
+    "2018-07-03"
    ]
   },
   "days_played": 67,
@@ -25004,7 +25534,7 @@
    {
     "id": "miiverse:The Legend of Zelda: A Link Between Worlds",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "3DS",
     "name": "The Legend of Zelda: A Link Between Worlds",
     "minutes": null,
     "earned": null,
@@ -25025,8 +25555,13 @@
     "days_played": 67,
     "family_play": false,
     "span": null,
-    "first": "2018-07-02",
-    "last": "2018-07-02"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-07-03": 2926
+    },
+    "first": "2018-07-03",
+    "last": "2018-07-03"
    }
   ],
   "img": "img/g/b8b071f7ccebfe75.webp"
@@ -25035,17 +25570,17 @@
   "id": "star-fox-64-3d",
   "name": "Star Fox 64 3D",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/a36f1db7616717271ae8cf60c2bf27ee.png",
-  "first": "2018-07-02",
-  "last": "2018-07-02",
+  "first": "2018-07-03",
+  "last": "2018-07-03",
   "days": [
-   "2018-07-02"
+   "2018-07-03"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2018-07-02"
+    "2018-07-03"
    ]
   },
   "days_played": 41,
@@ -25068,8 +25603,13 @@
     "days_played": 41,
     "family_play": false,
     "span": null,
-    "first": "2018-07-02",
-    "last": "2018-07-02"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-07-03": 819
+    },
+    "first": "2018-07-03",
+    "last": "2018-07-03"
    }
   ],
   "img": "img/g/d3b79f2903436043.webp"
@@ -25121,6 +25661,9 @@
      "2017-03-04",
      "2018-06-30"
     ],
+    "span_days": 2,
+    "span_minutes": 24,
+    "day_minutes": {},
     "first": "2017-03-04",
     "last": "2018-06-30"
    }
@@ -25174,6 +25717,9 @@
      "2017-12-22",
      "2018-06-24"
     ],
+    "span_days": 7,
+    "span_minutes": 63,
+    "day_minutes": {},
     "first": "2017-12-22",
     "last": "2018-06-24"
    }
@@ -25236,6 +25782,9 @@
      "2017-10-03",
      "2017-10-07"
     ],
+    "span_days": 3,
+    "span_minutes": 153,
+    "day_minutes": {},
     "first": "2017-10-03",
     "last": "2017-10-07"
    },
@@ -25327,6 +25876,9 @@
      "2018-06-08",
      "2018-06-09"
     ],
+    "span_days": 2,
+    "span_minutes": 21,
+    "day_minutes": {},
     "first": "2018-06-08",
     "last": "2018-06-09"
    }
@@ -25417,17 +25969,17 @@
   "id": "super-mario-3d-land",
   "name": "Super Mario 3D Land",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/a080736519049603fd60b87f4a354644.png",
-  "first": "2018-05-19",
-  "last": "2018-05-19",
+  "first": "2018-05-20",
+  "last": "2018-05-20",
   "days": [
-   "2018-05-19"
+   "2018-05-20"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2018-05-19"
+    "2018-05-20"
    ]
   },
   "days_played": 66,
@@ -25450,8 +26002,13 @@
     "days_played": 66,
     "family_play": false,
     "span": null,
-    "first": "2018-05-19",
-    "last": "2018-05-19"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-05-20": 1292
+    },
+    "first": "2018-05-20",
+    "last": "2018-05-20"
    }
   ],
   "img": "img/g/acda007ee94548b9.webp"
@@ -25460,30 +26017,30 @@
   "id": "donkey-kong-country",
   "name": "Donkey Kong Country",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/117d21cd12ded34902fbc9456ca35e25.png",
-  "first": "2015-02-25",
-  "last": "2018-05-19",
+  "first": "2015-02-26",
+  "last": "2018-05-20",
   "days": [
-   "2015-02-25",
+   "2015-02-26",
    "2015-03-22",
-   "2016-05-05",
-   "2018-05-19"
+   "2016-05-06",
+   "2018-05-20"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-25",
+    "2015-02-26",
     "2015-03-22",
-    "2016-05-05",
-    "2018-05-19"
+    "2016-05-06",
+    "2018-05-20"
    ]
   },
   "days_played": 36,
   "spans": [
    [
-    "2015-02-25",
-    "2016-05-05"
+    "2015-02-26",
+    "2016-05-06"
    ]
   ],
   "family_play": false,
@@ -25504,16 +26061,19 @@
     "days_played": 12,
     "family_play": false,
     "span": [
-     "2015-02-25",
-     "2016-05-05"
+     "2015-02-26",
+     "2016-05-06"
     ],
-    "first": "2015-02-25",
-    "last": "2016-05-05"
+    "span_days": 12,
+    "span_minutes": 172,
+    "day_minutes": {},
+    "first": "2015-02-26",
+    "last": "2016-05-06"
    },
    {
     "id": "miiverse:Donkey Kong Country",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "Wii U",
     "name": "Donkey Kong Country",
     "minutes": null,
     "earned": null,
@@ -25534,8 +26094,13 @@
     "days_played": 24,
     "family_play": false,
     "span": null,
-    "first": "2018-05-19",
-    "last": "2018-05-19"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-05-20": 163
+    },
+    "first": "2018-05-20",
+    "last": "2018-05-20"
    }
   ],
   "img": "img/g/5cb025780f33884b.webp"
@@ -25651,28 +26216,28 @@
   "id": "new-super-mario-bros-2",
   "name": "New Super Mario Bros. 2",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ea1be00449129f9770e8f099b39b2e5b.png",
-  "first": "2016-12-23",
-  "last": "2018-04-24",
+  "first": "2016-12-24",
+  "last": "2018-04-25",
   "days": [
-   "2016-12-23",
+   "2016-12-24",
    "2016-12-29",
-   "2018-04-24"
+   "2018-04-25"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-12-23",
+    "2016-12-24",
     "2016-12-29",
-    "2018-04-24"
+    "2018-04-25"
    ]
   },
   "days_played": 16,
   "spans": [
    [
-    "2016-12-23",
-    "2018-04-24"
+    "2016-12-24",
+    "2018-04-25"
    ]
   ],
   "family_play": false,
@@ -25693,16 +26258,19 @@
     "days_played": 16,
     "family_play": false,
     "span": [
-     "2016-12-23",
-     "2018-04-24"
+     "2016-12-24",
+     "2018-04-25"
     ],
-    "first": "2016-12-23",
-    "last": "2018-04-24"
+    "span_days": 16,
+    "span_minutes": 339,
+    "day_minutes": {},
+    "first": "2016-12-24",
+    "last": "2018-04-25"
    },
    {
     "id": "miiverse:New Super Mario Bros. 2",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "3DS",
     "name": "New Super Mario Bros. 2",
     "minutes": null,
     "earned": null,
@@ -25718,17 +26286,17 @@
   "id": "ultimate-nes-remix",
   "name": "Ultimate NES Remix",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/010219b8b58dd24b2fb11cf1b695a5b0.png",
-  "first": "2018-04-15",
-  "last": "2018-04-15",
+  "first": "2018-04-16",
+  "last": "2018-04-16",
   "days": [
-   "2018-04-15"
+   "2018-04-16"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2018-04-15"
+    "2018-04-16"
    ]
   },
   "days_played": 24,
@@ -25751,8 +26319,13 @@
     "days_played": 24,
     "family_play": false,
     "span": null,
-    "first": "2018-04-15",
-    "last": "2018-04-15"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-04-16": 447
+    },
+    "first": "2018-04-16",
+    "last": "2018-04-16"
    }
   ],
   "img": "img/g/a4dd9d6b0c84d52f.webp"
@@ -25761,17 +26334,17 @@
   "id": "the-legend-of-zelda-ocarina-of-time-3d",
   "name": "The Legend of Zelda: Ocarina of Time 3D",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/aa5d7abf298d9104e33bf2012cb15dcc.png",
-  "first": "2018-04-08",
-  "last": "2018-04-08",
+  "first": "2018-04-09",
+  "last": "2018-04-09",
   "days": [
-   "2018-04-08"
+   "2018-04-09"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2018-04-08"
+    "2018-04-09"
    ]
   },
   "days_played": 26,
@@ -25794,8 +26367,13 @@
     "days_played": 26,
     "family_play": false,
     "span": null,
-    "first": "2018-04-08",
-    "last": "2018-04-08"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-04-09": 741
+    },
+    "first": "2018-04-09",
+    "last": "2018-04-09"
    }
   ],
   "img": "img/g/d3ae82e86cb2c9e3.webp"
@@ -25837,6 +26415,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-03-30": 7
+    },
     "first": "2018-03-30",
     "last": "2018-03-30"
    },
@@ -25912,6 +26495,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-01-26": 1
+    },
     "first": "2018-01-26",
     "last": "2018-01-26"
    },
@@ -25935,26 +26523,26 @@
   "id": "captain-toad-treasure-tracker",
   "name": "Captain Toad: Treasure Tracker",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/b1e7f21f6602030a6ddfb3f8bef1a77d.png",
-  "first": "2015-03-19",
-  "last": "2018-03-05",
+  "first": "2015-03-20",
+  "last": "2018-03-06",
   "days": [
-   "2015-03-19",
-   "2018-03-05"
+   "2015-03-20",
+   "2018-03-06"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-03-19",
-    "2018-03-05"
+    "2015-03-20",
+    "2018-03-06"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2015-03-19",
-    "2018-03-05"
+    "2015-03-20",
+    "2018-03-06"
    ]
   ],
   "family_play": false,
@@ -25975,11 +26563,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2015-03-19",
-     "2018-03-05"
+     "2015-03-20",
+     "2018-03-06"
     ],
-    "first": "2015-03-19",
-    "last": "2018-03-05"
+    "span_days": 2,
+    "span_minutes": 16,
+    "day_minutes": {},
+    "first": "2015-03-20",
+    "last": "2018-03-06"
    }
   ],
   "img": "img/g/786f73aa7cc0b6ef.webp"
@@ -26031,36 +26622,36 @@
   "id": "the-legend-of-zelda-a-link-to-the-past",
   "name": "The Legend of Zelda: A Link to the Past",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/2d14956379595fbb39685ea1bdfd4c87.png",
-  "first": "2015-03-17",
-  "last": "2018-02-22",
+  "first": "2015-03-18",
+  "last": "2018-02-23",
   "days": [
-   "2015-03-17",
-   "2016-05-05",
-   "2016-09-16",
+   "2015-03-18",
+   "2016-05-06",
+   "2016-09-17",
    "2016-11-26",
-   "2018-02-22"
+   "2018-02-23"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-03-17",
-    "2016-05-05",
-    "2016-09-16",
+    "2015-03-18",
+    "2016-05-06",
+    "2016-09-17",
     "2016-11-26",
-    "2018-02-22"
+    "2018-02-23"
    ]
   },
   "days_played": 22,
   "spans": [
    [
-    "2015-03-17",
-    "2016-05-05"
+    "2015-03-18",
+    "2016-05-06"
    ],
    [
-    "2016-09-16",
-    "2018-02-22"
+    "2016-09-17",
+    "2018-02-23"
    ]
   ],
   "family_play": false,
@@ -26081,11 +26672,14 @@
     "days_played": 9,
     "family_play": false,
     "span": [
-     "2015-03-17",
-     "2016-05-05"
+     "2015-03-18",
+     "2016-05-06"
     ],
-    "first": "2015-03-17",
-    "last": "2016-05-05"
+    "span_days": 9,
+    "span_minutes": 88,
+    "day_minutes": {},
+    "first": "2015-03-18",
+    "last": "2016-05-06"
    },
    {
     "id": "nintendo:000400000f701000",
@@ -26099,16 +26693,19 @@
     "days_played": 13,
     "family_play": false,
     "span": [
-     "2016-09-16",
-     "2018-02-22"
+     "2016-09-17",
+     "2018-02-23"
     ],
-    "first": "2016-09-16",
-    "last": "2018-02-22"
+    "span_days": 13,
+    "span_minutes": 141,
+    "day_minutes": {},
+    "first": "2016-09-17",
+    "last": "2018-02-23"
    },
    {
     "id": "miiverse:The Legend of Zelda: A Link to the Past",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "3DS",
     "name": "The Legend of Zelda: A Link to the Past",
     "minutes": null,
     "earned": null,
@@ -26124,26 +26721,26 @@
   "id": "super-metroid",
   "name": "Super Metroid",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/937f1721bddb862ab2fedb2eef102003.png",
-  "first": "2016-10-09",
-  "last": "2018-02-22",
+  "first": "2016-10-10",
+  "last": "2018-02-23",
   "days": [
-   "2016-10-09",
-   "2018-02-22"
+   "2016-10-10",
+   "2018-02-23"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-10-09",
-    "2018-02-22"
+    "2016-10-10",
+    "2018-02-23"
    ]
   },
   "days_played": 7,
   "spans": [
    [
-    "2016-10-09",
-    "2018-02-22"
+    "2016-10-10",
+    "2018-02-23"
    ]
   ],
   "family_play": false,
@@ -26164,11 +26761,14 @@
     "days_played": 7,
     "family_play": false,
     "span": [
-     "2016-10-09",
-     "2018-02-22"
+     "2016-10-10",
+     "2018-02-23"
     ],
-    "first": "2016-10-09",
-    "last": "2018-02-22"
+    "span_days": 7,
+    "span_minutes": 59,
+    "day_minutes": {},
+    "first": "2016-10-10",
+    "last": "2018-02-23"
    }
   ],
   "img": "img/g/c180f93aa65f6970.webp"
@@ -26222,6 +26822,9 @@
      "2017-12-26",
      "2018-02-17"
     ],
+    "span_days": 4,
+    "span_minutes": 23,
+    "day_minutes": {},
     "first": "2017-12-26",
     "last": "2018-02-17"
    },
@@ -26246,10 +26849,10 @@
   "name": "Pocket Card Jockey",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/d0822b9b7cd553879d2c1da39e2016f6.png",
   "first": "2017-01-22",
-  "last": "2018-02-14",
+  "last": "2018-02-15",
   "days": [
    "2017-01-22",
-   "2018-02-14"
+   "2018-02-15"
   ],
   "families": [
    "Nintendo"
@@ -26257,7 +26860,7 @@
   "days_by_family": {
    "Nintendo": [
     "2017-01-22",
-    "2018-02-14"
+    "2018-02-15"
    ]
   },
   "days_played": 15,
@@ -26271,7 +26874,7 @@
    {
     "id": "miiverse:Pocket Card Jockey",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "3DS",
     "name": "Pocket Card Jockey",
     "minutes": null,
     "earned": null,
@@ -26292,8 +26895,13 @@
     "days_played": 15,
     "family_play": false,
     "span": null,
-    "first": "2018-02-14",
-    "last": "2018-02-14"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-02-15": 389
+    },
+    "first": "2018-02-15",
+    "last": "2018-02-15"
    }
   ],
   "img": "img/g/18b7551b89713c7f.webp"
@@ -26377,6 +26985,9 @@
      "2017-09-15",
      "2018-02-04"
     ],
+    "span_days": 31,
+    "span_minutes": 2469,
+    "day_minutes": {},
     "first": "2017-09-15",
     "last": "2018-02-04"
    },
@@ -26443,6 +27054,9 @@
      "2018-01-28",
      "2018-02-04"
     ],
+    "span_days": 4,
+    "span_minutes": 45,
+    "day_minutes": {},
     "first": "2018-01-28",
     "last": "2018-02-04"
    },
@@ -26499,6 +27113,11 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2018-02-04": 35
+    },
     "first": "2018-02-04",
     "last": "2018-02-04"
    },
@@ -26781,6 +27400,9 @@
      "2017-12-26",
      "2017-12-28"
     ],
+    "span_days": 2,
+    "span_minutes": 65,
+    "day_minutes": {},
     "first": "2017-12-26",
     "last": "2017-12-28"
    }
@@ -26834,6 +27456,9 @@
      "2017-12-17",
      "2017-12-21"
     ],
+    "span_days": 2,
+    "span_minutes": 13,
+    "day_minutes": {},
     "first": "2017-12-17",
     "last": "2017-12-21"
    }
@@ -26887,6 +27512,9 @@
      "2017-12-16",
      "2017-12-17"
     ],
+    "span_days": 2,
+    "span_minutes": 53,
+    "day_minutes": {},
     "first": "2017-12-16",
     "last": "2017-12-17"
    },
@@ -27011,6 +27639,9 @@
      "2017-09-02",
      "2017-09-10"
     ],
+    "span_days": 5,
+    "span_minutes": 132,
+    "day_minutes": {},
     "first": "2017-09-02",
     "last": "2017-09-10"
    },
@@ -27077,6 +27708,9 @@
      "2017-08-16",
      "2017-09-02"
     ],
+    "span_days": 2,
+    "span_minutes": 25,
+    "day_minutes": {},
     "first": "2017-08-16",
     "last": "2017-09-02"
    },
@@ -27152,32 +27786,32 @@
   "id": "super-mario-rpg-legend-of-the-seven-stars",
   "name": "Super Mario RPG: Legend of the Seven Stars",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/cc2441ac8be1d1b52d07509aa26c5609.png",
-  "first": "2016-06-30",
-  "last": "2017-05-28",
+  "first": "2016-07-01",
+  "last": "2017-05-29",
   "days": [
-   "2016-06-30",
+   "2016-07-01",
    "2016-07-10",
    "2016-07-17",
    "2016-07-23",
-   "2017-05-28"
+   "2017-05-29"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-06-30",
+    "2016-07-01",
     "2016-07-10",
     "2016-07-17",
     "2016-07-23",
-    "2017-05-28"
+    "2017-05-29"
    ]
   },
   "days_played": 11,
   "spans": [
    [
-    "2016-06-30",
-    "2017-05-28"
+    "2016-07-01",
+    "2017-05-29"
    ]
   ],
   "family_play": false,
@@ -27198,16 +27832,19 @@
     "days_played": 11,
     "family_play": false,
     "span": [
-     "2016-06-30",
-     "2017-05-28"
+     "2016-07-01",
+     "2017-05-29"
     ],
-    "first": "2016-06-30",
-    "last": "2017-05-28"
+    "span_days": 11,
+    "span_minutes": 671,
+    "day_minutes": {},
+    "first": "2016-07-01",
+    "last": "2017-05-29"
    },
    {
     "id": "miiverse:Super Mario RPG: Legend of the Seven Stars",
     "family": "Nintendo",
-    "platform": "Wii U/3DS",
+    "platform": "Wii U",
     "name": "Super Mario RPG: Legend of the Seven Stars",
     "minutes": null,
     "earned": null,
@@ -27223,36 +27860,34 @@
   "id": "super-punch-out",
   "name": "Super Punch-Out!!",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/c14b5c37e74fc0ae6faa35d14ced5e08.png",
-  "first": "2015-02-20",
-  "last": "2017-05-25",
+  "first": "2015-02-21",
+  "last": "2017-05-26",
   "days": [
-   "2015-02-20",
    "2015-02-21",
-   "2016-01-21",
-   "2016-09-20",
-   "2017-05-25"
+   "2016-01-22",
+   "2016-09-21",
+   "2017-05-26"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-20",
     "2015-02-21",
-    "2016-01-21",
-    "2016-09-20",
-    "2017-05-25"
+    "2016-01-22",
+    "2016-09-21",
+    "2017-05-26"
    ]
   },
   "days_played": 11,
   "spans": [
    [
-    "2015-02-20",
-    "2016-01-21"
+    "2015-02-21",
+    "2016-01-22"
    ],
    [
-    "2016-09-20",
-    "2017-05-25"
+    "2016-09-21",
+    "2017-05-26"
    ]
   ],
   "family_play": false,
@@ -27261,6 +27896,18 @@
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "miiverse:Super Punch-Out!!",
+    "family": "Nintendo",
+    "platform": "Wii U",
+    "name": "Super Punch-Out!!",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "img/miiverse/14866558073110687368.png",
+    "first": "2015-02-21",
+    "last": "2015-02-21"
+   },
    {
     "id": "nintendo:0005000010159100",
     "family": "Nintendo",
@@ -27273,23 +27920,14 @@
     "days_played": 3,
     "family_play": false,
     "span": [
-     "2015-02-20",
-     "2016-01-21"
+     "2015-02-21",
+     "2016-01-22"
     ],
-    "first": "2015-02-20",
-    "last": "2016-01-21"
-   },
-   {
-    "id": "miiverse:Super Punch-Out!!",
-    "family": "Nintendo",
-    "platform": "Wii U/3DS",
-    "name": "Super Punch-Out!!",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "art": "img/miiverse/14866558073110687368.png",
+    "span_days": 3,
+    "span_minutes": 49,
+    "day_minutes": {},
     "first": "2015-02-21",
-    "last": "2015-02-21"
+    "last": "2016-01-22"
    },
    {
     "id": "nintendo:000400000f702400",
@@ -27303,11 +27941,14 @@
     "days_played": 8,
     "family_play": false,
     "span": [
-     "2016-09-20",
-     "2017-05-25"
+     "2016-09-21",
+     "2017-05-26"
     ],
-    "first": "2016-09-20",
-    "last": "2017-05-25"
+    "span_days": 8,
+    "span_minutes": 61,
+    "day_minutes": {},
+    "first": "2016-09-21",
+    "last": "2017-05-26"
    }
   ],
   "img": "img/g/b7df796f9f06e756.webp"
@@ -27359,6 +28000,9 @@
      "2017-03-17",
      "2017-03-31"
     ],
+    "span_days": 2,
+    "span_minutes": 67,
+    "day_minutes": {},
     "first": "2017-03-17",
     "last": "2017-03-31"
    }
@@ -27369,26 +28013,26 @@
   "id": "yoshi-s-new-island",
   "name": "Yoshi's New Island",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/910e7f1ec85d2ed3b6084ef8ef7c12ea.png",
-  "first": "2016-12-24",
-  "last": "2017-01-02",
+  "first": "2016-12-25",
+  "last": "2017-01-03",
   "days": [
-   "2016-12-24",
-   "2017-01-02"
+   "2016-12-25",
+   "2017-01-03"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-12-24",
-    "2017-01-02"
+    "2016-12-25",
+    "2017-01-03"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2016-12-24",
-    "2017-01-02"
+    "2016-12-25",
+    "2017-01-03"
    ]
   ],
   "family_play": false,
@@ -27409,11 +28053,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2016-12-24",
-     "2017-01-02"
+     "2016-12-25",
+     "2017-01-03"
     ],
-    "first": "2016-12-24",
-    "last": "2017-01-02"
+    "span_days": 2,
+    "span_minutes": 18,
+    "day_minutes": {},
+    "first": "2016-12-25",
+    "last": "2017-01-03"
    }
   ],
   "img": "img/g/8e36cda7cb6aa9cc.webp"
@@ -27422,17 +28069,17 @@
   "id": "super-mario-galaxy",
   "name": "Super Mario Galaxy",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/3bae7a378c4921db8fadd1280bc3db29.png",
-  "first": "2016-12-23",
-  "last": "2016-12-23",
+  "first": "2016-12-24",
+  "last": "2016-12-24",
   "days": [
-   "2016-12-23"
+   "2016-12-24"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-12-23"
+    "2016-12-24"
    ]
   },
   "days_played": 1,
@@ -27455,8 +28102,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2016-12-23",
-    "last": "2016-12-23"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2016-12-24": 41
+    },
+    "first": "2016-12-24",
+    "last": "2016-12-24"
    }
   ],
   "img": "img/g/e14eeb130258a249.webp"
@@ -27510,10 +28162,9 @@
   "id": "wario-land-super-mario-land-3",
   "name": "Wario Land: Super Mario Land 3",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/0ce1b0c91e4c564d5e0a79aa85519416.png",
-  "first": "2016-11-21",
+  "first": "2016-11-22",
   "last": "2016-11-22",
   "days": [
-   "2016-11-21",
    "2016-11-22"
   ],
   "families": [
@@ -27521,7 +28172,6 @@
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-11-21",
     "2016-11-22"
    ]
   },
@@ -27534,6 +28184,18 @@
   "sessions": null,
   "entries": [
    {
+    "id": "miiverse:Wario Land: Super Mario Land 3",
+    "family": "Nintendo",
+    "platform": "3DS",
+    "name": "Wario Land: Super Mario Land 3",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "img/miiverse/14866558073167744845.png",
+    "first": "2016-11-22",
+    "last": "2016-11-22"
+   },
+   {
     "id": "nintendo:0004000000057c00",
     "family": "Nintendo",
     "platform": "3DS",
@@ -27545,18 +28207,11 @@
     "days_played": 20,
     "family_play": false,
     "span": null,
-    "first": "2016-11-21",
-    "last": "2016-11-21"
-   },
-   {
-    "id": "miiverse:Wario Land: Super Mario Land 3",
-    "family": "Nintendo",
-    "platform": "Wii U/3DS",
-    "name": "Wario Land: Super Mario Land 3",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "art": "img/miiverse/14866558073167744845.png",
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2016-11-22": 267
+    },
     "first": "2016-11-22",
     "last": "2016-11-22"
    }
@@ -27567,26 +28222,26 @@
   "id": "super-mario-galaxy-2",
   "name": "Super Mario Galaxy 2",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/1488c7ff13f27164014a8f965fa4bc3a.png",
-  "first": "2015-01-30",
-  "last": "2016-10-22",
+  "first": "2015-01-31",
+  "last": "2016-10-23",
   "days": [
-   "2015-01-30",
-   "2016-10-22"
+   "2015-01-31",
+   "2016-10-23"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-01-30",
-    "2016-10-22"
+    "2015-01-31",
+    "2016-10-23"
    ]
   },
   "days_played": 9,
   "spans": [
    [
-    "2015-01-30",
-    "2016-10-22"
+    "2015-01-31",
+    "2016-10-23"
    ]
   ],
   "family_play": false,
@@ -27607,11 +28262,14 @@
     "days_played": 9,
     "family_play": false,
     "span": [
-     "2015-01-30",
-     "2016-10-22"
+     "2015-01-31",
+     "2016-10-23"
     ],
-    "first": "2015-01-30",
-    "last": "2016-10-22"
+    "span_days": 9,
+    "span_minutes": 395,
+    "day_minutes": {},
+    "first": "2015-01-31",
+    "last": "2016-10-23"
    }
   ],
   "img": "img/g/2165abf3a9e351a7.webp"
@@ -27620,26 +28278,26 @@
   "id": "punch-out",
   "name": "Punch-Out!!",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/eb606dae6123618e7d9a61e67ce1e1a6.png",
-  "first": "2015-02-14",
-  "last": "2016-10-22",
+  "first": "2015-02-15",
+  "last": "2016-10-23",
   "days": [
-   "2015-02-14",
-   "2016-10-22"
+   "2015-02-15",
+   "2016-10-23"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-14",
-    "2016-10-22"
+    "2015-02-15",
+    "2016-10-23"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2015-02-14",
-    "2016-10-22"
+    "2015-02-15",
+    "2016-10-23"
    ]
   ],
   "family_play": false,
@@ -27660,11 +28318,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2015-02-14",
-     "2016-10-22"
+     "2015-02-15",
+     "2016-10-23"
     ],
-    "first": "2015-02-14",
-    "last": "2016-10-22"
+    "span_days": 2,
+    "span_minutes": 20,
+    "day_minutes": {},
+    "first": "2015-02-15",
+    "last": "2016-10-23"
    }
   ],
   "img": "img/g/9e621efe83179a17.webp"
@@ -27742,26 +28403,26 @@
   "id": "3d-sonic-the-hedgehog-2",
   "name": "3D Sonic The Hedgehog 2",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/91892c1458a1aa86a6cbafdb56356a0a.png",
-  "first": "2016-09-20",
-  "last": "2016-10-14",
+  "first": "2016-09-21",
+  "last": "2016-10-15",
   "days": [
-   "2016-09-20",
-   "2016-10-14"
+   "2016-09-21",
+   "2016-10-15"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-09-20",
-    "2016-10-14"
+    "2016-09-21",
+    "2016-10-15"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2016-09-20",
-    "2016-10-14"
+    "2016-09-21",
+    "2016-10-15"
    ]
   ],
   "family_play": false,
@@ -27782,11 +28443,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2016-09-20",
-     "2016-10-14"
+     "2016-09-21",
+     "2016-10-15"
     ],
-    "first": "2016-09-20",
-    "last": "2016-10-14"
+    "span_days": 2,
+    "span_minutes": 8,
+    "day_minutes": {},
+    "first": "2016-09-21",
+    "last": "2016-10-15"
    }
   ],
   "img": "img/g/45ffcf49a13207f2.webp"
@@ -27795,26 +28459,26 @@
   "id": "pok-mon-yellow-version",
   "name": "Pokémon Yellow Version",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/d7f6e57fb6ee4229f588a5f9f5b6a61d.png",
-  "first": "2016-09-16",
-  "last": "2016-09-17",
+  "first": "2016-09-17",
+  "last": "2016-09-18",
   "days": [
-   "2016-09-16",
-   "2016-09-17"
+   "2016-09-17",
+   "2016-09-18"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-09-16",
-    "2016-09-17"
+    "2016-09-17",
+    "2016-09-18"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2016-09-16",
-    "2016-09-17"
+    "2016-09-17",
+    "2016-09-18"
    ]
   ],
   "family_play": false,
@@ -27835,11 +28499,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2016-09-16",
-     "2016-09-17"
+     "2016-09-17",
+     "2016-09-18"
     ],
-    "first": "2016-09-16",
-    "last": "2016-09-17"
+    "span_days": 2,
+    "span_minutes": 48,
+    "day_minutes": {},
+    "first": "2016-09-17",
+    "last": "2016-09-18"
    }
   ],
   "img": "img/g/2d349675fec44d8c.webp"
@@ -27893,34 +28560,34 @@
   "id": "punch-out-featuring-mr-dream",
   "name": "Punch-Out!! Featuring Mr. Dream",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/7f8a3b0b887832b87fd8feba1e19cc66.png",
-  "first": "2014-09-19",
-  "last": "2016-08-19",
+  "first": "2014-09-20",
+  "last": "2016-08-20",
   "days": [
-   "2014-09-19",
-   "2014-09-25",
-   "2015-03-17",
-   "2016-08-19"
+   "2014-09-20",
+   "2014-09-26",
+   "2015-03-18",
+   "2016-08-20"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-09-19",
-    "2014-09-25",
-    "2015-03-17",
-    "2016-08-19"
+    "2014-09-20",
+    "2014-09-26",
+    "2015-03-18",
+    "2016-08-20"
    ]
   },
   "days_played": 5,
   "spans": [
    [
-    "2014-09-19",
-    "2014-09-25"
+    "2014-09-20",
+    "2014-09-26"
    ],
    [
-    "2015-03-17",
-    "2016-08-19"
+    "2015-03-18",
+    "2016-08-20"
    ]
   ],
   "family_play": false,
@@ -27941,11 +28608,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2014-09-19",
-     "2014-09-25"
+     "2014-09-20",
+     "2014-09-26"
     ],
-    "first": "2014-09-19",
-    "last": "2014-09-25"
+    "span_days": 2,
+    "span_minutes": 11,
+    "day_minutes": {},
+    "first": "2014-09-20",
+    "last": "2014-09-26"
    },
    {
     "id": "nintendo:0005000010108b00",
@@ -27959,11 +28629,14 @@
     "days_played": 3,
     "family_play": false,
     "span": [
-     "2015-03-17",
-     "2016-08-19"
+     "2015-03-18",
+     "2016-08-20"
     ],
-    "first": "2015-03-17",
-    "last": "2016-08-19"
+    "span_days": 3,
+    "span_minutes": 30,
+    "day_minutes": {},
+    "first": "2015-03-18",
+    "last": "2016-08-20"
    }
   ],
   "img": "img/g/359e0312e0604b04.webp"
@@ -28235,17 +28908,17 @@
   "id": "super-paper-mario",
   "name": "Super Paper Mario",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/8bbfa601bdb8699e7d257f5a77034990.png",
-  "first": "2016-06-18",
-  "last": "2016-06-18",
+  "first": "2016-06-19",
+  "last": "2016-06-19",
   "days": [
-   "2016-06-18"
+   "2016-06-19"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-06-18"
+    "2016-06-19"
    ]
   },
   "days_played": 1,
@@ -28268,8 +28941,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2016-06-18",
-    "last": "2016-06-18"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2016-06-19": 28
+    },
+    "first": "2016-06-19",
+    "last": "2016-06-19"
    }
   ],
   "img": "img/g/9f09c870dc915297.webp"
@@ -28726,17 +29404,17 @@
   "id": "metroid-fusion",
   "name": "Metroid Fusion",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/241122fa32b0206d712b69d12cc34a48.png",
-  "first": "2016-03-23",
-  "last": "2016-03-23",
+  "first": "2016-03-24",
+  "last": "2016-03-24",
   "days": [
-   "2016-03-23"
+   "2016-03-24"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2016-03-23"
+    "2016-03-24"
    ]
   },
   "days_played": 1,
@@ -28759,8 +29437,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2016-03-23",
-    "last": "2016-03-23"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2016-03-24": 12
+    },
+    "first": "2016-03-24",
+    "last": "2016-03-24"
    }
   ],
   "img": "img/g/5efb49cbe85eff3e.webp"
@@ -29451,6 +30134,62 @@
   "img": "img/g/abdacb178141b01e.webp"
  },
  {
+  "id": "yoshi-s-island-super-mario-advance-3",
+  "name": "Yoshi's Island: Super Mario Advance 3",
+  "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a443b3982fb51ea275f89c4fcdb1366d.png",
+  "first": "2015-11-21",
+  "last": "2015-11-22",
+  "days": [
+   "2015-11-21",
+   "2015-11-22"
+  ],
+  "families": [
+   "Nintendo"
+  ],
+  "days_by_family": {
+   "Nintendo": [
+    "2015-11-21",
+    "2015-11-22"
+   ]
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2015-11-21",
+    "2015-11-22"
+   ]
+  ],
+  "family_play": false,
+  "hours": 0.3,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "nintendo:0005000010156a00",
+    "family": "Nintendo",
+    "platform": "Wii U",
+    "name": "Yoshi's Island: Super Mario Advance 3",
+    "minutes": 16,
+    "earned": null,
+    "total": null,
+    "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a443b3982fb51ea275f89c4fcdb1366d.png",
+    "days_played": 2,
+    "family_play": false,
+    "span": [
+     "2015-11-21",
+     "2015-11-22"
+    ],
+    "span_days": 2,
+    "span_minutes": 16,
+    "day_minutes": {},
+    "first": "2015-11-21",
+    "last": "2015-11-22"
+   }
+  ],
+  "img": "img/g/5ddba337c2861e9e.webp"
+ },
+ {
   "id": "lego-dimensions",
   "name": "LEGO Dimensions",
   "art": "https://image.api.playstation.com/trophy/np/NPWR07423_00_00194E038B9C164C0CCD4C26DAF1E09BC07141CFA2/ED7DDFDA2CDAD58FA9F5E33C72622ED6FD4B410D.PNG",
@@ -29492,59 +30231,6 @@
    }
   ],
   "img": "img/g/a78244f09444bc4d.webp"
- },
- {
-  "id": "yoshi-s-island-super-mario-advance-3",
-  "name": "Yoshi's Island: Super Mario Advance 3",
-  "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a443b3982fb51ea275f89c4fcdb1366d.png",
-  "first": "2015-11-20",
-  "last": "2015-11-21",
-  "days": [
-   "2015-11-20",
-   "2015-11-21"
-  ],
-  "families": [
-   "Nintendo"
-  ],
-  "days_by_family": {
-   "Nintendo": [
-    "2015-11-20",
-    "2015-11-21"
-   ]
-  },
-  "days_played": 2,
-  "spans": [
-   [
-    "2015-11-20",
-    "2015-11-21"
-   ]
-  ],
-  "family_play": false,
-  "hours": 0.3,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "nintendo:0005000010156a00",
-    "family": "Nintendo",
-    "platform": "Wii U",
-    "name": "Yoshi's Island: Super Mario Advance 3",
-    "minutes": 16,
-    "earned": null,
-    "total": null,
-    "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a443b3982fb51ea275f89c4fcdb1366d.png",
-    "days_played": 2,
-    "family_play": false,
-    "span": [
-     "2015-11-20",
-     "2015-11-21"
-    ],
-    "first": "2015-11-20",
-    "last": "2015-11-21"
-   }
-  ],
-  "img": "img/g/5ddba337c2861e9e.webp"
  },
  {
   "id": "game-of-thrones",
@@ -29607,17 +30293,17 @@
   "id": "mario-tennis",
   "name": "Mario Tennis",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/1e4b07b85706be4cc3a80acc1efd75f6.png",
-  "first": "2015-08-29",
-  "last": "2015-08-29",
+  "first": "2015-08-30",
+  "last": "2015-08-30",
   "days": [
-   "2015-08-29"
+   "2015-08-30"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-08-29"
+    "2015-08-30"
    ]
   },
   "days_played": 1,
@@ -29640,8 +30326,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2015-08-29",
-    "last": "2015-08-29"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2015-08-30": 33
+    },
+    "first": "2015-08-30",
+    "last": "2015-08-30"
    }
   ],
   "img": "img/g/d3383b308514f29c.webp"
@@ -29650,26 +30341,26 @@
   "id": "the-legend-of-zelda-majora-s-mask-3d",
   "name": "The Legend of Zelda: Majora's Mask 3D",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/7853b78a3b3637a10ceae794c3ee9dc1.png",
-  "first": "2015-06-10",
-  "last": "2015-08-04",
+  "first": "2015-06-11",
+  "last": "2015-08-05",
   "days": [
-   "2015-06-10",
-   "2015-08-04"
+   "2015-06-11",
+   "2015-08-05"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-06-10",
-    "2015-08-04"
+    "2015-06-11",
+    "2015-08-05"
    ]
   },
   "days_played": 3,
   "spans": [
    [
-    "2015-06-10",
-    "2015-08-04"
+    "2015-06-11",
+    "2015-08-05"
    ]
   ],
   "family_play": false,
@@ -29690,11 +30381,14 @@
     "days_played": 3,
     "family_play": false,
     "span": [
-     "2015-06-10",
-     "2015-08-04"
+     "2015-06-11",
+     "2015-08-05"
     ],
-    "first": "2015-06-10",
-    "last": "2015-08-04"
+    "span_days": 3,
+    "span_minutes": 43,
+    "day_minutes": {},
+    "first": "2015-06-11",
+    "last": "2015-08-05"
    }
   ],
   "img": "img/g/653749a0756e4910.webp"
@@ -29799,26 +30493,26 @@
   "id": "pok-mon-shuffle",
   "name": "Pokémon Shuffle",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/72e518689c2869b33a8af96e0c807fce.png",
-  "first": "2015-05-21",
-  "last": "2015-05-23",
+  "first": "2015-05-22",
+  "last": "2015-05-24",
   "days": [
-   "2015-05-21",
-   "2015-05-23"
+   "2015-05-22",
+   "2015-05-24"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-05-21",
-    "2015-05-23"
+    "2015-05-22",
+    "2015-05-24"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2015-05-21",
-    "2015-05-23"
+    "2015-05-22",
+    "2015-05-24"
    ]
   ],
   "family_play": false,
@@ -29839,11 +30533,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2015-05-21",
-     "2015-05-23"
+     "2015-05-22",
+     "2015-05-24"
     ],
-    "first": "2015-05-21",
-    "last": "2015-05-23"
+    "span_days": 2,
+    "span_minutes": 6,
+    "day_minutes": {},
+    "first": "2015-05-22",
+    "last": "2015-05-24"
    }
   ],
   "img": "img/g/4a5e0af6866aef64.webp"
@@ -30046,26 +30743,26 @@
   "id": "the-legend-of-zelda",
   "name": "The Legend of Zelda",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/0c5b811ef67cdab99f38e5ad20ddae88.png",
-  "first": "2015-02-27",
-  "last": "2015-03-20",
+  "first": "2015-02-28",
+  "last": "2015-03-21",
   "days": [
-   "2015-02-27",
-   "2015-03-20"
+   "2015-02-28",
+   "2015-03-21"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-27",
-    "2015-03-20"
+    "2015-02-28",
+    "2015-03-21"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2015-02-27",
-    "2015-03-20"
+    "2015-02-28",
+    "2015-03-21"
    ]
   ],
   "family_play": false,
@@ -30086,11 +30783,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2015-02-27",
-     "2015-03-20"
+     "2015-02-28",
+     "2015-03-21"
     ],
-    "first": "2015-02-27",
-    "last": "2015-03-20"
+    "span_days": 2,
+    "span_minutes": 10,
+    "day_minutes": {},
+    "first": "2015-02-28",
+    "last": "2015-03-21"
    }
   ],
   "img": "img/g/86f8dccc20b22f50.webp"
@@ -30099,26 +30799,26 @@
   "id": "f-zero",
   "name": "F-Zero",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/6d9859dbe5fae154be7f0b7e46955b7b.png",
-  "first": "2015-02-25",
-  "last": "2015-02-27",
+  "first": "2015-02-26",
+  "last": "2015-02-28",
   "days": [
-   "2015-02-25",
-   "2015-02-27"
+   "2015-02-26",
+   "2015-02-28"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-02-25",
-    "2015-02-27"
+    "2015-02-26",
+    "2015-02-28"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2015-02-25",
-    "2015-02-27"
+    "2015-02-26",
+    "2015-02-28"
    ]
   ],
   "family_play": false,
@@ -30139,11 +30839,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2015-02-25",
-     "2015-02-27"
+     "2015-02-26",
+     "2015-02-28"
     ],
-    "first": "2015-02-25",
-    "last": "2015-02-27"
+    "span_days": 2,
+    "span_minutes": 11,
+    "day_minutes": {},
+    "first": "2015-02-26",
+    "last": "2015-02-28"
    }
   ],
   "img": "img/g/72a29a5ecc077833.webp"
@@ -30374,17 +31077,17 @@
   "id": "metroid-prime-trilogy",
   "name": "Metroid Prime: Trilogy",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/ddf0105ee7f2a3063fdb433764dc163a.png",
-  "first": "2015-01-30",
-  "last": "2015-01-30",
+  "first": "2015-01-31",
+  "last": "2015-01-31",
   "days": [
-   "2015-01-30"
+   "2015-01-31"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2015-01-30"
+    "2015-01-31"
    ]
   },
   "days_played": 1,
@@ -30407,8 +31110,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2015-01-30",
-    "last": "2015-01-30"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2015-01-31": 8
+    },
+    "first": "2015-01-31",
+    "last": "2015-01-31"
    }
   ],
   "img": "img/g/af0d031dd3f3a4bb.webp"
@@ -30892,26 +31600,26 @@
   "id": "tomodachi-life",
   "name": "Tomodachi Life",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/3fa120da03a181871595726c82aa3f5d.png",
-  "first": "2014-06-06",
-  "last": "2014-12-05",
+  "first": "2014-06-07",
+  "last": "2014-12-06",
   "days": [
-   "2014-06-06",
-   "2014-12-05"
+   "2014-06-07",
+   "2014-12-06"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-06-06",
-    "2014-12-05"
+    "2014-06-07",
+    "2014-12-06"
    ]
   },
   "days_played": 25,
   "spans": [
    [
-    "2014-06-06",
-    "2014-12-05"
+    "2014-06-07",
+    "2014-12-06"
    ]
   ],
   "family_play": false,
@@ -30932,11 +31640,14 @@
     "days_played": 25,
     "family_play": false,
     "span": [
-     "2014-06-06",
-     "2014-12-05"
+     "2014-06-07",
+     "2014-12-06"
     ],
-    "first": "2014-06-06",
-    "last": "2014-12-05"
+    "span_days": 25,
+    "span_minutes": 1158,
+    "day_minutes": {},
+    "first": "2014-06-07",
+    "last": "2014-12-06"
    }
   ],
   "img": "img/g/1acc07f3a87f17c8.webp"
@@ -31107,26 +31818,26 @@
   "id": "super-mario-land",
   "name": "Super Mario Land",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/6c64e74d55af7649db5faac90478eddd.png",
-  "first": "2013-07-19",
-  "last": "2014-11-06",
+  "first": "2013-07-20",
+  "last": "2014-11-07",
   "days": [
-   "2013-07-19",
-   "2014-11-06"
+   "2013-07-20",
+   "2014-11-07"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-07-19",
-    "2014-11-06"
+    "2013-07-20",
+    "2014-11-07"
    ]
   },
   "days_played": 2,
   "spans": [
    [
-    "2013-07-19",
-    "2014-11-06"
+    "2013-07-20",
+    "2014-11-07"
    ]
   ],
   "family_play": false,
@@ -31147,11 +31858,14 @@
     "days_played": 2,
     "family_play": false,
     "span": [
-     "2013-07-19",
-     "2014-11-06"
+     "2013-07-20",
+     "2014-11-07"
     ],
-    "first": "2013-07-19",
-    "last": "2014-11-06"
+    "span_days": 2,
+    "span_minutes": 8,
+    "day_minutes": {},
+    "first": "2013-07-20",
+    "last": "2014-11-07"
    }
   ],
   "img": "img/g/a5b4a8479e805aae.webp"
@@ -31160,17 +31874,17 @@
   "id": "metroid",
   "name": "Metroid",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/55aa750486bb1f09b7f54565ec6ef9ff.png",
-  "first": "2014-11-06",
-  "last": "2014-11-06",
+  "first": "2014-11-07",
+  "last": "2014-11-07",
   "days": [
-   "2014-11-06"
+   "2014-11-07"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-11-06"
+    "2014-11-07"
    ]
   },
   "days_played": 1,
@@ -31193,8 +31907,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2014-11-06",
-    "last": "2014-11-06"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2014-11-07": 6
+    },
+    "first": "2014-11-07",
+    "last": "2014-11-07"
    }
   ],
   "img": "img/g/a33ec04b2691dc76.webp"
@@ -31203,26 +31922,26 @@
   "id": "wii-sports-club",
   "name": "Wii Sports Club",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/7b27f3684707c8d17946c95fb1be4154.png",
-  "first": "2014-10-17",
-  "last": "2014-10-25",
+  "first": "2014-10-18",
+  "last": "2014-10-26",
   "days": [
-   "2014-10-17",
-   "2014-10-25"
+   "2014-10-18",
+   "2014-10-26"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-10-17",
-    "2014-10-25"
+    "2014-10-18",
+    "2014-10-26"
    ]
   },
   "days_played": 3,
   "spans": [
    [
-    "2014-10-17",
-    "2014-10-25"
+    "2014-10-18",
+    "2014-10-26"
    ]
   ],
   "family_play": false,
@@ -31243,11 +31962,14 @@
     "days_played": 3,
     "family_play": false,
     "span": [
-     "2014-10-17",
-     "2014-10-25"
+     "2014-10-18",
+     "2014-10-26"
     ],
-    "first": "2014-10-17",
-    "last": "2014-10-25"
+    "span_days": 3,
+    "span_minutes": 20,
+    "day_minutes": {},
+    "first": "2014-10-18",
+    "last": "2014-10-26"
    }
   ],
   "img": "img/g/6b64d15dbace4b60.webp"
@@ -31861,26 +32583,26 @@
   "id": "professor-layton-and-the-azran-legacy",
   "name": "Professor Layton and the Azran Legacy",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/15fa87525d6a69680793064279ed6410.png",
-  "first": "2014-04-12",
-  "last": "2014-08-12",
+  "first": "2014-04-13",
+  "last": "2014-08-13",
   "days": [
-   "2014-04-12",
-   "2014-08-12"
+   "2014-04-13",
+   "2014-08-13"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2014-04-12",
-    "2014-08-12"
+    "2014-04-13",
+    "2014-08-13"
    ]
   },
   "days_played": 6,
   "spans": [
    [
-    "2014-04-12",
-    "2014-08-12"
+    "2014-04-13",
+    "2014-08-13"
    ]
   ],
   "family_play": false,
@@ -31901,11 +32623,14 @@
     "days_played": 6,
     "family_play": false,
     "span": [
-     "2014-04-12",
-     "2014-08-12"
+     "2014-04-13",
+     "2014-08-13"
     ],
-    "first": "2014-04-12",
-    "last": "2014-08-12"
+    "span_days": 6,
+    "span_minutes": 122,
+    "day_minutes": {},
+    "first": "2014-04-13",
+    "last": "2014-08-13"
    }
   ],
   "img": "img/g/c96241af56e8b95e.webp"
@@ -32803,26 +33528,26 @@
   "id": "pok-mon-y",
   "name": "Pokémon Y",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/3b57a74264dd7e94cb98c56cac390cf3.png",
-  "first": "2013-11-16",
-  "last": "2013-11-29",
+  "first": "2013-11-17",
+  "last": "2013-11-30",
   "days": [
-   "2013-11-16",
-   "2013-11-29"
+   "2013-11-17",
+   "2013-11-30"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-11-16",
-    "2013-11-29"
+    "2013-11-17",
+    "2013-11-30"
    ]
   },
   "days_played": 11,
   "spans": [
    [
-    "2013-11-16",
-    "2013-11-29"
+    "2013-11-17",
+    "2013-11-30"
    ]
   ],
   "family_play": false,
@@ -32843,11 +33568,14 @@
     "days_played": 11,
     "family_play": false,
     "span": [
-     "2013-11-16",
-     "2013-11-29"
+     "2013-11-17",
+     "2013-11-30"
     ],
-    "first": "2013-11-16",
-    "last": "2013-11-29"
+    "span_days": 11,
+    "span_minutes": 1079,
+    "day_minutes": {},
+    "first": "2013-11-17",
+    "last": "2013-11-30"
    }
   ],
   "img": "img/g/eb8272beda0aa10d.webp"
@@ -33058,26 +33786,26 @@
   "id": "donkey-kong-country-returns-3d",
   "name": "Donkey Kong Country Returns 3D",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/82ab97fee8b8545bdac14c0fc68605e5.png",
-  "first": "2013-05-24",
-  "last": "2013-09-15",
+  "first": "2013-05-25",
+  "last": "2013-09-16",
   "days": [
-   "2013-05-24",
-   "2013-09-15"
+   "2013-05-25",
+   "2013-09-16"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-05-24",
-    "2013-09-15"
+    "2013-05-25",
+    "2013-09-16"
    ]
   },
   "days_played": 26,
   "spans": [
    [
-    "2013-05-24",
-    "2013-09-15"
+    "2013-05-25",
+    "2013-09-16"
    ]
   ],
   "family_play": false,
@@ -33098,11 +33826,14 @@
     "days_played": 26,
     "family_play": false,
     "span": [
-     "2013-05-24",
-     "2013-09-15"
+     "2013-05-25",
+     "2013-09-16"
     ],
-    "first": "2013-05-24",
-    "last": "2013-09-15"
+    "span_days": 26,
+    "span_minutes": 1255,
+    "day_minutes": {},
+    "first": "2013-05-25",
+    "last": "2013-09-16"
    }
   ],
   "img": "img/g/08c06d12425b3849.webp"
@@ -33164,26 +33895,26 @@
   "id": "mario-and-luigi-dream-team",
   "name": "Mario & Luigi: Dream Team",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/90dd740e533a6eccda8238b6dca18f81.png",
-  "first": "2013-08-11",
-  "last": "2013-09-01",
+  "first": "2013-08-12",
+  "last": "2013-09-02",
   "days": [
-   "2013-08-11",
-   "2013-09-01"
+   "2013-08-12",
+   "2013-09-02"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-08-11",
-    "2013-09-01"
+    "2013-08-12",
+    "2013-09-02"
    ]
   },
   "days_played": 4,
   "spans": [
    [
-    "2013-08-11",
-    "2013-09-01"
+    "2013-08-12",
+    "2013-09-02"
    ]
   ],
   "family_play": false,
@@ -33204,14 +33935,73 @@
     "days_played": 4,
     "family_play": false,
     "span": [
-     "2013-08-11",
-     "2013-09-01"
+     "2013-08-12",
+     "2013-09-02"
     ],
-    "first": "2013-08-11",
-    "last": "2013-09-01"
+    "span_days": 4,
+    "span_minutes": 156,
+    "day_minutes": {},
+    "first": "2013-08-12",
+    "last": "2013-09-02"
    }
   ],
   "img": "img/g/f5415f6119392f43.webp"
+ },
+ {
+  "id": "tetris-axis",
+  "name": "Tetris Axis",
+  "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ed22a97cea63961a79266947773f0df7.png",
+  "first": "2013-07-02",
+  "last": "2013-08-03",
+  "days": [
+   "2013-07-02",
+   "2013-08-03"
+  ],
+  "families": [
+   "Nintendo"
+  ],
+  "days_by_family": {
+   "Nintendo": [
+    "2013-07-02",
+    "2013-08-03"
+   ]
+  },
+  "days_played": 6,
+  "spans": [
+   [
+    "2013-07-02",
+    "2013-08-03"
+   ]
+  ],
+  "family_play": false,
+  "hours": 1.7,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "nintendo:0004000000043800",
+    "family": "Nintendo",
+    "platform": "3DS",
+    "name": "Tetris Axis",
+    "minutes": 102,
+    "earned": null,
+    "total": null,
+    "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ed22a97cea63961a79266947773f0df7.png",
+    "days_played": 6,
+    "family_play": false,
+    "span": [
+     "2013-07-02",
+     "2013-08-03"
+    ],
+    "span_days": 6,
+    "span_minutes": 102,
+    "day_minutes": {},
+    "first": "2013-07-02",
+    "last": "2013-08-03"
+   }
+  ],
+  "img": "img/g/3b4c247bb71d6353.webp"
  },
  {
   "id": "littlebigplanet-karting",
@@ -33257,73 +34047,20 @@
   "img": "img/g/3b79a0f8a68ab542.webp"
  },
  {
-  "id": "tetris-axis",
-  "name": "Tetris Axis",
-  "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ed22a97cea63961a79266947773f0df7.png",
-  "first": "2013-07-01",
-  "last": "2013-08-02",
-  "days": [
-   "2013-07-01",
-   "2013-08-02"
-  ],
-  "families": [
-   "Nintendo"
-  ],
-  "days_by_family": {
-   "Nintendo": [
-    "2013-07-01",
-    "2013-08-02"
-   ]
-  },
-  "days_played": 6,
-  "spans": [
-   [
-    "2013-07-01",
-    "2013-08-02"
-   ]
-  ],
-  "family_play": false,
-  "hours": 1.7,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "nintendo:0004000000043800",
-    "family": "Nintendo",
-    "platform": "3DS",
-    "name": "Tetris Axis",
-    "minutes": 102,
-    "earned": null,
-    "total": null,
-    "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ed22a97cea63961a79266947773f0df7.png",
-    "days_played": 6,
-    "family_play": false,
-    "span": [
-     "2013-07-01",
-     "2013-08-02"
-    ],
-    "first": "2013-07-01",
-    "last": "2013-08-02"
-   }
-  ],
-  "img": "img/g/3b4c247bb71d6353.webp"
- },
- {
   "id": "donkey-kong",
   "name": "Donkey Kong",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/62443d7431b8d913f038013cb3f7e45a.png",
-  "first": "2013-07-20",
-  "last": "2013-07-20",
+  "first": "2013-07-21",
+  "last": "2013-07-21",
   "days": [
-   "2013-07-20"
+   "2013-07-21"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-07-20"
+    "2013-07-21"
    ]
   },
   "days_played": 1,
@@ -33346,8 +34083,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2013-07-20",
-    "last": "2013-07-20"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2013-07-21": 2
+    },
+    "first": "2013-07-21",
+    "last": "2013-07-21"
    }
   ],
   "img": "img/g/552db0984c2989c1.webp"
@@ -33399,17 +34141,17 @@
   "id": "lego-city-undercover-the-chase-begins",
   "name": "LEGO City Undercover: The Chase Begins",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/cba646c3c1487bd45a7c2e9c2170ae7c.png",
-  "first": "2013-07-02",
-  "last": "2013-07-02",
+  "first": "2013-07-03",
+  "last": "2013-07-03",
   "days": [
-   "2013-07-02"
+   "2013-07-03"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-07-02"
+    "2013-07-03"
    ]
   },
   "days_played": 1,
@@ -33432,8 +34174,13 @@
     "days_played": 1,
     "family_play": false,
     "span": null,
-    "first": "2013-07-02",
-    "last": "2013-07-02"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2013-07-03": 6
+    },
+    "first": "2013-07-03",
+    "last": "2013-07-03"
    }
   ],
   "img": "img/g/e776be6bb27a17bc.webp"
@@ -33442,26 +34189,26 @@
   "id": "professor-layton-and-the-miracle-mask",
   "name": "Professor Layton and the Miracle Mask",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/59188beed6611cc5235c16d66aaef33b.png",
-  "first": "2013-06-15",
-  "last": "2013-06-21",
+  "first": "2013-06-16",
+  "last": "2013-06-22",
   "days": [
-   "2013-06-15",
-   "2013-06-21"
+   "2013-06-16",
+   "2013-06-22"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2013-06-15",
-    "2013-06-21"
+    "2013-06-16",
+    "2013-06-22"
    ]
   },
   "days_played": 7,
   "spans": [
    [
-    "2013-06-15",
-    "2013-06-21"
+    "2013-06-16",
+    "2013-06-22"
    ]
   ],
   "family_play": false,
@@ -33482,11 +34229,14 @@
     "days_played": 7,
     "family_play": false,
     "span": [
-     "2013-06-15",
-     "2013-06-21"
+     "2013-06-16",
+     "2013-06-22"
     ],
-    "first": "2013-06-15",
-    "last": "2013-06-21"
+    "span_days": 7,
+    "span_minutes": 1023,
+    "day_minutes": {},
+    "first": "2013-06-16",
+    "last": "2013-06-22"
    }
   ],
   "img": "img/g/c5d7d2dd92e6b2f8.webp"
@@ -34797,17 +35547,17 @@
   "id": "mario-and-luigi-bowser-s-inside-story-bowser-jr-s-journey",
   "name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/aa81ef93d356ef9034f626edba9b95ab.png",
-  "first": "2011-06-11",
-  "last": "2011-06-11",
+  "first": "2011-06-12",
+  "last": "2011-06-12",
   "days": [
-   "2011-06-11"
+   "2011-06-12"
   ],
   "families": [
    "Nintendo"
   ],
   "days_by_family": {
    "Nintendo": [
-    "2011-06-11"
+    "2011-06-12"
    ]
   },
   "days_played": 12,
@@ -34830,8 +35580,13 @@
     "days_played": 12,
     "family_play": false,
     "span": null,
-    "first": "2011-06-11",
-    "last": "2011-06-11"
+    "span_days": 0,
+    "span_minutes": 0,
+    "day_minutes": {
+     "2011-06-12": 620
+    },
+    "first": "2011-06-12",
+    "last": "2011-06-12"
    }
   ],
   "img": "img/g/b0c06ffbc94fd9a0.webp"

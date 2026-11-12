@@ -27,13 +27,15 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # PlayStation and Steam only. Xbox, Switch, and Miiverse are frozen
-      # imports built locally by build_frozen.py.
-      - name: Fetch PlayStation and Steam
+      # PlayStation, Steam, and Nintendo play history. Xbox, Switch screenshots,
+      # and Miiverse are frozen imports built locally by build_frozen.py.
+      - name: Fetch PlayStation, Steam, and Nintendo
         env:
           PSN_NPSSO: ${{ secrets.PSN_NPSSO }}
           STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          NINTENDO_SESSION_TOKEN: ${{ secrets.NINTENDO_SESSION_TOKEN }}
           PSN_NPSSO_EXPIRES: ${{ vars.PSN_NPSSO_EXPIRES }}
+          NINTENDO_TOKEN_EXPIRES: ${{ vars.NINTENDO_TOKEN_EXPIRES }}
         run: python update.py
 
       # One row per game across every platform, and one list of every unlock

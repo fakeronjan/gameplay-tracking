@@ -15,7 +15,7 @@ set a row's display name ("names").
 import json
 import re
 from collections import defaultdict
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -193,14 +193,36 @@ def entries_and_unlocks(cfg=None):
             shot_entry[sid] = f"switch:{g['ids'][0]}"
     names = json.loads((HERE / "config" / "switch_game_names.json").read_text())
     by_title = {v["title_id"].lower(): shot_entry[k] for k, v in names.items() if v.get("title_id") and k in shot_entry}
+    # From days_logged_from on, nintendo_days.json has each day's minutes per game (real dates);
+    # before it, a record's remaining days and minutes sit in its first-to-last span, undated
+    start = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())["days_logged_from"]
+    day_log = defaultdict(dict)
+    for day, games in (load("nintendo_days.json") if (DATA / "nintendo_days.json").exists() else {}).items():
+        if day >= start:
+            for tid, m in games.items():
+                day_log[tid][day] = m
     for tid, t in load("nintendo.json")["titles"].items():
         eid = f"nintendo:{tid}"
-        first, last = (et_day(t[k]) if t[k] else None for k in ("first_played", "last_played"))
+        # 3DS and Wii U records are whole days stamped midnight UTC: the day as is, no time zone shift
+        whole_day = t["platform"] in ("3DS", "Wii U")
+        first, last = ((t[k][:10] if whole_day else et_day(t[k])) if t[k] else None for k in ("first_played", "last_played"))
+        logged = day_log.get(tid, {})
+        span_end = min(last, (date.fromisoformat(start) - timedelta(days=1)).isoformat()) if last else None
+        span = [first, span_end] if first and span_end and first < span_end else None
+        rest_days = max(0, t["days_played"] - len(logged))
+        rest_minutes = max(0, (t["minutes"] or 0) - sum(logged.values()))
+        dated = sorted({d for d in (first, last) if d and d < start} | set(logged))
+        if span:
+            day_minutes = dict(logged)
+        else:  # no span to spread over: its pre-tracking minutes go evenly on its dated days before tracking
+            before = [d for d in dated if d < start]
+            day_minutes = {**{d: rest_minutes / len(before) for d in before}, **logged} if before else dict(logged)
         entries[eid] = {"family": "Nintendo", "platform": t["platform"], "name": t["name"],
-                        "days": sorted({d for d in (first, last) if d}), "minutes": t["minutes"] or None,
+                        "days": dated, "minutes": t["minutes"] or None,
                         "earned": None, "total": None, "art": t.get("image"),
                         "days_played": t["days_played"], "family_play": t["family_play"],
-                        "span": [first, last] if first and last and first != last else None}
+                        "span": span, "span_days": rest_days if span else 0, "span_minutes": rest_minutes if span else 0,
+                        "day_minutes": {d: round(m) for d, m in day_minutes.items()}}
         if tid in by_title:
             links.append((eid, by_title[tid]))
 
@@ -354,6 +376,18 @@ def build():
 
     games = []
     for ids in rows.values():
+        # Miiverse doesn't say which console a post was about: take it from Nintendo's own records
+        # in the same row (the 3DS or Wii U one whose first-to-last played holds the post)
+        records = [entries[i] for i in ids if i.startswith("nintendo:") and entries[i]["platform"] in ("3DS", "Wii U")]
+        for i in ids:
+            if not i.startswith("miiverse:") or not records:
+                continue
+            plats = {r["platform"] for r in records}
+            if len(plats) > 1:
+                d = min(entries[i]["days"])
+                holds = {r["platform"] for r in records if r["days"] and min(r["days"]) <= d <= max(r["days"])}
+                plats = holds if len(holds) == 1 else plats
+            entries[i]["platform"] = "/".join(sorted(plats, key=["Wii U", "3DS"].index))
         es = [entries[i] for i in ids]
         days = sorted({d for e in es for d in e["days"]})
         if not days and not any(e["earned"] or e["minutes"] for e in es):

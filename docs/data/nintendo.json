@@ -203,7 +203,7 @@
   },
   "00040000000edf00": {
    "days_played": 58,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2018-05-01T00:00:00Z",
    "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/b612307f3fcde34af44e3b4a54fee4cd.png",
    "last_played": "2018-11-04T00:00:00Z",
@@ -593,7 +593,7 @@
   },
   "0005000010144f00": {
    "days_played": 145,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2014-11-23T00:00:00Z",
    "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/2fb55a8cc8042d37dae00a84ce2f6ebc.png",
    "last_played": "2019-11-28T00:00:00Z",
@@ -1103,7 +1103,7 @@
   },
   "010036b0034e4000": {
    "days_played": 122,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2018-10-05T23:49:48Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/be2c8d5f9bcf4e478596df921326a536_512",
    "last_played": "2022-01-22T13:50:59Z",
@@ -2171,5 +2171,6 @@
    "name": "Star Fox",
    "platform": "Switch 2"
   }
- }
+ },
+ "updated": "2026-11-12T19:35:13Z"
 }
