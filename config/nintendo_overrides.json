@@ -53,5 +53,61 @@
   "00040000000edf00"
  ],
  "_days_logged_from": "First day docs/data/nintendo_days.json covers (the first daily fetch, 2026-11-12, reached back to here). Play from this day on has real dates; before it, only first/last played and totals.",
- "days_logged_from": "2026-11-07"
+ "days_logged_from": "2026-11-07",
+ "_first_played": "3DS games whose first-played date was lost to the clock reset, started on their North American release day (Ronjan 2026-11-12: confirmed launch-day buys for A Link Between Worlds, Ocarina of Time 3D, Star Fox 64 3D, Super Mario 3D Land; 'most of them' were launch day, so the rest use release day too). Any date of the game's earlier than this is reset-clock and dropped; last_unknown drops a last-played date that is reset-clock but not earlier.",
+ "first_played": {
+  "00040000000ec300": {
+   "date": "2013-11-22",
+   "why": "A Link Between Worlds, launch day (Ronjan)"
+  },
+  "0004000000033500": {
+   "date": "2011-06-19",
+   "why": "Ocarina of Time 3D, launch day (Ronjan)"
+  },
+  "0004000000049000": {
+   "date": "2011-09-09",
+   "why": "Star Fox 64 3D, launch day (Ronjan)"
+  },
+  "0004000000054000": {
+   "date": "2011-11-13",
+   "why": "Super Mario 3D Land, launch day (Ronjan)"
+  },
+  "0004000000057c00": {
+   "date": "2012-07-26",
+   "why": "Wario Land: Super Mario Land 3, NA 3DS Virtual Console release"
+  },
+  "0004000000132000": {
+   "date": "2014-12-05",
+   "why": "Ultimate NES Remix, NA release"
+  },
+  "0004000000194800": {
+   "date": "2016-05-05",
+   "why": "Pocket Card Jockey, NA release"
+  },
+  "00040000001d1400": {
+   "date": "2019-01-11",
+   "why": "Bowser's Inside Story + Bowser Jr.'s Journey, NA release; both its dates are reset-clock",
+   "last_unknown": true
+  },
+  "000400000f701b00": {
+   "date": "2016-03-24",
+   "why": "Donkey Kong Country, NA New 3DS Virtual Console release"
+  },
+  "000400000f702000": {
+   "date": "2016-04-14",
+   "why": "Donkey Kong Country 2, NA New 3DS Virtual Console release"
+  }
+ },
+ "_model": "How a record's undated days and minutes spread over its first-to-last span. Fit 2026-11-12 on 28 multi-year game copies with dated activity (trophy/achievement/screenshot days): launch burst 80% (tau 120 days), end burst 10% (tau 14), floor 10%; held-out yearly error 0.35 vs 0.45 for spreading evenly. Minutes follow the modeled days (early_hours_boost 0). No day gets more than one play day. Implemented as fit first (Ronjan 2026-11-12); tuning comes after.",
+ "model": {
+  "launch_share": 0.8,
+  "end_share": 0.1,
+  "tau_days": 120,
+  "tau_end": 14,
+  "early_hours_boost": 0,
+  "tau_hours": 30,
+  "open_end_days": 730
+ },
+ "_model_overrides": "Per game, on top of model. None yet (A Link Between Worlds tighter-window idea parked until the fitted model is reviewed)",
+ "model_overrides": {}
 }

@@ -13,6 +13,7 @@ set a row's display name ("names").
 """
 
 import json
+import math
 import re
 from collections import defaultdict
 from datetime import date, datetime, timedelta
@@ -132,6 +133,65 @@ class Groups:
         self.parent[self.find(a)] = self.find(b)
 
 
+def model_days(first, end, pinned_end, n_days, p):
+    """Chance of play on each day from first to end, for a record with n_days played there.
+    First (and end, when it is a real last-played day) are played. The rest follow a launch burst
+    + a burst before last played + a floor (shares and decay in config/nintendo_overrides.json
+    "model", fit on dated play from other platforms), water-filled so no day goes above 1."""
+    a, b = date.fromisoformat(first).toordinal(), date.fromisoformat(end).toordinal()
+    L = b - a
+    prob = [0.0] * (L + 1)
+    prob[0] = 1.0
+    if pinned_end:
+        prob[L] = 1.0
+    inner = range(1, L) if pinned_end else range(1, L + 1)
+    left = n_days - 1 - (1 if pinned_end else 0)
+    if left <= 0 or not inner:
+        return a, prob
+    ws, we = p["launch_share"], (p["end_share"] if pinned_end else 0.0)
+    ts, te = p["tau_days"], p["tau_end"]
+    w = {t: ws * math.exp(-t / ts) / ts + we * math.exp(-(L - t) / te) / te + (1 - ws - we) / L for t in inner}
+    free = set(inner)
+    while left > 1e-9 and free:
+        total = sum(w[t] for t in free)
+        for t in free:
+            prob[t] += w[t] / total * left
+        left = sum(prob[t] - 1 for t in free if prob[t] > 1)
+        for t in [t for t in free if prob[t] >= 1]:
+            prob[t] = 1.0
+            free.discard(t)
+    return a, prob
+
+
+def model_span(first, end, pinned_end, n_days, minutes, p):
+    """Modeled play by month, {"YYYY-MM": [days, minutes]}: days from model_days, minutes in
+    proportion to them (times an early-session boost when the model has one)."""
+    a, prob = model_days(first, end, pinned_end, n_days, p)
+    boost = [1 + p.get("early_hours_boost", 0) * math.exp(-t / p["tau_hours"]) for t in range(len(prob))]
+    mw = [q * k for q, k in zip(prob, boost)]
+    mtotal = sum(mw) or 1
+    out = {}
+    for t, q in enumerate(prob):
+        if not q:
+            continue
+        m = date.fromordinal(a + t).isoformat()[:7]
+        cell = out.setdefault(m, [0.0, 0.0])
+        cell[0] += q
+        cell[1] += minutes * mw[t] / mtotal
+    return {m: [round(d, 2), round(mi, 1)] for m, (d, mi) in sorted(out.items())}
+
+
+def modeled_last_day(first, end, pinned_end, modeled):
+    """Where a record's span band ends: its last played day, or for an open end, the end of the
+    last month the model gives at least a twentieth of a day."""
+    if pinned_end:
+        return end
+    months = [m for m, (d, _) in modeled.items() if d >= 0.05]
+    y, mo = map(int, months[-1].split("-"))
+    nxt = date(y + (mo == 12), mo % 12 + 1, 1) - timedelta(days=1)
+    return min(nxt.isoformat(), end)
+
+
 def entries_and_unlocks(cfg=None):
     """Every per-platform entry, keyed by a stable id, and every dated unlock."""
     cfg = cfg if cfg is not None else json.loads((HERE / "config" / "game_merges.json").read_text())
@@ -194,8 +254,11 @@ def entries_and_unlocks(cfg=None):
     names = json.loads((HERE / "config" / "switch_game_names.json").read_text())
     by_title = {v["title_id"].lower(): shot_entry[k] for k, v in names.items() if v.get("title_id") and k in shot_entry}
     # From days_logged_from on, nintendo_days.json has each day's minutes per game (real dates);
-    # before it, a record's remaining days and minutes sit in its first-to-last span, undated
-    start = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())["days_logged_from"]
+    # before it, a record's remaining days and minutes are spread over its first-to-last span by
+    # the play model (model_span)
+    ncfg = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())
+    start = ncfg["days_logged_from"]
+    day_before_start = (date.fromisoformat(start) - timedelta(days=1)).isoformat()
     day_log = defaultdict(dict)
     for day, games in (load("nintendo_days.json") if (DATA / "nintendo_days.json").exists() else {}).items():
         if day >= start:
@@ -206,22 +269,42 @@ def entries_and_unlocks(cfg=None):
         # 3DS and Wii U records are whole days stamped midnight UTC: the day as is, no time zone shift
         whole_day = t["platform"] in ("3DS", "Wii U")
         first, last = ((t[k][:10] if whole_day else et_day(t[k])) if t[k] else None for k in ("first_played", "last_played"))
+        fix = ncfg.get("first_played", {}).get(tid)
+        if fix:  # first-played lost to the 3DS clock reset: release day; anything earlier is reset-clock too
+            first = fix["date"]
+            if fix.get("last_unknown") or (last and last < first):
+                last = None
         logged = day_log.get(tid, {})
-        span_end = min(last, (date.fromisoformat(start) - timedelta(days=1)).isoformat()) if last else None
-        span = [first, span_end] if first and span_end and first < span_end else None
         rest_days = max(0, t["days_played"] - len(logged))
         rest_minutes = max(0, (t["minutes"] or 0) - sum(logged.values()))
+        # The span the model spreads over: first played to last played (or the day before daily
+        # tracking began, when play continued past it; or open-ended when last played is unknown)
+        pinned_end = bool(last and last < start)
+        if first and first < start:
+            if pinned_end:
+                end = last
+            elif last:
+                end = day_before_start
+            else:
+                end = min(day_before_start, (date.fromisoformat(first) + timedelta(days=ncfg["model"]["open_end_days"])).isoformat())
+            modeled = model_span(first, end, pinned_end, rest_days, rest_minutes,
+                                 {**ncfg["model"], **ncfg.get("model_overrides", {}).get(tid, {})}) if first < end else None
+        else:
+            modeled = None
+        span = [first, modeled_last_day(first, end, pinned_end, modeled)] if modeled else None
         dated = sorted({d for d in (first, last) if d and d < start} | set(logged))
-        if span:
+        if modeled:
             day_minutes = dict(logged)
-        else:  # no span to spread over: its pre-tracking minutes go evenly on its dated days before tracking
+        else:  # nothing to spread over: its pre-tracking minutes go evenly on its dated days before tracking
             before = [d for d in dated if d < start]
             day_minutes = {**{d: rest_minutes / len(before) for d in before}, **logged} if before else dict(logged)
         entries[eid] = {"family": "Nintendo", "platform": t["platform"], "name": t["name"],
                         "days": dated, "minutes": t["minutes"] or None,
                         "earned": None, "total": None, "art": t.get("image"),
                         "days_played": t["days_played"], "family_play": t["family_play"],
-                        "span": span, "span_days": rest_days if span else 0, "span_minutes": rest_minutes if span else 0,
+                        "span": span, "span_days": rest_days if modeled else 0,
+                        # Modeled play by month: [days, minutes], for the years and the span band
+                        "modeled": modeled,
                         "day_minutes": {d: round(m) for d, m in day_minutes.items()}}
         if tid in by_title:
             links.append((eid, by_title[tid]))
@@ -430,6 +513,16 @@ def build():
         if seen[row["id"]] > 1:
             row["id"] += f"-{seen[row['id']]}"
     games.sort(key=lambda r: (r["last"] or "", r["name"]), reverse=True)
+
+    # Other versions of a game kept as their own rows (remakes): each row lists the others
+    entry_row = {e["id"]: row for row in games for e in row["entries"]}
+    for group in cfg.get("versions", []):
+        missing = [i for i in group if i not in entry_row]
+        if missing:
+            raise SystemExit(f"config/game_merges.json versions name entries that aren't on the page: {missing}")
+        vrows = [entry_row[i] for i in group]
+        for r in vrows:
+            r["versions"] = [{"id": o["id"], "name": o["name"]} for o in vrows if o is not r]
 
     shown = {e["id"] for row in games for e in row["entries"]}
     lost = sorted(set(cfg.get("names", {})) - shown)
