@@ -6568,7 +6568,7 @@
     "Nintendo"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "timeline_always": false,
   "hours": 70.6,
   "hours_estimated": false,
@@ -6585,7 +6585,7 @@
     "total": null,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/da34d7f30d034a5db643d318e409da03_512",
     "days_played": 139,
-    "family_play": false,
+    "family_play": true,
     "span": [
      "2018-06-22",
      "2026-09-03"
@@ -20457,7 +20457,7 @@
     "PlayStation"
    ]
   ],
-  "family_play": false,
+  "family_play": true,
   "timeline_always": false,
   "hours": 62.1,
   "hours_estimated": false,
@@ -20474,7 +20474,7 @@
     "total": null,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e83edc9aa7347f99bfdc8957011097a_512",
     "days_played": 68,
-    "family_play": false,
+    "family_play": true,
     "span": [
      "2018-05-29",
      "2020-04-22"
