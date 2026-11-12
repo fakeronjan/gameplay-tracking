@@ -76,7 +76,8 @@
     "id": "the-legend-of-zelda-ocarina-of-time-3d",
     "name": "The Legend of Zelda: Ocarina of Time 3D"
    }
-  ]
+  ],
+  "img": "img/g/6d27cd041d9b0c80.webp"
  },
  {
   "id": "animal-crossing-new-horizons",
@@ -806,7 +807,8 @@
     "first": "2020-03-20",
     "last": "2026-07-05"
    }
-  ]
+  ],
+  "img": "img/g/16b740d55901b293.webp"
  },
  {
   "id": "madden-nfl-27",
@@ -870,7 +872,8 @@
      "2026": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/2f63219becf51e0a.webp"
  },
  {
   "id": "mass-effect",
@@ -916,7 +919,7 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 10.2,
+  "hours": 16.1,
   "hours_estimated": true,
   "estimated_from": [
    "Mass Effect Legendary Edition"
@@ -928,11 +931,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Mass Effect",
-    "minutes": null,
+    "minutes": 88,
     "earned": 1,
     "total": 49,
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
+    "estimated": true,
     "first": "2007-12-05",
     "last": "2007-12-05",
     "earned_by_year": {
@@ -944,11 +948,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Mass Effect",
-    "minutes": null,
+    "minutes": 176,
     "earned": 2,
     "total": 49,
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.8773.71308613299400080.f0c5363b-eaa8-4bbf-8ad7-8edb4ca2c029.5146bc82-673e-43c4-9092-6334655c5002",
+    "estimated": true,
     "first": "2010-08-28",
     "last": "2011-02-20",
     "earned_by_year": {
@@ -961,10 +966,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Mass Effect",
-    "minutes": null,
+    "minutes": 88,
     "art": "https://image.api.playstation.com/trophy/np/NPWR04000_00_0067FBF0A5F1A43EAAE511145CC35DFDA4A53F1BC5/E6751CF420026E5B506646B869AB4419AB488069.PNG",
     "earned": 2,
     "total": 47,
+    "estimated": true,
     "first": "2013-05-10",
     "last": "2013-05-10",
     "earned_by_year": {
@@ -1020,7 +1026,8 @@
      "2026": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/5f30e98f4cc4657a.webp"
  },
  {
   "id": "grand-theft-auto-v",
@@ -1080,8 +1087,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 164.3,
-  "hours_estimated": false,
+  "hours": 165.1,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 132,
   "entries": [
@@ -1090,10 +1097,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Grand Theft Auto V",
-    "minutes": null,
+    "minutes": 45,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03885_00_006D0E2FCAF8F452269011A1D6E3A52E16290E404F/A368147A58136F1834993996296A61535E897D56.PNG",
     "earned": 1,
     "total": 59,
+    "estimated": true,
     "first": "2013-09-20",
     "last": "2013-09-20",
     "earned_by_year": {
@@ -1184,7 +1192,8 @@
      "2025": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/1aa6fe8d2d3aaefe.webp"
  },
  {
   "id": "what-the-dub",
@@ -1304,7 +1313,8 @@
      "2025": 21
     }
    }
-  ]
+  ],
+  "img": "img/g/a54d3e0c94f5f473.webp"
  },
  {
   "id": "switch-online-snes",
@@ -1760,7 +1770,8 @@
     "first": "2020-06-09",
     "last": "2023-11-07"
    }
-  ]
+  ],
+  "img": "img/g/d61f1bdbb7e5d572.webp"
  },
  {
   "id": "the-witcher-3-wild-hunt",
@@ -1951,7 +1962,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/a6a1990df9986437.webp"
  },
  {
   "id": "rayman-legends",
@@ -2041,8 +2053,8 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 60.4,
-  "hours_estimated": false,
+  "hours": 114.7,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 135,
   "entries": [
@@ -2051,10 +2063,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Rayman Legends",
-    "minutes": null,
+    "minutes": 2355,
     "art": "https://image.api.playstation.com/trophy/np/NPWR04537_00_00E14A81DF624D9DC20FE7274192886D906F1AAFB1/1AB240581363C4C28EF075751F3770138B4C6BC2.PNG",
     "earned": 27,
     "total": 51,
+    "estimated": true,
     "first": "2013-09-06",
     "last": "2013-11-03",
     "earned_by_year": {
@@ -2095,10 +2108,11 @@
     "family": "PlayStation",
     "platform": "Vita",
     "name": "Rayman Legends",
-    "minutes": null,
+    "minutes": 725,
     "art": "https://image.api.playstation.com/trophy/np/NPWR04770_00_0001D8A16DB91B280D8BC8E0D87DDC45826881B50A/F60842F6C5736DF7F98DC410A71F5876778BB870.PNG",
     "earned": 6,
     "total": 38,
+    "estimated": true,
     "first": "2016-04-19",
     "last": "2016-12-18",
     "earned_by_year": {
@@ -2572,15 +2586,17 @@
     "family": "Xbox",
     "platform": "Xbox",
     "name": "Rayman Legends",
-    "minutes": null,
+    "minutes": 181,
     "earned": 2,
     "total": 0,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.43306.65843946604617087.28c97e95-1438-4c02-aee4-66f02ec0e029.4e8a3987-46b8-43db-a2fd-427ea06a3b4c",
+    "estimated": true,
     "first": "2021-12-11",
     "last": "2021-12-11"
    }
-  ]
+  ],
+  "img": "img/g/b7ccdc0dd19ffa47.webp"
  },
  {
   "id": "miitopia",
@@ -2897,7 +2913,8 @@
     "first": "2021-06-03",
     "last": "2026-10-17"
    }
-  ]
+  ],
+  "img": "img/g/5b5b5e8700bddc11.webp"
  },
  {
   "id": "switch-online-game-boy-advance",
@@ -3130,7 +3147,8 @@
     "first": "2023-02-10",
     "last": "2026-09-27"
    }
-  ]
+  ],
+  "img": "img/g/a2c9850c0e00477a.webp"
  },
  {
   "id": "pok-mon-friends",
@@ -3247,7 +3265,8 @@
     "first": "2025-07-26",
     "last": "2026-09-27"
    }
-  ]
+  ],
+  "img": "img/g/b9a1d6104dbcbc45.webp"
  },
  {
   "id": "metroid-dread",
@@ -3559,7 +3578,8 @@
     "first": "2026-09-19",
     "last": "2026-09-19"
    }
-  ]
+  ],
+  "img": "img/g/e53f88212a4a358e.webp"
  },
  {
   "id": "mario-kart-world",
@@ -3680,7 +3700,8 @@
     "first": "2025-06-07",
     "last": "2026-09-27"
    }
-  ]
+  ],
+  "img": "img/g/7f43968270908821.webp"
  },
  {
   "id": "like-a-dragon-infinite-wealth",
@@ -3772,7 +3793,8 @@
      "2024": 45
     }
    }
-  ]
+  ],
+  "img": "img/g/0ac9b69f380d3aa5.webp"
  },
  {
   "id": "the-legend-of-zelda-tears-of-the-kingdom",
@@ -4034,7 +4056,8 @@
     "first": "2023-05-12",
     "last": "2023-06-17"
    }
-  ]
+  ],
+  "img": "img/g/8db9a69395883840.webp"
  },
  {
   "id": "the-legend-of-zelda-breath-of-the-wild",
@@ -4596,7 +4619,8 @@
     "first": "2017-03-04",
     "last": "2023-05-05"
    }
-  ]
+  ],
+  "img": "img/g/54308348998fd13c.webp"
  },
  {
   "id": "switch-online-nintendo-64",
@@ -4920,7 +4944,8 @@
     "first": "2022-03-30",
     "last": "2022-10-30"
    }
-  ]
+  ],
+  "img": "img/g/987d60455656e4dc.webp"
  },
  {
   "id": "switch-online-gamecube",
@@ -5041,7 +5066,8 @@
     "first": "2025-06-05",
     "last": "2026-09-06"
    }
-  ]
+  ],
+  "img": "img/g/156812deceb5b298.webp"
  },
  {
   "id": "star-fox",
@@ -5153,7 +5179,8 @@
     "first": "2026-06-26",
     "last": "2026-09-06"
    }
-  ]
+  ],
+  "img": "img/g/ce04ea1ae000f676.webp"
  },
  {
   "id": "super-mario-odyssey",
@@ -5691,7 +5718,8 @@
     "first": "2017-10-27",
     "last": "2020-04-18"
    }
-  ]
+  ],
+  "img": "img/g/4602f263a8636931.webp"
  },
  {
   "id": "grand-theft-auto-vice-city",
@@ -5771,7 +5799,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/a410acdf2ba6c2c9.webp"
  },
  {
   "id": "grand-theft-auto-iii",
@@ -5827,7 +5856,8 @@
      "2026": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/d3854ef180e096d6.webp"
  },
  {
   "id": "mario-tennis-aces",
@@ -6305,7 +6335,8 @@
     "first": "2018-07-21",
     "last": "2018-10-30"
    }
-  ]
+  ],
+  "img": "img/g/6fd51a8a8f5378ee.webp"
  },
  {
   "id": "uncharted-4-a-thief-s-end",
@@ -6402,7 +6433,8 @@
     "first": "2022-07-08",
     "last": "2022-07-08"
    }
-  ]
+  ],
+  "img": "img/g/b1c0585be2e6f167.webp"
  },
  {
   "id": "uncharted-2-among-thieves",
@@ -6449,7 +6481,7 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 11.6,
+  "hours": 31.1,
   "hours_estimated": true,
   "estimated_from": [
    "Uncharted: The Nathan Drake Collection"
@@ -6461,10 +6493,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Uncharted 2: Among Thieves",
-    "minutes": null,
+    "minutes": 1169,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00462_00_00534AD6647D743E1E7466BB16667F7E6334D643DD/4226B4020FFEBD3538E0A4FB2BB8375E4BD4643B.PNG",
     "earned": 22,
     "total": 71,
+    "estimated": true,
     "first": "2010-01-13",
     "last": "2012-07-30",
     "earned_by_year": {
@@ -6495,7 +6528,8 @@
      "2026": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/ef7a8c5c04e64851.webp"
  },
  {
   "id": "super-smash-bros-ultimate",
@@ -6924,7 +6958,8 @@
     "first": "2018-12-07",
     "last": "2026-08-26"
    }
-  ]
+  ],
+  "img": "img/g/a94439f6bfae6d11.webp"
  },
  {
   "id": "lego-star-wars-the-skywalker-saga",
@@ -7008,7 +7043,8 @@
      "2023": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/f6ffdce1969d97ca.webp"
  },
  {
   "id": "ea-sports-fc-26",
@@ -7068,7 +7104,8 @@
      "2026": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/1a7f96e2e1d430b6.webp"
  },
  {
   "id": "overcooked-2",
@@ -7127,7 +7164,8 @@
      "2026": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/ab8a5b6885a8b880.webp"
  },
  {
   "id": "switch-online-game-boy",
@@ -7352,7 +7390,8 @@
     "first": "2023-02-10",
     "last": "2026-07-11"
    }
-  ]
+  ],
+  "img": "img/g/5ab3b48cd8ade76e.webp"
  },
  {
   "id": "nba-the-run",
@@ -7405,7 +7444,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/97e7c661fe51eb8b.webp"
  },
  {
   "id": "rhythm-heaven-groove",
@@ -7479,7 +7519,8 @@
     "first": "2026-07-02",
     "last": "2026-07-02"
    }
-  ]
+  ],
+  "img": "img/g/d796e8c0b9f7dfce.webp"
  },
  {
   "id": "marvel-cosmic-invasion",
@@ -7548,7 +7589,8 @@
      "2026": 17
     }
    }
-  ]
+  ],
+  "img": "img/g/6599e9f79767c65e.webp"
  },
  {
   "id": "super-mario-bros-wonder",
@@ -7746,7 +7788,8 @@
     "first": "2023-11-05",
     "last": "2023-11-05"
    }
-  ]
+  ],
+  "img": "img/g/499a3883c32db6d6.webp"
  },
  {
   "id": "mortal-kombat-1",
@@ -7810,7 +7853,8 @@
      "2024": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/252cb4a6b733bf6f.webp"
  },
  {
   "id": "switch-online-nes",
@@ -8264,7 +8308,8 @@
     "first": "2018-09-21",
     "last": "2022-10-16"
    }
-  ]
+  ],
+  "img": "img/g/b9020d67608c47a3.webp"
  },
  {
   "id": "super-mario-maker-2",
@@ -8690,7 +8735,8 @@
     "first": "2019-07-04",
     "last": "2023-05-07"
    }
-  ]
+  ],
+  "img": "img/g/fc54c11342be634a.webp"
  },
  {
   "id": "guacamelee",
@@ -8768,8 +8814,8 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 27.8,
-  "hours_estimated": false,
+  "hours": 44.1,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 29,
   "entries": [
@@ -8778,10 +8824,11 @@
     "family": "PlayStation",
     "platform": "PS3,Vita",
     "name": "Guacamelee!",
-    "minutes": null,
+    "minutes": 982,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/74B7AB88F435BB82F089A3152CA72AF4B5DCB080.PNG",
     "earned": 30,
     "total": 61,
+    "estimated": true,
     "first": "2013-04-13",
     "last": "2016-06-25",
     "earned_by_year": {
@@ -8870,7 +8917,8 @@
     "first": "2022-01-09",
     "last": "2022-02-06"
    }
-  ]
+  ],
+  "img": "img/g/ddadfbe17d16067a.webp"
  },
  {
   "id": "mina-the-hollower",
@@ -8918,7 +8966,8 @@
     "first": "2026-06-09",
     "last": "2026-06-09"
    }
-  ]
+  ],
+  "img": "img/g/23a3e8dd9beef5b8.webp"
  },
  {
   "id": "microsoft-flight-simulator-2024",
@@ -8974,7 +9023,8 @@
      "2026": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/cb76422a1132d65a.webp"
  },
  {
   "id": "007-first-light",
@@ -9034,7 +9084,8 @@
      "2026": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/281484c097344692.webp"
  },
  {
   "id": "shovel-knight-treasure-trove",
@@ -9724,7 +9775,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/281d844d5644f24f.webp"
  },
  {
   "id": "nintendo-world-championships-nes-edition",
@@ -9789,7 +9841,8 @@
     "first": "2024-07-20",
     "last": "2026-06-07"
    }
-  ]
+  ],
+  "img": "img/g/6175407ee84d9f00.webp"
  },
  {
   "id": "mixtape",
@@ -9854,7 +9907,8 @@
     "first": "2026-05-09",
     "last": "2026-06-07"
    }
-  ]
+  ],
+  "img": "img/g/bea0d3781e91b8d8.webp"
  },
  {
   "id": "lego-batman-legacy-of-the-dark-knight",
@@ -9910,7 +9964,8 @@
      "2026": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/0e0c3dcb23918e13.webp"
  },
  {
   "id": "mortal-kombat-legacy-kollection",
@@ -9968,7 +10023,8 @@
      "2026": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/b04076c29ab574c9.webp"
  },
  {
   "id": "people-of-note",
@@ -10033,7 +10089,8 @@
     "first": "2026-04-09",
     "last": "2026-05-03"
    }
-  ]
+  ],
+  "img": "img/g/1c3d18c6c75c1033.webp"
  },
  {
   "id": "mega-man-legacy-collection",
@@ -10200,7 +10257,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/c440c77cb5010392.webp"
  },
  {
   "id": "life-is-strange-reunion",
@@ -10258,7 +10316,8 @@
      "2026": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/23e82cb6e595711c.webp"
  },
  {
   "id": "final-fantasy-x-x-2-hd",
@@ -10311,7 +10370,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/e480f80323b2afa0.webp"
  },
  {
   "id": "final-fantasy-vii-remake",
@@ -10428,7 +10488,8 @@
      "2024": 19
     }
    }
-  ]
+  ],
+  "img": "img/g/ba26eded1c9582a4.webp"
  },
  {
   "id": "burnout-paradise",
@@ -10526,8 +10587,8 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 14.7,
-  "hours_estimated": false,
+  "hours": 97.9,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 6,
   "entries": [
@@ -10536,10 +10597,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Burnout Paradise",
-    "minutes": null,
+    "minutes": 4992,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00234_00_00D1EE47DC19BE5210C9A03E4C12D0416CE654D413/D8303B0EBB2CB613D48A023DFF1C77390D654A30.PNG",
     "earned": 50,
     "total": 98,
+    "estimated": true,
     "first": "2008-09-27",
     "last": "2011-06-17",
     "earned_by_year": {
@@ -10869,7 +10931,8 @@
      "2020": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/91a7ba52f6a22080.webp"
  },
  {
   "id": "super-mario-rpg",
@@ -11069,7 +11132,8 @@
     "id": "super-mario-rpg-legend-of-the-seven-stars",
     "name": "Super Mario RPG: Legend of the Seven Stars"
    }
-  ]
+  ],
+  "img": "img/g/a991f4c94e326bba.webp"
  },
  {
   "id": "paper-mario-the-thousand-year-door",
@@ -11255,7 +11319,8 @@
     "first": "2024-05-23",
     "last": "2024-06-07"
    }
-  ]
+  ],
+  "img": "img/g/204bbe226a822889.webp"
  },
  {
   "id": "persona-3-reload",
@@ -11346,7 +11411,8 @@
      "2026": 43
     }
    }
-  ]
+  ],
+  "img": "img/g/d42ef76d36afa968.webp"
  },
  {
   "id": "teenage-mutant-ninja-turtles-shredder-s-revenge",
@@ -11424,7 +11490,8 @@
      "2025": 22
     }
    }
-  ]
+  ],
+  "img": "img/g/2d65c57f6684d82f.webp"
  },
  {
   "id": "doom-doom-ii",
@@ -11492,7 +11559,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/d558c8face0dde56.webp"
  },
  {
   "id": "balatro",
@@ -11749,7 +11817,8 @@
      "2025": 26
     }
    }
-  ]
+  ],
+  "img": "img/g/a54fda0bc8708479.webp"
  },
  {
   "id": "super-bomberman-collection",
@@ -11807,7 +11876,8 @@
      "2026": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/e7f8bb08219a74ae.webp"
  },
  {
   "id": "life-is-strange-double-exposure",
@@ -11882,7 +11952,8 @@
     "first": "2024-11-24",
     "last": "2024-11-24"
    }
-  ]
+  ],
+  "img": "img/g/5f7af98bedf27ed4.webp"
  },
  {
   "id": "ufo-50",
@@ -11925,7 +11996,8 @@
      "2026": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/94943ecd60e4c4dd.webp"
  },
  {
   "id": "star-wars-knights-of-the-old-republic",
@@ -12021,7 +12093,8 @@
     "first": "2026-03-21",
     "last": "2026-03-21"
    }
-  ]
+  ],
+  "img": "img/g/6929fc3c25a37902.webp"
  },
  {
   "id": "plague-inc-evolved",
@@ -12070,7 +12143,8 @@
      "2015": 12
     }
    }
-  ]
+  ],
+  "img": "img/g/cbb171d39ff3f2a9.webp"
  },
  {
   "id": "octopath-traveler-ii",
@@ -12184,7 +12258,8 @@
     "first": "2026-03-21",
     "last": "2026-03-21"
    }
-  ]
+  ],
+  "img": "img/g/a6eb37464b88482f.webp"
  },
  {
   "id": "luck-be-a-landlord",
@@ -12234,7 +12309,8 @@
      "2025": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/d7feb0efc8d7cc0f.webp"
  },
  {
   "id": "hades",
@@ -12367,7 +12443,8 @@
     "first": "2026-03-21",
     "last": "2026-03-21"
    }
-  ]
+  ],
+  "img": "img/g/93479c1d92bb9047.webp"
  },
  {
   "id": "street-fighter-6",
@@ -12428,7 +12505,8 @@
      "2024": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/dedc73b206b72870.webp"
  },
  {
   "id": "trombone-champ",
@@ -12605,7 +12683,8 @@
     "first": "2026-03-19",
     "last": "2026-03-19"
    }
-  ]
+  ],
+  "img": "img/g/973c7a2dacf46aaa.webp"
  },
  {
   "id": "celeste",
@@ -12728,7 +12807,8 @@
     "first": "2026-03-19",
     "last": "2026-03-19"
    }
-  ]
+  ],
+  "img": "img/g/6bfa5419da4bb849.webp"
  },
  {
   "id": "3dsen",
@@ -12768,7 +12848,8 @@
     "first": "2026-03-19",
     "last": "2026-03-19"
    }
-  ]
+  ],
+  "img": "img/g/562860f8ffb65166.webp"
  },
  {
   "id": "fortnite",
@@ -12838,7 +12919,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/adeaaeac21e617de.webp"
  },
  {
   "id": "kirby-star-allies",
@@ -13298,7 +13380,8 @@
     "first": "2018-04-01",
     "last": "2018-05-13"
    }
-  ]
+  ],
+  "img": "img/g/23950f9e3b8675af.webp"
  },
  {
   "id": "street-fighter-v",
@@ -13383,7 +13466,8 @@
      "2024": 17
     }
    }
-  ]
+  ],
+  "img": "img/g/e966db0d1f466949.webp"
  },
  {
   "id": "parappa-the-rapper",
@@ -13452,7 +13536,8 @@
      "2026": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/02262a058b8cb86a.webp"
  },
  {
   "id": "clair-obscur-expedition-33",
@@ -13528,7 +13613,8 @@
      "2025": 33
     }
    }
-  ]
+  ],
+  "img": "img/g/2fbba1c247f19ab0.webp"
  },
  {
   "id": "ultimate-chicken-horse",
@@ -13586,7 +13672,8 @@
      "2025": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/e424243101af5f80.webp"
  },
  {
   "id": "octopath-traveler-0",
@@ -13648,7 +13735,8 @@
      "2025": 13
     }
    }
-  ]
+  ],
+  "img": "img/g/017c479bf024de12.webp"
  },
  {
   "id": "yooka-replaylee",
@@ -13706,7 +13794,8 @@
      "2025": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/a11427ac38e47a0d.webp"
  },
  {
   "id": "heavy-rain",
@@ -13739,8 +13828,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 1.0,
-  "hours_estimated": false,
+  "hours": 9.2,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 1,
   "entries": [
@@ -13749,10 +13838,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Heavy Rain",
-    "minutes": null,
+    "minutes": 490,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00324_00_008DAB1F50430C4731BD0A51BAFE43A467A594392A/1E684EF7FDD6C36734E7B4ABDE1F2F8440DD1700.PNG",
     "earned": 31,
     "total": 57,
+    "estimated": true,
     "first": "2010-04-04",
     "last": "2010-04-17",
     "earned_by_year": {
@@ -13787,7 +13877,8 @@
      "2025": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/c2a0e1c6f9102de4.webp"
  },
  {
   "id": "littlebigplanet-3",
@@ -13847,7 +13938,8 @@
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/b50e1356fce2ec28.webp"
  },
  {
   "id": "dispatch",
@@ -13905,7 +13997,8 @@
      "2025": 20
     }
    }
-  ]
+  ],
+  "img": "img/g/00a1566941229f6a.webp"
  },
  {
   "id": "bloodstained-ritual-of-the-night",
@@ -14062,7 +14155,8 @@
      "2025": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/80a6b92be5d9c45a.webp"
  },
  {
   "id": "uncharted-3-drake-s-deception",
@@ -14095,7 +14189,7 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 2.9,
+  "hours": 11.1,
   "hours_estimated": true,
   "estimated_from": [
    "Uncharted: The Nathan Drake Collection"
@@ -14107,10 +14201,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Uncharted 3: Drake's Deception",
-    "minutes": null,
+    "minutes": 490,
     "art": "https://image.api.playstation.com/trophy/np/NPWR01216_00_0061B90D1E86DA292D0AD0B17AD2B7D83B459B65FE/992461104239EA3713FC4CE9B1F90EE09CBBEAD5.PNG",
     "earned": 17,
     "total": 105,
+    "estimated": true,
     "first": "2011-11-02",
     "last": "2011-11-27",
     "earned_by_year": {
@@ -14137,7 +14232,8 @@
      "2025": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/4fc1a874a3c62fa1.webp"
  },
  {
   "id": "astro-bot",
@@ -14219,7 +14315,8 @@
      "2025": 56
     }
    }
-  ]
+  ],
+  "img": "img/g/da7402179c490648.webp"
  },
  {
   "id": "uncharted-drake-s-fortune",
@@ -14256,7 +14353,7 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 11.6,
+  "hours": 17.5,
   "hours_estimated": true,
   "estimated_from": [
    "Uncharted: The Nathan Drake Collection"
@@ -14268,10 +14365,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Uncharted: Drake's Fortune",
-    "minutes": null,
+    "minutes": 352,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00449_00_00727FDB8B71A3D03045ABCC7984807B8991254509/7CFF4AF57E944459DA3F079205E96BE52ECCA663.PNG",
     "earned": 8,
     "total": 48,
+    "estimated": true,
     "first": "2010-02-24",
     "last": "2010-03-22",
     "earned_by_year": {
@@ -14300,7 +14398,8 @@
      "2025": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/982160f24eab28d4.webp"
  },
  {
   "id": "madden-nfl-26",
@@ -14358,7 +14457,8 @@
      "2025": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/c7f70ccbef704d4d.webp"
  },
  {
   "id": "ea-sports-college-football-26",
@@ -14422,7 +14522,8 @@
      "2025": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/976ed971eef57e2b.webp"
  },
  {
   "id": "donkey-kong-bananza",
@@ -14487,7 +14588,8 @@
     "first": "2025-07-17",
     "last": "2025-08-03"
    }
-  ]
+  ],
+  "img": "img/g/f34bbd0152cac681.webp"
  },
  {
   "id": "ea-sports-college-football-25",
@@ -14553,7 +14655,8 @@
      "2024": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/b178d6254d78aaa1.webp"
  },
  {
   "id": "puzzle-bobble-everybubble",
@@ -14710,7 +14813,8 @@
     "first": "2023-07-09",
     "last": "2025-07-05"
    }
-  ]
+  ],
+  "img": "img/g/69fb07f5d1fa95ee.webp"
  },
  {
   "id": "donkey-kong-country-tropical-freeze",
@@ -15267,7 +15371,8 @@
     "first": "2018-05-04",
     "last": "2025-06-29"
    }
-  ]
+  ],
+  "img": "img/g/2640d163a1efd08a.webp"
  },
  {
   "id": "pocket-card-jockey-ride-on",
@@ -15341,7 +15446,8 @@
     "first": "2025-06-21",
     "last": "2025-06-21"
    }
-  ]
+  ],
+  "img": "img/g/f3476365d2f2247f.webp"
  },
  {
   "id": "super-mario-3d-all-stars",
@@ -15643,7 +15749,8 @@
     "first": "2020-09-18",
     "last": "2020-09-18"
    }
-  ]
+  ],
+  "img": "img/g/756c8c1cde50b908.webp"
  },
  {
   "id": "metroid-prime",
@@ -15708,7 +15815,8 @@
     "first": "2023-02-11",
     "last": "2025-06-22"
    }
-  ]
+  ],
+  "img": "img/g/5db608d701345848.webp"
  },
  {
   "id": "the-legend-of-zelda-echoes-of-wisdom",
@@ -15769,7 +15877,8 @@
     "first": "2025-06-21",
     "last": "2025-06-21"
    }
-  ]
+  ],
+  "img": "img/g/ce162511cf27976f.webp"
  },
  {
   "id": "super-mario-bros-35",
@@ -16075,7 +16184,8 @@
     "first": "2020-10-01",
     "last": "2020-10-11"
    }
-  ]
+  ],
+  "img": "img/g/f033c1622b47c449.webp"
  },
  {
   "id": "sega-genesis-classics",
@@ -16158,7 +16268,8 @@
     "first": "2021-04-11",
     "last": "2021-04-11"
    }
-  ]
+  ],
+  "img": "img/g/20e2fc538c150e95.webp"
  },
  {
   "id": "super-mario-3d-world-bowser-s-fury",
@@ -16617,7 +16728,8 @@
     "first": "2022-07-02",
     "last": "2025-06-07"
    }
-  ]
+  ],
+  "img": "img/g/6c29b380c7e53c85.webp"
  },
  {
   "id": "mario-kart-8-deluxe",
@@ -17297,7 +17409,8 @@
     "first": "2017-05-06",
     "last": "2023-08-04"
    }
-  ]
+  ],
+  "img": "img/g/dd8b833d3761e37f.webp"
  },
  {
   "id": "mirror-s-edge-catalyst",
@@ -17338,7 +17451,8 @@
     "first": "2025-05-12",
     "last": "2025-05-12"
    }
-  ]
+  ],
+  "img": "img/g/819da71cb9da22c5.webp"
  },
  {
   "id": "hitman-3",
@@ -17379,7 +17493,8 @@
     "first": "2025-05-12",
     "last": "2025-05-12"
    }
-  ]
+  ],
+  "img": "img/g/00f533b877bd042f.webp"
  },
  {
   "id": "never-alone",
@@ -17459,7 +17574,8 @@
     "first": "2025-05-11",
     "last": "2025-05-11"
    }
-  ]
+  ],
+  "img": "img/g/78b773ca6ea8e598.webp"
  },
  {
   "id": "street-fighter-30th-anniversary-collection",
@@ -17662,7 +17778,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/6ef02439804c8ea6.webp"
  },
  {
   "id": "lost-records-bloom-and-rage",
@@ -17726,7 +17843,8 @@
      "2025": 27
     }
    }
-  ]
+  ],
+  "img": "img/g/452449a10bfa1613.webp"
  },
  {
   "id": "blue-prince",
@@ -17779,7 +17897,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/82786301b7a3414e.webp"
  },
  {
   "id": "teenage-mutant-ninja-turtles-the-cowabunga-collection",
@@ -17839,7 +17958,8 @@
      "2022": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/42f8bc683eef9514.webp"
  },
  {
   "id": "persona-4-golden",
@@ -17874,8 +17994,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 5.7,
-  "hours_estimated": false,
+  "hours": 9.5,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 11,
   "entries": [
@@ -17884,10 +18004,11 @@
     "family": "PlayStation",
     "platform": "Vita",
     "name": "Persona 4 Golden",
-    "minutes": null,
+    "minutes": 230,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03895_00_00181B3808917032FC0B2C3837AAE699F8D436ACDF/57EE30F8541203F28896589C1369E6D859FA04F1.PNG",
     "earned": 5,
     "total": 50,
+    "estimated": true,
     "first": "2016-04-04",
     "last": "2016-05-01",
     "earned_by_year": {
@@ -17922,7 +18043,8 @@
      "2025": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/b5535ae260ff3cda.webp"
  },
  {
   "id": "split-fiction",
@@ -17982,7 +18104,8 @@
      "2025": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/261495e4d5933874.webp"
  },
  {
   "id": "persona-5-royal",
@@ -18109,7 +18232,8 @@
      "2025": 43
     }
    }
-  ]
+  ],
+  "img": "img/g/9e9deb75ab04acac.webp"
  },
  {
   "id": "like-a-dragon-pirate-yakuza-in-hawaii",
@@ -18177,7 +18301,8 @@
      "2025": 49
     }
    }
-  ]
+  ],
+  "img": "img/g/3c578d236fd4557e.webp"
  },
  {
   "id": "okami-hd",
@@ -18312,7 +18437,8 @@
     "first": "2025-02-14",
     "last": "2025-02-20"
    }
-  ]
+  ],
+  "img": "img/g/a7668d2fe58d7ca2.webp"
  },
  {
   "id": "persona-5-dancing-in-starlight",
@@ -18370,7 +18496,8 @@
      "2025": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/8f3484ef747066a4.webp"
  },
  {
   "id": "final-fantasy-vii-rebirth",
@@ -18431,7 +18558,8 @@
      "2025": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/77d7a62316745c2e.webp"
  },
  {
   "id": "octodad-dadliest-catch",
@@ -18489,7 +18617,8 @@
      "2025": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/9a515b889543edb8.webp"
  },
  {
   "id": "disney-classic-games-aladdin-and-the-lion-king",
@@ -18724,7 +18853,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/72a89eaec6219cf9.webp"
  },
  {
   "id": "nba-2k25",
@@ -18792,7 +18922,8 @@
      "2024": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/7ee1e1562f35ffe0.webp"
  },
  {
   "id": "call-of-duty-modern-warfare-ii",
@@ -18845,7 +18976,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/939c48ef70df6847.webp"
  },
  {
   "id": "disney-dreamlight-valley",
@@ -19010,7 +19142,8 @@
     "first": "2022-09-06",
     "last": "2024-11-17"
    }
-  ]
+  ],
+  "img": "img/g/83f3b82555d1828c.webp"
  },
  {
   "id": "super-mario-party-jamboree",
@@ -19058,7 +19191,8 @@
     "first": "2024-11-10",
     "last": "2024-11-10"
    }
-  ]
+  ],
+  "img": "img/g/f523ca96924d0fa8.webp"
  },
  {
   "id": "astro-s-playroom",
@@ -19120,7 +19254,8 @@
      "2022": 19
     }
    }
-  ]
+  ],
+  "img": "img/g/2784bb3e1b31afc9.webp"
  },
  {
   "id": "phoenix-wright-ace-attorney-trilogy",
@@ -19357,7 +19492,8 @@
      "2022": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/72b8a01ad5b2d341.webp"
  },
  {
   "id": "project-ethos",
@@ -19397,7 +19533,8 @@
     "first": "2024-10-17",
     "last": "2024-10-17"
    }
-  ]
+  ],
+  "img": "img/g/7ab53e0d76a4472a.webp"
  },
  {
   "id": "the-great-ace-attorney-chronicles",
@@ -19459,7 +19596,8 @@
      "2022": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/ee5386bd3efd9034.webp"
  },
  {
   "id": "star-wars-outlaws",
@@ -19512,7 +19650,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/285e4601a74489b9.webp"
  },
  {
   "id": "destiny-2",
@@ -19568,7 +19707,8 @@
      "2024": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/26e503018ff04650.webp"
  },
  {
   "id": "nba-2k24",
@@ -19643,7 +19783,8 @@
      "2024": 17
     }
    }
-  ]
+  ],
+  "img": "img/g/65f229ddf16e46d1.webp"
  },
  {
   "id": "madden-nfl-25",
@@ -19696,7 +19837,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/624973e55cb7e710.webp"
  },
  {
   "id": "doom-eternal",
@@ -19761,7 +19903,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/fb37999269d90ef7.webp"
  },
  {
   "id": "octopath-traveler",
@@ -20112,7 +20255,8 @@
      "2024": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/309beb2471f27eaa.webp"
  },
  {
   "id": "mortal-kombat-x",
@@ -20176,7 +20320,8 @@
      "2015": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/217f8ab096540a31.webp"
  },
  {
   "id": "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv",
@@ -20236,8 +20381,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 24.2,
-  "hours_estimated": false,
+  "hours": 50.4,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 36,
   "entries": [
@@ -20246,10 +20391,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Street Fighter IV",
-    "minutes": null,
+    "minutes": 429,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00434_00_003BC625ACCD0C2A5C5B4960CA1C23C77EC443B477/D3154DF2AA814CA3F240222F084F18AFE8D3D8F1.PNG",
     "earned": 5,
     "total": 48,
+    "estimated": true,
     "first": "2009-03-07",
     "last": "2009-03-21",
     "earned_by_year": {
@@ -20261,10 +20407,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Super Street Fighter IV",
-    "minutes": null,
+    "minutes": 429,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00938_00_003B5E079BBA0276C44C87789FD8AE6C4AF0510147/CDCA0FDE42D110616225600ABA82F6578FCCCD28.PNG",
     "earned": 7,
     "total": 67,
+    "estimated": true,
     "first": "2010-05-08",
     "last": "2010-05-23",
     "earned_by_year": {
@@ -20276,11 +20423,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Super Streetfighter IV Arcade Edition",
-    "minutes": null,
+    "minutes": 429,
     "earned": 5,
     "total": 67,
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.19350.71263401457659745.7affe054-2d5d-4895-ae7a-61a685624a81.7409b4ae-1eb1-4e4d-bf09-109a413a69eb",
+    "estimated": true,
     "first": "2011-05-04",
     "last": "2012-02-21",
     "earned_by_year": {
@@ -20322,18 +20470,20 @@
     "family": "Xbox",
     "platform": "Xbox",
     "name": "Super Streetfighter IV Arcade Edition",
-    "minutes": null,
+    "minutes": 286,
     "earned": 3,
     "total": 67,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.19350.71263401457659745.7affe054-2d5d-4895-ae7a-61a685624a81.7409b4ae-1eb1-4e4d-bf09-109a413a69eb",
+    "estimated": true,
     "first": "2019-08-11",
     "last": "2022-03-18",
     "earned_by_year": {
      "2019": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/7eb27d9db04bef7a.webp"
  },
  {
   "id": "ea-sports-fc-24",
@@ -20393,7 +20543,8 @@
      "2023": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/933ed03fcb8546b6.webp"
  },
  {
   "id": "animal-well",
@@ -20449,7 +20600,8 @@
      "2024": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/b1263310d88ff905.webp"
  },
  {
   "id": "yakuza-like-a-dragon",
@@ -20535,7 +20687,8 @@
      "2024": 11
     }
    }
-  ]
+  ],
+  "img": "img/g/e3cb82eb1ffa2f16.webp"
  },
  {
   "id": "topspin-2k25",
@@ -20605,7 +20758,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/6eebecb835abfefc.webp"
  },
  {
   "id": "nintendo-switch-sports",
@@ -20666,7 +20820,8 @@
     "first": "2024-04-14",
     "last": "2024-04-14"
    }
-  ]
+  ],
+  "img": "img/g/e107b299688d69bb.webp"
  },
  {
   "id": "yakuza-0",
@@ -20724,7 +20879,8 @@
      "2024": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/51159045b418f1df.webp"
  },
  {
   "id": "mlb-the-show-24",
@@ -20790,7 +20946,8 @@
      "2024": 13
     }
    }
-  ]
+  ],
+  "img": "img/g/7ef3c69394644b7a.webp"
  },
  {
   "id": "the-jackbox-party-pack-8",
@@ -20876,7 +21033,8 @@
      "2023": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/fc7f343ba218fa36.webp"
  },
  {
   "id": "madden-nfl-24",
@@ -20939,7 +21097,8 @@
      "2024": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/8ead580b956e4318.webp"
  },
  {
   "id": "clubhouse-games-51-worldwide-classics",
@@ -21199,7 +21358,8 @@
     "first": "2020-06-14",
     "last": "2020-06-20"
    }
-  ]
+  ],
+  "img": "img/g/4f4b5e307086c564.webp"
  },
  {
   "id": "mlb-the-show-23",
@@ -21262,7 +21422,8 @@
      "2024": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/fb3271c134ac5002.webp"
  },
  {
   "id": "the-jackbox-party-pack",
@@ -21320,7 +21481,8 @@
      "2015": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/37020374ce8c320b.webp"
  },
  {
   "id": "marvel-s-spider-man-2",
@@ -21376,7 +21538,8 @@
      "2023": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/022b50713534d653.webp"
  },
  {
   "id": "catherine-catherine-full-body",
@@ -21407,8 +21570,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.4,
-  "hours_estimated": false,
+  "hours": 4.2,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 3,
   "entries": [
@@ -21417,10 +21580,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Catherine",
-    "minutes": null,
+    "minutes": 230,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00906_00_00B3A6E2E82548802D769FBB9532649FA33F0B2065/67B8BD929CD05CE391FD7DBA2FB13ED553C3A06F.PNG",
     "earned": 3,
     "total": 50,
+    "estimated": true,
     "first": "2014-08-09",
     "last": "2014-08-11",
     "earned_by_year": {
@@ -21455,7 +21619,8 @@
      "2023": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/f0ae5b4e9808a954.webp"
  },
  {
   "id": "f-zero-99",
@@ -21516,7 +21681,8 @@
     "first": "2023-09-15",
     "last": "2023-09-15"
    }
-  ]
+  ],
+  "img": "img/g/a36a258a66da3a00.webp"
  },
  {
   "id": "baldur-s-gate-3",
@@ -21569,7 +21735,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/cd86381aabd1ad59.webp"
  },
  {
   "id": "theatrhythm-final-bar-line",
@@ -21646,7 +21813,8 @@
      "2023": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/a4ee214b1538d636.webp"
  },
  {
   "id": "nba-2k23",
@@ -21713,7 +21881,8 @@
      "2023": 13
     }
    }
-  ]
+  ],
+  "img": "img/g/0dc10db36d069e29.webp"
  },
  {
   "id": "drawful-2",
@@ -21907,7 +22076,8 @@
      "2023": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/6e8b8d981d41be9e.webp"
  },
  {
   "id": "minecraft",
@@ -22239,7 +22409,8 @@
     "first": "2020-01-10",
     "last": "2020-01-10"
    }
-  ]
+  ],
+  "img": "img/g/ca0aeef95e2ef2dd.webp"
  },
  {
   "id": "pga-tour-2k23",
@@ -22292,7 +22463,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/db10e9211423544b.webp"
  },
  {
   "id": "lego-2k-drive",
@@ -22348,7 +22520,8 @@
      "2023": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/76af5fe75bd2fba5.webp"
  },
  {
   "id": "super-mega-baseball-4",
@@ -22406,7 +22579,8 @@
      "2023": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/7d87c6f55a3a22a4.webp"
  },
  {
   "id": "final-fantasy-xvi",
@@ -22447,7 +22621,8 @@
     "first": "2023-06-12",
     "last": "2023-06-12"
    }
-  ]
+  ],
+  "img": "img/g/6fbdb660d6c605dd.webp"
  },
  {
   "id": "rifftrax-the-game",
@@ -22500,7 +22675,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/1a71209c503d1d9e.webp"
  },
  {
   "id": "the-legend-of-zelda-link-s-awakening",
@@ -22762,7 +22938,8 @@
     "first": "2019-09-21",
     "last": "2019-10-19"
    }
-  ]
+  ],
+  "img": "img/g/468972a830d9b47d.webp"
  },
  {
   "id": "new-super-mario-bros-u-deluxe",
@@ -23189,7 +23366,8 @@
     "first": "2019-01-11",
     "last": "2023-05-13"
    }
-  ]
+  ],
+  "img": "img/g/981e599ec8c5361c.webp"
  },
  {
   "id": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
@@ -23230,7 +23408,8 @@
     "first": "2023-05-06",
     "last": "2023-05-06"
    }
-  ]
+  ],
+  "img": "img/g/861792b1e76e3461.webp"
  },
  {
   "id": "cadence-of-hyrule",
@@ -23502,7 +23681,8 @@
     "first": "2019-06-16",
     "last": "2019-07-04"
    }
-  ]
+  ],
+  "img": "img/g/fcd2c494859778a3.webp"
  },
  {
   "id": "final-fantasy-vi",
@@ -23570,7 +23750,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/fde7433666721e25.webp"
  },
  {
   "id": "klonoa-phantasy-reverie-series",
@@ -23655,7 +23836,8 @@
     "first": "2023-02-12",
     "last": "2023-02-12"
    }
-  ]
+  ],
+  "img": "img/g/d8e4879ea53e278a.webp"
  },
  {
   "id": "puzzle-fighter-hd",
@@ -23715,7 +23897,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/02c43b5848e9453c.webp"
  },
  {
   "id": "goldeneye-007",
@@ -23756,7 +23939,8 @@
     "first": "2023-01-29",
     "last": "2023-01-29"
    }
-  ]
+  ],
+  "img": "img/g/c58cf0219e57fdb6.webp"
  },
  {
   "id": "rock-band-4",
@@ -23799,7 +23983,8 @@
     "first": "2021-01-24",
     "last": "2023-01-28"
    }
-  ]
+  ],
+  "img": "img/g/053fd28e1e7b009a.webp"
  },
  {
   "id": "heavy-weapon",
@@ -23901,7 +24086,8 @@
      "2020": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/b53d50bc613752ab.webp"
  },
  {
   "id": "castle-crashers",
@@ -23955,8 +24141,8 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 4.1,
-  "hours_estimated": false,
+  "hours": 12.3,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
@@ -23965,11 +24151,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Castle Crashers",
-    "minutes": null,
+    "minutes": 98,
     "earned": 1,
     "total": 12,
     "gamertag": "thesurfshop19",
     "art": "http://store-images.s-microsoft.com/image/apps.60770.71552514605053188.e6099870-1f9e-45b6-b406-6b494361dacd.7b2e8c34-a483-40db-90dc-72a0f23b6879",
+    "estimated": true,
     "first": "2009-07-19",
     "last": "2009-07-19",
     "earned_by_year": {
@@ -23981,11 +24168,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Castle Crashers",
-    "minutes": null,
+    "minutes": 294,
     "earned": 4,
     "total": 12,
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.60770.71552514605053188.e6099870-1f9e-45b6-b406-6b494361dacd.7b2e8c34-a483-40db-90dc-72a0f23b6879",
+    "estimated": true,
     "first": "2010-08-15",
     "last": "2011-01-30",
     "earned_by_year": {
@@ -23997,10 +24185,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Castle Crashers",
-    "minutes": null,
+    "minutes": 98,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00765_00_009CDCFD0EA0ACAC2A1631B2402F38974A9333424B/FEFC83E46F21C6407F70C0A8C3DC978662682D85.PNG",
     "earned": 2,
     "total": 13,
+    "estimated": true,
     "first": "2013-04-13",
     "last": "2013-04-13",
     "earned_by_year": {
@@ -24116,7 +24305,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/41339aceaccb3768.webp"
  },
  {
   "id": "god-of-war-ragnar-k",
@@ -24169,7 +24359,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/cad3de3cba20be8e.webp"
  },
  {
   "id": "atari-50-the-anniversary-celebration",
@@ -24222,7 +24413,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/dbeb4c1860d92ecb.webp"
  },
  {
   "id": "rare-replay",
@@ -24276,7 +24468,8 @@
     "first": "2016-02-14",
     "last": "2022-11-13"
    }
-  ]
+  ],
+  "img": "img/g/e2d932852367cfcf.webp"
  },
  {
   "id": "fifa-23",
@@ -24336,7 +24529,8 @@
      "2022": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/63e2cdb33328f13c.webp"
  },
  {
   "id": "retro-bowl",
@@ -24444,7 +24638,8 @@
     "first": "2022-07-30",
     "last": "2022-09-27"
    }
-  ]
+  ],
+  "img": "img/g/440a3348a19ebe7f.webp"
  },
  {
   "id": "puyo-puyo-tetris",
@@ -24770,7 +24965,8 @@
     "first": "2020-05-16",
     "last": "2022-10-27"
    }
-  ]
+  ],
+  "img": "img/g/d0fc569656c31c85.webp"
  },
  {
   "id": "switch-online-sega-genesis",
@@ -24855,7 +25051,8 @@
     "first": "2022-04-19",
     "last": "2022-10-02"
    }
-  ]
+  ],
+  "img": "img/g/926099c353fbb9dc.webp"
  },
  {
   "id": "shadow-of-the-colossus",
@@ -24923,7 +25120,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/3aa040b2f7094012.webp"
  },
  {
   "id": "contra-anniversary-collection",
@@ -24994,7 +25192,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/5268f43ca3f9e08d.webp"
  },
  {
   "id": "ni-no-kuni-wrath-of-the-white-witch",
@@ -25046,8 +25245,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 17.1,
-  "hours_estimated": false,
+  "hours": 36.6,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 5,
   "entries": [
@@ -25056,10 +25255,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Ni no Kuni: Wrath of the White Witch",
-    "minutes": null,
+    "minutes": 1169,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03632_00_00040A2E1FC91A8C54DE8D02CD84BE9A7B6C6C9305/BF9C8D09624C5CEBDB5C0E6DF7B94C50F559D925.PNG",
     "earned": 12,
     "total": 34,
+    "estimated": true,
     "first": "2013-01-23",
     "last": "2013-02-10",
     "earned_by_year": {
@@ -25114,7 +25314,8 @@
      "2022": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/ab7d66337fded30f.webp"
  },
  {
   "id": "madden-nfl-23",
@@ -25170,7 +25371,8 @@
      "2022": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/a26aa04d41149203.webp"
  },
  {
   "id": "nba-2k22",
@@ -25244,7 +25446,8 @@
      "2022": 11
     }
    }
-  ]
+  ],
+  "img": "img/g/8af9e9b8456645a2.webp"
  },
  {
   "id": "stray",
@@ -25304,7 +25507,8 @@
      "2022": 13
     }
    }
-  ]
+  ],
+  "img": "img/g/5b8d0407c3ba6f17.webp"
  },
  {
   "id": "genshin-impact",
@@ -25357,7 +25561,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/09dce8d97c2beb21.webp"
  },
  {
   "id": "no-man-s-sky",
@@ -25439,7 +25644,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/b06555eae4297f5a.webp"
  },
  {
   "id": "valiant-hearts-the-great-war",
@@ -25479,8 +25685,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 10.3,
-  "hours_estimated": false,
+  "hours": 12.4,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 11,
   "entries": [
@@ -25517,15 +25723,17 @@
     "family": "Xbox",
     "platform": "Xbox",
     "name": "Valiant Hearts: The Great War",
-    "minutes": null,
+    "minutes": 126,
     "earned": 8,
     "total": 0,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.24781.65058618232281657.63467f0d-c2fd-437f-a555-f7600b31c66b.2a5bb861-5ab9-4445-b962-f2df39c029e7",
+    "estimated": true,
     "first": "2021-02-13",
     "last": "2021-02-14"
    }
-  ]
+  ],
+  "img": "img/g/2c96a0050187d743.webp"
  },
  {
   "id": "super-mega-baseball",
@@ -25613,7 +25821,8 @@
     "first": "2019-02-11",
     "last": "2019-03-04"
    }
-  ]
+  ],
+  "img": "img/g/47db78246e39eb8a.webp"
  },
  {
   "id": "mutant-football-league",
@@ -25728,7 +25937,8 @@
     "first": "2019-07-28",
     "last": "2019-07-28"
    }
-  ]
+  ],
+  "img": "img/g/71159836805b921e.webp"
  },
  {
   "id": "flower",
@@ -25757,8 +25967,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.1,
-  "hours_estimated": false,
+  "hours": 2.1,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 2,
   "entries": [
@@ -25767,10 +25977,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Flower",
-    "minutes": null,
+    "minutes": 126,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00542_00_00951DB5BDD167A1B5737F32E8FF0EC82677971CFA/011F5A1157D4773E3803144722951CB949D5B020.PNG",
     "earned": 2,
     "total": 14,
+    "estimated": true,
     "first": "2009-03-01",
     "last": "2009-03-29",
     "earned_by_year": {
@@ -25814,7 +26025,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/6c71d5a338ac949c.webp"
  },
  {
   "id": "child-of-light",
@@ -25873,8 +26085,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 15.9,
-  "hours_estimated": false,
+  "hours": 35.4,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 20,
   "entries": [
@@ -25911,10 +26123,11 @@
     "family": "PlayStation",
     "platform": "Vita",
     "name": "Child of Light",
-    "minutes": null,
+    "minutes": 130,
     "art": "https://image.api.playstation.com/trophy/np/NPWR06875_00_00DFCB19A3BC7C4FF91476C17F31BB8E61E83C7FEF/042B022AA2D61C57AD164331E8B8009638657989.PNG",
     "earned": 2,
     "total": 20,
+    "estimated": true,
     "first": "2016-05-11",
     "last": "2016-05-11",
     "earned_by_year": {
@@ -25959,15 +26172,17 @@
     "family": "Xbox",
     "platform": "Xbox",
     "name": "Child of Light",
-    "minutes": null,
+    "minutes": 1039,
     "earned": 23,
     "total": 0,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.51134.69016865837780293.9b6820fe-f7d4-4de3-9591-ae50b5b3401a.a2877e5c-ceaa-4cf6-8794-d4acad18157e",
+    "estimated": true,
     "first": "2021-01-18",
     "last": "2021-02-07"
    }
-  ]
+  ],
+  "img": "img/g/9cb24607b446c394.webp"
  },
  {
   "id": "fifa-15",
@@ -26056,7 +26271,8 @@
      "2014": 13
     }
    }
-  ]
+  ],
+  "img": "img/g/989692033a9c703c.webp"
  },
  {
   "id": "god-of-war-iii",
@@ -26089,8 +26305,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 2.7,
-  "hours_estimated": false,
+  "hours": 6.5,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 8,
   "entries": [
@@ -26099,10 +26315,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "God of War III",
-    "minutes": null,
+    "minutes": 230,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00801_00_007CA5B0A11275E93A3609C24E5F5B12C07A205CE0/76940BA9595F5BF61D68E5231FB888ED72227382.PNG",
     "earned": 22,
     "total": 36,
+    "estimated": true,
     "first": "2010-03-21",
     "last": "2010-03-28",
     "earned_by_year": {
@@ -26137,7 +26354,8 @@
      "2018": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/898c30b276e47372.webp"
  },
  {
   "id": "god-of-war",
@@ -26180,8 +26398,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 1.9,
-  "hours_estimated": false,
+  "hours": 15.4,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 5,
   "entries": [
@@ -26190,10 +26408,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "God of War",
-    "minutes": null,
+    "minutes": 806,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00950_00_006A41BF1A5E1779DC1DF512088854BC27F415BEDA/7002B6FDCAA9C698088B93514F60953FA56CEE40.PNG",
     "earned": 28,
     "total": 36,
+    "estimated": true,
     "first": "2009-12-02",
     "last": "2010-01-30",
     "earned_by_year": {
@@ -26267,7 +26486,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/be546041332c001a.webp"
  },
  {
   "id": "death-stranding",
@@ -26320,7 +26540,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/a99722412f3af95b.webp"
  },
  {
   "id": "sackboy-a-big-adventure",
@@ -26380,7 +26601,8 @@
      "2022": 14
     }
    }
-  ]
+  ],
+  "img": "img/g/1799bab6ac43f7c6.webp"
  },
  {
   "id": "pok-mon-let-s-go-pikachu",
@@ -26617,7 +26839,8 @@
     "first": "2018-11-16",
     "last": "2022-07-11"
    }
-  ]
+  ],
+  "img": "img/g/679b150de72436a3.webp"
  },
  {
   "id": "cat-cafe-manager",
@@ -26665,7 +26888,8 @@
     "first": "2022-07-11",
     "last": "2022-07-11"
    }
-  ]
+  ],
+  "img": "img/g/68ec1516cac4dd1e.webp"
  },
  {
   "id": "horizon-forbidden-west",
@@ -26718,7 +26942,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/044fe10949b4ea29.webp"
  },
  {
   "id": "mario-party-superstars",
@@ -26811,7 +27036,8 @@
     "first": "2021-11-05",
     "last": "2022-07-08"
    }
-  ]
+  ],
+  "img": "img/g/86c2988c0c5d7a4a.webp"
  },
  {
   "id": "ghost-of-tsushima",
@@ -26905,7 +27131,8 @@
      "2022": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/42ec06f2f9e99e6d.webp"
  },
  {
   "id": "microsoft-flight-simulator",
@@ -26981,7 +27208,8 @@
     "first": "2021-07-27",
     "last": "2022-07-04"
    }
-  ]
+  ],
+  "img": "img/g/64cb01a41e768052.webp"
  },
  {
   "id": "marvel-s-spider-man",
@@ -27063,7 +27291,8 @@
      "2022": 15
     }
    }
-  ]
+  ],
+  "img": "img/g/942b1648e5bc9740.webp"
  },
  {
   "id": "card-shark",
@@ -27124,7 +27353,8 @@
     "first": "2022-06-05",
     "last": "2022-06-05"
    }
-  ]
+  ],
+  "img": "img/g/785c1c63702f5d85.webp"
  },
  {
   "id": "pok-mon-legends-arceus",
@@ -27185,7 +27415,8 @@
     "first": "2022-05-22",
     "last": "2022-05-22"
    }
-  ]
+  ],
+  "img": "img/g/c2843354f9653888.webp"
  },
  {
   "id": "danganronpa-trigger-happy-havoc",
@@ -27236,8 +27467,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 5.9,
-  "hours_estimated": false,
+  "hours": 22.3,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
@@ -27246,10 +27477,11 @@
     "family": "PlayStation",
     "platform": "Vita",
     "name": "Danganronpa: Trigger Happy Havoc",
-    "minutes": null,
+    "minutes": 982,
     "art": "https://image.api.playstation.com/trophy/np/NPWR05620_00_009D0845E82F28ED4DD545C829008660C0F460EBFB/461523DF25BD3948F46245C619993CCE56143020.PNG",
     "earned": 13,
     "total": 38,
+    "estimated": true,
     "first": "2016-08-30",
     "last": "2016-09-11",
     "earned_by_year": {
@@ -27281,7 +27513,8 @@
     "first": "2022-02-27",
     "last": "2022-05-15"
    }
-  ]
+  ],
+  "img": "img/g/1607a164d494f62e.webp"
  },
  {
   "id": "katamari-damacy-reroll",
@@ -27322,7 +27555,8 @@
     "first": "2022-04-30",
     "last": "2022-04-30"
    }
-  ]
+  ],
+  "img": "img/g/d45aef0cc6beb06b.webp"
  },
  {
   "id": "yooka-laylee-and-the-impossible-lair",
@@ -27418,7 +27652,8 @@
     "first": "2022-04-03",
     "last": "2022-04-03"
    }
-  ]
+  ],
+  "img": "img/g/2703cf92fe4cbb21.webp"
  },
  {
   "id": "tunic",
@@ -27459,7 +27694,8 @@
     "first": "2022-04-03",
     "last": "2022-04-03"
    }
-  ]
+  ],
+  "img": "img/g/8a3b043c78ed88f5.webp"
  },
  {
   "id": "paper-mario-the-origami-king",
@@ -27507,7 +27743,8 @@
     "first": "2022-04-02",
     "last": "2022-04-02"
    }
-  ]
+  ],
+  "img": "img/g/222b2c24a6d2f735.webp"
  },
  {
   "id": "shredders",
@@ -27548,7 +27785,8 @@
     "first": "2022-03-18",
     "last": "2022-03-18"
    }
-  ]
+  ],
+  "img": "img/g/1114965e25a14baa.webp"
  },
  {
   "id": "elden-ring",
@@ -27589,7 +27827,8 @@
     "first": "2022-02-27",
     "last": "2022-02-27"
    }
-  ]
+  ],
+  "img": "img/g/56fd4b674208971c.webp"
  },
  {
   "id": "tetris-effect-connected",
@@ -27675,7 +27914,8 @@
     "first": "2020-11-12",
     "last": "2022-02-06"
    }
-  ]
+  ],
+  "img": "img/g/500950605903270a.webp"
  },
  {
   "id": "life-is-strange",
@@ -27757,7 +27997,8 @@
     "first": "2022-02-06",
     "last": "2022-02-06"
    }
-  ]
+  ],
+  "img": "img/g/dade2c0322ac28ad.webp"
  },
  {
   "id": "killer-instinct",
@@ -27802,7 +28043,8 @@
     "first": "2021-04-25",
     "last": "2022-02-06"
    }
-  ]
+  ],
+  "img": "img/g/038e2178f23c43f8.webp"
  },
  {
   "id": "among-us",
@@ -27843,7 +28085,8 @@
     "first": "2022-02-06",
     "last": "2022-02-06"
    }
-  ]
+  ],
+  "img": "img/g/76c362080c4fe0bf.webp"
  },
  {
   "id": "nobody-saves-the-world",
@@ -27884,7 +28127,8 @@
     "first": "2022-01-30",
     "last": "2022-01-30"
    }
-  ]
+  ],
+  "img": "img/g/af2d18d6e28c925e.webp"
  },
  {
   "id": "super-mario-party",
@@ -28136,7 +28380,8 @@
     "first": "2018-10-05",
     "last": "2018-11-08"
    }
-  ]
+  ],
+  "img": "img/g/b938be416bfadfe2.webp"
  },
  {
   "id": "brawlhalla",
@@ -28177,7 +28422,8 @@
     "first": "2022-01-09",
     "last": "2022-01-09"
    }
-  ]
+  ],
+  "img": "img/g/71db6b76b1d9defe.webp"
  },
  {
   "id": "grand-theft-auto-san-andreas",
@@ -28218,7 +28464,8 @@
     "first": "2022-01-03",
     "last": "2022-01-03"
    }
-  ]
+  ],
+  "img": "img/g/889ae9c54e168bcf.webp"
  },
  {
   "id": "grand-theft-auto-iv",
@@ -28282,7 +28529,8 @@
     "first": "2022-01-03",
     "last": "2022-01-03"
    }
-  ]
+  ],
+  "img": "img/g/8b27aa1cd86cfbce.webp"
  },
  {
   "id": "shovel-knight-pocket-dungeon",
@@ -28330,7 +28578,8 @@
     "first": "2021-12-29",
     "last": "2021-12-29"
    }
-  ]
+  ],
+  "img": "img/g/8eed5632fc8e46ba.webp"
  },
  {
   "id": "madden-nfl-22",
@@ -28371,7 +28620,8 @@
     "first": "2021-12-29",
     "last": "2021-12-29"
    }
-  ]
+  ],
+  "img": "img/g/689ea1b23ee2124e.webp"
  },
  {
   "id": "red-dead-redemption-2",
@@ -28442,7 +28692,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/2ac1dfa2f1d2b375.webp"
  },
  {
   "id": "forza-horizon-5",
@@ -28487,7 +28738,8 @@
     "first": "2021-11-14",
     "last": "2021-12-28"
    }
-  ]
+  ],
+  "img": "img/g/52e82c8b4321b76a.webp"
  },
  {
   "id": "what-remains-of-edith-finch",
@@ -28528,7 +28780,8 @@
     "first": "2021-12-27",
     "last": "2021-12-27"
    }
-  ]
+  ],
+  "img": "img/g/d4d16fe74d2e11be.webp"
  },
  {
   "id": "puyo-puyo-tetris-2",
@@ -28573,7 +28826,8 @@
     "first": "2020-12-09",
     "last": "2021-12-27"
    }
-  ]
+  ],
+  "img": "img/g/52d2c42032a8c6c3.webp"
  },
  {
   "id": "big-brain-academy-brain-vs-brain",
@@ -28634,7 +28888,8 @@
     "first": "2021-12-24",
     "last": "2021-12-25"
    }
-  ]
+  ],
+  "img": "img/g/2eca1cce26c1ffdf.webp"
  },
  {
   "id": "toy-story-3",
@@ -28675,7 +28930,8 @@
     "first": "2021-12-19",
     "last": "2021-12-19"
    }
-  ]
+  ],
+  "img": "img/g/2d9316813b27cf3c.webp"
  },
  {
   "id": "mario-and-sonic-at-the-olympic-games-tokyo-2020",
@@ -28836,7 +29092,8 @@
     "first": "2019-11-10",
     "last": "2021-12-17"
    }
-  ]
+  ],
+  "img": "img/g/41311c67b97cd8aa.webp"
  },
  {
   "id": "the-matrix-awakens-an-unreal-engine-5-experience",
@@ -28877,7 +29134,8 @@
     "first": "2021-12-14",
     "last": "2021-12-14"
    }
-  ]
+  ],
+  "img": "img/g/dc449488062394d4.webp"
  },
  {
   "id": "the-elder-scrolls-v-skyrim",
@@ -28906,8 +29164,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.1,
-  "hours_estimated": false,
+  "hours": 4.0,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
@@ -28916,11 +29174,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Skyrim",
-    "minutes": null,
+    "minutes": 230,
     "earned": 4,
     "total": 75,
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuC_wON8w.HTQRA1471DVQR_fITGpn9aJ9imdZ7LxKHPgODL1Zs7JLdPeDm9kjVp6cg--",
+    "estimated": true,
     "first": "2011-11-14",
     "last": "2011-12-04",
     "earned_by_year": {
@@ -28940,7 +29199,8 @@
     "first": "2021-12-14",
     "last": "2021-12-14"
    }
-  ]
+  ],
+  "img": "img/g/deda2cdd1523ccf4.webp"
  },
  {
   "id": "kingdom-hearts-iii",
@@ -28983,7 +29243,8 @@
     "first": "2021-12-11",
     "last": "2021-12-14"
    }
-  ]
+  ],
+  "img": "img/g/8a3012399c60a24b.webp"
  },
  {
   "id": "life-is-strange-true-colors",
@@ -29032,7 +29293,8 @@
     "first": "2021-09-12",
     "last": "2021-12-11"
    }
-  ]
+  ],
+  "img": "img/g/b4e00a68b62ee575.webp"
  },
  {
   "id": "river-city-girls",
@@ -29073,7 +29335,8 @@
     "first": "2021-11-14",
     "last": "2021-11-14"
    }
-  ]
+  ],
+  "img": "img/g/d9f82ec8fb43a238.webp"
  },
  {
   "id": "twelve-minutes",
@@ -29114,7 +29377,8 @@
     "first": "2021-10-31",
     "last": "2021-10-31"
    }
-  ]
+  ],
+  "img": "img/g/b7daed0848a227e1.webp"
  },
  {
   "id": "tell-me-why",
@@ -29159,7 +29423,8 @@
     "first": "2021-10-16",
     "last": "2021-10-31"
    }
-  ]
+  ],
+  "img": "img/g/5dab95b07d45b42a.webp"
  },
  {
   "id": "psychonauts-2",
@@ -29202,7 +29467,8 @@
     "first": "2021-10-10",
     "last": "2021-10-24"
    }
-  ]
+  ],
+  "img": "img/g/ce6843863608a0cd.webp"
  },
  {
   "id": "efootball",
@@ -29243,7 +29509,8 @@
     "first": "2021-10-03",
     "last": "2021-10-03"
    }
-  ]
+  ],
+  "img": "img/g/2aa2d59df4a30b99.webp"
  },
  {
   "id": "mario-golf-super-rush",
@@ -29291,7 +29558,8 @@
     "first": "2021-10-02",
     "last": "2021-10-02"
    }
-  ]
+  ],
+  "img": "img/g/30e6a46695920c1b.webp"
  },
  {
   "id": "fifa-21",
@@ -29352,7 +29620,8 @@
     "first": "2021-07-18",
     "last": "2021-10-02"
    }
-  ]
+  ],
+  "img": "img/g/7c03775fde66bae5.webp"
  },
  {
   "id": "the-legend-of-zelda-skyward-sword-hd",
@@ -29400,7 +29669,8 @@
     "first": "2021-09-06",
     "last": "2021-09-06"
    }
-  ]
+  ],
+  "img": "img/g/4216bd7e35dbaf8a.webp"
  },
  {
   "id": "lego-the-incredibles",
@@ -29445,7 +29715,8 @@
     "first": "2021-08-03",
     "last": "2021-08-27"
    }
-  ]
+  ],
+  "img": "img/g/cd0987931bbb8f54.webp"
  },
  {
   "id": "disney-infinity-3-0",
@@ -29597,7 +29868,8 @@
     "first": "2019-02-17",
     "last": "2021-08-07"
    }
-  ]
+  ],
+  "img": "img/g/10b4bd11612a9bdd.webp"
  },
  {
   "id": "disneyland-adventures",
@@ -29642,7 +29914,8 @@
     "first": "2019-02-07",
     "last": "2021-07-02"
    }
-  ]
+  ],
+  "img": "img/g/828e220c6fdf65e1.webp"
  },
  {
   "id": "doki-doki-literature-club-doki-doki-literature-club-plus",
@@ -29700,7 +29973,8 @@
     "first": "2021-07-01",
     "last": "2021-07-01"
    }
-  ]
+  ],
+  "img": "img/g/51d8910ed6a411ae.webp"
  },
  {
   "id": "dead-cells",
@@ -29768,7 +30042,8 @@
     "first": "2021-06-27",
     "last": "2021-06-30"
    }
-  ]
+  ],
+  "img": "img/g/41b7c30fd5cbf725.webp"
  },
  {
   "id": "plants-vs-zombies",
@@ -29815,7 +30090,8 @@
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/161b2e3ae4a1923d.webp"
  },
  {
   "id": "geometry-wars-evolved",
@@ -29877,7 +30153,8 @@
     "first": "2021-06-27",
     "last": "2021-06-27"
    }
-  ]
+  ],
+  "img": "img/g/3984dd52af054b70.webp"
  },
  {
   "id": "death-s-door",
@@ -29918,7 +30195,8 @@
     "first": "2021-06-27",
     "last": "2021-06-27"
    }
-  ]
+  ],
+  "img": "img/g/b433d0dee0e99cdb.webp"
  },
  {
   "id": "game-builder-garage",
@@ -29966,7 +30244,8 @@
     "first": "2021-06-12",
     "last": "2021-06-12"
    }
-  ]
+  ],
+  "img": "img/g/20a4880c15a60332.webp"
  },
  {
   "id": "secret-of-mana",
@@ -30034,7 +30313,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/4fb74fa8ba243c73.webp"
  },
  {
   "id": "mass-effect-2",
@@ -30094,7 +30374,7 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 6.3,
+  "hours": 43.8,
   "hours_estimated": true,
   "estimated_from": [
    "Mass Effect Legendary Edition"
@@ -30106,10 +30386,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Mass Effect 2",
-    "minutes": null,
+    "minutes": 2248,
     "art": "https://image.api.playstation.com/trophy/np/NPWR01580_00_006BED3D2E8564B72462EB11FE3042614297113D70/0DF2825C4C57EF0ECA6893BCAD22AA45070DEBB9.PNG",
     "earned": 39,
     "total": 59,
+    "estimated": true,
     "first": "2012-01-21",
     "last": "2012-04-28",
     "earned_by_year": {
@@ -30149,7 +30430,8 @@
     "first": "2021-05-30",
     "last": "2021-05-31"
    }
-  ]
+  ],
+  "img": "img/g/cc5c1622b58c1137.webp"
  },
  {
   "id": "super-bomberman-r-online",
@@ -30190,7 +30472,8 @@
     "first": "2021-05-30",
     "last": "2021-05-30"
    }
-  ]
+  ],
+  "img": "img/g/2f6c3c4e57440cd4.webp"
  },
  {
   "id": "castlevania-symphony-of-the-night",
@@ -30266,7 +30549,8 @@
      "2019": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/928d6a290a544753.webp"
  },
  {
   "id": "raji-an-ancient-epic",
@@ -30307,7 +30591,8 @@
     "first": "2021-05-14",
     "last": "2021-05-14"
    }
-  ]
+  ],
+  "img": "img/g/6c4ffc528f43fbaf.webp"
  },
  {
   "id": "mortal-kombat-11",
@@ -30348,7 +30633,8 @@
     "first": "2021-04-25",
     "last": "2021-04-25"
    }
-  ]
+  ],
+  "img": "img/g/840de2b4358e7c44.webp"
  },
  {
   "id": "mlb-the-show-21",
@@ -30389,7 +30675,8 @@
     "first": "2021-04-25",
     "last": "2021-04-25"
    }
-  ]
+  ],
+  "img": "img/g/209ae495f287004e.webp"
  },
  {
   "id": "castlevania-anniversary-collection",
@@ -30430,7 +30717,8 @@
     "first": "2021-04-15",
     "last": "2021-04-15"
    }
-  ]
+  ],
+  "img": "img/g/381c68a98fb343ff.webp"
  },
  {
   "id": "jurassic-world-evolution",
@@ -30471,7 +30759,8 @@
     "first": "2021-04-11",
     "last": "2021-04-11"
    }
-  ]
+  ],
+  "img": "img/g/dd742c4544e77022.webp"
  },
  {
   "id": "dragon-age-origins",
@@ -30562,7 +30851,8 @@
     "first": "2021-03-24",
     "last": "2021-03-24"
    }
-  ]
+  ],
+  "img": "img/g/a083d59b4f5d9801.webp"
  },
  {
   "id": "star-wars-squadrons",
@@ -30603,7 +30893,8 @@
     "first": "2021-03-23",
     "last": "2021-03-23"
    }
-  ]
+  ],
+  "img": "img/g/c93faa1cb6cb0e35.webp"
  },
  {
   "id": "star-wars-jedi-fallen-order",
@@ -30648,7 +30939,8 @@
     "first": "2021-01-10",
     "last": "2021-03-23"
    }
-  ]
+  ],
+  "img": "img/g/4c3e3c43250dfeff.webp"
  },
  {
   "id": "final-fantasy-xiii",
@@ -30722,7 +31014,8 @@
      "2021": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/33681daf7a52bde6.webp"
  },
  {
   "id": "nba-2k21",
@@ -30804,7 +31097,8 @@
     "first": "2020-11-13",
     "last": "2021-03-20"
    }
-  ]
+  ],
+  "img": "img/g/ed4562a04f9c0c3a.webp"
  },
  {
   "id": "fallout-new-vegas",
@@ -30849,7 +31143,8 @@
      "2021": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/9cf86dfec5841caf.webp"
  },
  {
   "id": "fight-night-champion",
@@ -30917,7 +31212,8 @@
      "2021": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/6dab9f11a6a036e0.webp"
  },
  {
   "id": "conker-live-and-reloaded",
@@ -30958,7 +31254,8 @@
     "first": "2021-02-15",
     "last": "2021-02-15"
    }
-  ]
+  ],
+  "img": "img/g/334fcdbf116375e1.webp"
  },
  {
   "id": "madden-nfl-21",
@@ -31053,7 +31350,8 @@
     "first": "2020-12-04",
     "last": "2021-01-23"
    }
-  ]
+  ],
+  "img": "img/g/dda3322fd5e5d26a.webp"
  },
  {
   "id": "final-fantasy-xv",
@@ -31112,7 +31410,8 @@
     "first": "2021-01-20",
     "last": "2021-01-20"
    }
-  ]
+  ],
+  "img": "img/g/09f7594d4551b10f.webp"
  },
  {
   "id": "peggle",
@@ -31161,7 +31460,8 @@
      "2020": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/32cc37d5c3ed72dc.webp"
  },
  {
   "id": "fuser",
@@ -31206,7 +31506,8 @@
     "first": "2020-11-27",
     "last": "2021-01-10"
    }
-  ]
+  ],
+  "img": "img/g/e77ab619b24f91cc.webp"
  },
  {
   "id": "star-wars-battlefront-ii",
@@ -31247,7 +31548,8 @@
     "first": "2021-01-08",
     "last": "2021-01-08"
    }
-  ]
+  ],
+  "img": "img/g/b6b9b7b2ce511ab6.webp"
  },
  {
   "id": "star-wars-the-force-unleashed",
@@ -31292,7 +31594,8 @@
      "2020": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/67541b811a5ecd66.webp"
  },
  {
   "id": "cyberpunk-2077",
@@ -31333,7 +31636,8 @@
     "first": "2020-12-31",
     "last": "2020-12-31"
    }
-  ]
+  ],
+  "img": "img/g/e5e2a0dbdb4f7419.webp"
  },
  {
   "id": "super-meat-boy",
@@ -31387,8 +31691,8 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 1.5,
-  "hours_estimated": false,
+  "hours": 14.9,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 2,
   "entries": [
@@ -31397,11 +31701,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Super Meat Boy",
-    "minutes": null,
+    "minutes": 691,
     "earned": 7,
     "total": 12,
     "gamertag": "rogerage",
     "art": "http://store-images.s-microsoft.com/image/apps.16100.65163600688313318.94eeb422-53b2-4dd8-b287-02e121ee128f.33fbaa82-bc5e-48fb-8e36-ba902dfeb742",
+    "estimated": true,
     "first": "2010-10-20",
     "last": "2012-05-08",
     "earned_by_year": {
@@ -31480,18 +31785,20 @@
     "family": "Xbox",
     "platform": "Xbox",
     "name": "Super Meat Boy",
-    "minutes": null,
+    "minutes": 115,
     "earned": 1,
     "total": 12,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.16100.65163600688313318.94eeb422-53b2-4dd8-b287-02e121ee128f.33fbaa82-bc5e-48fb-8e36-ba902dfeb742",
+    "estimated": true,
     "first": "2020-12-24",
     "last": "2020-12-24",
     "earned_by_year": {
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/b70db7ddae4e9435.webp"
  },
  {
   "id": "rayman-origins",
@@ -31606,7 +31913,8 @@
      "2020": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/ed8f48fbd00a0221.webp"
  },
  {
   "id": "frozen-free-fall-snowball-fight",
@@ -31636,8 +31944,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.8,
-  "hours_estimated": false,
+  "hours": 2.9,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 1,
   "entries": [
@@ -31646,11 +31954,12 @@
     "family": "Xbox",
     "platform": "Xbox",
     "name": "Frozen Free Fall: Snowball Fight",
-    "minutes": null,
+    "minutes": 126,
     "earned": 2,
     "total": 0,
     "gamertag": "fakeronjan",
     "art": "http://store-images.s-microsoft.com/image/apps.56363.69684358618272438.c108d56d-38d3-400f-9d65-37b50d94d8c7.c06302d1-656d-4de6-8848-bf825953ea52",
+    "estimated": true,
     "first": "2016-02-14",
     "last": "2020-12-04"
    },
@@ -31682,7 +31991,8 @@
      "2016": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/b844b671a59d7c7b.webp"
  },
  {
   "id": "doom",
@@ -31736,7 +32046,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/0073dc443ce05f0e.webp"
  },
  {
   "id": "assassin-s-creed-origins",
@@ -31777,7 +32088,8 @@
     "first": "2020-11-28",
     "last": "2020-11-28"
    }
-  ]
+  ],
+  "img": "img/g/14e505bfded61208.webp"
  },
  {
   "id": "hexic-hd",
@@ -31845,7 +32157,8 @@
      "2020": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/ceaab13189d7d400.webp"
  },
  {
   "id": "nba-jam-on-fire-edition",
@@ -31886,7 +32199,8 @@
     "first": "2020-11-21",
     "last": "2020-11-21"
    }
-  ]
+  ],
+  "img": "img/g/2b5395bc88b57840.webp"
  },
  {
   "id": "alice-madness-returns",
@@ -31977,7 +32291,8 @@
      "2020": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/802d2970dc60798f.webp"
  },
  {
   "id": "forza-horizon-4",
@@ -32020,7 +32335,8 @@
     "first": "2019-02-10",
     "last": "2020-11-13"
    }
-  ]
+  ],
+  "img": "img/g/9cf68e8b89c52b03.webp"
  },
  {
   "id": "banjo-kazooie",
@@ -32067,7 +32383,8 @@
      "2016": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/c9bfa46f1d38689b.webp"
  },
  {
   "id": "planet-coaster-console-edition",
@@ -32108,7 +32425,8 @@
     "first": "2020-11-12",
     "last": "2020-11-12"
    }
-  ]
+  ],
+  "img": "img/g/22b07af8428395de.webp"
  },
  {
   "id": "marvel-vs-capcom-infinite",
@@ -32164,7 +32482,8 @@
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/e9bb46bedb4bac08.webp"
  },
  {
   "id": "the-sims-4",
@@ -32217,7 +32536,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/483eb3e0bb80b299.webp"
  },
  {
   "id": "monopoly-plus",
@@ -32270,7 +32590,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/2d42625ff0ed2fdb.webp"
  },
  {
   "id": "ultimate-marvel-vs-capcom-3",
@@ -32343,7 +32664,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/52f5465ed685d241.webp"
  },
  {
   "id": "fifa-20",
@@ -32405,7 +32727,8 @@
      "2020": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/3b62cbf265205b6a.webp"
  },
  {
   "id": "splatoon-2",
@@ -32645,7 +32968,8 @@
     "first": "2017-07-21",
     "last": "2018-08-07"
    }
-  ]
+  ],
+  "img": "img/g/c258f0e093cf7858.webp"
  },
  {
   "id": "lego-city-undercover",
@@ -32895,7 +33219,8 @@
     "first": "2017-04-04",
     "last": "2018-09-05"
    }
-  ]
+  ],
+  "img": "img/g/b1b6c41a1668b219.webp"
  },
  {
   "id": "microsoft-solitaire-collection",
@@ -32936,7 +33261,8 @@
     "first": "2020-09-12",
     "last": "2020-09-12"
    }
-  ]
+  ],
+  "img": "img/g/f3eef3ff10fd9d5c.webp"
  },
  {
   "id": "lego-marvel-super-heroes",
@@ -32996,7 +33322,8 @@
      "2020": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/3d43dd7f69294cc7.webp"
  },
  {
   "id": "rocket-league",
@@ -33072,7 +33399,8 @@
      "2018": 23
     }
    }
-  ]
+  ],
+  "img": "img/g/147e8a8999d023f3.webp"
  },
  {
   "id": "nba-2k20",
@@ -33158,7 +33486,8 @@
      "2020": 11
     }
    }
-  ]
+  ],
+  "img": "img/g/5c11359e99cab302.webp"
  },
  {
   "id": "fall-guys-ultimate-knockout",
@@ -33211,7 +33540,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/edad2977f35413b0.webp"
  },
  {
   "id": "madden-nfl-20",
@@ -33289,7 +33619,8 @@
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/c42a279a315ffeff.webp"
  },
  {
   "id": "snipperclips",
@@ -33370,7 +33701,8 @@
     "first": "2020-01-24",
     "last": "2020-06-25"
    }
-  ]
+  ],
+  "img": "img/g/c7f70601fd5be3db.webp"
  },
  {
   "id": "the-last-of-us-part-ii",
@@ -33428,7 +33760,8 @@
      "2020": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/f7a81b4d9ade7c29.webp"
  },
  {
   "id": "what-the-golf",
@@ -33489,7 +33822,8 @@
     "first": "2020-06-20",
     "last": "2020-06-20"
    }
-  ]
+  ],
+  "img": "img/g/ba5956ab3db81f8e.webp"
  },
  {
   "id": "slay-the-spire",
@@ -33550,7 +33884,8 @@
     "first": "2020-06-14",
     "last": "2020-06-14"
    }
-  ]
+  ],
+  "img": "img/g/bd2f508678d14d13.webp"
  },
  {
   "id": "bug-fables-the-everlasting-sapling",
@@ -33611,7 +33946,8 @@
     "first": "2020-05-30",
     "last": "2020-05-30"
    }
-  ]
+  ],
+  "img": "img/g/a71a6c527eb1e667.webp"
  },
  {
   "id": "the-jackbox-party-pack-3",
@@ -33676,7 +34012,8 @@
     "first": "2020-03-27",
     "last": "2020-05-10"
    }
-  ]
+  ],
+  "img": "img/g/e4ef6046b1913737.webp"
  },
  {
   "id": "ultra-street-fighter-ii-the-final-challengers",
@@ -33904,7 +34241,8 @@
     "first": "2017-05-26",
     "last": "2017-08-26"
    }
-  ]
+  ],
+  "img": "img/g/255f80501739e16d.webp"
  },
  {
   "id": "yoshi-s-crafted-world",
@@ -34017,7 +34355,8 @@
     "first": "2019-03-31",
     "last": "2020-04-27"
    }
-  ]
+  ],
+  "img": "img/g/90fdaa0f11914f31.webp"
  },
  {
   "id": "danganronpa-1-2-reload",
@@ -34077,7 +34416,8 @@
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/0f8ddf84e32c06be.webp"
  },
  {
   "id": "castlevania-requiem-symphony-of-the-night-and-rondo-of-blood",
@@ -34137,7 +34477,8 @@
      "2020": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/e207189ec30733e5.webp"
  },
  {
   "id": "yoku-s-island-express",
@@ -34180,7 +34521,8 @@
     "first": "2020-03-15",
     "last": "2020-03-22"
    }
-  ]
+  ],
+  "img": "img/g/76c9d21cc16cbf88.webp"
  },
  {
   "id": "killer-instinct-classic",
@@ -34221,7 +34563,8 @@
     "first": "2020-03-15",
     "last": "2020-03-15"
    }
-  ]
+  ],
+  "img": "img/g/c6fbcedeb929414e.webp"
  },
  {
   "id": "kameo",
@@ -34283,7 +34626,8 @@
     "first": "2020-03-15",
     "last": "2020-03-15"
    }
-  ]
+  ],
+  "img": "img/g/c97aebc116d3cde9.webp"
  },
  {
   "id": "crackdown-3-campaign",
@@ -34324,7 +34668,8 @@
     "first": "2020-03-15",
     "last": "2020-03-15"
    }
-  ]
+  ],
+  "img": "img/g/8e04b43a9bfe4bdf.webp"
  },
  {
   "id": "halo-the-master-chief-collection",
@@ -34365,7 +34710,8 @@
     "first": "2020-03-09",
     "last": "2020-03-09"
    }
-  ]
+  ],
+  "img": "img/g/8a8ffbf128561f51.webp"
  },
  {
   "id": "sid-meier-s-civilization-vi",
@@ -34462,7 +34808,8 @@
     "first": "2018-11-16",
     "last": "2018-11-16"
    }
-  ]
+  ],
+  "img": "img/g/ed76343350cfc6e2.webp"
  },
  {
   "id": "sid-meier-s-civilization-v",
@@ -34561,7 +34908,8 @@
      "2015": 90
     }
    }
-  ]
+  ],
+  "img": "img/g/27a0906f75eafadf.webp"
  },
  {
   "id": "overcooked",
@@ -34609,7 +34957,8 @@
     "first": "2020-03-02",
     "last": "2020-03-02"
    }
-  ]
+  ],
+  "img": "img/g/519a951088afa738.webp"
  },
  {
   "id": "metroid-zero-mission",
@@ -34862,7 +35211,8 @@
     "first": "2016-02-29",
     "last": "2020-02-22"
    }
-  ]
+  ],
+  "img": "img/g/734e05bc08585f4d.webp"
  },
  {
   "id": "big-brain-academy",
@@ -34931,7 +35281,8 @@
     "first": "2019-12-25",
     "last": "2020-02-22"
    }
-  ]
+  ],
+  "img": "img/g/ca01a07523ac2864.webp"
  },
  {
   "id": "pok-mon-sword",
@@ -35021,7 +35372,8 @@
     "first": "2019-11-16",
     "last": "2019-11-22"
    }
-  ]
+  ],
+  "img": "img/g/658bd97352a25516.webp"
  },
  {
   "id": "the-legend-of-zelda-the-wind-waker-hd",
@@ -35338,7 +35690,8 @@
     "first": "2014-10-18",
     "last": "2020-02-02"
    }
-  ]
+  ],
+  "img": "img/g/02ba63db003bf4fc.webp"
  },
  {
   "id": "the-legend-of-zelda-ocarina-of-time",
@@ -35629,7 +35982,8 @@
     "id": "the-legend-of-zelda-ocarina-of-time-2",
     "name": "The Legend of Zelda: Ocarina of Time (Switch 2)"
    }
-  ]
+  ],
+  "img": "img/g/f92fae9ab6579011.webp"
  },
  {
   "id": "super-mario-64",
@@ -35914,7 +36268,8 @@
     "first": "2015-04-01",
     "last": "2019-12-25"
    }
-  ]
+  ],
+  "img": "img/g/441a2868adfb46be.webp"
  },
  {
   "id": "baba-is-you",
@@ -35975,7 +36330,8 @@
     "first": "2019-12-14",
     "last": "2019-12-14"
    }
-  ]
+  ],
+  "img": "img/g/7095ff9792f4e2ce.webp"
  },
  {
   "id": "donkey-kong-country-2-diddy-s-kong-quest",
@@ -36366,7 +36722,8 @@
     "first": "2016-04-14",
     "last": "2017-10-10"
    }
-  ]
+  ],
+  "img": "img/g/9677f74b6826431e.webp"
  },
  {
   "id": "super-smash-bros-for-wii-u",
@@ -36667,7 +37024,8 @@
     "first": "2014-11-23",
     "last": "2019-11-28"
    }
-  ]
+  ],
+  "img": "img/g/188aed8dc3b6f3ac.webp"
  },
  {
   "id": "super-mario-maker",
@@ -36958,7 +37316,8 @@
     "first": "2015-09-11",
     "last": "2019-11-28"
    }
-  ]
+  ],
+  "img": "img/g/392b4b9e80fb17b0.webp"
  },
  {
   "id": "paper-mario",
@@ -37193,7 +37552,8 @@
     "first": "2016-08-28",
     "last": "2016-08-28"
    }
-  ]
+  ],
+  "img": "img/g/6bea1648e4fc3b7e.webp"
  },
  {
   "id": "earthbound",
@@ -37560,7 +37920,8 @@
     "first": "2017-06-22",
     "last": "2018-02-19"
    }
-  ]
+  ],
+  "img": "img/g/9026d5b9dbbeef71.webp"
  },
  {
   "id": "donkey-kong-64",
@@ -37841,7 +38202,8 @@
     "first": "2015-04-16",
     "last": "2019-11-28"
    }
-  ]
+  ],
+  "img": "img/g/47a8acd310361f69.webp"
  },
  {
   "id": "untitled-goose-game",
@@ -37915,7 +38277,8 @@
     "first": "2019-10-12",
     "last": "2019-10-12"
    }
-  ]
+  ],
+  "img": "img/g/c875021a5c7c26dc.webp"
  },
  {
   "id": "viva-pi-ata-trouble-in-paradise",
@@ -37956,7 +38319,8 @@
     "first": "2019-09-15",
     "last": "2019-09-15"
    }
-  ]
+  ],
+  "img": "img/g/f9a8b626c3c89bee.webp"
  },
  {
   "id": "madden-nfl-19",
@@ -37997,7 +38361,8 @@
     "first": "2019-08-13",
     "last": "2019-08-13"
    }
-  ]
+  ],
+  "img": "img/g/e26249671b7506ad.webp"
  },
  {
   "id": "nba-2k19",
@@ -38086,7 +38451,8 @@
     "first": "2019-03-10",
     "last": "2019-08-12"
    }
-  ]
+  ],
+  "img": "img/g/1e25adb3cd468b3c.webp"
  },
  {
   "id": "super-mega-baseball-2",
@@ -38147,7 +38513,8 @@
     "first": "2019-07-28",
     "last": "2019-07-29"
    }
-  ]
+  ],
+  "img": "img/g/4657f431ecd8d5ac.webp"
  },
  {
   "id": "collection-of-mana",
@@ -38223,7 +38590,8 @@
     "first": "2019-06-16",
     "last": "2019-06-16"
    }
-  ]
+  ],
+  "img": "img/g/93b0fc07f2c0c07a.webp"
  },
  {
   "id": "starlink-battle-for-atlas",
@@ -38284,7 +38652,8 @@
     "first": "2019-05-22",
     "last": "2019-05-22"
    }
-  ]
+  ],
+  "img": "img/g/278ac0f7f7eff14a.webp"
  },
  {
   "id": "saints-row-the-third",
@@ -38326,8 +38695,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.9,
-  "hours_estimated": false,
+  "hours": 17.2,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
@@ -38336,10 +38705,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Saints Row: The Third",
-    "minutes": null,
+    "minutes": 982,
     "art": "https://image.api.playstation.com/trophy/np/NPWR01692_00_0044C7EFA27D33B72999DF4837C7266CC79E6FE941/E619AC6310FFED9BFB7381E78A4B9654C822611D.PNG",
     "earned": 19,
     "total": 81,
+    "estimated": true,
     "first": "2012-06-16",
     "last": "2012-06-30",
     "earned_by_year": {
@@ -38391,7 +38761,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/5589f371bedf39cc.webp"
  },
  {
   "id": "tetris-99",
@@ -38452,7 +38823,8 @@
     "first": "2019-02-17",
     "last": "2019-02-17"
    }
-  ]
+  ],
+  "img": "img/g/914125684aeaf292.webp"
  },
  {
   "id": "mega-man-legacy-collection-2",
@@ -38493,7 +38865,8 @@
     "first": "2019-02-10",
     "last": "2019-02-10"
    }
-  ]
+  ],
+  "img": "img/g/d0c50fbf0695a5e9.webp"
  },
  {
   "id": "guacamelee-2",
@@ -38569,7 +38942,8 @@
     "first": "2019-01-10",
     "last": "2019-01-10"
    }
-  ]
+  ],
+  "img": "img/g/d2cd051d0200451f.webp"
  },
  {
   "id": "mario-and-luigi-bowser-s-inside-story-bowser-jr-s-journey",
@@ -38724,7 +39098,8 @@
     "first": "2019-01-11",
     "last": "2019-01-11"
    }
-  ]
+  ],
+  "img": "img/g/b0c06ffbc94fd9a0.webp"
  },
  {
   "id": "hollow-knight",
@@ -38820,7 +39195,8 @@
     "first": "2018-08-11",
     "last": "2018-08-12"
    }
-  ]
+  ],
+  "img": "img/g/07cdd3295587ff0a.webp"
  },
  {
   "id": "undertale",
@@ -38893,7 +39269,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/d02ac68d97fcbbb0.webp"
  },
  {
   "id": "horizon-chase-turbo",
@@ -38954,7 +39331,8 @@
     "first": "2018-12-08",
     "last": "2018-12-15"
    }
-  ]
+  ],
+  "img": "img/g/031a5ceff731d2aa.webp"
  },
  {
   "id": "pok-mon-let-s-go-eevee",
@@ -39030,7 +39408,8 @@
     "first": "2018-11-18",
     "last": "2018-11-25"
    }
-  ]
+  ],
+  "img": "img/g/5f6ce5e633f06618.webp"
  },
  {
   "id": "super-smash-bros-for-nintendo-3ds",
@@ -39115,7 +39494,8 @@
     "first": "2018-05-01",
     "last": "2018-11-04"
    }
-  ]
+  ],
+  "img": "img/g/4e85f4d72ed66140.webp"
  },
  {
   "id": "super-mario-kart",
@@ -39484,7 +39864,8 @@
     "first": "2016-10-29",
     "last": "2016-10-29"
    }
-  ]
+  ],
+  "img": "img/g/99788a9f1f31daef.webp"
  },
  {
   "id": "mario-kart-7",
@@ -39805,7 +40186,8 @@
     "first": "2013-05-18",
     "last": "2018-10-07"
    }
-  ]
+  ],
+  "img": "img/g/65ff1a4e7e65a786.webp"
  },
  {
   "id": "old-school-musical",
@@ -39866,7 +40248,8 @@
     "first": "2018-09-15",
     "last": "2018-09-16"
    }
-  ]
+  ],
+  "img": "img/g/37a483c25531b283.webp"
  },
  {
   "id": "monopoly",
@@ -39914,7 +40297,8 @@
     "first": "2018-08-25",
     "last": "2018-08-25"
    }
-  ]
+  ],
+  "img": "img/g/a964692de66fda18.webp"
  },
  {
   "id": "super-mario-maker-for-nintendo-3ds",
@@ -40055,7 +40439,8 @@
     "first": "2016-12-02",
     "last": "2018-08-14"
    }
-  ]
+  ],
+  "img": "img/g/a802a5d2f9183546.webp"
  },
  {
   "id": "shantae-half-genie-hero",
@@ -40133,7 +40518,8 @@
     "first": "2018-05-28",
     "last": "2018-05-28"
    }
-  ]
+  ],
+  "img": "img/g/5cc711bc6c8142b2.webp"
  },
  {
   "id": "batman-arkham-knight",
@@ -40176,7 +40562,8 @@
     "first": "2018-06-29",
     "last": "2018-07-22"
    }
-  ]
+  ],
+  "img": "img/g/fb7a55b8f13abf68.webp"
  },
  {
   "id": "wwe-2k16",
@@ -40217,7 +40604,8 @@
     "first": "2018-07-13",
     "last": "2018-07-13"
    }
-  ]
+  ],
+  "img": "img/g/26666109f43d992e.webp"
  },
  {
   "id": "street-fighter-ii-turbo-hyper-fighting",
@@ -40442,7 +40830,8 @@
     "first": "2015-02-26",
     "last": "2018-07-06"
    }
-  ]
+  ],
+  "img": "img/g/0f0c1d3f7baf4327.webp"
  },
  {
   "id": "super-mario-world",
@@ -40815,7 +41204,8 @@
     "first": "2016-10-10",
     "last": "2018-06-10"
    }
-  ]
+  ],
+  "img": "img/g/0718b1892b3785f6.webp"
  },
  {
   "id": "super-mario-bros-3",
@@ -41074,7 +41464,8 @@
     "first": "2015-02-21",
     "last": "2018-07-04"
    }
-  ]
+  ],
+  "img": "img/g/f1b4b2137a6e6d46.webp"
  },
  {
   "id": "super-mario-bros",
@@ -41337,7 +41728,8 @@
     "first": "2015-02-21",
     "last": "2018-07-04"
    }
-  ]
+  ],
+  "img": "img/g/26689662130bab74.webp"
  },
  {
   "id": "mario-and-luigi-superstar-saga",
@@ -41574,7 +41966,8 @@
     "first": "2014-11-16",
     "last": "2018-07-04"
    }
-  ]
+  ],
+  "img": "img/g/6318c10108fc676a.webp"
  },
  {
   "id": "donkey-kong-country-3-dixie-kong-s-double-trouble",
@@ -41775,7 +42168,8 @@
     "first": "2015-08-08",
     "last": "2018-07-04"
    }
-  ]
+  ],
+  "img": "img/g/87aed6c0b4753efd.webp"
  },
  {
   "id": "the-legend-of-zelda-a-link-between-worlds",
@@ -42074,7 +42468,8 @@
     "first": "2015-03-22",
     "last": "2015-03-22"
    }
-  ]
+  ],
+  "img": "img/g/b8b071f7ccebfe75.webp"
  },
  {
   "id": "star-fox-64-3d",
@@ -42463,7 +42858,8 @@
     "first": "2011-09-09",
     "last": "2018-07-03"
    }
-  ]
+  ],
+  "img": "img/g/d3b79f2903436043.webp"
  },
  {
   "id": "super-bomberman-r",
@@ -42528,7 +42924,8 @@
     "first": "2017-03-04",
     "last": "2018-06-30"
    }
-  ]
+  ],
+  "img": "img/g/5efdee6532b94685.webp"
  },
  {
   "id": "arcade-archives-vs-super-mario-bros",
@@ -42613,7 +43010,8 @@
     "first": "2017-12-22",
     "last": "2018-06-24"
    }
-  ]
+  ],
+  "img": "img/g/2956f09f7d94b4f7.webp"
  },
  {
   "id": "fifa-18",
@@ -42721,7 +43119,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/9fed901ac13ca00e.webp"
  },
  {
   "id": "bloodstained-curse-of-the-moon",
@@ -42782,7 +43181,8 @@
     "first": "2018-06-08",
     "last": "2018-06-09"
    }
-  ]
+  ],
+  "img": "img/g/c3a323ed6705108d.webp"
  },
  {
   "id": "retro-city-rampage",
@@ -42813,8 +43213,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 2.2,
-  "hours_estimated": false,
+  "hours": 3.0,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 7,
   "entries": [
@@ -42823,10 +43223,11 @@
     "family": "PlayStation",
     "platform": "PS3,Vita",
     "name": "Retro City Rampage",
-    "minutes": null,
+    "minutes": 45,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03593_00_0009511A03DEBD9927A6EC24081685307924CEAED8/3AA02B23EA6540136B87D19EA42CBF746F6D078A.PNG",
     "earned": 1,
     "total": 14,
+    "estimated": true,
     "first": "2012-10-13",
     "last": "2012-10-13",
     "earned_by_year": {
@@ -42862,7 +43263,8 @@
      "2015": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/ee4116eb6b9971bd.webp"
  },
  {
   "id": "super-mario-3d-land",
@@ -43235,7 +43637,8 @@
     "first": "2011-11-13",
     "last": "2018-05-20"
    }
-  ]
+  ],
+  "img": "img/g/acda007ee94548b9.webp"
  },
  {
   "id": "donkey-kong-country",
@@ -43508,7 +43911,8 @@
     "first": "2016-03-24",
     "last": "2018-05-20"
    }
-  ]
+  ],
+  "img": "img/g/5cb025780f33884b.webp"
  },
  {
   "id": "danganronpa-v3-killing-harmony",
@@ -43615,7 +44019,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/3006c7a3f21fc79a.webp"
  },
  {
   "id": "new-super-mario-bros-2",
@@ -43754,7 +44159,8 @@
     "first": "2016-12-29",
     "last": "2016-12-29"
    }
-  ]
+  ],
+  "img": "img/g/e044574159bdc068.webp"
  },
  {
   "id": "ultimate-nes-remix",
@@ -43975,7 +44381,8 @@
     "first": "2014-12-05",
     "last": "2018-04-16"
    }
-  ]
+  ],
+  "img": "img/g/a4dd9d6b0c84d52f.webp"
  },
  {
   "id": "the-legend-of-zelda-ocarina-of-time-3d",
@@ -44374,7 +44781,8 @@
     "id": "the-legend-of-zelda-ocarina-of-time-2",
     "name": "The Legend of Zelda: Ocarina of Time (Switch 2)"
    }
-  ]
+  ],
+  "img": "img/g/d3ae82e86cb2c9e3.webp"
  },
  {
   "id": "arcade-archives-punch-out",
@@ -44435,7 +44843,8 @@
     "first": "2018-03-30",
     "last": "2018-03-30"
    }
-  ]
+  ],
+  "img": "img/g/1bddfbf61fd422ee.webp"
  },
  {
   "id": "oh-sir-the-insult-simulator",
@@ -44515,7 +44924,8 @@
     "first": "2018-03-08",
     "last": "2018-03-08"
    }
-  ]
+  ],
+  "img": "img/g/b993806e9d47a22f.webp"
  },
  {
   "id": "captain-toad-treasure-tracker",
@@ -44580,7 +44990,8 @@
     "first": "2015-03-20",
     "last": "2018-03-06"
    }
-  ]
+  ],
+  "img": "img/g/786f73aa7cc0b6ef.webp"
  },
  {
   "id": "lego-star-wars-the-force-awakens",
@@ -44623,7 +45034,8 @@
     "first": "2016-06-19",
     "last": "2018-02-28"
    }
-  ]
+  ],
+  "img": "img/g/d2f5556b658e6490.webp"
  },
  {
   "id": "the-legend-of-zelda-a-link-to-the-past",
@@ -44856,7 +45268,8 @@
     "first": "2016-11-26",
     "last": "2016-11-26"
    }
-  ]
+  ],
+  "img": "img/g/9812e49804d196ef.webp"
  },
  {
   "id": "super-metroid",
@@ -44981,7 +45394,8 @@
     "first": "2016-10-10",
     "last": "2018-02-23"
    }
-  ]
+  ],
+  "img": "img/g/c180f93aa65f6970.webp"
  },
  {
   "id": "oxenfree",
@@ -45065,7 +45479,8 @@
     "first": "2018-02-11",
     "last": "2018-02-11"
    }
-  ]
+  ],
+  "img": "img/g/52285ea2d57c7f35.webp"
  },
  {
   "id": "pocket-card-jockey",
@@ -45224,7 +45639,8 @@
     "first": "2017-01-22",
     "last": "2017-01-22"
    }
-  ]
+  ],
+  "img": "img/g/18b7551b89713c7f.webp"
  },
  {
   "id": "nba-2k18",
@@ -45350,7 +45766,8 @@
     "first": "2017-09-24",
     "last": "2018-01-27"
    }
-  ]
+  ],
+  "img": "img/g/b7ff22417e81467f.webp"
  },
  {
   "id": "fire-emblem-warriors",
@@ -45428,7 +45845,8 @@
     "first": "2018-01-28",
     "last": "2018-02-04"
    }
-  ]
+  ],
+  "img": "img/g/60734a4bcc107504.webp"
  },
  {
   "id": "darkest-dungeon",
@@ -45489,7 +45907,8 @@
     "first": "2018-02-04",
     "last": "2018-02-04"
    }
-  ]
+  ],
+  "img": "img/g/61b4fab7897cd86b.webp"
  },
  {
   "id": "uncharted-the-lost-legacy",
@@ -45537,7 +45956,8 @@
      "2017": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/73ae2183e1dcbb67.webp"
  },
  {
   "id": "life-is-strange-before-the-storm",
@@ -45599,7 +46019,8 @@
      "2017": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/1620b20553b81e05.webp"
  },
  {
   "id": "horizon-zero-dawn",
@@ -45652,7 +46073,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/5f760f3774889308.webp"
  },
  {
   "id": "mass-effect-andromeda",
@@ -45705,7 +46127,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/47364905f087aef9.webp"
  },
  {
   "id": "steamworld-dig-2",
@@ -45766,7 +46189,8 @@
     "first": "2017-12-26",
     "last": "2017-12-28"
    }
-  ]
+  ],
+  "img": "img/g/b1bb588b0424b358.webp"
  },
  {
   "id": "yooka-laylee",
@@ -45827,7 +46251,8 @@
     "first": "2017-12-17",
     "last": "2017-12-21"
    }
-  ]
+  ],
+  "img": "img/g/8b018f7d3d214687.webp"
  },
  {
   "id": "stardew-valley",
@@ -45901,7 +46326,8 @@
     "first": "2017-12-16",
     "last": "2017-12-16"
    }
-  ]
+  ],
+  "img": "img/g/31b3c4375235315e.webp"
  },
  {
   "id": "injustice-2",
@@ -45957,7 +46383,8 @@
      "2017": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/6b5a6080aa777501.webp"
  },
  {
   "id": "mario-rabbids-kingdom-battle",
@@ -46033,7 +46460,8 @@
     "first": "2017-09-02",
     "last": "2017-09-03"
    }
-  ]
+  ],
+  "img": "img/g/f35898cd7d52621d.webp"
  },
  {
   "id": "sonic-mania",
@@ -46111,7 +46539,8 @@
     "first": "2017-08-16",
     "last": "2017-08-16"
    }
-  ]
+  ],
+  "img": "img/g/6786a62d89a2cd63.webp"
  },
  {
   "id": "nba-2k16",
@@ -46164,7 +46593,8 @@
      "2017": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/7d8283f628072af2.webp"
  },
  {
   "id": "super-mario-rpg-legend-of-the-seven-stars",
@@ -46289,7 +46719,8 @@
     "id": "super-mario-rpg",
     "name": "Super Mario RPG"
    }
-  ]
+  ],
+  "img": "img/g/87cf2f9f233e2cf9.webp"
  },
  {
   "id": "super-punch-out",
@@ -46472,7 +46903,8 @@
     "first": "2016-09-21",
     "last": "2017-05-26"
    }
-  ]
+  ],
+  "img": "img/g/b7df796f9f06e756.webp"
  },
  {
   "id": "human-resource-machine",
@@ -46533,7 +46965,8 @@
     "first": "2017-03-17",
     "last": "2017-03-31"
    }
-  ]
+  ],
+  "img": "img/g/eb1ae8bf9dc67f78.webp"
  },
  {
   "id": "yoshi-s-new-island",
@@ -46598,7 +47031,8 @@
     "first": "2016-12-25",
     "last": "2017-01-03"
    }
-  ]
+  ],
+  "img": "img/g/8e36cda7cb6aa9cc.webp"
  },
  {
   "id": "super-mario-galaxy",
@@ -46646,7 +47080,8 @@
     "first": "2016-12-24",
     "last": "2016-12-24"
    }
-  ]
+  ],
+  "img": "img/g/e14eeb130258a249.webp"
  },
  {
   "id": "steins-gate",
@@ -46692,7 +47127,8 @@
      "2016": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/12d822cb9493da04.webp"
  },
  {
   "id": "wario-land-super-mario-land-3",
@@ -46973,7 +47409,8 @@
     "first": "2016-11-22",
     "last": "2016-11-22"
    }
-  ]
+  ],
+  "img": "img/g/9045d5bc604aa1f1.webp"
  },
  {
   "id": "super-mario-galaxy-2",
@@ -47118,7 +47555,8 @@
     "first": "2015-01-31",
     "last": "2016-10-23"
    }
-  ]
+  ],
+  "img": "img/g/2165abf3a9e351a7.webp"
  },
  {
   "id": "punch-out",
@@ -47183,7 +47621,8 @@
     "first": "2015-02-15",
     "last": "2016-10-23"
    }
-  ]
+  ],
+  "img": "img/g/9e621efe83179a17.webp"
  },
  {
   "id": "danganronpa-2-goodbye-despair",
@@ -47253,7 +47692,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/4072e665c32cb76f.webp"
  },
  {
   "id": "3d-sonic-the-hedgehog-2",
@@ -47318,7 +47758,8 @@
     "first": "2016-09-21",
     "last": "2016-10-15"
    }
-  ]
+  ],
+  "img": "img/g/45ffcf49a13207f2.webp"
  },
  {
   "id": "pok-mon-yellow-version",
@@ -47379,7 +47820,8 @@
     "first": "2016-09-17",
     "last": "2016-09-18"
    }
-  ]
+  ],
+  "img": "img/g/2d349675fec44d8c.webp"
  },
  {
   "id": "disney-fantasia-music-evolved",
@@ -47424,7 +47866,8 @@
     "first": "2016-02-15",
     "last": "2016-08-21"
    }
-  ]
+  ],
+  "img": "img/g/eac68c0ffb5e0036.webp"
  },
  {
   "id": "punch-out-featuring-mr-dream",
@@ -47587,7 +48030,8 @@
     "first": "2015-03-18",
     "last": "2016-08-20"
    }
-  ]
+  ],
+  "img": "img/g/359e0312e0604b04.webp"
  },
  {
   "id": "kinect-sports-rivals",
@@ -47633,7 +48077,8 @@
     "first": "2016-07-08",
     "last": "2016-08-15"
    }
-  ]
+  ],
+  "img": "img/g/09f80edd26ff3694.webp"
  },
  {
   "id": "viva-pi-ata",
@@ -47697,7 +48142,8 @@
     "first": "2016-08-06",
     "last": "2016-08-06"
    }
-  ]
+  ],
+  "img": "img/g/94dc0af447f022d9.webp"
  },
  {
   "id": "south-park-the-stick-of-truth",
@@ -47796,7 +48242,8 @@
      "2016": 18
     }
    }
-  ]
+  ],
+  "img": "img/g/245014adc71831a8.webp"
  },
  {
   "id": "mighty-no-9",
@@ -47852,7 +48299,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/38408f647a1d45f2.webp"
  },
  {
   "id": "super-paper-mario",
@@ -47900,7 +48348,8 @@
     "first": "2016-06-19",
     "last": "2016-06-19"
    }
-  ]
+  ],
+  "img": "img/g/9f09c870dc915297.webp"
  },
  {
   "id": "sly-cooper-thieves-in-time",
@@ -47964,7 +48413,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/4d312ac8a5779f05.webp"
  },
  {
   "id": "don-bradman-cricket",
@@ -48022,7 +48472,8 @@
      "2016": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/7552ecb369ca6959.webp"
  },
  {
   "id": "the-witness",
@@ -48080,7 +48531,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/0f2e5e4ab9f59171.webp"
  },
  {
   "id": "lemmings-touch",
@@ -48124,7 +48576,8 @@
      "2016": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/3e994a33e1cdc094.webp"
  },
  {
   "id": "jak-and-daxter-the-precursor-legacy",
@@ -48198,7 +48651,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/8dc9348543531afc.webp"
  },
  {
   "id": "injustice-gods-among-us",
@@ -48229,8 +48683,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 5.2,
-  "hours_estimated": false,
+  "hours": 7.3,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 4,
   "entries": [
@@ -48239,10 +48693,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Injustice",
-    "minutes": null,
+    "minutes": 63,
     "art": "https://image.api.playstation.com/trophy/np/NPWR04034_00_005EF1CB468F1CB71779CDF7741B616E7030F3EA80/77D3F2CE3FF0568ACCDBA6D59D06A0E226399E73.PNG",
     "earned": 11,
     "total": 51,
+    "estimated": true,
     "first": "2013-04-21",
     "last": "2013-04-21",
     "earned_by_year": {
@@ -48282,17 +48737,19 @@
     "family": "PlayStation",
     "platform": "Vita",
     "name": "Injustice",
-    "minutes": null,
+    "minutes": 63,
     "art": "https://image.api.playstation.com/trophy/np/NPWR04730_00_00BEF9C9292ACD906AD254BBDE7BFAB51178C97D1C/E8326140D1E7889A67211F869408184F52CAFF25.PNG",
     "earned": 1,
     "total": 51,
+    "estimated": true,
     "first": "2016-04-05",
     "last": "2016-04-05",
     "earned_by_year": {
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/4239acacb0c2f5e8.webp"
  },
  {
   "id": "final-fantasy-vii",
@@ -48353,7 +48810,8 @@
      "2016": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/72cc05c5ff5b2144.webp"
  },
  {
   "id": "metroid-fusion",
@@ -48401,7 +48859,8 @@
     "first": "2016-03-24",
     "last": "2016-03-24"
    }
-  ]
+  ],
+  "img": "img/g/5efb49cbe85eff3e.webp"
  },
  {
   "id": "dance-central-spotlight",
@@ -48442,7 +48901,8 @@
     "first": "2016-02-15",
     "last": "2016-02-15"
    }
-  ]
+  ],
+  "img": "img/g/94a91daf27118243.webp"
  },
  {
   "id": "zoo-tycoon",
@@ -48483,7 +48943,8 @@
     "first": "2016-02-14",
     "last": "2016-02-14"
    }
-  ]
+  ],
+  "img": "img/g/5183b02f76d1d34f.webp"
  },
  {
   "id": "jetpac-refuelled",
@@ -48547,7 +49008,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/91f8992a210745b7.webp"
  },
  {
   "id": "banjo-tooie",
@@ -48592,7 +49054,8 @@
      "2016": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/6baf82261da4aab3.webp"
  },
  {
   "id": "banjo-kazooie-nuts-and-bolts",
@@ -48656,7 +49119,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/aa070465a5cb923b.webp"
  },
  {
   "id": "until-dawn",
@@ -48711,7 +49175,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/6fc1fbb2e7b95280.webp"
  },
  {
   "id": "madden-nfl-16",
@@ -48755,7 +49220,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/4a57811c6581077f.webp"
  },
  {
   "id": "to-be-or-not-to-be",
@@ -48798,7 +49264,8 @@
      "2016": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/67ac5b443dce79f0.webp"
  },
  {
   "id": "guitar-hero-live",
@@ -48855,7 +49322,8 @@
      "2016": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/9d028645ef1162e4.webp"
  },
  {
   "id": "that-dragon-cancer",
@@ -48895,7 +49363,8 @@
     "first": "2016-01-12",
     "last": "2016-01-12"
    }
-  ]
+  ],
+  "img": "img/g/6016c751593ff6c8.webp"
  },
  {
   "id": "tearaway-unfolded",
@@ -48948,7 +49417,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/cc187d9721875cce.webp"
  },
  {
   "id": "parappa-the-rapper-2",
@@ -48995,7 +49465,8 @@
      "2016": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/ce638f51889e93cf.webp"
  },
  {
   "id": "amplitude",
@@ -49051,7 +49522,8 @@
      "2016": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/22780d0006676c16.webp"
  },
  {
   "id": "emily-is-away",
@@ -49094,7 +49566,8 @@
      "2015": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/abdacb178141b01e.webp"
  },
  {
   "id": "yoshi-s-island-super-mario-advance-3",
@@ -49155,7 +49628,8 @@
     "first": "2015-11-21",
     "last": "2015-11-22"
    }
-  ]
+  ],
+  "img": "img/g/5ddba337c2861e9e.webp"
  },
  {
   "id": "lego-dimensions",
@@ -49199,7 +49673,8 @@
      "2015": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/a78244f09444bc4d.webp"
  },
  {
   "id": "game-of-thrones",
@@ -49257,7 +49732,8 @@
      "2015": 49
     }
    }
-  ]
+  ],
+  "img": "img/g/adb1552109453b45.webp"
  },
  {
   "id": "mario-tennis",
@@ -49305,7 +49781,8 @@
     "first": "2015-08-30",
     "last": "2015-08-30"
    }
-  ]
+  ],
+  "img": "img/g/d3383b308514f29c.webp"
  },
  {
   "id": "the-legend-of-zelda-majora-s-mask-3d",
@@ -49374,7 +49851,8 @@
     "first": "2015-06-11",
     "last": "2015-08-05"
    }
-  ]
+  ],
+  "img": "img/g/653749a0756e4910.webp"
  },
  {
   "id": "driveclub",
@@ -49418,7 +49896,8 @@
      "2015": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/858736dabe0108f8.webp"
  },
  {
   "id": "metal-gear-solid-v-ground-zeroes",
@@ -49471,7 +49950,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/e23181f95c6ae24e.webp"
  },
  {
   "id": "pok-mon-shuffle",
@@ -49532,7 +50012,8 @@
     "first": "2015-05-22",
     "last": "2015-05-24"
    }
-  ]
+  ],
+  "img": "img/g/4a5e0af6866aef64.webp"
  },
  {
   "id": "tropico-5",
@@ -49585,7 +50066,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/01179df44a90e1d6.webp"
  },
  {
   "id": "nba-2k15",
@@ -49636,7 +50118,8 @@
      "2015": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/ce6b125b43a26f6a.webp"
  },
  {
   "id": "bastion",
@@ -49666,8 +50149,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.6,
-  "hours_estimated": false,
+  "hours": 1.3,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 2,
   "entries": [
@@ -49676,11 +50159,12 @@
     "family": "Xbox",
     "platform": "360",
     "name": "Bastion",
-    "minutes": null,
+    "minutes": 45,
     "earned": 1,
     "total": 12,
     "gamertag": "rogerage",
     "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuNfQNWb_.Rg7ukLRKQRlhLaNtrVLmGBlQY_urHESWIV3oBsoeKarlVt3QpCxqC.YPw--",
+    "estimated": true,
     "first": "2011-09-10",
     "last": "2011-09-14",
     "earned_by_year": {
@@ -49727,7 +50211,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/6a958046da3b5d4a.webp"
  },
  {
   "id": "the-legend-of-zelda",
@@ -49792,7 +50277,8 @@
     "first": "2015-02-28",
     "last": "2015-03-21"
    }
-  ]
+  ],
+  "img": "img/g/86f8dccc20b22f50.webp"
  },
  {
   "id": "f-zero",
@@ -49853,7 +50339,8 @@
     "first": "2015-02-26",
     "last": "2015-02-28"
    }
-  ]
+  ],
+  "img": "img/g/72a29a5ecc077833.webp"
  },
  {
   "id": "saints-row-iv-re-elected",
@@ -49911,7 +50398,8 @@
      "2015": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/f26615b9e2ac612a.webp"
  },
  {
   "id": "grim-fandango",
@@ -49969,7 +50457,8 @@
      "2015": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/034d3c1b4755b336.webp"
  },
  {
   "id": "rogue-legacy",
@@ -50022,7 +50511,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/2615fe5f3a759278.webp"
  },
  {
   "id": "apotheon",
@@ -50075,7 +50565,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/6177bf5ccc0b6d25.webp"
  },
  {
   "id": "metroid-prime-trilogy",
@@ -50123,7 +50614,8 @@
     "first": "2015-01-31",
     "last": "2015-01-31"
    }
-  ]
+  ],
+  "img": "img/g/af0d031dd3f3a4bb.webp"
  },
  {
   "id": "the-walking-dead-season-1",
@@ -50158,8 +50650,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 9.7,
-  "hours_estimated": false,
+  "hours": 15.6,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 8,
   "entries": [
@@ -50168,10 +50660,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "The Walking Dead",
-    "minutes": null,
+    "minutes": 352,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03267_00_007FE16D7FFD3645788A29594335E3DDEBDC6E1BAD/3D9A794003EA37BC8EFE198E341A0CD36A4CD87E.PNG",
     "earned": 48,
     "total": 49,
+    "estimated": true,
     "first": "2012-12-08",
     "last": "2013-07-27",
     "platinum": "2012-12-17",
@@ -50208,7 +50701,8 @@
      "2015": 10
     }
    }
-  ]
+  ],
+  "img": "img/g/66bd3507beff1b87.webp"
  },
  {
   "id": "geometry-wars-dimensions",
@@ -50273,7 +50767,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/92d683ec45567109.webp"
  },
  {
   "id": "the-swapper",
@@ -50328,7 +50823,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/579ae77ce976df52.webp"
  },
  {
   "id": "the-walking-dead-season-2",
@@ -50381,7 +50877,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/9335086490b83c47.webp"
  },
  {
   "id": "dragon-age-inquisition",
@@ -50439,7 +50936,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/fc067d742f2a90af.webp"
  },
  {
   "id": "secret-ponchos",
@@ -50492,7 +50990,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/e8ba81cd14d250da.webp"
  },
  {
   "id": "plants-vs-zombies-garden-warfare",
@@ -50545,7 +51044,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/398a035324d06bd1.webp"
  },
  {
   "id": "far-cry-4",
@@ -50598,7 +51098,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/b4ada98b421e3b3c.webp"
  },
  {
   "id": "tomodachi-life",
@@ -50683,7 +51184,8 @@
     "first": "2014-06-07",
     "last": "2014-12-06"
    }
-  ]
+  ],
+  "img": "img/g/1acc07f3a87f17c8.webp"
  },
  {
   "id": "titan-attacks",
@@ -50736,7 +51238,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/186f0a09d14312c1.webp"
  },
  {
   "id": "the-binding-of-isaac-rebirth",
@@ -50789,7 +51292,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/d4eb479a905c6b2c.webp"
  },
  {
   "id": "steamworld-dig",
@@ -50845,7 +51349,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/82b1d417c5e12cbd.webp"
  },
  {
   "id": "super-mario-land",
@@ -50910,7 +51415,8 @@
     "first": "2013-07-20",
     "last": "2014-11-07"
    }
-  ]
+  ],
+  "img": "img/g/a5b4a8479e805aae.webp"
  },
  {
   "id": "metroid",
@@ -50958,7 +51464,8 @@
     "first": "2014-11-07",
     "last": "2014-11-07"
    }
-  ]
+  ],
+  "img": "img/g/a33ec04b2691dc76.webp"
  },
  {
   "id": "wii-sports-club",
@@ -51019,7 +51526,8 @@
     "first": "2014-10-18",
     "last": "2014-10-26"
    }
-  ]
+  ],
+  "img": "img/g/6b64d15dbace4b60.webp"
  },
  {
   "id": "pix-the-cat",
@@ -51079,7 +51587,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/fa26254a6e7b8691.webp"
  },
  {
   "id": "spelunky",
@@ -51132,7 +51641,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/149e6c95720c13bc.webp"
  },
  {
   "id": "dust-an-elysian-tail",
@@ -51188,7 +51698,8 @@
      "2014": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/043a38cddc50149a.webp"
  },
  {
   "id": "flow",
@@ -51213,8 +51724,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.2,
-  "hours_estimated": false,
+  "hours": 0.9,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 1,
   "entries": [
@@ -51223,10 +51734,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "flOw",
-    "minutes": null,
+    "minutes": 45,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00071_00_00DA34B9187CAEB021769C92798AB5ACAF11C8E64C/233283F1AE8525F13A8DA7A79D89CE72F4EB5C76.PNG",
     "earned": 3,
     "total": 14,
+    "estimated": true,
     "first": "2010-03-06",
     "last": "2010-03-06",
     "earned_by_year": {
@@ -51261,7 +51773,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/1e8dedfb8d0c7f9b.webp"
  },
  {
   "id": "sportsfriends",
@@ -51316,7 +51829,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/8223c363caa60973.webp"
  },
  {
   "id": "diablo-iii",
@@ -51394,7 +51908,8 @@
      "2014": 25
     }
    }
-  ]
+  ],
+  "img": "img/g/709ffedaaed0fb96.webp"
  },
  {
   "id": "destiny",
@@ -51454,7 +51969,8 @@
      "2014": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/14eac7f84cc4c75d.webp"
  },
  {
   "id": "velocity-2x",
@@ -51510,7 +52026,8 @@
      "2014": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/4a87d55960de80f1.webp"
  },
  {
   "id": "surgeon-simulator",
@@ -51566,7 +52083,8 @@
      "2014": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/23379e9372394ada.webp"
  },
  {
   "id": "road-not-taken",
@@ -51624,7 +52142,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/4c3cf03ad49fd9e2.webp"
  },
  {
   "id": "professor-layton-and-the-azran-legacy",
@@ -51701,7 +52220,8 @@
     "first": "2014-04-13",
     "last": "2014-08-13"
    }
-  ]
+  ],
+  "img": "img/g/c96241af56e8b95e.webp"
  },
  {
   "id": "the-last-of-us",
@@ -51730,8 +52250,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 3.6,
-  "hours_estimated": false,
+  "hours": 5.7,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 3,
   "entries": [
@@ -51740,10 +52260,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "The Last of Us",
-    "minutes": null,
+    "minutes": 126,
     "art": "https://image.api.playstation.com/trophy/np/NPWR03073_00_00982ACA690865BF39A52624C65BDC9515DE4031EB/E0F3BAA831E39F5D3B948A165564E4C05C33D096.PNG",
     "earned": 2,
     "total": 50,
+    "estimated": true,
     "first": "2013-06-30",
     "last": "2013-07-12",
     "earned_by_year": {
@@ -51775,7 +52296,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/a4f77765bc848097.webp"
  },
  {
   "id": "oddworld-new-n-tasty",
@@ -51833,7 +52355,8 @@
      "2014": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/1e513d2faeb32f36.webp"
  },
  {
   "id": "pixeljunk-shooter-ultimate",
@@ -51886,7 +52409,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/242bd68ea88afd5c.webp"
  },
  {
   "id": "transistor",
@@ -51951,7 +52475,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/83c18e7e6346be4c.webp"
  },
  {
   "id": "stick-it-to-the-man",
@@ -52004,7 +52529,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/bb36f1ba12b53b46.webp"
  },
  {
   "id": "nba-2k14",
@@ -52075,7 +52601,8 @@
      "2014": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/65123018509f4b84.webp"
  },
  {
   "id": "fez",
@@ -52133,7 +52660,8 @@
      "2014": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/bdf63173c5ab3ded.webp"
  },
  {
   "id": "infamous-second-son",
@@ -52191,7 +52719,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/7cb3077ecd6dc936.webp"
  },
  {
   "id": "dead-nation-apocalypse-edition",
@@ -52247,7 +52776,8 @@
      "2014": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/35f45a9dc045f391.webp"
  },
  {
   "id": "tomb-raider",
@@ -52284,8 +52814,8 @@
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 5.5,
-  "hours_estimated": false,
+  "hours": 11.3,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": 7,
   "entries": [
@@ -52294,10 +52824,11 @@
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Tomb Raider",
-    "minutes": null,
+    "minutes": 352,
     "art": "https://image.api.playstation.com/trophy/np/NPWR02569_00_007B1E4E0A244B1B2D190ECCB261B43B92E844814E/26602F176C08C91433CA00E17DA75189E9CD11F4.PNG",
     "earned": 13,
     "total": 51,
+    "estimated": true,
     "first": "2013-03-16",
     "last": "2013-03-31",
     "earned_by_year": {
@@ -52332,7 +52863,8 @@
      "2014": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/92fe5e20b97583c4.webp"
  },
  {
   "id": "the-lego-movie-videogame",
@@ -52390,7 +52922,8 @@
      "2014": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/d4a956806c02a618.webp"
  },
  {
   "id": "outlast",
@@ -52445,7 +52978,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/80451b713b428a3f.webp"
  },
  {
   "id": "don-t-starve-console-edition",
@@ -52498,7 +53032,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/01c695b1cdb1f2fd.webp"
  },
  {
   "id": "pinball-arcade",
@@ -52551,7 +53086,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/a7d819377535bb15.webp"
  },
  {
   "id": "doki-doki-universe",
@@ -52592,7 +53128,8 @@
     "first": "2013-12-15",
     "last": "2013-12-15"
    }
-  ]
+  ],
+  "img": "img/g/d88ac4863cd13ccc.webp"
  },
  {
   "id": "pok-mon-y",
@@ -52653,7 +53190,8 @@
     "first": "2013-11-17",
     "last": "2013-11-30"
    }
-  ]
+  ],
+  "img": "img/g/eb8272beda0aa10d.webp"
  },
  {
   "id": "assassin-s-creed-iv-black-flag",
@@ -52706,7 +53244,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/c9f7f2692976f3f2.webp"
  },
  {
   "id": "the-wolf-among-us",
@@ -52750,7 +53289,8 @@
      "2013": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/4cce1ecca65589ec.webp"
  },
  {
   "id": "contrast",
@@ -52803,7 +53343,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/ff09d1d543141068.webp"
  },
  {
   "id": "resogun",
@@ -52856,7 +53397,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/59e6ede26bf53972.webp"
  },
  {
   "id": "donkey-kong-country-returns-3d",
@@ -52933,7 +53475,8 @@
     "first": "2013-05-25",
     "last": "2013-09-16"
    }
-  ]
+  ],
+  "img": "img/g/08c06d12425b3849.webp"
  },
  {
   "id": "ncaa-football-14",
@@ -52987,7 +53530,8 @@
      "2013": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/5b8f5438c7391e72.webp"
  },
  {
   "id": "mario-and-luigi-dream-team",
@@ -53052,7 +53596,8 @@
     "first": "2013-08-12",
     "last": "2013-09-02"
    }
-  ]
+  ],
+  "img": "img/g/f5415f6119392f43.webp"
  },
  {
   "id": "tetris-axis",
@@ -53117,7 +53662,8 @@
     "first": "2013-07-02",
     "last": "2013-08-03"
    }
-  ]
+  ],
+  "img": "img/g/3b4c247bb71d6353.webp"
  },
  {
   "id": "littlebigplanet-karting",
@@ -53161,7 +53707,8 @@
      "2013": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/3b79a0f8a68ab542.webp"
  },
  {
   "id": "donkey-kong",
@@ -53209,7 +53756,8 @@
     "first": "2013-07-21",
     "last": "2013-07-21"
    }
-  ]
+  ],
+  "img": "img/g/552db0984c2989c1.webp"
  },
  {
   "id": "batman-arkham-asylum",
@@ -53253,7 +53801,8 @@
      "2013": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/76dea677fce77897.webp"
  },
  {
   "id": "lego-city-undercover-the-chase-begins",
@@ -53301,7 +53850,8 @@
     "first": "2013-07-03",
     "last": "2013-07-03"
    }
-  ]
+  ],
+  "img": "img/g/e776be6bb27a17bc.webp"
  },
  {
   "id": "professor-layton-and-the-miracle-mask",
@@ -53362,7 +53912,8 @@
     "first": "2013-06-16",
     "last": "2013-06-22"
    }
-  ]
+  ],
+  "img": "img/g/c5d7d2dd92e6b2f8.webp"
  },
  {
   "id": "nba-2k13",
@@ -53423,7 +53974,8 @@
      "2013": 13
     }
    }
-  ]
+  ],
+  "img": "img/g/3dab7a08a15df3b7.webp"
  },
  {
   "id": "red-dead-redemption",
@@ -53470,7 +54022,8 @@
      "2012": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/f056a958118047f6.webp"
  },
  {
   "id": "mortal-kombat",
@@ -53580,7 +54133,8 @@
      "2012": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/75bc070d401e568e.webp"
  },
  {
   "id": "fifa-13",
@@ -53632,7 +54186,8 @@
      "2012": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/db5916c6bf652fb6.webp"
  },
  {
   "id": "pac-man-championship-edition-dx",
@@ -53700,7 +54255,8 @@
      "2012": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/5c7e97d547a08bb9.webp"
  },
  {
   "id": "madden-nfl-13",
@@ -53750,7 +54306,8 @@
      "2012": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/e1b6b312e0f11689.webp"
  },
  {
   "id": "nba-2k12",
@@ -53842,7 +54399,8 @@
      "2012": 12
     }
    }
-  ]
+  ],
+  "img": "img/g/366dd831201376d2.webp"
  },
  {
   "id": "mass-effect-3",
@@ -53906,7 +54464,8 @@
      "2012": 33
     }
    }
-  ]
+  ],
+  "img": "img/g/f6401f2da113430b.webp"
  },
  {
   "id": "just-cause-2",
@@ -53950,7 +54509,8 @@
      "2012": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/7cdb25f6b2349c29.webp"
  },
  {
   "id": "fifa-football",
@@ -54010,7 +54570,8 @@
      "2012": 15
     }
    }
-  ]
+  ],
+  "img": "img/g/7f5c30ce43ba986c.webp"
  },
  {
   "id": "uncharted-golden-abyss",
@@ -54054,7 +54615,8 @@
      "2012": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/8a429552a705fbd0.webp"
  },
  {
   "id": "sly-cooper-and-the-thievius-raccoonus",
@@ -54102,7 +54664,8 @@
      "2012": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/165185d6d199f8b4.webp"
  },
  {
   "id": "welcome-park",
@@ -54148,7 +54711,8 @@
      "2012": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/58aa771b532f25a7.webp"
  },
  {
   "id": "mlb-12-the-show",
@@ -54192,7 +54756,8 @@
      "2012": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/0a7d9faee38b4080.webp"
  },
  {
   "id": "back-to-the-future-episode-1-it-s-about-time",
@@ -54236,7 +54801,8 @@
      "2011": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/d985a8bafebefb85.webp"
  },
  {
   "id": "god-of-war-chains-of-olympus",
@@ -54282,7 +54848,8 @@
      "2011": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/6d489d5d3ba00c1c.webp"
  },
  {
   "id": "the-simpsons-game",
@@ -54372,7 +54939,8 @@
      "2010": 17
     }
    }
-  ]
+  ],
+  "img": "img/g/7a282f24a41ce266.webp"
  },
  {
   "id": "el-shaddai",
@@ -54417,7 +54985,8 @@
      "2011": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/b42df169bf9835f0.webp"
  },
  {
   "id": "ncaa-football-12",
@@ -54472,7 +55041,8 @@
      "2011": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/a90538be8eb881cf.webp"
  },
  {
   "id": "kinect-adventures",
@@ -54526,7 +55096,8 @@
      "2011": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/3ad83adfa7a81b9e.webp"
  },
  {
   "id": "you-don-t-know-jack",
@@ -54577,7 +55148,8 @@
      "2011": 15
     }
    }
-  ]
+  ],
+  "img": "img/g/8dccfe354d56a2c5.webp"
  },
  {
   "id": "nba-2k11",
@@ -54647,7 +55219,8 @@
      "2011": 22
     }
    }
-  ]
+  ],
+  "img": "img/g/cf18222d475055f0.webp"
  },
  {
   "id": "kinect-me",
@@ -54692,7 +55265,8 @@
      "2011": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/6ac4ff01b5e9e9b7.webp"
  },
  {
   "id": "outland",
@@ -54751,7 +55325,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/b7c79808e1ea213c.webp"
  },
  {
   "id": "dance-central",
@@ -54798,7 +55373,8 @@
      "2010": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/15f16b86cec956a8.webp"
  },
  {
   "id": "top-spin-4",
@@ -54851,7 +55427,8 @@
      "2011": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/02db60d844000161.webp"
  },
  {
   "id": "littlebigplanet-2",
@@ -54903,7 +55480,8 @@
      "2011": 15
     }
    }
-  ]
+  ],
+  "img": "img/g/faf396e7f0efc44c.webp"
  },
  {
   "id": "limbo",
@@ -54950,7 +55528,8 @@
      "2011": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/4cb7cb587ec340c7.webp"
  },
  {
   "id": "your-shape-fitness-evolved",
@@ -54991,7 +55570,8 @@
     "first": "2010-11-18",
     "last": "2010-11-18"
    }
-  ]
+  ],
+  "img": "img/g/e69f11351b4cf480.webp"
  },
  {
   "id": "fable-iii",
@@ -55048,7 +55628,8 @@
      "2010": 20
     }
    }
-  ]
+  ],
+  "img": "img/g/97bac83c3440871f.webp"
  },
  {
   "id": "kinect-sports",
@@ -55095,7 +55676,8 @@
      "2010": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/a2daefc74559bba6.webp"
  },
  {
   "id": "fable-ii",
@@ -55140,7 +55722,8 @@
      "2010": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/a58ff065a563d204.webp"
  },
  {
   "id": "fifa-soccer-11",
@@ -55189,7 +55772,8 @@
      "2010": 12
     }
    }
-  ]
+  ],
+  "img": "img/g/0a62b51458a61b2a.webp"
  },
  {
   "id": "madden-nfl-11",
@@ -55242,7 +55826,8 @@
      "2010": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/d91b2b813f2e806f.webp"
  },
  {
   "id": "lost-via-domus",
@@ -55287,7 +55872,8 @@
      "2010": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/be35b19d8d5aff8d.webp"
  },
  {
   "id": "lego-star-wars-ii-lego-star-wars-the-complete-saga",
@@ -55357,7 +55943,8 @@
      "2010": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/ecfba96b5be3e7b3.webp"
  },
  {
   "id": "3d-dot-game-heroes",
@@ -55405,7 +55992,8 @@
      "2010": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/5ee4ffa680893abd.webp"
  },
  {
   "id": "earthworm-jim-hd",
@@ -55449,7 +56037,8 @@
      "2010": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/fcb1106c6067f000.webp"
  },
  {
   "id": "ncaa-football-11",
@@ -55503,7 +56092,8 @@
      "2010": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/63bde2f08b904cff.webp"
  },
  {
   "id": "tecmo-bowl-throwback",
@@ -55549,7 +56139,8 @@
      "2010": 6
     }
    }
-  ]
+  ],
+  "img": "img/g/817f3aa7aceb6693.webp"
  },
  {
   "id": "2010-fifa-world-cup",
@@ -55599,7 +56190,8 @@
      "2010": 7
     }
    }
-  ]
+  ],
+  "img": "img/g/6f762a4f58f82dce.webp"
  },
  {
   "id": "fight-night-round-4",
@@ -55650,7 +56242,8 @@
      "2010": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/05cde81a9e76d741.webp"
  },
  {
   "id": "darksiders",
@@ -55708,7 +56301,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/f6914d1aa8b91fee.webp"
  },
  {
   "id": "mega-man-10",
@@ -55754,7 +56348,8 @@
      "2010": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/c161641e73bf7810.webp"
  },
  {
   "id": "fallout-3",
@@ -55798,7 +56393,8 @@
      "2010": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/4aa8f8f111deeed4.webp"
  },
  {
   "id": "god-of-war-ii",
@@ -55852,7 +56448,8 @@
      "2010": 26
     }
    }
-  ]
+  ],
+  "img": "img/g/fcf44d1b497a1296.webp"
  },
  {
   "id": "lego-rock-band",
@@ -55897,7 +56494,8 @@
      "2009": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/546c59cb78408a02.webp"
  },
  {
   "id": "littlebigplanet",
@@ -55960,7 +56558,8 @@
      "2009": 26
     }
    }
-  ]
+  ],
+  "img": "img/g/f0a1c09e86d0f30d.webp"
  },
  {
   "id": "nba-2k10",
@@ -56006,7 +56605,8 @@
      "2009": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/70df74297fdac310.webp"
  },
  {
   "id": "madden-nfl-10",
@@ -56062,7 +56662,8 @@
      "2009": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/6ff143326823f112.webp"
  },
  {
   "id": "prince-of-persia",
@@ -56132,7 +56733,8 @@
      "2009": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/b73ff6b02a949d68.webp"
  },
  {
   "id": "bioshock",
@@ -56200,7 +56802,8 @@
      "2009": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/5bbb27f3c0e5a864.webp"
  },
  {
   "id": "infamous",
@@ -56244,7 +56847,8 @@
      "2009": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/6526f3965168f132.webp"
  },
  {
   "id": "mortal-kombat-vs-dc-universe",
@@ -56288,7 +56892,8 @@
      "2009": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/3009da392d9486c3.webp"
  },
  {
   "id": "blitz-the-league-ii",
@@ -56336,7 +56941,8 @@
      "2009": 11
     }
    }
-  ]
+  ],
+  "img": "img/g/18f7bf10441a55cc.webp"
  },
  {
   "id": "the-bigs-2",
@@ -56380,7 +56986,8 @@
      "2009": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/89f11a9d88914b02.webp"
  },
  {
   "id": "rock-band-2",
@@ -56459,7 +57066,8 @@
      "2009": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/6c9613b0ac0a7782.webp"
  },
  {
   "id": "fifa-09",
@@ -56511,7 +57119,8 @@
      "2009": 14
     }
    }
-  ]
+  ],
+  "img": "img/g/fc3ab3a186913055.webp"
  },
  {
   "id": "aegis-wing",
@@ -56556,7 +57165,8 @@
      "2009": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/3b62dcd25ff674b0.webp"
  },
  {
   "id": "all-pro-football-2k8",
@@ -56632,7 +57242,8 @@
      "2008": 16
     }
    }
-  ]
+  ],
+  "img": "img/g/d7456c044a6926c2.webp"
  },
  {
   "id": "rock-band",
@@ -56677,7 +57288,8 @@
      "2007": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/8ceb2667e4dfd343.webp"
  },
  {
   "id": "guitar-hero-iii",
@@ -56722,7 +57334,8 @@
      "2007": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/d0740e3097384987.webp"
  },
  {
   "id": "fifa-08",
@@ -56769,7 +57382,8 @@
      "2007": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/2b3a86d30cc44e40.webp"
  },
  {
   "id": "sonic-the-hedgehog-2",
@@ -56818,7 +57432,8 @@
      "2007": 3
     }
    }
-  ]
+  ],
+  "img": "img/g/77874f29c9da0de8.webp"
  },
  {
   "id": "yaris",
@@ -56863,7 +57478,8 @@
      "2007": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/9a1e53e524b6cbcf.webp"
  },
  {
   "id": "puzzle-quest",
@@ -56908,7 +57524,8 @@
      "2007": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/30a354d8d1306b65.webp"
  },
  {
   "id": "madden-nfl-08",
@@ -56955,7 +57572,8 @@
      "2007": 11
     }
    }
-  ]
+  ],
+  "img": "img/g/d30cfd0ec8d48821.webp"
  },
  {
   "id": "ncaa-football-08",
@@ -57008,7 +57626,8 @@
      "2007": 37
     }
    }
-  ]
+  ],
+  "img": "img/g/8c60699366b372f9.webp"
  },
  {
   "id": "sonic-the-hedgehog",
@@ -57061,7 +57680,8 @@
      "2007": 9
     }
    }
-  ]
+  ],
+  "img": "img/g/5924509aa7c82310.webp"
  },
  {
   "id": "the-bigs",
@@ -57118,7 +57738,8 @@
      "2007": 29
     }
    }
-  ]
+  ],
+  "img": "img/g/f765c6cad7010cf3.webp"
  },
  {
   "id": "forza-motorsport-2",
@@ -57165,7 +57786,8 @@
      "2007": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/258bf4b8f6b3f10b.webp"
  },
  {
   "id": "nba-street-homecourt",
@@ -57212,7 +57834,8 @@
      "2007": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/f791f17ba3b2bc00.webp"
  },
  {
   "id": "nba-2k7",
@@ -57276,7 +57899,8 @@
      "2007": 26
     }
    }
-  ]
+  ],
+  "img": "img/g/5946fedb404e8fe2.webp"
  },
  {
   "id": "tomb-raider-legend",
@@ -57323,7 +57947,8 @@
      "2007": 2
     }
    }
-  ]
+  ],
+  "img": "img/g/f0b5deb3371e3a74.webp"
  },
  {
   "id": "tmnt-1989-arcade",
@@ -57370,7 +57995,8 @@
      "2007": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/959c5c3649b08389.webp"
  },
  {
   "id": "marble-blast-ultra",
@@ -57417,7 +58043,8 @@
      "2007": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/c6580d533f97d126.webp"
  },
  {
   "id": "crackdown",
@@ -57462,7 +58089,8 @@
      "2007": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/5e9d8c9aecef116b.webp"
  },
  {
   "id": "uno",
@@ -57516,7 +58144,8 @@
      "2007": 10
     }
    }
-  ]
+  ],
+  "img": "img/g/e8182250776bf21c.webp"
  },
  {
   "id": "blitz-the-league",
@@ -57565,7 +58194,8 @@
      "2007": 8
     }
    }
-  ]
+  ],
+  "img": "img/g/864d694e334964ec.webp"
  },
  {
   "id": "gears-of-war",
@@ -57610,7 +58240,8 @@
      "2007": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/54942352bbd48564.webp"
  },
  {
   "id": "texas-hold-em",
@@ -57659,7 +58290,8 @@
      "2006": 4
     }
    }
-  ]
+  ],
+  "img": "img/g/06ceb14deb06cfe3.webp"
  },
  {
   "id": "contra",
@@ -57706,7 +58338,8 @@
      "2006": 5
     }
    }
-  ]
+  ],
+  "img": "img/g/5f13f77cb2154fd1.webp"
  },
  {
   "id": "the-elder-scrolls-iv-oblivion",
@@ -57751,7 +58384,8 @@
      "2006": 1
     }
    }
-  ]
+  ],
+  "img": "img/g/512f2a60a6787021.webp"
  },
  {
   "id": "tiger-woods-pga-tour-07",
@@ -57786,7 +58420,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/666cf463985f5418.webp"
  },
  {
   "id": "iron-man",
@@ -57821,7 +58456,8 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/3bd41cd9df90cfb0.webp"
  },
  {
   "id": "guitar-hero-ii",
@@ -57856,6 +58492,7 @@
     "first": null,
     "last": null
    }
-  ]
+  ],
+  "img": "img/g/aa9c8a9a95a68ef7.webp"
  }
 ]

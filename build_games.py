@@ -512,18 +512,25 @@ def build():
     for u in unlocks:
         if u["earned"]:
             unlock_days[u["entry"]].add(et_day(u["earned"]))
+    # Per console: a copy with unlocks but no hours gets an estimate, unless another copy on the
+    # same console has recorded hours (a PS4 trophy list beside its PS4 play record). So the
+    # 2011 PS3 Uncharted 3 gets hours even though its PS4 remaster has some.
+    def consoles(e):
+        return {p.strip() for p in e["platform"].replace("/", ",").split(",")} | {e["family"] + ":" + (e.get("gamertag") or "")}
     for ids in rows.values():
-        if any(entries[i]["minutes"] for i in ids):
+        covered = set()
+        for i in ids:
+            if entries[i]["minutes"]:
+                covered |= {c for c in consoles(entries[i]) if ":" not in c}
+        todo = [i for i in ids if not entries[i]["minutes"] and unlock_days.get(i) and not (consoles(entries[i]) & covered)]
+        if not todo:
             continue
-        days = set().union(*(unlock_days.get(i, set()) for i in ids))
-        if not days:
-            continue
+        days = set().union(*(unlock_days[i] for i in todo))
         name = display_name([{**entries[i], "id": i} for i in ids])
         total = hours_from_unlock_days(name, len(days)) * 60
-        for i in ids:  # the game's estimate, shared by each platform's days
-            if unlock_days.get(i):
-                entries[i]["minutes"] = round(total * len(unlock_days[i]) / sum(len(unlock_days.get(j, ())) for j in ids))
-                entries[i]["estimated"] = True
+        for i in todo:  # the estimate, shared by each copy's days
+            entries[i]["minutes"] = round(total * len(unlock_days[i]) / sum(len(unlock_days[j]) for j in todo))
+            entries[i]["estimated"] = True
 
     games = []
     for ids in rows.values():
