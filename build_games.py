@@ -352,7 +352,7 @@ def entries_and_unlocks(cfg=None):
         entries[eid] = {"family": "Nintendo", "platform": t["platform"], "name": t["name"],
                         "days": dated, "minutes": t["minutes"] or None,
                         "earned": None, "total": None, "art": t.get("image"),
-                        "days_played": t["days_played"], "family_play": t["family_play"],
+                        "days_played": t["days_played"], "family_play": tid in ncfg["family_play"],  # config, so a change needs no refetch
                         "span": span, "span_days": rest_days if modeled else 0,
                         # Modeled play by month: [days, minutes], for the years and the span band
                         "modeled": modeled,
