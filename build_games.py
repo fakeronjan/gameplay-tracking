@@ -185,6 +185,25 @@ def entries_and_unlocks(cfg=None):
                                      # Videos count as days played, never in the screenshot count
                                      "captures": sum(1 for c in g["captures"] if not c.get("video"))}
 
+    # Nintendo play history: hours and days played from Nintendo's own records, but only first and
+    # last played as dates. Switch records join their screenshot entry by title id.
+    shot_entry = {}
+    for name, g in load("switch.json")["games"].items():
+        for sid in g["ids"]:
+            shot_entry[sid] = f"switch:{g['ids'][0]}"
+    names = json.loads((HERE / "config" / "switch_game_names.json").read_text())
+    by_title = {v["title_id"].lower(): shot_entry[k] for k, v in names.items() if v.get("title_id") and k in shot_entry}
+    for tid, t in load("nintendo.json")["titles"].items():
+        eid = f"nintendo:{tid}"
+        first, last = (et_day(t[k]) if t[k] else None for k in ("first_played", "last_played"))
+        entries[eid] = {"family": "Nintendo", "platform": t["platform"], "name": t["name"],
+                        "days": sorted({d for d in (first, last) if d}), "minutes": t["minutes"] or None,
+                        "earned": None, "total": None, "art": t.get("image"),
+                        "days_played": t["days_played"], "family_play": t["family_play"],
+                        "span": [first, last] if first and last and first != last else None}
+        if tid in by_title:
+            links.append((eid, by_title[tid]))
+
     posts, art = defaultdict(list), {}
     for p in load("miiverse.json")["posts"]:
         posts[p["game"]].append(p["date"][:10])
@@ -301,7 +320,8 @@ def build():
     entries, unlocks, links = entries_and_unlocks(cfg)
     entries = {k: v for k, v in entries.items() if "split_into" not in v}
     split = {e for group in cfg.get("split", []) for e in group}
-    configured = {e for group in cfg.get("merge", []) + cfg.get("split", []) for e in group} | set(cfg.get("names", {}))
+    configured = {e for group in cfg.get("merge", []) + cfg.get("split", []) for e in group} | set(cfg.get("names", {})) \
+        | set(cfg.get("family_play", []))
     unknown = sorted(configured - set(entries) - set(cfg.get("exclude", {})))
     if unknown:  # a stale id would silently stop a merge from applying
         raise SystemExit(f"config/game_merges.json names entries that don't exist: {unknown}")
@@ -342,7 +362,7 @@ def build():
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
-        rank = {"switch": 0, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5}
+        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5}
         arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
             "id": game_id, "name": name, "art": arts[0][1] if arts else None,
@@ -352,6 +372,13 @@ def build():
             "families": sorted({e["family"] for e in es if e["days"] or e["earned"] or e["minutes"]}),
             "days_by_family": {f: sorted({d for e in es if e["family"] == f for d in e["days"]})
                                for f in sorted({e["family"] for e in es if e["days"]})},
+            # Nintendo records count days played without dates: the row's days are its dated days
+            # plus the Nintendo days beyond the ones it has dates for (a close estimate)
+            "days_played": len(days) + max(0, sum(e.get("days_played") or 0 for e in es)
+                                           - len({d for e in es if e["family"] == "Nintendo" for d in e["days"]})),
+            # First-to-last played on a Nintendo record, for the timeline's span bar
+            "spans": sorted(e["span"] for e in es if e.get("span")),
+            "family_play": any(e.get("family_play") for e in es) or bool(set(ids) & set(cfg.get("family_play", []))),
             "hours": round(sum(mins) / 60, 1) if mins else None,
             "hours_estimated": any(e.get("estimated") for e in es),
             "estimated_from": sorted({s for e in es for s in e.get("estimated_from", [])}),

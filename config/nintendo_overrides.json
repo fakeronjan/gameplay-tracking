@@ -1,0 +1,52 @@
+{
+ "_note": "Nintendo Store app play history (local/nintendo_play_histories.json, one-time import 2026-11-12). Keys are Nintendo title ids, lowercase.",
+ "exclude": {
+  "0004001000021a00": "3DS system app (no name)",
+  "0004001000021200": "3DS Activity Log, app",
+  "0004001000021700": "Mii Maker, app",
+  "0004001000021400": "Nintendo 3DS Camera, app",
+  "000400100002c000": "Nintendo Network ID Settings, app",
+  "0004001000021b00": "Nintendo Zone viewer, app",
+  "0004001000021900": "Nintendo eShop, app",
+  "0004001000021000": "System Settings, app",
+  "00040000000ec600": "Nintendo Direct trailer, video",
+  "00040002000edf01": "demo",
+  "000500301001210a": "Wii U Internet Browser, app",
+  "000500101004a100": "Mii Maker, app",
+  "000500301001610a": "Miiverse app (posts come from the Miiverse backup)",
+  "000500301001310a": "Nintendo TVii, app",
+  "000500301001410a": "Nintendo eShop, app",
+  "0005000010105700": "YouTube, app",
+  "010015f008c54000": "Pokemon HOME, app",
+  "0100c5e003b40000": "demo (ARMS Global Testpunch)",
+  "010065900cb3a000": "demo",
+  "01005a70096fa000": "demo",
+  "0100a5f017e9e000": "demo",
+  "01007da0140e8000": "demo",
+  "01004af00a772000": "demo",
+  "0100974004924000": "demo",
+  "0100107027310000": "demo",
+  "0100fa500b128000": "demo",
+  "0100ee9015b5e000": "demo",
+  "0100ae800c9c6000": "demo",
+  "010000a00218e000": "demo (Splatoon 2 Global Testfire)",
+  "01003870040fa000": "demo (Splatoon 2 Splatfest World Premiere)",
+  "000500001017e300": "demo (Splatoon Global Testfire)",
+  "0004001000021800": "StreetPass Mii Plaza, dropped (Ronjan 11/12)",
+  "0004001000021d00": "Face Raiders, dropped (Ronjan 11/12)",
+  "0004000000153500": "Nintendo Badge Arcade, dropped (Ronjan 11/12)"
+ },
+ "_unknown_dates": "Ronjan's 3DS died once and its clock reset to 2011; every 3DS first/last played date on these days is that reset, not play",
+ "unknown_dates": {
+  "CTR": [
+   "2011-04-22",
+   "2011-06-03"
+  ]
+ },
+ "_family_play": "Ronjan's son also played these on Ronjan's Switch account (Ronjan, 2026-11-12); the page marks them 'Includes significant play time from other family members'",
+ "family_play": [
+  "01003da010e8a000",
+  "01006a800016e000",
+  "01006f8002326000"
+ ]
+}

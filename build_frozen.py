@@ -1,4 +1,5 @@
-"""One-time import of sources that no longer change: Xbox, Switch screenshots, Miiverse.
+"""One-time import of sources that no longer change: Xbox, Switch screenshots, Miiverse,
+and Nintendo play history (Switch, Switch 2, 3DS, Wii U).
 
 Runs locally only. Inputs are raw dumps and archives on this Mac (local/ and
 ~/Documents/Archive/Nintendo), never committed; outputs go to docs/data/.
@@ -127,6 +128,43 @@ def build_switch():
     save("switch.json", {"note": "Capture times are the console's local time", "games": dict(games)})
 
 
+# Nintendo Store app play history, fetched once with tools/ns_play_history.py (2026-11-12)
+NINTENDO_PLATFORMS = {"HAC": "Switch", "BEE": "Switch 2", "CTR": "3DS", "WUP": "Wii U"}
+
+
+def build_nintendo():
+    """Per game: first and last played, days played, and minutes, from Nintendo's own records.
+    Nintendo gives how many days, not which days, so only first and last played are dates."""
+    raw = json.loads((LOCAL / "nintendo_play_histories.json").read_text())["playHistories"]
+    cfg = json.loads((CONFIG / "nintendo_overrides.json").read_text())
+    unknown_platforms = sorted({r["platform"] for r in raw} - set(NINTENDO_PLATFORMS))
+    if unknown_platforms:
+        raise SystemExit(f"Nintendo play history has platforms with no label: {unknown_platforms}")
+    stale = sorted((set(cfg["exclude"]) | set(cfg["family_play"])) - {r["titleId"].lower() for r in raw})
+    if stale:
+        raise SystemExit(f"config/nintendo_overrides.json names title ids not in the play history: {stale}")
+    titles = {}
+    for r in raw:
+        tid = r["titleId"].lower()
+        if tid in cfg["exclude"]:
+            continue
+        bad_days = set(cfg["unknown_dates"].get(r["platform"], []))
+        day = lambda k: None if not r.get(k) or r[k][:10] in bad_days else r[k]
+        titles[tid] = {
+            # "Animal Crossing: New Horizons - Nintendo Switch 2 Edition" is the same game
+            "name": re.sub(r"\s*[\u2013\u2014-]\s*Nintendo Switch 2 Edition$", "", r["titleName"]),
+            # A Switch game upgraded to its Switch 2 Edition keeps its Switch title id (0100...) and
+            # one record for both consoles
+            "platform": "Switch, Switch 2" if r["platform"] == "BEE" and tid.startswith("0100") else NINTENDO_PLATFORMS[r["platform"]],
+            "first_played": day("firstPlayedAt"), "last_played": day("lastPlayedAt"),
+            "days_played": r["totalPlayedDays"], "minutes": r["totalPlayedMinutes"],
+            "image": r.get("imageUrl"), "family_play": tid in cfg["family_play"],
+        }
+    print(f"nintendo: {len(titles)} titles, {len(raw) - len(titles)} excluded, "
+          f"{sum(1 for t in titles.values() if not t['first_played'])} with no first-played date")
+    save("nintendo.json", {"note": "Nintendo Store app play history; times are UTC", "titles": titles})
+
+
 MIIVERSE = Path.home() / "Documents/Archive/Nintendo/miiverse_backup/assets/user"
 
 
@@ -164,3 +202,4 @@ if __name__ == "__main__":
     build_xbox()
     build_switch()
     build_miiverse()
+    build_nintendo()

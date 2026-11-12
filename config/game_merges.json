@@ -130,6 +130,18 @@
   [
    "xbox:rogerage:1112737766",
    "xbox:fakeronjan:252034287"
+  ],
+  [
+   "nintendo:0005000010145c00",
+   "nintendo:010028600ebda000"
+  ],
+  [
+   "nintendo:000500001010ec00",
+   "nintendo:0100152000022000"
+  ],
+  [
+   "nintendo:0005000010101d00",
+   "nintendo:0100ea80032ea000"
   ]
  ],
  "split": [
@@ -187,7 +199,21 @@
   "psn-played:CUSA04768_00": "South Park: The Stick of Truth",
   "steam:698780": "Doki Doki Literature Club + Doki Doki Literature Club Plus!",
   "xbox:fakeronjan:1621285366": "DOOM (1993)",
-  "xbox:fakeronjan:252034287": "The Elder Scrolls V: Skyrim"
+  "xbox:fakeronjan:252034287": "The Elder Scrolls V: Skyrim",
+  "nintendo:010053d0001be000": "Puyo Puyo Tetris",
+  "nintendo:0100c62011050000": "Switch Online Game Boy",
+  "nintendo:010012f017576000": "Switch Online Game Boy Advance",
+  "nintendo:040029a01d3e0000": "Switch Online GameCube",
+  "nintendo:0100b3c014bda000": "Switch Online Sega Genesis",
+  "nintendo:010021d00812a000": "Arcade Archives VS. Super Mario Bros.",
+  "nintendo:00040000000d5a00": "Mario & Luigi: Dream Team",
+  "nintendo:00040000000ec300": "The Legend of Zelda: A Link Between Worlds",
+  "nintendo:0004000000125500": "The Legend of Zelda: Majora's Mask 3D",
+  "nintendo:0004000000033500": "The Legend of Zelda: Ocarina of Time 3D",
+  "nintendo:0005000010143500": "The Legend of Zelda: The Wind Waker HD",
+  "nintendo:01007430037f6000": "Monopoly",
+  "nintendo:01009b900401e000": "Overcooked!",
+  "nintendo:010028600ebda000": "Super Mario 3D World + Bowser's Fury"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row; collections: split one collection list into its games (see build_games.split_collections)",
  "exclude": {
@@ -220,5 +246,11 @@
    },
    "why": "PS5 Legacy of Thieves: one list, trophy groups per game"
   }
- }
+ },
+ "_family_play": "Rows other family members also played (Ronjan, 2026-11-12): Disney Infinity 3.0, Street Fighter V, Octopath Traveler 0. Any listed entry marks its whole row; the page shows 'Includes significant play time from other family members'. Nintendo ones are in config/nintendo_overrides.json.",
+ "family_play": [
+  "psn-played:CUSA01705_00",
+  "psn-played:CUSA02038_00",
+  "psn-played:PPSA28492_00"
+ ]
 }

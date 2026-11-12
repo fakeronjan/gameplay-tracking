@@ -1,0 +1,2175 @@
+{
+ "note": "Nintendo Store app play history; times are UTC",
+ "titles": {
+  "0004000000030800": {
+   "days_played": 31,
+   "family_play": false,
+   "first_played": "2013-05-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/c7b27aaea8d086f2d6cf89c1d61b8b2f.png",
+   "last_played": "2018-10-07T00:00:00Z",
+   "minutes": 640,
+   "name": "MARIO KART 7",
+   "platform": "3DS"
+  },
+  "0004000000033500": {
+   "days_played": 26,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/aa5d7abf298d9104e33bf2012cb15dcc.png",
+   "last_played": "2018-04-09T00:00:00Z",
+   "minutes": 741,
+   "name": "The Legend of Zelda Ocarina of Time 3D",
+   "platform": "3DS"
+  },
+  "0004000000040800": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2013-07-20T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/6c64e74d55af7649db5faac90478eddd.png",
+   "last_played": "2014-11-07T00:00:00Z",
+   "minutes": 8,
+   "name": "Super Mario Land",
+   "platform": "3DS"
+  },
+  "0004000000041d00": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2013-07-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/62443d7431b8d913f038013cb3f7e45a.png",
+   "last_played": "2013-07-21T00:00:00Z",
+   "minutes": 2,
+   "name": "Donkey Kong",
+   "platform": "3DS"
+  },
+  "0004000000043800": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2013-07-02T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ed22a97cea63961a79266947773f0df7.png",
+   "last_played": "2013-08-03T00:00:00Z",
+   "minutes": 102,
+   "name": "Tetris® Axis",
+   "platform": "3DS"
+  },
+  "0004000000049000": {
+   "days_played": 41,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/a36f1db7616717271ae8cf60c2bf27ee.png",
+   "last_played": "2018-07-03T00:00:00Z",
+   "minutes": 819,
+   "name": "Star Fox 64 3D",
+   "platform": "3DS"
+  },
+  "0004000000054000": {
+   "days_played": 66,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/a080736519049603fd60b87f4a354644.png",
+   "last_played": "2018-05-20T00:00:00Z",
+   "minutes": 1292,
+   "name": "SUPER MARIO 3D LAND",
+   "platform": "3DS"
+  },
+  "0004000000055e00": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2013-11-17T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/3b57a74264dd7e94cb98c56cac390cf3.png",
+   "last_played": "2013-11-30T00:00:00Z",
+   "minutes": 1079,
+   "name": "Pokémon Y",
+   "platform": "3DS"
+  },
+  "0004000000057c00": {
+   "days_played": 20,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/0ce1b0c91e4c564d5e0a79aa85519416.png",
+   "last_played": "2016-11-22T00:00:00Z",
+   "minutes": 267,
+   "name": "Wario Land: Super Mario Land 3",
+   "platform": "3DS"
+  },
+  "000400000006e500": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2013-04-26T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/b5bf771358e7830d89d49e87042e8cd3.png",
+   "last_played": "2014-11-07T00:00:00Z",
+   "minutes": 14,
+   "name": "Super Mario Bros.",
+   "platform": "3DS"
+  },
+  "000400000006e800": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2014-09-20T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/c91c9a5e680bb4d87dfb962cc032d80d.png",
+   "last_played": "2014-09-27T00:00:00Z",
+   "minutes": 19,
+   "name": "Super Mario Bros. 3",
+   "platform": "3DS"
+  },
+  "000400000006eb00": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2014-09-20T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/7f8a3b0b887832b87fd8feba1e19cc66.png",
+   "last_played": "2014-09-26T00:00:00Z",
+   "minutes": 11,
+   "name": "Punch-Out!! Featuring Mr. Dream",
+   "platform": "3DS"
+  },
+  "000400000006ee00": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2014-11-07T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/55aa750486bb1f09b7f54565ec6ef9ff.png",
+   "last_played": "2014-11-07T00:00:00Z",
+   "minutes": 6,
+   "name": "Metroid",
+   "platform": "3DS"
+  },
+  "000400000007ae00": {
+   "days_played": 16,
+   "family_play": false,
+   "first_played": "2016-12-24T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/ea1be00449129f9770e8f099b39b2e5b.png",
+   "last_played": "2018-04-25T00:00:00Z",
+   "minutes": 339,
+   "name": "New Super Mario Bros. 2",
+   "platform": "3DS"
+  },
+  "000400000008c300": {
+   "days_played": 25,
+   "family_play": false,
+   "first_played": "2014-06-07T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/3fa120da03a181871595726c82aa3f5d.png",
+   "last_played": "2014-12-06T00:00:00Z",
+   "minutes": 1158,
+   "name": "Tomodachi Life",
+   "platform": "3DS"
+  },
+  "00040000000a8500": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2013-06-16T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/59188beed6611cc5235c16d66aaef33b.png",
+   "last_played": "2013-06-22T00:00:00Z",
+   "minutes": 1023,
+   "name": "Professor Layton and the Miracle Mask",
+   "platform": "3DS"
+  },
+  "00040000000ad500": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2013-07-03T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/cba646c3c1487bd45a7c2e9c2170ae7c.png",
+   "last_played": "2013-07-03T00:00:00Z",
+   "minutes": 6,
+   "name": "LEGO® City Undercover: The Chase Begins",
+   "platform": "3DS"
+  },
+  "00040000000cce00": {
+   "days_played": 26,
+   "family_play": false,
+   "first_played": "2013-05-25T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/82ab97fee8b8545bdac14c0fc68605e5.png",
+   "last_played": "2013-09-16T00:00:00Z",
+   "minutes": 1255,
+   "name": "Donkey Kong Country Returns 3D",
+   "platform": "3DS"
+  },
+  "00040000000d5a00": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2013-08-12T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/90dd740e533a6eccda8238b6dca18f81.png",
+   "last_played": "2013-09-02T00:00:00Z",
+   "minutes": 156,
+   "name": "Mario & Luigi Dream Team",
+   "platform": "3DS"
+  },
+  "00040000000ec300": {
+   "days_played": 67,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/fdf61796d0ce849e7139ca4c01d7b401.png",
+   "last_played": "2018-07-03T00:00:00Z",
+   "minutes": 2926,
+   "name": "The Legend of Zelda A Link Between Worlds",
+   "platform": "3DS"
+  },
+  "00040000000edf00": {
+   "days_played": 58,
+   "family_play": false,
+   "first_played": "2018-05-01T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/b612307f3fcde34af44e3b4a54fee4cd.png",
+   "last_played": "2018-11-04T00:00:00Z",
+   "minutes": 3664,
+   "name": "Super Smash Bros. for Nintendo 3DS",
+   "platform": "3DS"
+  },
+  "00040000000f2f00": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2014-04-13T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/15fa87525d6a69680793064279ed6410.png",
+   "last_played": "2014-08-13T00:00:00Z",
+   "minutes": 122,
+   "name": "Professor Layton and the Azran Legacy",
+   "platform": "3DS"
+  },
+  "0004000000111b00": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2016-12-25T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/910e7f1ec85d2ed3b6084ef8ef7c12ea.png",
+   "last_played": "2017-01-03T00:00:00Z",
+   "minutes": 18,
+   "name": "YOSHI'S New ISLAND",
+   "platform": "3DS"
+  },
+  "0004000000125500": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2015-06-11T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/7853b78a3b3637a10ceae794c3ee9dc1.png",
+   "last_played": "2015-08-05T00:00:00Z",
+   "minutes": 43,
+   "name": "The Legend of Zelda Majora's Mask 3D",
+   "platform": "3DS"
+  },
+  "0004000000132000": {
+   "days_played": 24,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/010219b8b58dd24b2fb11cf1b695a5b0.png",
+   "last_played": "2018-04-16T00:00:00Z",
+   "minutes": 447,
+   "name": "Ultimate NES Remix",
+   "platform": "3DS"
+  },
+  "0004000000138f00": {
+   "days_played": 22,
+   "family_play": false,
+   "first_played": "2017-01-03T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/aa7bf99befddca804c85fa2b48cfed78.png",
+   "last_played": "2017-07-09T00:00:00Z",
+   "minutes": 1304,
+   "name": "Phoenix Wright: Ace Attorney Trilogy",
+   "platform": "3DS"
+  },
+  "0004000000141000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2015-05-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/72e518689c2869b33a8af96e0c807fce.png",
+   "last_played": "2015-05-24T00:00:00Z",
+   "minutes": 6,
+   "name": "Pokémon Shuffle",
+   "platform": "3DS"
+  },
+  "0004000000158d00": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2016-09-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/91892c1458a1aa86a6cbafdb56356a0a.png",
+   "last_played": "2016-10-15T00:00:00Z",
+   "minutes": 8,
+   "name": "3D Sonic The Hedgehog 2",
+   "platform": "3DS"
+  },
+  "0004000000171200": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2016-09-17T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/d7f6e57fb6ee4229f588a5f9f5b6a61d.png",
+   "last_played": "2016-09-18T00:00:00Z",
+   "minutes": 48,
+   "name": "Pokémon Yellow Version",
+   "platform": "3DS"
+  },
+  "0004000000174100": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2016-12-30T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/678dccab511516ad159401946761b035.png",
+   "last_played": "2018-02-19T00:00:00Z",
+   "minutes": 28,
+   "name": "Mega Man Legacy Collection",
+   "platform": "3DS"
+  },
+  "0004000000194800": {
+   "days_played": 15,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/d0822b9b7cd553879d2c1da39e2016f6.png",
+   "last_played": "2018-02-15T00:00:00Z",
+   "minutes": 389,
+   "name": "Pocket Card Jockey",
+   "platform": "3DS"
+  },
+  "00040000001a0400": {
+   "days_played": 44,
+   "family_play": false,
+   "first_played": "2016-12-02T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/6731e07330bb6ecf875c1dab863c0dc9.png",
+   "last_played": "2018-08-14T00:00:00Z",
+   "minutes": 2061,
+   "name": "Super Mario Maker for Nintendo 3DS",
+   "platform": "3DS"
+  },
+  "00040000001d1400": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/aa81ef93d356ef9034f626edba9b95ab.png",
+   "last_played": "2011-06-12T00:00:00Z",
+   "minutes": 620,
+   "name": "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+   "platform": "3DS"
+  },
+  "000400000f700e00": {
+   "days_played": 31,
+   "family_play": false,
+   "first_played": "2016-10-10T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/afbb32b43ab11b306deca265d76e8dee.png",
+   "last_played": "2018-06-10T00:00:00Z",
+   "minutes": 396,
+   "name": "Super Mario World",
+   "platform": "3DS"
+  },
+  "000400000f701000": {
+   "days_played": 13,
+   "family_play": false,
+   "first_played": "2016-09-17T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/2d14956379595fbb39685ea1bdfd4c87.png",
+   "last_played": "2018-02-23T00:00:00Z",
+   "minutes": 141,
+   "name": "The Legend of Zelda: A Link to the Past",
+   "platform": "3DS"
+  },
+  "000400000f701200": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2016-10-10T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/937f1721bddb862ab2fedb2eef102003.png",
+   "last_played": "2018-02-23T00:00:00Z",
+   "minutes": 59,
+   "name": "Super Metroid",
+   "platform": "3DS"
+  },
+  "000400000f701400": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2016-10-16T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/063dc42092d2a1a798a41cba29ee5c35.png",
+   "last_played": "2018-10-09T00:00:00Z",
+   "minutes": 88,
+   "name": "Super Mario Kart",
+   "platform": "3DS"
+  },
+  "000400000f701600": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2017-06-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/191ced42bfbec56f3731e95686896c71.png",
+   "last_played": "2018-02-19T00:00:00Z",
+   "minutes": 153,
+   "name": "EarthBound",
+   "platform": "3DS"
+  },
+  "000400000f701b00": {
+   "days_played": 24,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/117d21cd12ded34902fbc9456ca35e25.png",
+   "last_played": "2018-05-20T00:00:00Z",
+   "minutes": 163,
+   "name": "Donkey Kong Country",
+   "platform": "3DS"
+  },
+  "000400000f702000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": null,
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/e29312f099c6679e5d1080f767dd9768.png",
+   "last_played": "2017-10-10T00:00:00Z",
+   "minutes": 27,
+   "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+   "platform": "3DS"
+  },
+  "000400000f702400": {
+   "days_played": 8,
+   "family_play": false,
+   "first_played": "2016-09-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/3ds/c14b5c37e74fc0ae6faa35d14ced5e08.png",
+   "last_played": "2017-05-26T00:00:00Z",
+   "minutes": 61,
+   "name": "Super Punch-Out!!",
+   "platform": "3DS"
+  },
+  "0005000010101d00": {
+   "days_played": 44,
+   "family_play": false,
+   "first_played": "2015-08-30T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/928530ddedab62ae4dad537b8624d029.png",
+   "last_played": "2018-03-06T00:00:00Z",
+   "minutes": 788,
+   "name": "New SUPER MARIO BROS. U",
+   "platform": "Wii U"
+  },
+  "0005000010106d00": {
+   "days_played": 14,
+   "family_play": false,
+   "first_played": "2015-02-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/0ea7660297c824f6899bb8dd2510eeac.png",
+   "last_played": "2018-07-04T00:00:00Z",
+   "minutes": 111,
+   "name": "Super Mario Bros.",
+   "platform": "Wii U"
+  },
+  "0005000010107000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2015-02-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/d21b80741e98d4bd7e7f4ccc4070d875.png",
+   "last_played": "2018-07-04T00:00:00Z",
+   "minutes": 37,
+   "name": "Super Mario Bros. 3",
+   "platform": "Wii U"
+  },
+  "0005000010108b00": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2015-03-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/e84540babb6c043f8d7c5d0134016dc1.png",
+   "last_played": "2016-08-20T00:00:00Z",
+   "minutes": 30,
+   "name": "Punch-Out!! Featuring Mr. Dream",
+   "platform": "Wii U"
+  },
+  "0005000010108f00": {
+   "days_played": 26,
+   "family_play": false,
+   "first_played": "2014-10-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/b9820abc4e76e01a6a1800cfffb72aea.png",
+   "last_played": "2018-07-04T00:00:00Z",
+   "minutes": 353,
+   "name": "Super Mario World",
+   "platform": "Wii U"
+  },
+  "0005000010109200": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2016-07-01T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/cc2441ac8be1d1b52d07509aa26c5609.png",
+   "last_played": "2017-05-29T00:00:00Z",
+   "minutes": 671,
+   "name": "Super Mario RPG: Legend of the Seven Stars",
+   "platform": "Wii U"
+  },
+  "0005000010109500": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2015-02-26T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/0c245062513a09f08aafbe4613d74ef4.png",
+   "last_played": "2016-05-06T00:00:00Z",
+   "minutes": 172,
+   "name": "Donkey Kong Country",
+   "platform": "Wii U"
+  },
+  "0005000010109800": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2015-03-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/1a677b0f8e59f255c21af39c3d21ec62.png",
+   "last_played": "2016-05-06T00:00:00Z",
+   "minutes": 88,
+   "name": "The Legend of Zelda: A Link to the Past",
+   "platform": "Wii U"
+  },
+  "000500001010a100": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2015-03-20T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/e45f190dd5e19a9e2322e579ce24ab12.png",
+   "last_played": "2019-11-30T00:00:00Z",
+   "minutes": 50,
+   "name": "Donkey Kong Country 2: Diddy's Kong Quest",
+   "platform": "Wii U"
+  },
+  "000500001010a900": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2015-02-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/8f94c241b6553b6910e9002a037ad3ea.png",
+   "last_played": "2018-07-04T00:00:00Z",
+   "minutes": 58,
+   "name": "Super Mario Kart",
+   "platform": "Wii U"
+  },
+  "000500001010ec00": {
+   "days_played": 92,
+   "family_play": false,
+   "first_played": "2014-10-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/3591c401558dcb4d62e548a7acecc61c.png",
+   "last_played": "2018-03-03T00:00:00Z",
+   "minutes": 2678,
+   "name": "MARIO KART 8",
+   "platform": "Wii U"
+  },
+  "0005000010119a00": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2015-02-26T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/6d9859dbe5fae154be7f0b7e46955b7b.png",
+   "last_played": "2015-02-28T00:00:00Z",
+   "minutes": 11,
+   "name": "F-Zero",
+   "platform": "Wii U"
+  },
+  "000500001012a600": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2015-02-26T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/caa165e28fa0175b9041ab7681170d70.png",
+   "last_played": "2018-07-06T00:00:00Z",
+   "minutes": 33,
+   "name": "Street Fighter II Turbo Hyper Fighting",
+   "platform": "Wii U"
+  },
+  "000500001012fa00": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2015-02-28T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/0c5b811ef67cdab99f38e5ad20ddae88.png",
+   "last_played": "2015-03-21T00:00:00Z",
+   "minutes": 10,
+   "name": "The Legend of Zelda",
+   "platform": "Wii U"
+  },
+  "0005000010133400": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2015-03-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a273d97f1e05dd63497559f91997b679.png",
+   "last_played": "2019-11-28T00:00:00Z",
+   "minutes": 1397,
+   "name": "EarthBound",
+   "platform": "Wii U"
+  },
+  "0005000010137f00": {
+   "days_played": 21,
+   "family_play": false,
+   "first_played": "2014-10-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/002c6d076004f76c57458c3e4e45da36.png",
+   "last_played": "2017-01-29T00:00:00Z",
+   "minutes": 1015,
+   "name": "Donkey Kong Country Tropical Freeze",
+   "platform": "Wii U"
+  },
+  "0005000010143500": {
+   "days_played": 49,
+   "family_play": false,
+   "first_played": "2014-10-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/794cf7efdcac9cb1b22eec888bfd3d42.png",
+   "last_played": "2020-02-02T00:00:00Z",
+   "minutes": 2521,
+   "name": "THE LEGEND OF ZELDA The Wind Waker HD",
+   "platform": "Wii U"
+  },
+  "0005000010144d00": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2014-10-18T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/7b27f3684707c8d17946c95fb1be4154.png",
+   "last_played": "2014-10-26T00:00:00Z",
+   "minutes": 20,
+   "name": "Wii Sports Club",
+   "platform": "Wii U"
+  },
+  "0005000010144f00": {
+   "days_played": 145,
+   "family_play": false,
+   "first_played": "2014-11-23T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/2fb55a8cc8042d37dae00a84ce2f6ebc.png",
+   "last_played": "2019-11-28T00:00:00Z",
+   "minutes": 13876,
+   "name": "Super Smash Bros. for Wii U",
+   "platform": "Wii U"
+  },
+  "0005000010145c00": {
+   "days_played": 80,
+   "family_play": false,
+   "first_played": "2015-03-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/95fad12a61106f46bbc640ceb0386c2a.png",
+   "last_played": "2019-11-30T00:00:00Z",
+   "minutes": 2954,
+   "name": "SUPER MARIO 3D WORLD",
+   "platform": "Wii U"
+  },
+  "0005000010156a00": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2015-11-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a443b3982fb51ea275f89c4fcdb1366d.png",
+   "last_played": "2015-11-22T00:00:00Z",
+   "minutes": 16,
+   "name": "Yoshi's Island: Super Mario Advance 3",
+   "platform": "Wii U"
+  },
+  "0005000010157100": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2016-03-24T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/241122fa32b0206d712b69d12cc34a48.png",
+   "last_played": "2016-03-24T00:00:00Z",
+   "minutes": 12,
+   "name": "Metroid Fusion",
+   "platform": "Wii U"
+  },
+  "0005000010157400": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2014-11-16T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/f2088a518f59c367537b3480e1e715f7.png",
+   "last_played": "2018-07-04T00:00:00Z",
+   "minutes": 128,
+   "name": "Mario & Luigi: Superstar Saga",
+   "platform": "Wii U"
+  },
+  "0005000010159100": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2015-02-21T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/194bf93325b7978bfd0915d312b6d3f0.png",
+   "last_played": "2016-01-22T00:00:00Z",
+   "minutes": 49,
+   "name": "Super Punch-Out!!",
+   "platform": "Wii U"
+  },
+  "000500001016e100": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2016-01-22T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/5494ea06568e9bfed10621a0010103d7.png",
+   "last_played": "2017-01-12T00:00:00Z",
+   "minutes": 78,
+   "name": "Shovel Knight: Treasure Trove",
+   "platform": "Wii U"
+  },
+  "000500001016fa00": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2016-02-29T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/52dddbaf595e7d15647e6d005c944b1e.png",
+   "last_played": "2020-02-22T00:00:00Z",
+   "minutes": 306,
+   "name": "Metroid: Zero Mission",
+   "platform": "Wii U"
+  },
+  "000500001017fc00": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2015-08-08T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/5e02dc1502e7989b0cfda43f57944fb4.png",
+   "last_played": "2018-07-04T00:00:00Z",
+   "minutes": 108,
+   "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble",
+   "platform": "Wii U"
+  },
+  "0005000010180600": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2015-03-20T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/b1e7f21f6602030a6ddfb3f8bef1a77d.png",
+   "last_played": "2018-03-06T00:00:00Z",
+   "minutes": 16,
+   "name": "Captain Toad: Treasure Tracker",
+   "platform": "Wii U"
+  },
+  "000500001018dc00": {
+   "days_played": 156,
+   "family_play": false,
+   "first_played": "2015-09-11T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/e81f1166b6b8bfe4c892a40eb4b33809.png",
+   "last_played": "2019-11-28T00:00:00Z",
+   "minutes": 8987,
+   "name": "Super Mario Maker",
+   "platform": "Wii U"
+  },
+  "0005000010198c00": {
+   "days_played": 8,
+   "family_play": false,
+   "first_played": "2019-12-25T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/00e94e9c7d3138c86218dac9239a42c4.png",
+   "last_played": "2020-02-22T00:00:00Z",
+   "minutes": 30,
+   "name": "Big Brain Academy",
+   "platform": "Wii U"
+  },
+  "0005000010199200": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2015-04-16T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/2b8ad60f99a244e065643411cc5e858e.png",
+   "last_played": "2019-11-28T00:00:00Z",
+   "minutes": 96,
+   "name": "Donkey Kong 64",
+   "platform": "Wii U"
+  },
+  "0005000010199500": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2015-04-01T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/aa8711ec695925031654cd6818c9ea24.png",
+   "last_played": "2019-12-25T00:00:00Z",
+   "minutes": 104,
+   "name": "Super Mario 64",
+   "platform": "Wii U"
+  },
+  "0005000010199700": {
+   "days_played": 14,
+   "family_play": false,
+   "first_played": "2016-07-23T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/a69bd0d90559f747c3d2f7c395482d0f.png",
+   "last_played": "2019-11-28T00:00:00Z",
+   "minutes": 634,
+   "name": "Paper Mario",
+   "platform": "Wii U"
+  },
+  "0005000010199b00": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2015-07-11T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/110318571b1d2c226d74c845503dab5a.png",
+   "last_played": "2020-02-02T00:00:00Z",
+   "minutes": 70,
+   "name": "The Legend of Zelda: Ocarina of Time",
+   "platform": "Wii U"
+  },
+  "000500001019cc00": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2015-01-31T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/1488c7ff13f27164014a8f965fa4bc3a.png",
+   "last_played": "2016-10-23T00:00:00Z",
+   "minutes": 395,
+   "name": "Super Mario Galaxy 2",
+   "platform": "Wii U"
+  },
+  "000500001019d200": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2015-02-15T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/eb606dae6123618e7d9a61e67ce1e1a6.png",
+   "last_played": "2016-10-23T00:00:00Z",
+   "minutes": 20,
+   "name": "Punch-Out!!",
+   "platform": "Wii U"
+  },
+  "000500001019dd00": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2015-01-31T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/ddf0105ee7f2a3063fdb433764dc163a.png",
+   "last_played": "2015-01-31T00:00:00Z",
+   "minutes": 8,
+   "name": "Metroid Prime: Trilogy",
+   "platform": "Wii U"
+  },
+  "00050000101a1000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2015-08-30T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/1e4b07b85706be4cc3a80acc1efd75f6.png",
+   "last_played": "2015-08-30T00:00:00Z",
+   "minutes": 33,
+   "name": "Mario Tennis",
+   "platform": "Wii U"
+  },
+  "00050000101ac900": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2017-09-30T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/1e31dcea6553201d50490dc806554652.png",
+   "last_played": "2017-12-02T00:00:00Z",
+   "minutes": 490,
+   "name": "DISNEY INFINITY 3.0 EDITION",
+   "platform": "Wii U"
+  },
+  "00050000101bd100": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2016-06-19T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/8bbfa601bdb8699e7d257f5a77034990.png",
+   "last_played": "2016-06-19T00:00:00Z",
+   "minutes": 28,
+   "name": "Super Paper Mario",
+   "platform": "Wii U"
+  },
+  "00050000101bfe00": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2016-12-24T00:00:00Z",
+   "image": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/3bae7a378c4921db8fadd1280bc3db29.png",
+   "last_played": "2016-12-24T00:00:00Z",
+   "minutes": 41,
+   "name": "Super Mario Galaxy",
+   "platform": "Wii U"
+  },
+  "0100000000010000": {
+   "days_played": 169,
+   "family_play": false,
+   "first_played": "2017-10-27T10:55:46Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d920d555d77d4118b982de6438ba3ac2_512",
+   "last_played": "2026-09-04T10:51:21Z",
+   "minutes": 8162,
+   "name": "SUPER MARIO ODYSSEY",
+   "platform": "Switch"
+  },
+  "010001300d14a000": {
+   "days_played": 8,
+   "family_play": false,
+   "first_played": "2019-09-18T02:14:55Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/677e90800ae14653a7d3c17879984223_512",
+   "last_played": "2020-05-17T19:57:55Z",
+   "minutes": 181,
+   "name": "Castle Crashers Remastered",
+   "platform": "Switch"
+  },
+  "0100024008310000": {
+   "days_played": 68,
+   "family_play": false,
+   "first_played": "2018-05-29T16:07:52Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e83edc9aa7347f99bfdc8957011097a_512",
+   "last_played": "2020-04-23T00:04:26Z",
+   "minutes": 2621,
+   "name": "Street Fighter® 30th Anniversary Collection",
+   "platform": "Switch"
+  },
+  "010003000e146000": {
+   "days_played": 14,
+   "family_play": false,
+   "first_played": "2019-11-10T12:20:10Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/26102b0b426f4e28ae94d8178138b7f3_512",
+   "last_played": "2021-12-17T23:39:57Z",
+   "minutes": 486,
+   "name": "MARIO & SONIC AT THE OLYMPIC GAMES TOKYO 2020",
+   "platform": "Switch"
+  },
+  "010003f003a34000": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2018-11-17T01:34:56Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/93ec5275b9a94aadb9f5140c5edce3b0_512",
+   "last_played": "2022-07-11T12:19:30Z",
+   "minutes": 1289,
+   "name": "Pokémon: Let's Go, Pikachu!",
+   "platform": "Switch"
+  },
+  "010008c01e742000": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2025-07-27T01:46:13Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/134934a1f999436da36bbfe40f64fcff_512",
+   "last_played": "2026-09-27T19:59:40Z",
+   "minutes": 101,
+   "name": "Pokémon Friends",
+   "platform": "Switch"
+  },
+  "01000b900d8b0000": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2019-06-16T19:46:52Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/a97eabfe36374f1aa1876619f708b3e0_512",
+   "last_played": "2023-05-01T17:37:53Z",
+   "minutes": 494,
+   "name": "Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda",
+   "platform": "Switch"
+  },
+  "0100120004644000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2019-07-28T14:10:37Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/8cf287c4b67040eba1d5975f128073c8_512",
+   "last_played": "2019-07-30T03:06:48Z",
+   "minutes": 60,
+   "name": "Super Mega Baseball 2",
+   "platform": "Switch"
+  },
+  "010012101468c000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2023-02-11T22:30:40Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/565d3a18aeff4e6f908d4cde414f9296_512",
+   "last_played": "2025-06-22T13:48:10Z",
+   "minutes": 33,
+   "name": "Metroid Prime Remastered",
+   "platform": "Switch"
+  },
+  "010012f017576000": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2023-02-11T04:33:59Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/4dcadf4d6d0646098e1b132dd128528d_512",
+   "last_played": "2026-09-27T20:00:51Z",
+   "minutes": 70,
+   "name": "Game Boy Advance – Nintendo Classics",
+   "platform": "Switch"
+  },
+  "010015100b514000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2023-11-05T18:28:28Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/20214234c7b34a2e9d782c853a1ecd6f_512",
+   "last_played": "2026-06-28T02:00:17Z",
+   "minutes": 473,
+   "name": "Super Mario Bros. Wonder",
+   "platform": "Switch"
+  },
+  "0100152000022000": {
+   "days_played": 241,
+   "family_play": false,
+   "first_played": "2017-04-28T11:50:39Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/63ee0ae55ab6402db829e75b4b997919_512",
+   "last_played": "2025-06-04T21:44:57Z",
+   "minutes": 8243,
+   "name": "Mario Kart 8 Deluxe",
+   "platform": "Switch"
+  },
+  "01001530097f8000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-03-30T17:23:40Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1e1b84e4f483403aa70aa4e0f80f1586_512",
+   "last_played": "2018-03-30T17:33:19Z",
+   "minutes": 7,
+   "name": "Arcade Archives PUNCH-OUT!!",
+   "platform": "Switch"
+  },
+  "0100187003a36000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2018-11-18T19:19:16Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1fc71707124c4264a269404583d3bdfa_512",
+   "last_played": "2018-11-25T20:42:23Z",
+   "minutes": 180,
+   "name": "Pokémon: Let's Go, Eevee!",
+   "platform": "Switch"
+  },
+  "01001f5010dfa000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2022-05-22T14:44:25Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/f87f7c9b778547fe953c7b5f035c19ba_512",
+   "last_played": "2022-05-22T14:51:24Z",
+   "minutes": 7,
+   "name": "Pokémon Legends: Arceus",
+   "platform": "Switch"
+  },
+  "01001ff00b544000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2018-09-11T18:56:19Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/6a7439e96189413fbd866ed77bc48f93_512",
+   "last_played": "2018-11-17T04:02:04Z",
+   "minutes": 298,
+   "name": "NBA 2K19",
+   "platform": "Switch"
+  },
+  "010021d00812a000": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2017-12-22T23:02:25Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/17a64827e94d4d7783fa04d1f94a8f21_512",
+   "last_played": "2018-06-25T01:42:36Z",
+   "minutes": 63,
+   "name": "Arcade Archives VS. SUPER MARIO BROS.",
+   "platform": "Switch"
+  },
+  "010022f00da66000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2019-10-13T03:45:22Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b894f8e928bc4421824f3b48df86d18c_512",
+   "last_played": "2019-12-26T22:09:43Z",
+   "minutes": 23,
+   "name": "Yooka-Laylee and the Impossible Lair",
+   "platform": "Switch"
+  },
+  "010026300ba4a000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2020-06-14T04:49:11Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/7940af948bd045588c7fbff208495401_512",
+   "last_played": "2020-06-14T15:14:23Z",
+   "minutes": 111,
+   "name": "Slay the Spire",
+   "platform": "Switch"
+  },
+  "0100276009872000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2018-08-11T17:25:43Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/08e59e0dcab04a1b8eaf19a48914aa42_512",
+   "last_played": "2018-08-12T14:29:45Z",
+   "minutes": 191,
+   "name": "ŌKAMI HD",
+   "platform": "Switch"
+  },
+  "0100277011f1a000": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2020-10-02T01:33:30Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/40ebd449467f4e8794a1c9be8d168caf_512",
+   "last_played": "2025-06-13T22:59:19Z",
+   "minutes": 224,
+   "name": "Super Mario Bros. 35",
+   "platform": "Switch"
+  },
+  "010028600ebda000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2022-07-02T20:25:45Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/52bdb6cf034e4a33b669624b0da0620f_512",
+   "last_played": "2025-06-08T00:49:26Z",
+   "minutes": 49,
+   "name": "Super Mario 3D World + Bowser's Fury",
+   "platform": "Switch"
+  },
+  "01002a600d7fc000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2019-06-15T01:12:45Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1df5fa971c474ddba25df6458070fe50_512",
+   "last_played": "2019-06-25T01:45:42Z",
+   "minutes": 32,
+   "name": "COLLECTION of MANA",
+   "platform": "Switch"
+  },
+  "01002b30028f6000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2018-02-19T20:54:35Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/020a713f74c643f4ad2c2a818a5b4f97_512",
+   "last_played": "2018-04-06T03:04:37Z",
+   "minutes": 399,
+   "name": "Celeste",
+   "platform": "Switch"
+  },
+  "01002c000e35e000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2020-06-20T23:52:08Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/74695da28bc14ce3a75c1fdd1634dce4_512",
+   "last_played": "2020-06-21T00:29:40Z",
+   "minutes": 38,
+   "name": "WHAT THE GOLF?",
+   "platform": "Switch"
+  },
+  "01002cc003fe6000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2019-05-23T02:17:14Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b9d1e9f7065d48658fdba74fe5286d73_512",
+   "last_played": "2019-05-23T02:41:58Z",
+   "minutes": 25,
+   "name": "Starlink: Battle for Atlas™",
+   "platform": "Switch"
+  },
+  "01002cd00a51c000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2019-12-14T18:51:36Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/301b59af3d7040fa9eaceb122268f723_512",
+   "last_played": "2019-12-15T02:28:44Z",
+   "minutes": 89,
+   "name": "Baba Is You",
+   "platform": "Switch"
+  },
+  "01002da013484000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2021-09-06T12:33:47Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/a3c15ebb3cca41b4bd9f0e39c3260ddd_512",
+   "last_played": "2021-09-06T13:12:52Z",
+   "minutes": 39,
+   "name": "The Legend of Zelda: Skyward Sword HD",
+   "platform": "Switch"
+  },
+  "010036b0034e4000": {
+   "days_played": 122,
+   "family_play": false,
+   "first_played": "2018-10-05T23:49:48Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/be2c8d5f9bcf4e478596df921326a536_512",
+   "last_played": "2022-01-22T13:50:59Z",
+   "minutes": 6260,
+   "name": "Super Mario Party",
+   "platform": "Switch"
+  },
+  "010039f01af5a000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2023-09-16T03:42:07Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/bb8c19f7c5c245b2b919012cc3276bb6_512",
+   "last_played": "2025-06-21T20:29:22Z",
+   "minutes": 59,
+   "name": "Trombone Champ",
+   "platform": "Switch"
+  },
+  "01003a30012c0000": {
+   "days_played": 35,
+   "family_play": false,
+   "first_played": "2017-04-04T23:37:36Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/5e263b5f5c0a4a0e89664d8560e1c289_512",
+   "last_played": "2020-09-13T23:23:17Z",
+   "minutes": 1701,
+   "name": "LEGO® CITY UNDERCOVER",
+   "platform": "Switch"
+  },
+  "01003bc0000a0000": {
+   "days_played": 29,
+   "family_play": false,
+   "first_played": "2017-07-21T11:34:31Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/a6624216e0a74bf99bc516d223284b02_512",
+   "last_played": "2020-09-13T23:38:10Z",
+   "minutes": 826,
+   "name": "Splatoon 2",
+   "platform": "Switch"
+  },
+  "01003da010e8a000": {
+   "days_played": 137,
+   "family_play": true,
+   "first_played": "2021-06-03T22:29:10Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/962bff7dc4de4973bc182656e57607ab_512",
+   "last_played": "2026-10-17T17:58:51Z",
+   "minutes": 8093,
+   "name": "Miitopia",
+   "platform": "Switch"
+  },
+  "010040600c5ce000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2019-02-17T12:58:19Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/ac52b777876947e0963822bee988eddd_512",
+   "last_played": "2019-02-17T13:05:54Z",
+   "minutes": 8,
+   "name": "TETRIS 99",
+   "platform": "Switch"
+  },
+  "010044500c182000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2018-11-16T23:45:42Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/ec740cf1c45e40dba8c48700ace31cb4_512",
+   "last_played": "2018-11-26T14:30:24Z",
+   "minutes": 687,
+   "name": "Sid Meier's Civilization VI",
+   "platform": "Switch"
+  },
+  "010047700d540000": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2020-06-13T17:34:48Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/107686f30d0649d8a1005f7f9b4bd8d0_512",
+   "last_played": "2024-03-03T14:25:17Z",
+   "minutes": 283,
+   "name": "Clubhouse Games: 51 Worldwide Classics",
+   "platform": "Switch"
+  },
+  "010049900f546000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2020-09-18T20:43:07Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b0c182a0d380417db243105f51071acc_512",
+   "last_played": "2025-06-25T00:09:16Z",
+   "minutes": 81,
+   "name": "Super Mario 3D All-Stars",
+   "platform": "Switch"
+  },
+  "01004b800af5a000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2018-06-08T23:12:19Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/467504cd061e49fab54bdd644227c99a_512",
+   "last_played": "2018-06-09T22:48:06Z",
+   "minutes": 21,
+   "name": "Bloodstained: Curse of the Moon",
+   "platform": "Switch"
+  },
+  "01004f8006a78000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2018-01-14T03:55:26Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/8fb0bfca87aa4e14aa5617a734cfbb86_512",
+   "last_played": "2018-01-14T15:35:26Z",
+   "minutes": 30,
+   "name": "Super Meat Boy",
+   "platform": "Switch"
+  },
+  "010051a00e99e000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2020-05-30T15:47:57Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1bd7432d33564f85833d17df45e5d678_512",
+   "last_played": "2020-05-30T20:34:58Z",
+   "minutes": 62,
+   "name": "Bug Fables: The Everlasting Sapling",
+   "platform": "Switch"
+  },
+  "0100535012974000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2020-10-11T22:33:02Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/28a00842948641a6be0f54ca8b91c215_512",
+   "last_played": "2020-10-12T01:23:10Z",
+   "minutes": 100,
+   "name": "Hades",
+   "platform": "Switch"
+  },
+  "010053d0001be000": {
+   "days_played": 102,
+   "family_play": false,
+   "first_played": "2017-03-26T18:23:31Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/f0fb410bb7954690867044d7fd01f56d_512",
+   "last_played": "2019-02-17T13:20:28Z",
+   "minutes": 1955,
+   "name": "ぷよぷよ™テトリス®Ｓ",
+   "platform": "Switch"
+  },
+  "010057d0021e8000": {
+   "days_played": 47,
+   "family_play": false,
+   "first_played": "2017-03-04T13:22:26Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/e42191c4c4b74be5b86cbc908abf7ae3_512",
+   "last_played": "2026-06-07T14:24:24Z",
+   "minutes": 3400,
+   "name": "Shovel Knight: Treasure Trove",
+   "platform": "Switch"
+  },
+  "010057d006492000": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2018-07-13T19:16:52Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/c61fc3517ac5489da8c7b90a5b969b1f_512",
+   "last_played": "2022-03-12T14:04:00Z",
+   "minutes": 695,
+   "name": "OCTOPATH TRAVELER",
+   "platform": "Switch"
+  },
+  "01005ff002e2a000": {
+   "days_played": 24,
+   "family_play": false,
+   "first_played": "2017-09-12T23:38:53Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/063b91ab9cad47519a7f122ca441eed7_512",
+   "last_played": "2026-10-25T12:36:14Z",
+   "minutes": 421,
+   "name": "Rayman Legends: Definitive Edition",
+   "platform": "Switch"
+  },
+  "01006000040c2000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2019-03-31T23:35:41Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/ed75cddd677b4c438160575c259ead09_512",
+   "last_played": "2020-04-27T21:11:05Z",
+   "minutes": 104,
+   "name": "Yoshi's Crafted World",
+   "platform": "Switch"
+  },
+  "0100620012d6e000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2021-12-24T18:53:57Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/989ccbb85f0940968f3dad0f5860eaa2_512",
+   "last_played": "2021-12-25T18:57:49Z",
+   "minutes": 19,
+   "name": "Big Brain Academy: Brain vs. Brain",
+   "platform": "Switch"
+  },
+  "0100633007d48000": {
+   "days_played": 9,
+   "family_play": false,
+   "first_played": "2018-08-12T02:34:55Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/252d426d6b4e4afdbbf9a5c3f48b7386_512",
+   "last_played": "2019-01-05T11:27:11Z",
+   "minutes": 356,
+   "name": "Hollow Knight",
+   "platform": "Switch"
+  },
+  "0100646009fbe000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-12-31T17:38:52Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/9fb4cfb8678a4d198daec6467b61b259_512",
+   "last_played": "2018-12-31T18:05:14Z",
+   "minutes": 27,
+   "name": "Dead Cells",
+   "platform": "Switch"
+  },
+  "010067300059a000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2017-09-02T20:28:04Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b71b0f5fd9f8472a83fac858517cd133_512",
+   "last_played": "2017-09-11T01:04:19Z",
+   "minutes": 132,
+   "name": "Mario + Rabbids Kingdom Battle",
+   "platform": "Switch"
+  },
+  "01006a200936c000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2018-05-28T19:08:16Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/9a383951b0b74d3d8f001e5b4bd9438e_512",
+   "last_played": "2018-07-22T15:32:21Z",
+   "minutes": 158,
+   "name": "Shantae: Half-Genie Hero Ultimate Edition",
+   "platform": "Switch"
+  },
+  "01006a800016e000": {
+   "days_played": 449,
+   "family_play": true,
+   "first_played": "2018-12-08T00:04:03Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/67e9794abb1d43eda8f96f07c4612ece_512",
+   "last_played": "2026-08-26T16:33:16Z",
+   "minutes": 25585,
+   "name": "Super Smash Bros. Ultimate",
+   "platform": "Switch"
+  },
+  "01006b00126ec000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2021-12-30T02:27:32Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/f6e94d73ce9a4401a312a8981c6cf357_512",
+   "last_played": "2021-12-30T02:42:59Z",
+   "minutes": 16,
+   "name": "Shovel Knight Pocket Dungeon",
+   "platform": "Switch"
+  },
+  "01006bb00c6f0000": {
+   "days_played": 25,
+   "family_play": false,
+   "first_played": "2019-09-21T12:11:11Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d9545e780e8c44358e8fa7ac6b26b2ba_512",
+   "last_played": "2023-05-14T00:43:34Z",
+   "minutes": 1474,
+   "name": "The Legend of Zelda: Link's Awakening",
+   "platform": "Switch"
+  },
+  "01006f8002326000": {
+   "days_played": 414,
+   "family_play": true,
+   "first_played": "2020-03-20T10:23:18Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/05dc24cb6815433c83a05c0f1d6717c8_512",
+   "last_played": "2026-11-08T22:26:43Z",
+   "minutes": 29026,
+   "name": "Animal Crossing: New Horizons",
+   "platform": "Switch, Switch 2"
+  },
+  "01006fe013472000": {
+   "days_played": 7,
+   "family_play": false,
+   "first_played": "2021-11-05T20:07:42Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/3416f66b6c2e47dc885351e33018ff87_512",
+   "last_played": "2022-07-08T20:09:17Z",
+   "minutes": 345,
+   "name": "Mario Party Superstars",
+   "platform": "Switch"
+  },
+  "0100701001d92000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2017-03-18T02:01:11Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/9765b4561fb74013af90d61f53e979e5_512",
+   "last_played": "2017-04-01T02:26:02Z",
+   "minutes": 67,
+   "name": "Human Resource Machine",
+   "platform": "Switch"
+  },
+  "0100704000b3a000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2020-01-24T23:18:24Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/72291b4d19bb4ad4bccc25920083e75f_512",
+   "last_played": "2020-06-25T12:15:44Z",
+   "minutes": 67,
+   "name": "Snipperclips",
+   "platform": "Switch"
+  },
+  "01007330027ee000": {
+   "days_played": 27,
+   "family_play": false,
+   "first_played": "2017-05-26T17:19:02Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/c35e1bf6ee4e4f4ea57cd7e9caab816d_512",
+   "last_played": "2020-05-08T15:14:18Z",
+   "minutes": 551,
+   "name": "ULTRA STREET FIGHTER® II The Final Challengers",
+   "platform": "Switch"
+  },
+  "010073c001d5e000": {
+   "days_played": 8,
+   "family_play": false,
+   "first_played": "2020-05-16T13:13:51Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/646e86c9183143baa01712aa078345cb_512",
+   "last_played": "2022-10-28T01:13:51Z",
+   "minutes": 106,
+   "name": "Puyo Puyo™ Tetris®",
+   "platform": "Switch"
+  },
+  "01007430037f6000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-08-26T00:57:59Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d53fe0d8dcb542b38a8f621cc11f16b8_512",
+   "last_played": "2018-08-26T01:21:21Z",
+   "minutes": 24,
+   "name": "Monopoly® for Nintendo Switch",
+   "platform": "Switch"
+  },
+  "0100760002048000": {
+   "days_played": 31,
+   "family_play": false,
+   "first_played": "2017-09-15T13:30:57Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/bc227feda5464ad7a75009260f21de21_512",
+   "last_played": "2018-02-05T00:45:47Z",
+   "minutes": 2469,
+   "name": "NBA 2K18",
+   "platform": "Switch"
+  },
+  "0100782005a44000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-01-26T21:03:19Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/eafd0a40d2854b52a729e5e2a79de1ca_512",
+   "last_played": "2018-01-26T21:03:20Z",
+   "minutes": 1,
+   "name": "Oh...Sir!! The Insult Simulator",
+   "platform": "Switch"
+  },
+  "010079e01a1e0000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2023-07-09T19:34:39Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b583c0ffcde44779ae31f0270b2822c7_512",
+   "last_played": "2025-07-06T02:26:02Z",
+   "minutes": 26,
+   "name": "Puzzle Bobble Everybubble!",
+   "platform": "Switch"
+  },
+  "01007ad00013e000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2017-03-04T13:09:13Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/2b7f125db66c49199c3f716b22d87335_512",
+   "last_played": "2018-07-01T00:52:05Z",
+   "minutes": 24,
+   "name": "SUPER BOMBERMAN R",
+   "platform": "Switch"
+  },
+  "01007d000ad8a000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-10-17T23:18:24Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b3d0b6ebcc2a428d8ca0e412ec236467_512",
+   "last_played": "2018-10-17T23:45:17Z",
+   "minutes": 27,
+   "name": "Child of Light",
+   "platform": "Switch"
+  },
+  "01007e100456c000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2019-01-06T22:35:22Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b47450fa0b73475293af68359e4a788a_512",
+   "last_played": "2019-01-19T15:32:30Z",
+   "minutes": 64,
+   "name": "Guacamelee! 2",
+   "platform": "Switch"
+  },
+  "01007e3006dda000": {
+   "days_played": 76,
+   "family_play": false,
+   "first_played": "2018-04-01T20:45:48Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/bc7bae4189e34b88ab077aa06bc0071a_512",
+   "last_played": "2026-02-14T22:55:03Z",
+   "minutes": 2427,
+   "name": "Kirby Star Allies",
+   "platform": "Switch"
+  },
+  "01007ef00011e000": {
+   "days_played": 46,
+   "family_play": false,
+   "first_played": "2017-03-04T14:21:19Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/277c0a4a9b6041b7b68af5d3159f8fd9_512",
+   "last_played": "2026-09-06T14:40:34Z",
+   "minutes": 2835,
+   "name": "The Legend of Zelda: Breath of the Wild",
+   "platform": "Switch, Switch 2"
+  },
+  "010080b00ad66000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-12-16T21:51:44Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/0ef5d86e09a843aeb8ef19f1b3d11051_512",
+   "last_played": "2018-12-16T22:12:18Z",
+   "minutes": 20,
+   "name": "Undertale",
+   "platform": "Switch"
+  },
+  "010082400bcc6000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2019-10-12T00:56:30Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/81c27f15c61f4ea7a09276e7d49aeb9d_512",
+   "last_played": "2019-10-13T02:44:22Z",
+   "minutes": 124,
+   "name": "Untitled Goose Game",
+   "platform": "Switch"
+  },
+  "0100854015868000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2025-06-08T14:24:14Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/46730ab138ba4a60a6d2216337892866_512",
+   "last_played": "2025-06-14T22:24:19Z",
+   "minutes": 499,
+   "name": "Star Wars™ - Knights of the Old Republic™",
+   "platform": "Switch"
+  },
+  "01008b8004e36000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2017-12-26T13:21:30Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/f60157bb84444a01bc1ab02580f88d86_512",
+   "last_played": "2018-02-18T02:43:12Z",
+   "minutes": 23,
+   "name": "Oxenfree",
+   "platform": "Switch"
+  },
+  "01008cf01baac000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2025-06-21T20:32:40Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b2caa22578c44cb2a4df5046d3ae502c_512",
+   "last_played": "2025-06-21T22:31:31Z",
+   "minutes": 119,
+   "name": "The Legend of Zelda: Echoes of Wisdom",
+   "platform": "Switch"
+  },
+  "01008d300c50c000": {
+   "days_played": 143,
+   "family_play": false,
+   "first_played": "2019-09-05T23:07:51Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/e3c6cb2fb2dd4a56b39f3c1ae5527cfe_512",
+   "last_played": "2026-10-29T20:57:52Z",
+   "minutes": 3465,
+   "name": "Super Nintendo Entertainment System – Nintendo Classics",
+   "platform": "Switch"
+  },
+  "01008f1008da6000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2018-02-04T20:46:16Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/a8926c2726304ef6ab6304f7b3916e08_512",
+   "last_played": "2018-02-04T22:01:43Z",
+   "minutes": 35,
+   "name": "Darkest Dungeon",
+   "platform": "Switch"
+  },
+  "010093801237c000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2021-10-09T23:09:17Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/3c9f3b4920d240dc99226fa5374142ac_512",
+   "last_played": "2026-09-27T19:31:56Z",
+   "minutes": 207,
+   "name": "Metroid Dread",
+   "platform": "Switch"
+  },
+  "0100965017338000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2024-11-10T17:28:03Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/e0810fc89999477894e436ddf62670c8_512",
+   "last_played": "2024-11-10T19:29:50Z",
+   "minutes": 121,
+   "name": "Super Mario Party Jamboree",
+   "platform": "Switch"
+  },
+  "010099501c132000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2025-06-21T22:32:45Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/fae568a4bd2643ceb2e91c32fe4a4991_512",
+   "last_played": "2025-06-28T12:24:13Z",
+   "minutes": 159,
+   "name": "Pocket Card Jockey Ride On!",
+   "platform": "Switch"
+  },
+  "01009aa000faa000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2017-08-16T19:14:40Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/0e3bdfeeee804619bab0cdc1917f6d00_512",
+   "last_played": "2017-09-02T18:53:49Z",
+   "minutes": 25,
+   "name": "Sonic Mania",
+   "platform": "Switch"
+  },
+  "01009b90006dc000": {
+   "days_played": 94,
+   "family_play": false,
+   "first_played": "2019-06-29T11:40:15Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/cad567579b6f437882b8c784dba73131_512",
+   "last_played": "2026-06-22T21:44:38Z",
+   "minutes": 3746,
+   "name": "SUPER MARIO MAKER 2",
+   "platform": "Switch"
+  },
+  "01009b900401e000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2020-03-02T22:18:33Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/0a20337ab2d14f2f935fd809464f2f9b_512",
+   "last_played": "2020-03-02T23:45:21Z",
+   "minutes": 86,
+   "name": "Overcooked! Special Edition",
+   "platform": "Switch"
+  },
+  "01009be014ca6000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2022-07-11T23:29:27Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/44cf79749f574c21b8ee93a1095f40b9_512",
+   "last_played": "2022-07-11T23:46:29Z",
+   "minutes": 17,
+   "name": "Cat Cafe Manager",
+   "platform": "Switch"
+  },
+  "01009ea00b714000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2018-12-09T02:30:55Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/7cab618068624e4684b2dcfa55d28156_512",
+   "last_played": "2018-12-16T02:52:43Z",
+   "minutes": 9,
+   "name": "Horizon Chase Turbo",
+   "platform": "Switch"
+  },
+  "0100a2f00eefc000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2019-11-02T00:57:22Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/cd8a6aecc62342f7a6af31dfb21de7fb_512",
+   "last_played": "2022-06-05T01:22:34Z",
+   "minutes": 246,
+   "name": "Disney Classic Games: Aladdin and The Lion King",
+   "platform": "Switch"
+  },
+  "0100a3900c3e2000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2022-04-02T20:36:09Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d295fd55f1b64da3931fdbe056f45800_512",
+   "last_played": "2022-04-02T20:36:11Z",
+   "minutes": 1,
+   "name": "Paper Mario: The Origami King",
+   "platform": "Switch"
+  },
+  "0100a6300b250000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2019-02-05T00:29:04Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/f42314c2613f4d01b032ceaec930cfd3_512",
+   "last_played": "2025-06-13T22:56:56Z",
+   "minutes": 73,
+   "name": "Sega Genesis Classics",
+   "platform": "Switch"
+  },
+  "0100abf008968000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2019-11-16T12:52:35Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/61a9bea686fe4477afb671df5681d16f_512",
+   "last_played": "2020-02-16T03:31:46Z",
+   "minutes": 612,
+   "name": "Pokémon Sword",
+   "platform": "Switch"
+  },
+  "0100ad10185f8000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2024-07-21T02:19:31Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1bbdc8ceafc34b99b458bab9ef377fc1_512",
+   "last_played": "2026-06-07T15:07:20Z",
+   "minutes": 15,
+   "name": "Nintendo World Championships: NES Edition",
+   "platform": "Switch"
+  },
+  "0100b3c014bda000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2022-04-20T01:19:54Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/64da4d452c034465975f0186f584ec87_512",
+   "last_played": "2022-10-02T19:24:37Z",
+   "minutes": 19,
+   "name": "SEGA Genesis – Nintendo Switch Online",
+   "platform": "Switch"
+  },
+  "0100bae00b470000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2019-01-05T11:33:40Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/8ec53d93977c4ba79b0d1c29c5d0f416_512",
+   "last_played": "2019-01-07T14:05:52Z",
+   "minutes": 316,
+   "name": "Guacamelee! STCE",
+   "platform": "Switch"
+  },
+  "0100bc0018138000": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2023-11-17T20:56:45Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b348a28e215a43acbb7a6d61820aa651_512",
+   "last_played": "2026-04-25T20:33:07Z",
+   "minutes": 1049,
+   "name": "Super Mario RPG",
+   "platform": "Switch"
+  },
+  "0100bde00862a000": {
+   "days_played": 139,
+   "family_play": false,
+   "first_played": "2018-06-23T00:48:11Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/da34d7f30d034a5db643d318e409da03_512",
+   "last_played": "2026-09-03T17:49:21Z",
+   "minutes": 4238,
+   "name": "Mario Tennis Aces",
+   "platform": "Switch"
+  },
+  "0100bf500207c000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2019-06-25T02:42:02Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/11d9c1081e034b0ba7be4a98fdfc39e3_512",
+   "last_played": "2019-09-14T01:17:10Z",
+   "minutes": 90,
+   "name": "Bloodstained: Ritual of the Night",
+   "platform": "Switch"
+  },
+  "0100bfe00e9ca000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2019-11-30T22:13:38Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d1f86a4b085248d49e2713c12ccc59f1_512",
+   "last_played": "2019-12-31T15:40:36Z",
+   "minutes": 237,
+   "name": "The Witcher 3: Wild Hunt — Complete Edition",
+   "platform": "Switch"
+  },
+  "0100c1f0051b6000": {
+   "days_played": 35,
+   "family_play": false,
+   "first_played": "2018-05-05T01:27:36Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/42c5d1a0bde94b18b35d6babe6e2a436_512",
+   "last_played": "2025-06-29T14:46:23Z",
+   "minutes": 883,
+   "name": "Donkey Kong Country: Tropical Freeze",
+   "platform": "Switch"
+  },
+  "0100c3d00923a000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2018-09-15T12:33:45Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/606f5e0dd37f4ff59ceff6fc6bb4cedc_512",
+   "last_played": "2018-09-16T20:45:22Z",
+   "minutes": 33,
+   "name": "Old School Musical",
+   "platform": "Switch"
+  },
+  "0100c3e00acaa000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2019-07-28T13:58:51Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/252ea15108534647ab5cc064870dfe10_512",
+   "last_played": "2019-08-07T02:21:22Z",
+   "minutes": 18,
+   "name": "Mutant Football League Dynasty Edition",
+   "platform": "Switch"
+  },
+  "0100c5b016e30000": {
+   "days_played": 26,
+   "family_play": false,
+   "first_played": "2022-07-30T13:27:53Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/342ddeb68c3b42839555f8f50bf951b0_512",
+   "last_played": "2022-10-28T01:23:04Z",
+   "minutes": 1448,
+   "name": "Retro Bowl",
+   "platform": "Switch"
+  },
+  "0100c62011050000": {
+   "days_played": 8,
+   "family_play": false,
+   "first_played": "2023-02-11T04:31:55Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/9a7e538c3dac431cb7c28eb571e31c44_512",
+   "last_played": "2026-07-11T20:34:18Z",
+   "minutes": 52,
+   "name": "Game Boy – Nintendo Classics",
+   "platform": "Switch"
+  },
+  "0100c9a00ece6000": {
+   "days_played": 37,
+   "family_play": false,
+   "first_played": "2021-10-26T01:27:54Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/c22a3cd8b80c43499a07434280061357_512",
+   "last_played": "2026-09-06T14:36:53Z",
+   "minutes": 939,
+   "name": "Nintendo 64 – Nintendo Classics",
+   "platform": "Switch"
+  },
+  "0100c9c00e25c000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2021-10-02T14:10:32Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/455aafba3ce247059df05d1c41d5e29e_512",
+   "last_played": "2021-10-02T14:12:41Z",
+   "minutes": 3,
+   "name": "Mario Golf: Super Rush",
+   "platform": "Switch"
+  },
+  "0100ca9002322000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2017-12-26T13:25:51Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/006085faaf4c4e2ab757e9d83363d330_512",
+   "last_played": "2017-12-29T01:37:06Z",
+   "minutes": 65,
+   "name": "SteamWorld Dig 2",
+   "platform": "Switch"
+  },
+  "0100cb000a142000": {
+   "days_played": 10,
+   "family_play": false,
+   "first_played": "2019-04-21T18:37:40Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b6f0124b504b4491928a7df71de16dd1_512",
+   "last_played": "2019-09-18T02:14:08Z",
+   "minutes": 209,
+   "name": "Phoenix Wright: Ace Attorney Trilogy",
+   "platform": "Switch"
+  },
+  "0100cc80013d6000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2020-03-27T23:37:06Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/2c1be29da1cd4e11b067adfa0fd29fd0_512",
+   "last_played": "2020-05-11T01:00:57Z",
+   "minutes": 110,
+   "name": "The Jackbox Party Pack 3",
+   "platform": "Switch"
+  },
+  "0100ccf019c8c000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2023-09-16T03:20:49Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/36e73f3f116643458107c4428e98cbbb_512",
+   "last_played": "2023-09-16T03:41:42Z",
+   "minutes": 21,
+   "name": "F-ZERO 99",
+   "platform": "Switch"
+  },
+  "0100cd801ce5e000": {
+   "days_played": 35,
+   "family_play": false,
+   "first_played": "2024-04-03T15:52:23Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/5154dba6096a4b58b01046253f8def90_512",
+   "last_played": "2024-12-17T01:02:17Z",
+   "minutes": 2461,
+   "name": "Balatro",
+   "platform": "Switch"
+  },
+  "0100d2f00d5c0000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2024-04-14T14:35:23Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/cfc9434412ae4d0b90c1247e2b9ae5a0_512",
+   "last_played": "2024-04-14T14:48:42Z",
+   "minutes": 14,
+   "name": "Nintendo Switch Sports",
+   "platform": "Switch"
+  },
+  "0100d39012c1a000": {
+   "days_played": 11,
+   "family_play": false,
+   "first_played": "2022-09-06T16:16:57Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/4cb958b8aed6442cbc2703041595d57d_512",
+   "last_played": "2024-11-17T17:10:23Z",
+   "minutes": 1081,
+   "name": "Disney Dreamlight Valley",
+   "platform": "Switch"
+  },
+  "0100d71004694000": {
+   "days_played": 13,
+   "family_play": false,
+   "first_played": "2019-08-31T20:25:42Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/47ccf7b7e8a649e891d40c7bda5bfc53_512",
+   "last_played": "2023-07-05T22:26:05Z",
+   "minutes": 222,
+   "name": "Minecraft for Nintendo Switch",
+   "platform": "Switch"
+  },
+  "0100d870045b6000": {
+   "days_played": 103,
+   "family_play": false,
+   "first_played": "2018-09-19T12:47:29Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/f2762565c9b24acb8be1e352e97b1e53_512",
+   "last_played": "2026-06-22T21:26:45Z",
+   "minutes": 1951,
+   "name": "Nintendo Entertainment System – Nintendo Classics",
+   "platform": "Switch"
+  },
+  "0100d9f01d474000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2026-07-03T03:37:03Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d86e452a62d3426da2d16a79f73120a7_512",
+   "last_played": "2026-07-03T22:34:08Z",
+   "minutes": 14,
+   "name": "Rhythm Heaven Groove",
+   "platform": "Switch"
+  },
+  "0100dbf01000a000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2020-06-21T00:30:10Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/a539a1875ce845c7a9a9a65c87d82053_512",
+   "last_played": "2025-06-13T23:05:53Z",
+   "minutes": 303,
+   "name": "Burnout Paradise Remastered",
+   "platform": "Switch"
+  },
+  "0100dcd01f306000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2026-06-09T23:17:28Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/6422da3358234297a6401a26e64daf41_512",
+   "last_played": "2026-06-09T23:51:05Z",
+   "minutes": 34,
+   "name": "Mina the Hollower",
+   "platform": "Switch, Switch 2"
+  },
+  "0100de600beee000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2019-05-18T00:40:59Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/3d8c511c8ed8496091c1dcd396ed4067_512",
+   "last_played": "2019-05-18T01:32:46Z",
+   "minutes": 52,
+   "name": "Saints Row: The Third - The Full Package",
+   "platform": "Switch"
+  },
+  "0100e20012952000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2022-06-05T18:49:52Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/c4ac06f8bdd2429fa9c56cc489191d85_512",
+   "last_played": "2022-06-05T19:37:06Z",
+   "minutes": 30,
+   "name": "Card Shark",
+   "platform": "Switch"
+  },
+  "0100e5600d446000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2019-09-29T12:32:39Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/b4cb6f9c20f64a9eaa1fa66468d8ee3c_512",
+   "last_played": "2019-09-29T12:33:35Z",
+   "minutes": 1,
+   "name": "Ni no Kuni Wrath of the White Witch™",
+   "platform": "Switch"
+  },
+  "0100e65002bb8000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2017-12-16T23:14:52Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/5d4014b702c04a3c81b49055f2beb8bc_512",
+   "last_played": "2017-12-18T00:09:45Z",
+   "minutes": 53,
+   "name": "Stardew Valley",
+   "platform": "Switch"
+  },
+  "0100ea80032ea000": {
+   "days_played": 44,
+   "family_play": false,
+   "first_played": "2019-01-11T13:29:37Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/0707a98b47cd452dbaf0ef7ff9bf124b_512",
+   "last_played": "2023-05-14T00:46:41Z",
+   "minutes": 1507,
+   "name": "New Super Mario Bros. U Deluxe",
+   "platform": "Switch"
+  },
+  "0100ecd018ebe000": {
+   "days_played": 14,
+   "family_play": false,
+   "first_played": "2024-05-23T22:48:34Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/d03c4d51cd3b4a7c8fcecb3a3905db6f_512",
+   "last_played": "2026-04-25T20:39:46Z",
+   "minutes": 1967,
+   "name": "Paper Mario: The Thousand-Year Door",
+   "platform": "Switch"
+  },
+  "0100f110029c8000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2017-12-18T00:11:09Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/822b3202579b4b8b88f88d6899106c58_512",
+   "last_played": "2017-12-21T12:18:35Z",
+   "minutes": 13,
+   "name": "Yooka-Laylee",
+   "platform": "Switch"
+  },
+  "0100f15003e64000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2018-01-29T03:22:04Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/78385cd1400a4740911b5bd5482229a0_512",
+   "last_played": "2018-02-04T20:45:31Z",
+   "minutes": 45,
+   "name": "Fire Emblem Warriors",
+   "platform": "Switch"
+  },
+  "0100f2c0115b6000": {
+   "days_played": 24,
+   "family_play": false,
+   "first_played": "2023-05-12T18:34:17Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/31ab25320f444571b74e8b92b14ee847_512",
+   "last_played": "2026-09-06T14:46:45Z",
+   "minutes": 2681,
+   "name": "The Legend of Zelda: Tears of the Kingdom",
+   "platform": "Switch, Switch 2"
+  },
+  "0100f7800a434000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2020-03-26T22:51:38Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/7e4e8b6b4e134d3ab6ed389a2091163d_512",
+   "last_played": "2021-04-24T00:51:26Z",
+   "minutes": 172,
+   "name": "Drawful 2",
+   "platform": "Switch"
+  },
+  "0100f7b002340000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2017-10-04T01:43:48Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/2b38e3f17ab847c488315db99f2b370d_512",
+   "last_played": "2017-10-08T01:48:53Z",
+   "minutes": 153,
+   "name": "FIFA 18",
+   "platform": "Switch"
+  },
+  "0100fa5010788000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2021-06-12T13:19:45Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/977877f5ee6a473aaf62b0ba6c9ac75b_512",
+   "last_played": "2021-06-12T22:19:05Z",
+   "minutes": 53,
+   "name": "Game Builder Garage",
+   "platform": "Switch"
+  },
+  "040012f028bc2000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2026-10-26T16:20:48Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/495179777ad545f5ae0bea7f8323d0e7_512",
+   "last_played": "2026-10-26T16:25:45Z",
+   "minutes": 5,
+   "name": "The Witcher 3: Wild Hunt — Remastered",
+   "platform": "Switch 2"
+  },
+  "040029a01d3e0000": {
+   "days_played": 12,
+   "family_play": false,
+   "first_played": "2025-06-06T01:26:51Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/30a80dde4c284db6b014986fa6f01e9e_512",
+   "last_played": "2026-09-06T14:37:22Z",
+   "minutes": 182,
+   "name": "Nintendo GameCube – Nintendo Classics",
+   "platform": "Switch 2"
+  },
+  "040045f02661e000": {
+   "days_played": 3,
+   "family_play": false,
+   "first_played": "2026-05-09T20:36:58Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1d23f3d5641e4880b980e139f6c4c12f_512",
+   "last_played": "2026-06-07T15:08:25Z",
+   "minutes": 221,
+   "name": "Mixtape",
+   "platform": "Switch 2"
+  },
+  "0400486024dec000": {
+   "days_played": 4,
+   "family_play": false,
+   "first_played": "2026-11-05T18:41:12Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
+   "last_played": "2026-11-11T17:10:33Z",
+   "minutes": 559,
+   "name": "The Legend of Zelda: Ocarina of Time",
+   "platform": "Switch 2"
+  },
+  "040074a01bf12000": {
+   "days_played": 5,
+   "family_play": false,
+   "first_played": "2025-07-17T23:07:53Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/7642abba40804e84a115e3e36e230bc1_512",
+   "last_played": "2025-08-03T23:24:14Z",
+   "minutes": 620,
+   "name": "Donkey Kong Bananza",
+   "platform": "Switch 2"
+  },
+  "0400b1e02610c000": {
+   "days_played": 2,
+   "family_play": false,
+   "first_played": "2026-04-09T22:57:56Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/51094ef9a22e4eac89c7668b04418676_512",
+   "last_played": "2026-05-03T23:19:59Z",
+   "minutes": 67,
+   "name": "People of Note",
+   "platform": "Switch 2"
+  },
+  "0400bed027b42000": {
+   "days_played": 1,
+   "family_play": false,
+   "first_played": "2026-06-09T19:55:21Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1d7b31a23ab4a9482a0f565dd7bcbe5_512",
+   "last_played": "2026-06-09T20:22:06Z",
+   "minutes": 27,
+   "name": "Star Fox Demo",
+   "platform": "Switch 2"
+  },
+  "0400c3f00006e000": {
+   "days_played": 16,
+   "family_play": false,
+   "first_played": "2025-06-08T01:02:16Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
+   "last_played": "2026-09-27T19:57:11Z",
+   "minutes": 624,
+   "name": "Mario Kart World",
+   "platform": "Switch 2"
+  },
+  "0400e88025b1a000": {
+   "days_played": 6,
+   "family_play": false,
+   "first_played": "2026-06-26T12:09:15Z",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/057c6c0581cd4f65985bb164d2319798_512",
+   "last_played": "2026-09-06T14:17:56Z",
+   "minutes": 456,
+   "name": "Star Fox",
+   "platform": "Switch 2"
+  }
+ }
+}
