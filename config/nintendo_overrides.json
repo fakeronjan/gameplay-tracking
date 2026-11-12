@@ -43,7 +43,7 @@
    "2011-06-03"
   ]
  },
- "_family_play": "Other family members also played these a lot on Ronjan's account (Ronjan, 2026-11-12: Miitopia, Smash Ultimate, Animal Crossing; then Smash for Wii U, Smash 3DS, Super Mario Party, both Professor Layton games, Kirby Star Allies); the page marks them 'Includes significant play time from other family members'",
+ "_family_play": "Other family members also played these a lot on Ronjan's account (Ronjan, 2026-11-12: Miitopia, Smash Ultimate, Animal Crossing; then Smash for Wii U, Smash 3DS, Super Mario Party, both Professor Layton games, Kirby Star Allies, Mario Kart 8 Deluxe); the page marks them 'Includes significant play time from other family members'",
  "family_play": [
   "01003da010e8a000",
   "01006a800016e000",
@@ -53,7 +53,8 @@
   "00040000000edf00",
   "00040000000f2f00",
   "00040000000a8500",
-  "01007e3006dda000"
+  "01007e3006dda000",
+  "0100152000022000"
  ],
  "_days_logged_from": "First day docs/data/nintendo_days.json covers (the first daily fetch, 2026-11-12, reached back to here). Play from this day on has real dates; before it, only first/last played and totals.",
  "days_logged_from": "2026-11-07",

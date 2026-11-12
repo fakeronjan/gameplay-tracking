@@ -477,7 +477,7 @@ def build():
     entries = {k: v for k, v in entries.items() if "split_into" not in v}
     split = {e for group in cfg.get("split", []) for e in group}
     configured = {e for group in cfg.get("merge", []) + cfg.get("split", []) for e in group} | set(cfg.get("names", {})) \
-        | set(cfg.get("family_play", []))
+        | set(cfg.get("family_play", [])) | set(cfg.get("timeline_always", []))
     unknown = sorted(configured - set(entries) - set(cfg.get("exclude", {})))
     if unknown:  # a stale id would silently stop a merge from applying
         raise SystemExit(f"config/game_merges.json names entries that don't exist: {unknown}")
@@ -564,6 +564,8 @@ def build():
             # First-to-last played on a Nintendo record, for the timeline's span bar
             "spans": sorted(e["span"] for e in es if e.get("span")),
             "family_play": any(e.get("family_play") for e in es) or bool(set(ids) & set(cfg.get("family_play", []))),
+            # Shown on the Timeline even with family play hidden (config "timeline_always")
+            "timeline_always": bool(set(ids) & set(cfg.get("timeline_always", []))),
             "hours": round(sum(mins) / 60, 1) if mins else None,
             "hours_estimated": any(e.get("estimated") for e in es),
             "estimated_from": sorted({s for e in es for s in e.get("estimated_from", [])}),

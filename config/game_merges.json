@@ -153,7 +153,7 @@
   ]
  ],
  "names": {
-  "psn-played:CUSA05877_00": "Persona 5 + Persona 5 Royal",
+  "psn-played:CUSA05877_00": "Persona 5 + Royal",
   "psn-played:CUSA00151_00": "Guacamelee!",
   "psn:NPWR05620_00": "Danganronpa: Trigger Happy Havoc",
   "psn-played:CUSA09188_00": "Mutant Football League",
@@ -217,7 +217,9 @@
   "nintendo:01007430037f6000": "Monopoly",
   "nintendo:01009b900401e000": "Overcooked!",
   "nintendo:010028600ebda000": "Super Mario 3D World + Bowser's Fury",
-  "nintendo:0400486024dec000": "The Legend of Zelda: Ocarina of Time (Switch 2)"
+  "nintendo:0400486024dec000": "The Legend of Zelda: Ocarina of Time (Switch 2)",
+  "nintendo:0100152000022000": "Mario Kart 8 + Deluxe",
+  "nintendo:0100ea80032ea000": "New Super Mario Bros. U + Deluxe"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row; collections: split one collection list into its games (see build_games.split_collections)",
  "exclude": {
@@ -268,5 +270,9 @@
    "nintendo:0005000010109200",
    "nintendo:0100bc0018138000"
   ]
+ ],
+ "_timeline_always": "Rows the Timeline always shows, even with family play hidden, besides games on an awards list (Ronjan 2026-11-12: Mario Kart 8 + Deluxe). Any entry id in the row.",
+ "timeline_always": [
+  "nintendo:0100152000022000"
  ]
 }
