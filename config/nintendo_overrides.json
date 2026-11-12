@@ -122,5 +122,10 @@
    "by": "2013-12-31",
    "share": 0.5
   }
+ },
+ "_evidence": "Real play days inside a record's span (Switch screenshot days) pull the model toward them: weight = prior_weight x model + one 14-day exponential kernel per real day, and real days count as played. Backtest 2026-11-12 (23 multi-year copies, hide part of each one's dated days, predict the rest's yearly split): with 1/2/4 known days, yearly error 0.31/0.28/0.28 vs 0.38/0.39/0.42 for the model alone; prior_weight 1 and a 14-day bandwidth were best at every count.",
+ "evidence": {
+  "prior_weight": 1,
+  "bandwidth_days": 14
  }
 }

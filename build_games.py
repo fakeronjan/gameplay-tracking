@@ -133,7 +133,7 @@ class Groups:
         self.parent[self.find(a)] = self.find(b)
 
 
-def model_days(first, end, pinned_end, n_days, p, cut=None):
+def model_days(first, end, pinned_end, n_days, p, cut=None, real=(), ev=None):
     """Chance of play on each day from first to end, for a record with n_days played there.
     First (and end, when it is a real last-played day) are played. The rest follow a launch burst
     + a burst before last played + a floor (shares and decay in config/nintendo_overrides.json
@@ -144,13 +144,26 @@ def model_days(first, end, pinned_end, n_days, p, cut=None):
     prob[0] = 1.0
     if pinned_end:
         prob[L] = 1.0
-    inner = range(1, L) if pinned_end else range(1, L + 1)
-    left = n_days - 1 - (1 if pinned_end else 0)
+    # Real play days in the span (screenshot days) are played
+    real_t = sorted({date.fromisoformat(d).toordinal() - a for d in real} & set(range(1, L if pinned_end else L + 1)))
+    for t in real_t:
+        prob[t] = 1.0
+    inner = [t for t in (range(1, L) if pinned_end else range(1, L + 1)) if t not in real_t]
+    left = n_days - 1 - (1 if pinned_end else 0) - len(real_t)
     if left <= 0 or not inner:
         return a, prob
     ws, we = p["launch_share"], (p["end_share"] if pinned_end else 0.0)
     ts, te = p["tau_days"], p["tau_end"]
     w = {t: ws * math.exp(-t / ts) / ts + we * math.exp(-(L - t) / te) / te + (1 - ws - we) / L for t in inner}
+    if real_t and ev:  # pull toward the real days: prior_weight x model + a kernel per real day
+        tot = sum(w.values())
+        w = {t: ev["prior_weight"] * x / tot for t, x in w.items()}
+        bw = ev["bandwidth_days"]
+        for s_ in real_t:
+            k_ = {t: math.exp(-abs(t - s_) / bw) for t in inner}
+            kt = sum(k_.values())
+            for t in inner:
+                w[t] += k_[t] / kt
     # cut = (day offset, days played up to and including it): an anchor splits the days in two
     parts = [(set(inner), left)]
     if cut:
@@ -170,14 +183,14 @@ def model_days(first, end, pinned_end, n_days, p, cut=None):
     return a, prob
 
 
-def model_span(first, end, pinned_end, n_days, minutes, p, anchor=None):
+def model_span(first, end, pinned_end, n_days, minutes, p, anchor=None, real=(), ev=None):
     """Modeled play by month, {"YYYY-MM": [days, minutes]}: days from model_days, minutes in
     proportion to them (times an early-session boost when the model has one). An anchor
     ({"by": date, "minutes": n} or {"by": date, "share": f}, config "anchors") fixes how much
     falls up to that date; the model shapes each side."""
     k = date.fromisoformat(anchor["by"]).toordinal() - date.fromisoformat(first).toordinal() if anchor else None
     cut = (k, anchor["share"] * n_days) if anchor and "share" in anchor else None
-    a, prob = model_days(first, end, pinned_end, n_days, p, cut)
+    a, prob = model_days(first, end, pinned_end, n_days, p, cut, real, ev)
     boost = [1 + p.get("early_hours_boost", 0) * math.exp(-t / p["tau_hours"]) for t in range(len(prob))]
     mw = [q * k_ for q, k_ in zip(prob, boost)]
     if anchor:  # minutes up to the anchor date: the anchor's share or count; the rest after
@@ -305,7 +318,8 @@ def entries_and_unlocks(cfg=None):
                 end = min(day_before_start, (date.fromisoformat(first) + timedelta(days=ncfg["model"]["open_end_days"])).isoformat())
             modeled = model_span(first, end, pinned_end, rest_days, rest_minutes,
                                  {**ncfg["model"], **ncfg.get("model_overrides", {}).get(tid, {})},
-                                 ncfg.get("anchors", {}).get(tid)) if first < end else None
+                                 ncfg.get("anchors", {}).get(tid),
+                                 entries[by_title[tid]]["days"] if tid in by_title else (), ncfg.get("evidence")) if first < end else None
         else:
             modeled = None
         span = [first, modeled_last_day(first, end, pinned_end, modeled)] if modeled else None
