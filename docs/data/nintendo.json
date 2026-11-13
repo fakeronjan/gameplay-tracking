@@ -843,7 +843,7 @@
   },
   "0100024008310000": {
    "days_played": 68,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2018-05-29T16:07:52Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/6e83edc9aa7347f99bfdc8957011097a_512",
    "last_played": "2020-04-23T00:04:26Z",
@@ -933,7 +933,7 @@
   },
   "0100152000022000": {
    "days_played": 241,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2017-04-28T11:50:39Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/63ee0ae55ab6402db829e75b4b997919_512",
    "last_played": "2025-06-04T21:44:57Z",
@@ -1743,7 +1743,7 @@
   },
   "0100bde00862a000": {
    "days_played": 139,
-   "family_play": false,
+   "family_play": true,
    "first_played": "2018-06-23T00:48:11Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/da34d7f30d034a5db643d318e409da03_512",
    "last_played": "2026-09-03T17:49:21Z",
@@ -2172,5 +2172,5 @@
    "platform": "Switch 2"
   }
  },
- "updated": "2026-11-12T21:05:47Z"
+ "updated": "2026-11-13T10:43:11Z"
 }
