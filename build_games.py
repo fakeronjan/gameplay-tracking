@@ -497,6 +497,20 @@ def add_play_record(entries, links, eid, p):
     entries[eid] = record  # no trophies anywhere to go by: keep the record as its own row
 
 
+def days_by_platform(es):
+    groups = defaultdict(list)
+    for e in es:
+        groups[f'{e["family"]}|{e["platform"]}|{e.get("gamertag") or ""}'].append(e)
+    out = {}
+    for k, g in groups.items():
+        dated = {d for e in g for d in e["days"]}
+        # Nintendo's own count already includes its dated days (screenshot days, first, last)
+        n = max(len(dated), sum(e.get("days_played") or 0 for e in g))
+        if n:
+            out[k] = n
+    return out
+
+
 def build():
     cfg = json.loads((HERE / "config" / "game_merges.json").read_text())
     entries, unlocks, links = entries_and_unlocks(cfg)
@@ -609,6 +623,9 @@ def build():
             "families": sorted({e["family"] for e in es if e["days"] or e["earned"] or e["minutes"]}),
             "days_by_family": {f: sorted({d for e in es if e["family"] == f for d in e["days"]})
                                for f in sorted({e["family"] for e in es if e["days"]})},
+            # Days played per platform, keyed like the page's Platforms table (family|platform|gamertag):
+            # dated days, plus a Nintendo record's days beyond the ones it has dates for
+            "days_by_platform": days_by_platform(es),
             # Nintendo records count days played without dates: the row's days are its dated days
             # plus the Nintendo days beyond the ones it has dates for (a close estimate)
             "days_played": len(days) + max(0, sum(e.get("days_played") or 0 for e in es)

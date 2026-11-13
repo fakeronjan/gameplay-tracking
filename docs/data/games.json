@@ -22,6 +22,9 @@
     "2026-11-11"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -433,6 +436,9 @@
     "2026-11-08"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch, Switch 2|": 414
+  },
   "days_played": 414,
   "spans": [
    [
@@ -837,6 +843,9 @@
     "2026-11-03"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -932,6 +941,13 @@
     "2019-02-18",
     "2021-05-23"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|Xbox|fakeronjan": 4,
+   "Xbox|360|rogerage": 3,
+   "Xbox|360|thesurfshop19": 1,
+   "PlayStation|PS4|": 2
   },
   "days_played": 11,
   "spans": [
@@ -1132,6 +1148,12 @@
     "2022-03-18",
     "2022-06-18"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "PlayStation|PS4|": 11,
+   "PlayStation|PS5|": 3,
+   "Xbox|Xbox|fakeronjan": 4
   },
   "days_played": 18,
   "spans": [
@@ -1497,6 +1519,11 @@
     "2023-04-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5,
+   "Xbox|Xbox|fakeronjan": 8,
+   "Steam|PC|": 3
+  },
   "days_played": 16,
   "spans": [
    [
@@ -1710,6 +1737,9 @@
     "2023-11-07",
     "2026-10-29"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 143
   },
   "days_played": 143,
   "spans": [
@@ -2152,6 +2182,12 @@
     "2026-10-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "PlayStation|PS5|": 5,
+   "Nintendo|Switch|": 5,
+   "Nintendo|Switch 2|": 1
+  },
   "days_played": 14,
   "spans": [
    [
@@ -2479,6 +2515,13 @@
    "Xbox": [
     "2021-12-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 13,
+   "PlayStation|Vita|": 4,
+   "PlayStation|PS4|": 9,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|Switch|": 24
   },
   "days_played": 51,
   "spans": [
@@ -3235,6 +3278,9 @@
     "2026-10-17"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 137
+  },
   "days_played": 137,
   "spans": [
    [
@@ -3554,6 +3600,9 @@
     "2026-09-27"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 9
+  },
   "days_played": 9,
   "spans": [
    [
@@ -3789,6 +3838,9 @@
     "2026-09-27"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 9
+  },
   "days_played": 9,
   "spans": [
    [
@@ -3909,6 +3961,9 @@
     "2026-09-19",
     "2026-09-27"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 5
   },
   "days_played": 5,
   "spans": [
@@ -4222,6 +4277,9 @@
     "2026-09-27"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 16
+  },
   "days_played": 16,
   "spans": [
    [
@@ -4379,6 +4437,9 @@
     "2026-09-07"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 19
+  },
   "days_played": 19,
   "spans": [
    [
@@ -4510,6 +4571,10 @@
     "2023-06-17",
     "2026-09-06"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 15,
+   "Nintendo|Switch, Switch 2|": 24
   },
   "days_played": 24,
   "spans": [
@@ -4778,6 +4843,10 @@
     "2023-05-05",
     "2026-09-06"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 17,
+   "Nintendo|Switch, Switch 2|": 46
   },
   "days_played": 46,
   "spans": [
@@ -5325,6 +5394,9 @@
     "2026-09-06"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 37
+  },
   "days_played": 37,
   "spans": [
    [
@@ -5637,6 +5709,9 @@
     "2026-09-06"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 12
+  },
   "days_played": 12,
   "spans": [
    [
@@ -5765,6 +5840,9 @@
     "2026-07-03",
     "2026-09-06"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 7
   },
   "days_played": 7,
   "spans": [
@@ -5909,6 +5987,9 @@
     "2020-04-18",
     "2026-09-04"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 169
   },
   "days_played": 169,
   "spans": [
@@ -6414,6 +6495,10 @@
     "2026-09-04"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1,
+   "PlayStation|PS5|": 1
+  },
   "days_played": 2,
   "spans": [],
   "family_play": false,
@@ -6493,6 +6578,9 @@
     "2026-09-04"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -6559,6 +6647,9 @@
     "2018-10-30",
     "2026-09-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 139
   },
   "days_played": 139,
   "spans": [
@@ -7046,6 +7137,10 @@
     "2026-08-30"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 7,
+   "PlayStation|PS5|": 2
+  },
   "days_played": 9,
   "spans": [
    [
@@ -7241,6 +7336,10 @@
     "2022-07-17",
     "2026-08-30"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 9,
+   "PlayStation|PS4|": 4
   },
   "days_played": 13,
   "spans": [
@@ -7442,6 +7541,9 @@
     "2018-12-07",
     "2026-08-26"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 449
   },
   "days_played": 449,
   "spans": [
@@ -7887,6 +7989,10 @@
     "2022-05-30"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3,
+   "Xbox|Xbox|fakeronjan": 4
+  },
   "days_played": 7,
   "spans": [
    [
@@ -8029,6 +8135,9 @@
     "2026-08-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -8101,6 +8210,9 @@
     "2023-06-13",
     "2026-08-12"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -8212,6 +8324,9 @@
     "2023-02-10",
     "2026-07-11"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 8
   },
   "days_played": 8,
   "spans": [
@@ -8438,6 +8553,9 @@
     "2026-07-11"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -8493,6 +8611,9 @@
     "2026-07-02",
     "2026-07-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
   },
   "days_played": 2,
   "spans": [
@@ -8580,6 +8701,9 @@
     "2026-07-02"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -8659,6 +8783,9 @@
     "2023-11-05",
     "2026-06-27"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 5
   },
   "days_played": 5,
   "spans": [
@@ -8866,6 +8993,9 @@
     "2026-06-26"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -8978,6 +9108,9 @@
     "2022-10-16",
     "2026-06-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 103
   },
   "days_played": 103,
   "spans": [
@@ -9443,6 +9576,9 @@
     "2026-06-22"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 94
+  },
   "days_played": 94,
   "spans": [
    [
@@ -9903,6 +10039,12 @@
     "2022-02-06"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,Vita|": 8,
+   "PlayStation|PS4|": 10,
+   "Xbox|Xbox|fakeronjan": 2,
+   "Nintendo|Switch|": 3
+  },
   "days_played": 23,
   "spans": [
    [
@@ -10146,6 +10288,9 @@
     "2026-06-09"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch, Switch 2|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -10194,6 +10339,9 @@
    "PlayStation": [
     "2026-06-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -10255,6 +10403,9 @@
     "2026-05-30",
     "2026-06-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
   },
   "days_played": 3,
   "spans": [
@@ -10368,6 +10519,13 @@
    "Xbox": [
     "2021-12-27"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3,Vita,PS4|": 6,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|Switch|": 47,
+   "Nintendo|Wii U|": 5,
+   "PlayStation|PS4|": 2
   },
   "days_played": 61,
   "spans": [
@@ -11150,6 +11308,9 @@
     "2026-06-07"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -11217,6 +11378,9 @@
     "2026-06-07"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -11282,6 +11446,9 @@
     "2026-05-25"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -11340,6 +11507,9 @@
     "2026-04-24",
     "2026-05-23"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
   },
   "days_played": 2,
   "spans": [
@@ -11413,6 +11583,9 @@
     "2026-04-09",
     "2026-05-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 2
   },
   "days_played": 2,
   "spans": [
@@ -11492,6 +11665,11 @@
    "Xbox": [
     "2019-02-17"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|3DS|": 6
   },
   "days_played": 9,
   "spans": [
@@ -11676,6 +11854,9 @@
     "2026-05-03"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -11748,6 +11929,9 @@
     "2026-05-03"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -11819,6 +12003,10 @@
     "2024-01-08",
     "2026-05-03"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "PlayStation|PS5|": 7
   },
   "days_played": 10,
   "spans": [
@@ -12087,6 +12275,12 @@
     "2021-10-02",
     "2022-01-03"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 24,
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 3,
+   "Nintendo|Switch|": 6
   },
   "days_played": 36,
   "spans": [
@@ -12634,6 +12828,9 @@
     "2026-04-25"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 12
+  },
   "days_played": 12,
   "spans": [
    [
@@ -12852,6 +13049,9 @@
     "2026-04-25"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 14
+  },
   "days_played": 14,
   "spans": [
    [
@@ -13052,6 +13252,9 @@
     "2026-04-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 18
+  },
   "days_played": 18,
   "spans": [
    [
@@ -13138,6 +13341,10 @@
    "Xbox": [
     "2022-06-20"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 4,
   "spans": [
@@ -13233,6 +13440,9 @@
    "PlayStation": [
     "2026-04-12"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -13411,6 +13621,11 @@
     "2025-03-15",
     "2026-04-04"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 10,
+   "Steam|PC|": 12,
+   "Nintendo|Switch|": 35
   },
   "days_played": 56,
   "spans": [
@@ -13615,6 +13830,9 @@
     "2026-03-29"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -13691,6 +13909,9 @@
     "2024-12-01",
     "2026-03-29"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 4
   },
   "days_played": 4,
   "spans": [
@@ -13791,6 +14012,9 @@
     "2026-03-21"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -13846,6 +14070,11 @@
    "Xbox": [
     "2023-05-06"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Steam|PC|": 1,
+   "Nintendo|Switch|": 4
   },
   "days_played": 6,
   "spans": [
@@ -13938,6 +14167,9 @@
     "2015-12-26",
     "2026-03-21"
    ]
+  },
+  "days_by_platform": {
+   "Steam|PC|": 4
   },
   "days_played": 4,
   "spans": [
@@ -14054,6 +14286,10 @@
    "Steam": [
     "2026-03-21"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 15,
+   "Steam|PC|": 1
   },
   "days_played": 16,
   "spans": [
@@ -14196,6 +14432,9 @@
     "2026-03-21"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -14287,6 +14526,12 @@
     "2021-08-29",
     "2023-01-29"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2,
+   "Xbox|Xbox|fakeronjan": 2,
+   "Steam|PC|": 1,
+   "Nintendo|Switch|": 1
   },
   "days_played": 6,
   "spans": [
@@ -14449,6 +14694,9 @@
     "2026-03-20"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -14561,6 +14809,10 @@
    "Steam": [
     "2026-03-19"
    ]
+  },
+  "days_by_platform": {
+   "Steam|PC|": 1,
+   "Nintendo|Switch|": 5
   },
   "days_played": 6,
   "spans": [
@@ -14750,6 +15002,11 @@
     "2021-10-24"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Steam|PC|": 1,
+   "Nintendo|Switch|": 6
+  },
   "days_played": 8,
   "spans": [
    [
@@ -14857,6 +15114,9 @@
     "2026-03-19"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -14901,6 +15161,10 @@
     "2024-01-11",
     "2026-02-15"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2,
+   "PlayStation|PS4|": 1
   },
   "days_played": 3,
   "spans": [
@@ -15018,6 +15282,9 @@
     "2018-05-13",
     "2026-02-14"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 76
   },
   "days_played": 76,
   "spans": [
@@ -15483,6 +15750,9 @@
     "2026-01-08"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 8
+  },
   "days_played": 8,
   "spans": [
    [
@@ -15697,6 +15967,9 @@
     "2026-01-01"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 6
+  },
   "days_played": 6,
   "spans": [
    [
@@ -15840,6 +16113,9 @@
     "2026-01-01"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 11
+  },
   "days_played": 11,
   "spans": [
    [
@@ -15921,6 +16197,9 @@
     "2025-12-26"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -15997,6 +16276,9 @@
     "2025-12-26"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -16068,6 +16350,9 @@
     "2025-12-20",
     "2025-12-22"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
   },
   "days_played": 2,
   "spans": [
@@ -16148,6 +16433,10 @@
     "2010-04-17",
     "2025-12-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 5,
+   "PlayStation|PS4|": 1
   },
   "days_played": 6,
   "spans": [
@@ -16238,6 +16527,9 @@
     "2020-09-06",
     "2025-12-07"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
   },
   "days_played": 3,
   "spans": [
@@ -16440,6 +16732,9 @@
     "2025-11-23"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -16541,6 +16836,11 @@
     "2021-05-15",
     "2022-12-22"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 8,
+   "Nintendo|Switch|": 4
   },
   "days_played": 15,
   "spans": [
@@ -16761,6 +17061,10 @@
     "2025-10-20"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 5,
+   "PlayStation|PS4|": 1
+  },
   "days_played": 6,
   "spans": [
    [
@@ -16865,6 +17169,9 @@
     "2025-09-28"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 13
+  },
   "days_played": 13,
   "spans": [
    [
@@ -16961,6 +17268,10 @@
     "2022-07-16",
     "2025-09-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 4,
+   "PlayStation|PS4|": 4
   },
   "days_played": 8,
   "spans": [
@@ -17177,6 +17488,9 @@
     "2025-08-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -17255,6 +17569,9 @@
     "2025-08-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -17327,6 +17644,9 @@
     "2025-07-17",
     "2025-08-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 5
   },
   "days_played": 5,
   "spans": [
@@ -17402,6 +17722,9 @@
     "2024-07-29",
     "2025-07-06"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 6
   },
   "days_played": 6,
   "spans": [
@@ -17486,6 +17809,9 @@
     "2023-07-09",
     "2025-07-05"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 3
   },
   "days_played": 3,
   "spans": [
@@ -17651,6 +17977,10 @@
     "2018-05-04",
     "2025-06-29"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 21,
+   "Nintendo|Switch|": 35
   },
   "days_played": 56,
   "spans": [
@@ -18206,6 +18536,9 @@
     "2025-06-28"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -18281,6 +18614,9 @@
     "2020-09-18",
     "2025-06-24"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 6
   },
   "days_played": 6,
   "spans": [
@@ -18586,6 +18922,9 @@
     "2025-06-22"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -18650,6 +18989,9 @@
    "Nintendo": [
     "2025-06-21"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -18722,6 +19064,9 @@
     "2020-10-11",
     "2025-06-13"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 9
   },
   "days_played": 9,
   "spans": [
@@ -19028,6 +19373,10 @@
     "2021-04-11"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|Switch|": 2
+  },
   "days_played": 3,
   "spans": [
    [
@@ -19111,6 +19460,10 @@
     "2022-07-02",
     "2025-06-07"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 80,
+   "Nintendo|Switch|": 3
   },
   "days_played": 83,
   "spans": [
@@ -19589,6 +19942,10 @@
     "2023-08-04",
     "2025-06-04"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 241,
+   "Nintendo|Wii U|": 92
   },
   "days_played": 333,
   "spans": [
@@ -20251,6 +20608,9 @@
     "2025-05-12"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -20292,6 +20652,9 @@
    "Xbox": [
     "2025-05-12"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -20345,6 +20708,10 @@
    "Xbox": [
     "2025-05-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 4,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 5,
   "spans": [
@@ -20443,6 +20810,11 @@
    "Xbox": [
     "2022-02-06"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|Switch|": 68
   },
   "days_played": 71,
   "spans": [
@@ -20737,6 +21109,9 @@
     "2025-04-26"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -20807,6 +21182,9 @@
     "2025-04-26"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -20864,6 +21242,9 @@
     "2022-09-05",
     "2025-04-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
   },
   "days_played": 3,
   "spans": [
@@ -20979,6 +21360,10 @@
     "2025-04-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 3,
+   "PlayStation|PS4|": 4
+  },
   "days_played": 7,
   "spans": [
    [
@@ -21082,6 +21467,9 @@
     "2025-03-30",
     "2025-04-05"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
   },
   "days_played": 3,
   "spans": [
@@ -21195,6 +21583,11 @@
     "2025-02-18",
     "2025-03-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3,PS4|": 2,
+   "PlayStation|PS5|": 18,
+   "PlayStation|PS4|": 2
   },
   "days_played": 22,
   "spans": [
@@ -21346,6 +21739,9 @@
     "2025-03-04"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -21438,6 +21834,12 @@
     "2021-02-15",
     "2021-04-25"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3,PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 2,
+   "Nintendo|Switch|": 2,
+   "PlayStation|PS4|": 2
   },
   "days_played": 9,
   "spans": [
@@ -21582,6 +21984,10 @@
     "2025-02-19"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 1,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -21655,6 +22061,9 @@
     "2024-04-13",
     "2025-02-19"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
   },
   "days_played": 3,
   "spans": [
@@ -21739,6 +22148,9 @@
     "2014-04-27",
     "2025-01-20"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -21853,6 +22265,11 @@
    "Xbox": [
     "2021-12-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|Switch|": 6
   },
   "days_played": 9,
   "spans": [
@@ -22128,6 +22545,9 @@
     "2024-12-05"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -22202,6 +22622,9 @@
     "2024-11-22"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -22257,6 +22680,9 @@
     "2022-09-06",
     "2024-11-17"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 11
   },
   "days_played": 11,
   "spans": [
@@ -22423,6 +22849,9 @@
     "2024-11-10"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -22477,6 +22906,9 @@
     "2022-07-10",
     "2024-11-03"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 4
   },
   "days_played": 4,
   "spans": [
@@ -22613,6 +23045,12 @@
     "2021-07-31",
     "2022-03-05"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 7,
+   "Nintendo|Switch|": 10,
+   "Nintendo|3DS|": 22
   },
   "days_played": 42,
   "spans": [
@@ -22874,6 +23312,9 @@
     "2024-10-17"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -22920,6 +23361,9 @@
     "2022-10-02",
     "2024-09-02"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 4
   },
   "days_played": 4,
   "spans": [
@@ -23015,6 +23459,9 @@
     "2024-09-02"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -23068,6 +23515,9 @@
    "PlayStation": [
     "2024-08-16"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -23143,6 +23593,9 @@
     "2024-05-26",
     "2024-08-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 10
   },
   "days_played": 10,
   "spans": [
@@ -23226,6 +23679,9 @@
     "2024-08-12"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -23279,6 +23735,9 @@
    "PlayStation": [
     "2024-08-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -23392,6 +23851,12 @@
     "2021-12-26",
     "2023-01-27"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2,
+   "Xbox|Xbox|fakeronjan": 10,
+   "Steam|PC|": 3,
+   "Nintendo|Switch|": 11
   },
   "days_played": 26,
   "spans": [
@@ -23766,6 +24231,9 @@
     "2024-06-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -23982,6 +24450,12 @@
     "2019-08-12",
     "2022-03-18"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 6,
+   "PlayStation|PS4|": 5,
+   "Xbox|Xbox|fakeronjan": 3,
+   "Xbox|360|rogerage": 4
   },
   "days_played": 18,
   "spans": [
@@ -24313,6 +24787,9 @@
     "2024-06-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -24392,6 +24869,9 @@
     "2024-06-11"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -24465,6 +24945,10 @@
    "Xbox": [
     "2021-12-29"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 7,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 8,
   "spans": [
@@ -24553,6 +25037,9 @@
     "2024-05-03"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -24635,6 +25122,9 @@
     "2024-04-14"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -24698,6 +25188,9 @@
     "2024-03-04",
     "2024-04-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -24779,6 +25272,9 @@
     "2024-03-26",
     "2024-04-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 6
   },
   "days_played": 6,
   "spans": [
@@ -24867,6 +25363,10 @@
     "2023-04-28",
     "2023-05-06"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 4,
+   "Xbox|Xbox|fakeronjan": 4
   },
   "days_played": 8,
   "spans": [
@@ -24998,6 +25498,9 @@
     "2024-03-08"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -25083,6 +25586,9 @@
     "2020-06-20",
     "2024-03-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 11
   },
   "days_played": 11,
   "spans": [
@@ -25344,6 +25850,9 @@
     "2024-01-29"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -25423,6 +25932,9 @@
     "2015-01-13",
     "2023-11-19"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -25600,6 +26112,10 @@
     "2023-10-22"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5,PSPC|": 1,
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -25664,6 +26180,10 @@
     "2023-10-06",
     "2023-10-17"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3,
+   "PlayStation|PS4|": 2
   },
   "days_played": 5,
   "spans": [
@@ -25763,6 +26283,9 @@
     "2023-09-15"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -25825,6 +26348,9 @@
     "2023-09-09"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -25886,6 +26412,9 @@
     "2023-03-04",
     "2023-08-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5
   },
   "days_played": 5,
   "spans": [
@@ -25985,6 +26514,9 @@
     "2023-06-07",
     "2023-08-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 6
   },
   "days_played": 6,
   "spans": [
@@ -26094,6 +26626,12 @@
     "2021-06-26",
     "2023-03-04"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1,
+   "Xbox|Xbox|fakeronjan": 3,
+   "Steam|PC|": 4,
+   "Nintendo|Switch|": 5
   },
   "days_played": 13,
   "spans": [
@@ -26342,6 +26880,11 @@
     "2019-09-22",
     "2020-01-10"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 4,
+   "Nintendo|Switch|": 13,
+   "PlayStation|PS4|": 2
   },
   "days_played": 19,
   "spans": [
@@ -26676,6 +27219,9 @@
     "2023-06-23"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -26729,6 +27275,9 @@
    "PlayStation": [
     "2023-06-23"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -26788,6 +27337,9 @@
     "2023-06-09",
     "2023-06-12"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 2
   },
   "days_played": 2,
   "spans": [
@@ -26859,6 +27411,9 @@
     "2023-06-12"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -26900,6 +27455,9 @@
    "PlayStation": [
     "2023-05-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -26968,6 +27526,9 @@
     "2019-10-19",
     "2023-05-13"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 25
   },
   "days_played": 25,
   "spans": [
@@ -27224,6 +27785,10 @@
     "2019-01-11",
     "2023-05-13"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 44,
+   "Nintendo|Switch|": 44
   },
   "days_played": 88,
   "spans": [
@@ -27649,6 +28214,9 @@
     "2023-05-06"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -27702,6 +28270,9 @@
     "2019-07-04",
     "2023-05-01"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 12
   },
   "days_played": 12,
   "spans": [
@@ -27965,6 +28536,9 @@
     "2023-04-23"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -28049,6 +28623,9 @@
     "2023-02-12",
     "2023-02-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 9
   },
   "days_played": 9,
   "spans": [
@@ -28141,6 +28718,9 @@
     "2021-02-15",
     "2023-01-29"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
   },
   "days_played": 2,
   "spans": [
@@ -28237,6 +28817,9 @@
     "2023-01-29"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -28280,6 +28863,9 @@
     "2021-01-24",
     "2023-01-28"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
   },
   "days_played": 2,
   "spans": [
@@ -28382,6 +28968,11 @@
     "2020-11-27",
     "2023-01-27"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3,
+   "Xbox|Xbox|fakeronjan": 4,
+   "Xbox|360|thesurfshop19": 4
   },
   "days_played": 11,
   "spans": [
@@ -28575,6 +29166,14 @@
     "2011-01-30",
     "2020-11-21"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "PlayStation|PS4|": 1,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 4,
+   "Xbox|360|thesurfshop19": 1,
+   "Nintendo|Switch|": 8
   },
   "days_played": 16,
   "spans": [
@@ -28787,6 +29386,9 @@
     "2022-11-20"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -28840,6 +29442,9 @@
    "PlayStation": [
     "2022-11-17"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -28906,6 +29511,9 @@
     "2019-09-15",
     "2022-11-13"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 7
   },
   "days_played": 7,
   "spans": [
@@ -29048,6 +29656,9 @@
     "2022-11-11"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -29142,6 +29753,9 @@
     "2022-09-27",
     "2022-10-27"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 26
   },
   "days_played": 26,
   "spans": [
@@ -29244,6 +29858,9 @@
     "2020-06-08",
     "2022-10-27"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 110
   },
   "days_played": 110,
   "spans": [
@@ -29560,6 +30177,9 @@
     "2022-10-02"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -29645,6 +30265,9 @@
     "2022-09-05"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -29718,6 +30341,10 @@
    "Xbox": [
     "2021-04-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 2,
   "spans": [],
@@ -29814,6 +30441,11 @@
     "2022-08-21",
     "2022-08-22"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 9,
+   "PlayStation|PS4|": 4,
+   "Nintendo|Switch|": 1
   },
   "days_played": 14,
   "spans": [
@@ -29935,6 +30567,9 @@
     "2022-08-20"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -29996,6 +30631,10 @@
    "Xbox": [
     "2022-02-20"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 2,
   "spans": [],
@@ -30071,6 +30710,9 @@
     "2022-07-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -30141,6 +30783,9 @@
     "2022-07-24"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -30198,6 +30843,10 @@
     "2016-08-19",
     "2022-07-23"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "PlayStation|PS5|": 1
   },
   "days_played": 3,
   "spans": [
@@ -30307,6 +30956,10 @@
     "2021-02-13",
     "2021-02-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 6,
+   "Xbox|Xbox|fakeronjan": 2
   },
   "days_played": 8,
   "spans": [
@@ -30520,6 +31173,11 @@
     "2019-03-04"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,PS4|": 6,
+   "Xbox|Xbox|fakeronjan": 2,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 9,
   "spans": [
    [
@@ -30717,6 +31375,10 @@
     "2022-07-17"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Nintendo|Switch|": 2
+  },
   "days_played": 5,
   "spans": [
    [
@@ -30894,6 +31556,10 @@
     "2022-07-17"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 4,
   "spans": [
    [
@@ -31043,6 +31709,12 @@
     "2021-02-01",
     "2021-02-07"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 6,
+   "PlayStation|Vita|": 1,
+   "Xbox|Xbox|fakeronjan": 8,
+   "Nintendo|Switch|": 1
   },
   "days_played": 16,
   "spans": [
@@ -31308,6 +31980,9 @@
     "2022-07-16"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 11
+  },
   "days_played": 11,
   "spans": [
    [
@@ -31507,6 +32182,10 @@
     "2022-07-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3,
+   "PlayStation|PS4|": 3
+  },
   "days_played": 6,
   "spans": [
    [
@@ -31675,6 +32354,10 @@
     "2018-06-09",
     "2022-07-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 7,
+   "PlayStation|PS4|": 4
   },
   "days_played": 11,
   "spans": [
@@ -31863,6 +32546,9 @@
     "2022-07-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -31920,6 +32606,9 @@
     "2022-07-10",
     "2022-07-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 3
   },
   "days_played": 3,
   "spans": [
@@ -31992,6 +32681,9 @@
     "2018-11-16",
     "2022-07-11"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 12
   },
   "days_played": 12,
   "spans": [
@@ -32230,6 +32922,9 @@
     "2022-07-11"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -32278,6 +32973,9 @@
    "PlayStation": [
     "2022-07-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -32334,6 +33032,9 @@
     "2021-11-05",
     "2022-07-08"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 7
   },
   "days_played": 7,
   "spans": [
@@ -32437,6 +33138,11 @@
     "2020-09-04",
     "2022-07-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5,
+   "PlayStation|PS5,PSPC|": 1,
+   "PlayStation|PS5|": 1
   },
   "days_played": 6,
   "spans": [
@@ -32547,6 +33253,10 @@
     "2021-07-28",
     "2022-07-04"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 4,
+   "Steam|PC|": 1
   },
   "days_played": 4,
   "spans": [
@@ -32664,6 +33374,9 @@
     "2022-06-05"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 13
+  },
   "days_played": 13,
   "spans": [
    [
@@ -32758,6 +33471,9 @@
     "2022-06-05"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -32819,6 +33535,9 @@
    "Nintendo": [
     "2022-05-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -32909,6 +33628,11 @@
     "2022-03-06",
     "2022-05-15"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|Vita|": 8,
+   "Xbox|Xbox|fakeronjan": 3,
+   "Steam|PC|": 1
   },
   "days_played": 12,
   "spans": [
@@ -33009,6 +33733,9 @@
     "2022-04-30"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -33057,6 +33784,10 @@
    "Xbox": [
     "2022-04-03"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Nintendo|Switch|": 2
   },
   "days_played": 3,
   "spans": [
@@ -33149,6 +33880,9 @@
     "2022-04-03"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -33190,6 +33924,9 @@
    "Nintendo": [
     "2022-04-02"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -33240,6 +33977,9 @@
     "2022-03-18"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -33281,6 +34021,9 @@
    "Xbox": [
     "2022-02-27"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -33340,6 +34083,10 @@
     "2020-12-01",
     "2022-02-06"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 5
   },
   "days_played": 8,
   "spans": [
@@ -33470,6 +34217,10 @@
    "Xbox": [
     "2022-02-06"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 6,
   "spans": [
@@ -33633,6 +34384,9 @@
     "2022-02-06"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -33698,6 +34452,9 @@
     "2022-02-06"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -33739,6 +34496,9 @@
    "Xbox": [
     "2022-01-30"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -33805,6 +34565,9 @@
     "2018-11-08",
     "2022-01-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 122
   },
   "days_played": 122,
   "spans": [
@@ -34036,6 +34799,9 @@
     "2022-01-09"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -34077,6 +34843,9 @@
    "Xbox": [
     "2022-01-03"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -34125,6 +34894,10 @@
     "2011-11-13",
     "2022-01-03"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 3
   },
   "days_played": 4,
   "spans": [
@@ -34198,6 +34971,9 @@
     "2021-12-29"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -34247,6 +35023,9 @@
     "2021-12-29"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -34293,6 +35072,10 @@
    "Xbox": [
     "2021-12-28"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 2,
   "spans": [],
@@ -34365,6 +35148,9 @@
     "2021-12-28"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -34421,6 +35207,9 @@
     "2021-12-27"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -34466,6 +35255,9 @@
     "2021-06-27",
     "2021-12-27"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 3,
   "spans": [
@@ -34536,6 +35328,9 @@
     "2021-12-25"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -34597,6 +35392,9 @@
     "2021-12-19"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -34640,6 +35438,9 @@
     "2019-11-10",
     "2021-12-17"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 14
   },
   "days_played": 14,
   "spans": [
@@ -34802,6 +35603,9 @@
     "2021-12-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -34849,6 +35653,10 @@
     "2011-12-04",
     "2021-12-14"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 3
   },
   "days_played": 4,
   "spans": [
@@ -34925,6 +35733,9 @@
     "2021-12-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -34988,6 +35799,9 @@
     "2021-12-11"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -35046,6 +35860,9 @@
     "2021-11-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -35087,6 +35904,9 @@
    "Xbox": [
     "2021-10-31"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -35133,6 +35953,9 @@
     "2021-10-24",
     "2021-10-31"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 3,
   "spans": [
@@ -35191,6 +36014,9 @@
     "2021-10-24"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -35246,6 +36072,9 @@
     "2021-10-03"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -35287,6 +36116,9 @@
    "Nintendo": [
     "2021-10-02"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -35343,6 +36175,10 @@
     "2021-07-18",
     "2021-10-02"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2,
+   "PlayStation|PS4|": 1
   },
   "days_played": 3,
   "spans": [
@@ -35415,6 +36251,9 @@
     "2021-09-06"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -35467,6 +36306,9 @@
     "2021-08-09",
     "2021-08-27"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 3,
   "spans": [
@@ -35558,6 +36400,11 @@
     "2019-02-18",
     "2021-08-07"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 11,
+   "Xbox|Xbox|fakeronjan": 3,
+   "Nintendo|Wii U|": 9
   },
   "days_played": 23,
   "spans": [
@@ -35804,6 +36651,9 @@
     "2021-07-02"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -35893,6 +36743,10 @@
     "2021-07-01"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Steam|PC|": 1
+  },
   "days_played": 2,
   "spans": [],
   "family_play": false,
@@ -35953,6 +36807,10 @@
     "2021-06-27",
     "2021-06-30"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2,
+   "Nintendo|Switch|": 1
   },
   "days_played": 3,
   "spans": [
@@ -36031,6 +36889,9 @@
     "2021-06-27"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -36099,6 +36960,10 @@
     "2007-02-24",
     "2021-06-27"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|thesurfshop19": 2
   },
   "days_played": 3,
   "spans": [
@@ -36173,6 +37038,9 @@
     "2021-06-27"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -36214,6 +37082,9 @@
    "Nintendo": [
     "2021-06-12"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -36263,6 +37134,10 @@
    "PlayStation": [
     "2021-06-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 1,
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -36369,6 +37244,10 @@
     "2021-05-30",
     "2021-05-31"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 14,
+   "Xbox|Xbox|fakeronjan": 4
   },
   "days_played": 18,
   "spans": [
@@ -36478,6 +37357,9 @@
     "2021-05-30"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -36533,6 +37415,10 @@
     "2019-02-19",
     "2021-05-16"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2,
+   "Xbox|360|thesurfshop19": 6
   },
   "days_played": 8,
   "spans": [
@@ -36652,6 +37538,9 @@
     "2021-05-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -36693,6 +37582,9 @@
    "Xbox": [
     "2021-04-25"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -36736,6 +37628,9 @@
     "2021-04-25"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -36778,6 +37673,9 @@
     "2021-04-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -36819,6 +37717,9 @@
    "Xbox": [
     "2021-04-11"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -36878,6 +37779,11 @@
     "2011-01-02",
     "2021-03-24"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 6
   },
   "days_played": 8,
   "spans": [
@@ -36968,6 +37874,9 @@
     "2021-03-23"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -37013,6 +37922,9 @@
     "2021-01-16",
     "2021-03-23"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 3,
   "spans": [
@@ -37083,6 +37995,10 @@
     "2021-02-27",
     "2021-03-22"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|Xbox|fakeronjan": 5
   },
   "days_played": 6,
   "spans": [
@@ -37172,6 +38088,10 @@
     "2020-11-14",
     "2021-03-20"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 6,
   "spans": [
@@ -37273,6 +38193,9 @@
     "2021-03-20"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -37324,6 +38247,10 @@
     "2011-05-22",
     "2021-02-15"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 3
   },
   "days_played": 4,
   "spans": [
@@ -37403,6 +38330,9 @@
     "2021-02-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -37457,6 +38387,10 @@
     "2020-12-04",
     "2021-01-23"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "Xbox|Xbox|fakeronjan": 4
   },
   "days_played": 6,
   "spans": [
@@ -37587,6 +38521,10 @@
     "2021-01-20"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "PlayStation|PS4|": 1
+  },
   "days_played": 2,
   "spans": [],
   "family_play": false,
@@ -37645,6 +38583,9 @@
     "2020-12-06",
     "2021-01-10"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 3,
   "spans": [
@@ -37711,6 +38652,9 @@
     "2021-01-10"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -37768,6 +38712,9 @@
     "2021-01-08"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -37809,6 +38756,9 @@
    "Xbox": [
     "2020-12-31"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -37855,6 +38805,9 @@
    "Xbox": [
     "2020-12-31"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -37923,6 +38876,13 @@
     "2012-05-08",
     "2020-12-24"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 1,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 7,
+   "Nintendo|Switch|": 2,
+   "PlayStation|PS4|": 1
   },
   "days_played": 11,
   "spans": [
@@ -38128,6 +39088,11 @@
     "2020-12-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 8,
+   "PlayStation|Vita|": 7,
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 18,
   "spans": [
    [
@@ -38304,6 +39269,10 @@
     "2020-12-04"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1,
+   "Xbox|Xbox|fakeronjan": 2
+  },
   "days_played": 3,
   "spans": [
    [
@@ -38446,6 +39415,9 @@
     "2020-11-28"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -38501,6 +39473,9 @@
     "2020-11-28"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -38548,6 +39523,10 @@
     "2006-04-02",
     "2020-11-24"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|thesurfshop19": 3
   },
   "days_played": 4,
   "spans": [
@@ -38626,6 +39605,9 @@
     "2020-11-21"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -38680,6 +39662,11 @@
     "2011-10-09",
     "2020-11-21"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 4
   },
   "days_played": 6,
   "spans": [
@@ -38779,6 +39766,9 @@
     "2020-11-13"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -38856,6 +39846,9 @@
     "2016-02-14",
     "2020-11-13"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
   },
   "days_played": 2,
   "spans": [
@@ -38938,6 +39931,9 @@
     "2020-11-12"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -38979,6 +39975,9 @@
    "PlayStation": [
     "2020-11-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -39037,6 +40036,9 @@
     "2020-11-08"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -39090,6 +40092,9 @@
    "PlayStation": [
     "2020-11-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -39151,6 +40156,10 @@
    "Xbox": [
     "2019-02-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 3,
   "spans": [
@@ -39239,6 +40248,9 @@
     "2020-09-28"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -39325,6 +40337,9 @@
     "2018-08-07",
     "2020-09-13"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 29
   },
   "days_played": 29,
   "spans": [
@@ -39566,6 +40581,9 @@
     "2020-09-13"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 35
+  },
   "days_played": 35,
   "spans": [
    [
@@ -39804,6 +40822,9 @@
     "2020-09-12"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -39849,6 +40870,9 @@
     "2020-09-06",
     "2020-09-07"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
   },
   "days_played": 3,
   "spans": [
@@ -39989,6 +41013,9 @@
     "2018-02-18",
     "2020-09-06"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 10
   },
   "days_played": 10,
   "spans": [
@@ -40141,6 +41168,10 @@
     "2020-02-27"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5,
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 8,
   "spans": [
    [
@@ -40245,6 +41276,9 @@
     "2020-08-27"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -40307,6 +41341,10 @@
    "Xbox": [
     "2020-02-27"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 4,
   "spans": [
@@ -40396,6 +41434,9 @@
     "2020-06-25"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -40479,6 +41520,9 @@
     "2020-06-21"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -40549,6 +41593,9 @@
     "2020-06-20"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -40611,6 +41658,9 @@
     "2020-06-14"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [],
   "family_play": false,
@@ -40672,6 +41722,9 @@
    "Nintendo": [
     "2020-05-30"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -40736,6 +41789,9 @@
     "2020-03-27",
     "2020-05-10"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
   },
   "days_played": 2,
   "spans": [
@@ -40813,6 +41869,9 @@
     "2017-08-26",
     "2020-05-08"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 27
   },
   "days_played": 27,
   "spans": [
@@ -41034,6 +42093,9 @@
     "2020-04-27"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -41151,6 +42213,9 @@
     "2020-04-21"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -41256,6 +42321,9 @@
     "2020-04-05"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -41329,6 +42397,9 @@
     "2020-03-22"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -41384,6 +42455,9 @@
     "2020-03-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -41429,6 +42503,10 @@
     "2007-03-03",
     "2020-03-15"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|thesurfshop19": 2
   },
   "days_played": 3,
   "spans": [
@@ -41503,6 +42581,9 @@
     "2020-03-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -41544,6 +42625,9 @@
    "Xbox": [
     "2020-03-09"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -41595,6 +42679,10 @@
     "2016-11-05",
     "2020-03-08"
    ]
+  },
+  "days_by_platform": {
+   "Steam|PC|": 2,
+   "Nintendo|Switch|": 4
   },
   "days_played": 6,
   "spans": [
@@ -41792,6 +42880,9 @@
     "2020-03-04"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 28
+  },
   "days_played": 28,
   "spans": [
    [
@@ -41941,6 +43032,9 @@
     "2020-03-02"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -41991,6 +43085,9 @@
     "2016-02-29",
     "2020-02-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 11
   },
   "days_played": 11,
   "spans": [
@@ -42247,6 +43344,9 @@
     "2020-02-22"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 8
+  },
   "days_played": 8,
   "spans": [
    [
@@ -42321,6 +43421,9 @@
     "2019-11-22",
     "2020-02-15"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 6
   },
   "days_played": 6,
   "spans": [
@@ -42409,6 +43512,9 @@
     "2014-10-18",
     "2020-02-02"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 49
   },
   "days_played": 49,
   "spans": [
@@ -42729,6 +43835,9 @@
     "2020-02-02"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -43022,6 +44131,9 @@
     "2019-12-25"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 12
+  },
   "days_played": 12,
   "spans": [
    [
@@ -43307,6 +44419,9 @@
     "2019-12-14"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -43374,6 +44489,10 @@
     "2017-10-10",
     "2019-11-30"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 4,
+   "Nintendo|Wii U|": 7
   },
   "days_played": 11,
   "spans": [
@@ -43765,6 +44884,9 @@
     "2019-11-28"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 145
+  },
   "days_played": 145,
   "spans": [
    [
@@ -44086,6 +45208,9 @@
     "2019-11-28"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 156
+  },
   "days_played": 156,
   "spans": [
    [
@@ -44363,6 +45488,9 @@
     "2019-11-28"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 14
+  },
   "days_played": 14,
   "spans": [
    [
@@ -44605,6 +45733,10 @@
     "2018-02-19",
     "2019-11-28"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 5,
+   "Nintendo|Wii U|": 12
   },
   "days_played": 17,
   "spans": [
@@ -44968,6 +46100,9 @@
     "2019-11-28"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -45251,6 +46386,9 @@
     "2019-10-12"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -45325,6 +46463,9 @@
     "2019-09-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -45366,6 +46507,9 @@
    "Xbox": [
     "2019-08-13"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -45417,6 +46561,10 @@
     "2019-03-10",
     "2019-08-12"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 2,
+   "Nintendo|Switch|": 3
   },
   "days_played": 5,
   "spans": [
@@ -45519,6 +46667,9 @@
     "2019-07-29"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -45583,6 +46734,9 @@
     "2019-06-16",
     "2019-06-24"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 3
   },
   "days_played": 3,
   "spans": [
@@ -45657,6 +46811,9 @@
    "Nintendo": [
     "2019-05-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -45738,6 +46895,10 @@
     "2012-06-29",
     "2012-06-30"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 8,
+   "Nintendo|Switch|": 1
   },
   "days_played": 9,
   "spans": [
@@ -45842,6 +47003,9 @@
     "2019-02-17"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -45904,6 +47068,9 @@
     "2019-02-10"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -45949,6 +47116,9 @@
     "2019-01-10",
     "2019-01-19"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 3
   },
   "days_played": 3,
   "spans": [
@@ -46023,6 +47193,9 @@
    "Nintendo": [
     "2019-01-11"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 12
   },
   "days_played": 12,
   "spans": [
@@ -46185,6 +47358,9 @@
     "2019-01-05"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 9
+  },
   "days_played": 9,
   "spans": [
    [
@@ -46279,6 +47455,9 @@
     "2018-12-16"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -46355,6 +47534,9 @@
     "2018-12-15"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -46419,6 +47601,9 @@
     "2018-11-19",
     "2018-11-25"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 5
   },
   "days_played": 5,
   "spans": [
@@ -46495,6 +47680,9 @@
     "2018-05-01",
     "2018-11-04"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 58
   },
   "days_played": 58,
   "spans": [
@@ -46588,6 +47776,11 @@
     "2018-07-04",
     "2018-10-09"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 9,
+   "Nintendo|Wii U|": 11,
+   "Nintendo|Wii U/3DS|": 1
   },
   "days_played": 20,
   "spans": [
@@ -46955,6 +48148,9 @@
     "2018-10-07"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 31
+  },
   "days_played": 31,
   "spans": [
    [
@@ -47278,6 +48474,9 @@
     "2018-09-16"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -47339,6 +48538,9 @@
     "2018-08-25"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -47389,6 +48591,9 @@
     "2016-12-02",
     "2018-08-14"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 44
   },
   "days_played": 44,
   "spans": [
@@ -47533,6 +48738,9 @@
     "2018-07-22"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -47613,6 +48821,9 @@
     "2018-07-22"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -47669,6 +48880,9 @@
     "2018-07-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -47712,6 +48926,9 @@
     "2015-02-26",
     "2018-07-06"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 4
   },
   "days_played": 4,
   "spans": [
@@ -47949,6 +49166,10 @@
     "2018-06-10",
     "2018-07-04"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 31,
+   "Nintendo|Wii U|": 26
   },
   "days_played": 57,
   "spans": [
@@ -48320,6 +49541,10 @@
     "2018-07-04"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 3,
+   "Nintendo|Wii U|": 6
+  },
   "days_played": 9,
   "spans": [
    [
@@ -48581,6 +49806,10 @@
     "2015-02-21",
     "2018-07-04"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2,
+   "Nintendo|Wii U|": 14
   },
   "days_played": 16,
   "spans": [
@@ -48844,6 +50073,9 @@
     "2018-07-04"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -49083,6 +50315,9 @@
     "2018-07-04"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -49287,6 +50522,9 @@
     "2015-03-22",
     "2018-07-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 67
   },
   "days_played": 67,
   "spans": [
@@ -49586,6 +50824,9 @@
     "2011-09-09",
     "2018-07-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 41
   },
   "days_played": 41,
   "spans": [
@@ -49978,6 +51219,9 @@
     "2018-06-30"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -50044,6 +51288,9 @@
     "2017-12-22",
     "2018-06-24"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 7
   },
   "days_played": 7,
   "spans": [
@@ -50140,6 +51387,10 @@
     "2018-05-26",
     "2018-06-16"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2,
+   "Nintendo|Switch|": 3
   },
   "days_played": 5,
   "spans": [
@@ -50255,6 +51506,9 @@
     "2018-06-09"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -50323,6 +51577,11 @@
     "2015-01-04",
     "2018-05-28"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3,Vita|": 1,
+   "PlayStation|PS3,Vita,PS4|": 3,
+   "PlayStation|PS4|": 2
   },
   "days_played": 5,
   "spans": [
@@ -50454,6 +51713,9 @@
     "2011-11-13",
     "2018-05-20"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 66
   },
   "days_played": 66,
   "spans": [
@@ -50836,6 +52098,10 @@
     "2018-05-20"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 24,
+   "Nintendo|Wii U|": 12
+  },
   "days_played": 36,
   "spans": [
    [
@@ -51130,6 +52396,10 @@
     "2018-04-29"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 11,
+   "PlayStation|PS4|": 3
+  },
   "days_played": 14,
   "spans": [
    [
@@ -51248,6 +52518,9 @@
     "2016-12-29",
     "2018-04-25"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 16
   },
   "days_played": 16,
   "spans": [
@@ -51387,6 +52660,9 @@
     "2014-12-05",
     "2018-04-16"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 24
   },
   "days_played": 24,
   "spans": [
@@ -51610,6 +52886,9 @@
     "2011-06-19",
     "2018-04-09"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 26
   },
   "days_played": 26,
   "spans": [
@@ -52010,6 +53289,9 @@
     "2018-03-30"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -52078,6 +53360,10 @@
    "Steam": [
     "2016-01-23"
    ]
+  },
+  "days_by_platform": {
+   "Steam|PC|": 1,
+   "Nintendo|Switch|": 2
   },
   "days_played": 3,
   "spans": [],
@@ -52155,6 +53441,9 @@
     "2018-03-06"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -52221,6 +53510,9 @@
     "2016-06-19",
     "2018-02-28"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -52304,6 +53596,10 @@
     "2016-11-26",
     "2018-02-23"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 13,
+   "Nintendo|Wii U|": 9
   },
   "days_played": 22,
   "spans": [
@@ -52535,6 +53831,9 @@
     "2018-02-23"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -52664,6 +53963,9 @@
     "2018-02-17"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -52749,6 +54051,9 @@
     "2017-01-22",
     "2018-02-15"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 15
   },
   "days_played": 15,
   "spans": [
@@ -52941,6 +54246,9 @@
     "2018-02-04"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 31
+  },
   "days_played": 31,
   "spans": [
    [
@@ -53037,6 +54345,9 @@
     "2018-02-04"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -53115,6 +54426,9 @@
     "2018-02-04"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -53180,6 +54494,9 @@
     "2017-09-01",
     "2018-01-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
   },
   "days_played": 3,
   "spans": [
@@ -53249,6 +54566,9 @@
     "2017-09-04",
     "2018-01-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 4
   },
   "days_played": 4,
   "spans": [
@@ -53324,6 +54644,9 @@
     "2018-01-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -53377,6 +54700,9 @@
    "PlayStation": [
     "2018-01-04"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -53433,6 +54759,9 @@
     "2017-12-26",
     "2017-12-28"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
   },
   "days_played": 2,
   "spans": [
@@ -53497,6 +54826,9 @@
     "2017-12-21"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -53559,6 +54891,9 @@
     "2017-12-16",
     "2017-12-17"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
   },
   "days_played": 2,
   "spans": [
@@ -53634,6 +54969,9 @@
     "2017-12-05"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -53694,6 +55032,9 @@
     "2017-09-03",
     "2017-09-10"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 5
   },
   "days_played": 5,
   "spans": [
@@ -53770,6 +55111,9 @@
     "2017-08-16",
     "2017-09-02"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
   },
   "days_played": 2,
   "spans": [
@@ -53856,6 +55200,9 @@
     "2017-07-28",
     "2017-08-12"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5
   },
   "days_played": 5,
   "spans": [
@@ -53946,6 +55293,9 @@
     "2016-07-23",
     "2017-05-29"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 11
   },
   "days_played": 11,
   "spans": [
@@ -54071,6 +55421,10 @@
     "2016-09-21",
     "2017-05-26"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 8,
+   "Nintendo|Wii U|": 3
   },
   "days_played": 11,
   "spans": [
@@ -54254,6 +55608,9 @@
     "2017-03-31"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Switch|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -54316,6 +55673,9 @@
     "2016-12-25",
     "2017-01-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2
   },
   "days_played": 2,
   "spans": [
@@ -54382,6 +55742,9 @@
     "2016-12-24"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -54432,6 +55795,9 @@
     "2016-10-22",
     "2016-12-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|Vita|": 2
   },
   "days_played": 2,
   "spans": [
@@ -54494,6 +55860,9 @@
     "2012-07-26",
     "2016-11-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 20
   },
   "days_played": 20,
   "spans": [
@@ -54778,6 +56147,9 @@
     "2016-10-23"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 9
+  },
   "days_played": 9,
   "spans": [
    [
@@ -54925,6 +56297,9 @@
     "2016-10-23"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -55004,6 +56379,9 @@
     "2016-10-15"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 8
+  },
   "days_played": 8,
   "spans": [
    [
@@ -55077,6 +56455,9 @@
     "2016-10-15"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -55144,6 +56525,9 @@
     "2016-09-18"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -55208,6 +56592,9 @@
     "2016-07-17",
     "2016-08-21"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
   },
   "days_played": 3,
   "spans": [
@@ -55275,6 +56662,10 @@
     "2015-03-18",
     "2016-08-20"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2,
+   "Nintendo|Wii U|": 3
   },
   "days_played": 5,
   "spans": [
@@ -55440,6 +56831,9 @@
     "2016-08-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -55502,6 +56896,10 @@
     "2006-12-03",
     "2016-08-06"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|thesurfshop19": 3
   },
   "days_played": 4,
   "spans": [
@@ -55592,6 +56990,11 @@
    "Xbox": [
     "2016-03-04"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 5,
+   "Xbox|Xbox|fakeronjan": 1,
+   "Steam|PC|": 1
   },
   "days_played": 7,
   "spans": [
@@ -55689,6 +57092,9 @@
     "2016-06-22"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -55746,6 +57152,9 @@
     "2016-06-19"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -55798,6 +57207,10 @@
     "2013-02-26",
     "2016-05-31"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2,
+   "PlayStation|Vita|": 1
   },
   "days_played": 3,
   "spans": [
@@ -55875,6 +57288,9 @@
     "2016-05-27"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -55946,6 +57362,9 @@
     "2016-01-31",
     "2016-05-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -56021,6 +57440,9 @@
     "2016-04-30"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -56067,6 +57489,10 @@
     "2012-10-21",
     "2016-04-30"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "PlayStation|Vita|": 1
   },
   "days_played": 2,
   "spans": [],
@@ -56148,6 +57574,11 @@
     "2014-01-31",
     "2016-04-05"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "PlayStation|Vita|": 1,
+   "PlayStation|PS4|": 3
   },
   "days_played": 5,
   "spans": [
@@ -56256,6 +57687,9 @@
     "2016-04-02"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -56331,6 +57765,9 @@
     "2016-03-24"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -56380,6 +57817,9 @@
     "2016-02-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -56421,6 +57861,9 @@
    "Xbox": [
     "2016-02-14"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
   },
   "days_played": 1,
   "spans": [],
@@ -56465,6 +57908,10 @@
     "2007-03-31",
     "2016-02-14"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|thesurfshop19": 1
   },
   "days_played": 2,
   "spans": [],
@@ -56529,6 +57976,9 @@
     "2016-02-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -56576,6 +58026,10 @@
     "2010-08-15",
     "2016-02-14"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|Xbox|fakeronjan": 1,
+   "Xbox|360|rogerage": 1
   },
   "days_played": 2,
   "spans": [],
@@ -56641,6 +58095,9 @@
     "2016-01-10",
     "2016-02-07"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -56710,6 +58167,9 @@
     "2016-01-25"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -56754,6 +58214,9 @@
    "Steam": [
     "2016-01-23"
    ]
+  },
+  "days_by_platform": {
+   "Steam|PC|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -56810,6 +58273,9 @@
     "2015-11-08",
     "2016-01-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3,PS4|": 7
   },
   "days_played": 7,
   "spans": [
@@ -56873,6 +58339,9 @@
     "2016-01-12"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -56913,6 +58382,9 @@
    "PlayStation": [
     "2016-01-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -56969,6 +58441,9 @@
     "2015-12-23",
     "2016-01-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -57030,6 +58505,10 @@
     "2016-01-09"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,PS4|": 1,
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -57087,6 +58566,9 @@
     "2015-12-27"
    ]
   },
+  "days_by_platform": {
+   "Steam|PC|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -57132,6 +58614,9 @@
     "2015-11-21",
     "2015-11-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 2
   },
   "days_played": 2,
   "spans": [
@@ -57194,6 +58679,9 @@
     "2015-11-22"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -57250,6 +58738,9 @@
     "2015-07-28",
     "2015-11-21"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 7
   },
   "days_played": 7,
   "spans": [
@@ -57322,6 +58813,9 @@
     "2015-08-30"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -57372,6 +58866,9 @@
     "2015-06-11",
     "2015-08-05"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 3
   },
   "days_played": 3,
   "spans": [
@@ -57442,6 +58939,9 @@
     "2015-06-28"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -57486,6 +58986,9 @@
    "PlayStation": [
     "2015-06-20"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -57542,6 +59045,9 @@
     "2015-05-22",
     "2015-05-24"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2
   },
   "days_played": 2,
   "spans": [
@@ -57604,6 +59110,9 @@
     "2015-05-09"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -57663,6 +59172,9 @@
     "2015-04-24",
     "2015-04-28"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 4
   },
   "days_played": 4,
   "spans": [
@@ -57735,6 +59247,11 @@
     "2011-09-10",
     "2011-09-14"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 1,
+   "Xbox|360|rogerage": 2,
+   "PlayStation|PS4|": 1
   },
   "days_played": 3,
   "spans": [
@@ -57837,6 +59354,9 @@
     "2015-03-21"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -57904,6 +59424,9 @@
     "2015-02-28"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -57966,6 +59489,9 @@
     "2015-01-24",
     "2015-02-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -58040,6 +59566,10 @@
     "2015-02-08"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 1,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -58110,6 +59640,9 @@
     "2015-02-07"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58164,6 +59697,9 @@
     "2015-02-07"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58217,6 +59753,9 @@
    "Nintendo": [
     "2015-01-31"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -58278,6 +59817,10 @@
     "2015-01-04",
     "2015-01-18"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 4,
+   "PlayStation|PS4|": 3
   },
   "days_played": 7,
   "spans": [
@@ -58387,6 +59930,9 @@
     "2015-01-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58455,6 +60001,9 @@
     "2015-01-10"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -58522,6 +60071,9 @@
     "2014-12-30"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58577,6 +60129,9 @@
     "2014-11-18",
     "2014-12-21"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -58649,6 +60204,9 @@
     "2014-12-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58703,6 +60261,9 @@
     "2014-12-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58756,6 +60317,9 @@
    "PlayStation": [
     "2014-12-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -58812,6 +60376,9 @@
     "2014-06-07",
     "2014-12-06"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 25
   },
   "days_played": 25,
   "spans": [
@@ -58898,6 +60465,9 @@
     "2014-12-02"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -58952,6 +60522,9 @@
     "2014-11-09"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -59005,6 +60578,10 @@
    "PlayStation": [
     "2014-11-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|Vita,PS4|": 1,
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -59064,6 +60641,9 @@
     "2013-07-20",
     "2014-11-07"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 2
   },
   "days_played": 2,
   "spans": [
@@ -59130,6 +60710,9 @@
     "2014-11-07"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -59180,6 +60763,9 @@
     "2014-10-18",
     "2014-10-26"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|Wii U|": 3
   },
   "days_played": 3,
   "spans": [
@@ -59245,6 +60831,9 @@
     "2014-10-08",
     "2014-10-12"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3
   },
   "days_played": 3,
   "spans": [
@@ -59316,6 +60905,9 @@
     "2014-10-07"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -59369,6 +60961,9 @@
    "PlayStation": [
     "2014-10-07"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -59428,6 +61023,10 @@
     "2010-03-06",
     "2014-10-03"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "PlayStation|PS4|": 1
   },
   "days_played": 2,
   "spans": [],
@@ -59503,6 +61102,9 @@
     "2014-09-08",
     "2014-09-15"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -59593,6 +61195,9 @@
     "2014-09-15"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 12
+  },
   "days_played": 12,
   "spans": [
    [
@@ -59668,6 +61273,10 @@
     "2014-09-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,PS4|": 2,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 3,
   "spans": [
    [
@@ -59738,6 +61347,10 @@
     "2014-09-02"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,Vita,PS4|": 1,
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -59794,6 +61407,9 @@
    "PlayStation": [
     "2014-08-16"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -59853,6 +61469,9 @@
     "2014-08-11",
     "2014-08-16"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
   },
   "days_played": 2,
   "spans": [
@@ -59925,6 +61544,9 @@
     "2014-04-13",
     "2014-08-13"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 6
   },
   "days_played": 6,
   "spans": [
@@ -60008,6 +61630,10 @@
     "2014-07-30",
     "2014-08-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2,
+   "PlayStation|PS4|": 2
   },
   "days_played": 4,
   "spans": [
@@ -60108,6 +61734,10 @@
     "2014-07-27"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,Vita,PS4|": 1,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -60178,6 +61808,9 @@
     "2014-06-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -60231,6 +61864,9 @@
    "PlayStation": [
     "2014-05-20"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -60298,6 +61934,9 @@
     "2014-05-10"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -60361,6 +62000,10 @@
     "2013-11-23",
     "2014-04-24"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2,
+   "PlayStation|PS4|": 4
   },
   "days_played": 6,
   "spans": [
@@ -60457,6 +62100,10 @@
     "2014-03-29"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3,Vita,PS4|": 2,
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -60529,6 +62176,9 @@
     "2014-03-23"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -60598,6 +62248,9 @@
    "PlayStation": [
     "2014-03-04"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -60669,6 +62322,10 @@
     "2014-02-21",
     "2014-02-22"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 4,
+   "PlayStation|PS4|": 4
   },
   "days_played": 8,
   "spans": [
@@ -60770,6 +62427,9 @@
     "2014-02-17"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -60842,6 +62502,9 @@
     "2014-02-07"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -60909,6 +62572,9 @@
     "2014-01-12"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -60962,6 +62628,9 @@
    "PlayStation": [
     "2013-12-30"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -61017,6 +62686,9 @@
     "2013-12-15"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -61060,6 +62732,9 @@
     "2013-11-17",
     "2013-11-30"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 11
   },
   "days_played": 11,
   "spans": [
@@ -61122,6 +62797,9 @@
     "2013-11-22"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -61176,6 +62854,9 @@
     "2013-11-17"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -61220,6 +62901,9 @@
    "PlayStation": [
     "2013-11-16"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -61274,6 +62958,9 @@
    "PlayStation": [
     "2013-11-15"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -61330,6 +63017,9 @@
     "2013-05-25",
     "2013-09-16"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 26
   },
   "days_played": 26,
   "spans": [
@@ -61418,6 +63108,9 @@
     "2013-09-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 6
+  },
   "days_played": 6,
   "spans": [
    [
@@ -61478,6 +63171,9 @@
     "2013-08-12",
     "2013-09-02"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 4
   },
   "days_played": 4,
   "spans": [
@@ -61546,6 +63242,9 @@
     "2013-08-03"
    ]
   },
+  "days_by_platform": {
+   "Nintendo|3DS|": 6
+  },
   "days_played": 6,
   "spans": [
    [
@@ -61611,6 +63310,9 @@
     "2013-08-03"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -61655,6 +63357,9 @@
    "Nintendo": [
     "2013-07-21"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -61705,6 +63410,9 @@
     "2013-07-13"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -61749,6 +63457,9 @@
    "Nintendo": [
     "2013-07-03"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -61800,6 +63511,9 @@
     "2013-06-16",
     "2013-06-22"
    ]
+  },
+  "days_by_platform": {
+   "Nintendo|3DS|": 7
   },
   "days_played": 7,
   "spans": [
@@ -61878,6 +63592,9 @@
     "2013-05-28"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 9
+  },
   "days_played": 9,
   "spans": [
    [
@@ -61945,6 +63662,9 @@
     "2010-05-27",
     "2012-11-05"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2
   },
   "days_played": 2,
   "spans": [
@@ -62067,6 +63787,11 @@
     "2011-07-01",
     "2012-01-11"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3,
+   "PlayStation|Vita|": 7,
+   "Xbox|360|rogerage": 6
   },
   "days_played": 16,
   "spans": [
@@ -62203,6 +63928,9 @@
     "2012-10-12"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -62268,6 +63996,10 @@
     "2010-11-20",
     "2010-12-04"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|360|rogerage": 2
   },
   "days_played": 3,
   "spans": [
@@ -62350,6 +64082,9 @@
     "2012-09-14",
     "2012-09-19"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 4
   },
   "days_played": 4,
   "spans": [
@@ -62439,6 +64174,10 @@
     "2011-11-09",
     "2012-05-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 7,
+   "Xbox|360|rogerage": 8
   },
   "days_played": 15,
   "spans": [
@@ -62555,6 +64294,9 @@
     "2012-07-12"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 11
+  },
   "days_played": 11,
   "spans": [
    [
@@ -62615,6 +64357,9 @@
    "PlayStation": [
     "2012-06-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -62677,6 +64422,9 @@
     "2012-05-28"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 9
+  },
   "days_played": 9,
   "spans": [
    [
@@ -62737,6 +64485,9 @@
     "2012-05-10"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -62785,6 +64536,9 @@
     "2012-04-28",
     "2012-04-30"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3
   },
   "days_played": 3,
   "spans": [
@@ -62846,6 +64600,9 @@
     "2012-03-10"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -62905,6 +64662,9 @@
     "2012-03-09"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|Vita|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -62949,6 +64709,9 @@
    "PlayStation": [
     "2011-12-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -62996,6 +64759,9 @@
     "2011-09-25",
     "2011-10-02"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2
   },
   "days_played": 2,
   "spans": [
@@ -63083,6 +64849,10 @@
     "2010-10-02",
     "2011-09-14"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 11,
+   "Xbox|360|thesurfshop19": 4
   },
   "days_played": 15,
   "spans": [
@@ -63185,6 +64955,9 @@
     "2011-09-12"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -63240,6 +65013,9 @@
     "2011-08-21",
     "2011-09-05"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 6
   },
   "days_played": 6,
   "spans": [
@@ -63309,6 +65085,9 @@
     "2011-04-09",
     "2011-09-04"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 5
   },
   "days_played": 5,
   "spans": [
@@ -63385,6 +65164,9 @@
     "2011-03-20",
     "2011-08-14"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 4
   },
   "days_played": 4,
   "spans": [
@@ -63475,6 +65257,9 @@
     "2011-07-09"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 13
+  },
   "days_played": 13,
   "spans": [
    [
@@ -63544,6 +65329,9 @@
     "2011-06-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -63591,6 +65379,9 @@
     "2011-05-16",
     "2011-05-22"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 2
   },
   "days_played": 2,
   "spans": [
@@ -63665,6 +65456,9 @@
     "2011-04-09"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -63737,6 +65531,9 @@
     "2011-03-30"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -63804,6 +65601,9 @@
     "2011-02-01"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -63865,6 +65665,9 @@
     "2011-01-26"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -63924,6 +65727,9 @@
     "2010-11-18"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -63977,6 +65783,9 @@
     "2010-11-08",
     "2010-11-09"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 7
   },
   "days_played": 7,
   "spans": [
@@ -64040,6 +65849,9 @@
     "2010-11-05"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -64099,6 +65911,9 @@
     "2010-10-21"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -64148,6 +65963,9 @@
     "2010-10-05",
     "2010-10-08"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 3
   },
   "days_played": 3,
   "spans": [
@@ -64216,6 +66034,9 @@
     "2010-09-25"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -64275,6 +66096,9 @@
     "2010-09-25"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -64328,6 +66152,10 @@
     "2010-08-30",
     "2010-09-03"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|rogerage": 2,
+   "Xbox|360|thesurfshop19": 3
   },
   "days_played": 5,
   "spans": [
@@ -64424,6 +66252,9 @@
     "2010-08-16"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -64484,6 +66315,9 @@
     "2010-08-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -64538,6 +66372,9 @@
     "2010-07-19",
     "2010-08-01"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 6
   },
   "days_played": 6,
   "spans": [
@@ -64599,6 +66436,9 @@
     "2010-06-10",
     "2010-06-12"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2
   },
   "days_played": 2,
   "spans": [
@@ -64664,6 +66504,9 @@
     "2010-05-27"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 4
+  },
   "days_played": 4,
   "spans": [
    [
@@ -64727,6 +66570,9 @@
     "2010-01-19",
     "2010-05-09"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 4
   },
   "days_played": 4,
   "spans": [
@@ -64798,6 +66644,9 @@
     "2010-04-25",
     "2010-05-01"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2
   },
   "days_played": 2,
   "spans": [
@@ -64872,6 +66721,9 @@
     "2010-03-20"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -64930,6 +66782,9 @@
     "2010-02-21"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -64984,6 +66839,9 @@
     "2010-02-06",
     "2010-02-13"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 6
   },
   "days_played": 6,
   "spans": [
@@ -65043,6 +66901,9 @@
    "Xbox": [
     "2009-12-27"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
   },
   "days_played": 1,
   "spans": [],
@@ -65107,6 +66968,9 @@
     "2009-11-28",
     "2009-11-29"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 10
   },
   "days_played": 10,
   "spans": [
@@ -65182,6 +67046,9 @@
     "2009-11-14"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -65253,6 +67120,9 @@
     "2009-10-12"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -65321,6 +67191,10 @@
     "2007-06-21",
     "2007-07-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|360|thesurfshop19": 3
   },
   "days_played": 4,
   "spans": [
@@ -65405,6 +67279,10 @@
     "2007-10-15"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1,
+   "Xbox|360|thesurfshop19": 2
+  },
   "days_played": 3,
   "spans": [
    [
@@ -65482,6 +67360,9 @@
     "2009-08-17"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -65526,6 +67407,9 @@
    "PlayStation": [
     "2009-08-08"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -65575,6 +67459,9 @@
     "2009-07-31",
     "2009-08-03"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 3
   },
   "days_played": 3,
   "spans": [
@@ -65634,6 +67521,9 @@
    "PlayStation": [
     "2009-07-10"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 1
   },
   "days_played": 1,
   "spans": [],
@@ -65696,6 +67586,10 @@
     "2008-12-09",
     "2009-01-30"
    ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 5,
+   "Xbox|360|thesurfshop19": 3
   },
   "days_played": 8,
   "spans": [
@@ -65797,6 +67691,9 @@
     "2009-03-29"
    ]
   },
+  "days_by_platform": {
+   "PlayStation|PS3|": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -65854,6 +67751,9 @@
    "Xbox": [
     "2009-01-30"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
   },
   "days_played": 1,
   "spans": [],
@@ -65931,6 +67831,9 @@
     "2008-01-07"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 16
+  },
   "days_played": 16,
   "spans": [
    [
@@ -65997,6 +67900,9 @@
     "2007-11-23"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -66042,6 +67948,9 @@
    "Xbox": [
     "2007-11-19"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
   },
   "days_played": 1,
   "spans": [],
@@ -66090,6 +67999,9 @@
     "2007-10-16",
     "2007-10-24"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
   },
   "days_played": 2,
   "spans": [
@@ -66154,6 +68066,9 @@
     "2007-10-16"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -66214,6 +68129,9 @@
     "2007-10-15"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -66259,6 +68177,9 @@
    "Xbox": [
     "2007-10-13"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
   },
   "days_played": 1,
   "spans": [],
@@ -66307,6 +68228,9 @@
     "2007-08-16",
     "2007-08-19"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
   },
   "days_played": 2,
   "spans": [
@@ -66375,6 +68299,9 @@
     "2007-08-01"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 5
+  },
   "days_played": 5,
   "spans": [
    [
@@ -66442,6 +68369,9 @@
     "2007-07-29",
     "2007-07-31"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 5
   },
   "days_played": 5,
   "spans": [
@@ -66514,6 +68444,9 @@
     "2007-07-17"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 7
+  },
   "days_played": 7,
   "spans": [
    [
@@ -66575,6 +68508,9 @@
     "2007-06-06"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -66635,6 +68571,9 @@
     "2007-06-02",
     "2007-06-03"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
   },
   "days_played": 2,
   "spans": [
@@ -66713,6 +68652,9 @@
     "2007-05-18"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 10
+  },
   "days_played": 10,
   "spans": [
    [
@@ -66782,6 +68724,9 @@
     "2007-03-31"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -66842,6 +68787,9 @@
     "2007-03-14",
     "2007-03-16"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
   },
   "days_played": 2,
   "spans": [
@@ -66904,6 +68852,9 @@
     "2007-03-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -66963,6 +68914,9 @@
     "2007-02-24"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -67016,6 +68970,9 @@
     "2006-07-15",
     "2007-02-23"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 5
   },
   "days_played": 5,
   "spans": [
@@ -67090,6 +69047,9 @@
     "2007-02-13"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 3
+  },
   "days_played": 3,
   "spans": [
    [
@@ -67149,6 +69109,9 @@
     "2007-02-04"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -67198,6 +69161,9 @@
     "2006-10-29",
     "2006-11-15"
    ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 3
   },
   "days_played": 3,
   "spans": [
@@ -67261,6 +69227,9 @@
     "2006-11-14"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 2
+  },
   "days_played": 2,
   "spans": [
    [
@@ -67320,6 +69289,9 @@
     "2006-04-07"
    ]
   },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 1
+  },
   "days_played": 1,
   "spans": [],
   "family_play": false,
@@ -67360,6 +69332,7 @@
    "Xbox"
   ],
   "days_by_family": {},
+  "days_by_platform": {},
   "days_played": 0,
   "spans": [],
   "family_play": false,
@@ -67396,6 +69369,7 @@
    "Xbox"
   ],
   "days_by_family": {},
+  "days_by_platform": {},
   "days_played": 0,
   "spans": [],
   "family_play": false,
@@ -67432,6 +69406,7 @@
    "Xbox"
   ],
   "days_by_family": {},
+  "days_by_platform": {},
   "days_played": 0,
   "spans": [],
   "family_play": false,
