@@ -251,7 +251,8 @@
   "psn:NPWR14554_00": "Secret of Mana (2018)",
   "steam:1250410": "Microsoft Flight Simulator (2020)",
   "nintendo:000500001019d200": "Punch-Out!! (2009)",
-  "xbox:fakeronjan:1766089184": "GoldenEye 007 (1997)"
+  "xbox:fakeronjan:1766089184": "GoldenEye 007 (1997)",
+  "nintendo:0004000000041d00": "Donkey Kong (1994)"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row; collections: split one collection list into its games (see build_games.split_collections)",
  "exclude": {
