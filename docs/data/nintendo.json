@@ -2112,12 +2112,12 @@
    "platform": "Switch 2"
   },
   "0400486024dec000": {
-   "days_played": 4,
+   "days_played": 5,
    "family_play": false,
    "first_played": "2026-11-05T18:41:12Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
-   "last_played": "2026-11-11T17:10:33Z",
-   "minutes": 559,
+   "last_played": "2026-11-14T00:56:37Z",
+   "minutes": 614,
    "name": "The Legend of Zelda: Ocarina of Time",
    "platform": "Switch 2"
   },
@@ -2152,12 +2152,12 @@
    "platform": "Switch 2"
   },
   "0400c3f00006e000": {
-   "days_played": 16,
+   "days_played": 17,
    "family_play": false,
    "first_played": "2025-06-08T01:02:16Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
-   "last_played": "2026-09-27T19:57:11Z",
-   "minutes": 624,
+   "last_played": "2026-11-14T00:58:01Z",
+   "minutes": 625,
    "name": "Mario Kart World",
    "platform": "Switch 2"
   },
@@ -2172,5 +2172,5 @@
    "platform": "Switch 2"
   }
  },
- "updated": "2026-11-13T20:38:57Z"
+ "updated": "2026-11-14T10:43:10Z"
 }

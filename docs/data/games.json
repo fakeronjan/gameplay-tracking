@@ -4,12 +4,13 @@
   "name": "The Legend of Zelda: Ocarina of Time (Switch 2)",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
   "first": "2026-11-05",
-  "last": "2026-11-11",
+  "last": "2026-11-13",
   "days": [
    "2026-11-05",
    "2026-11-07",
    "2026-11-08",
-   "2026-11-11"
+   "2026-11-11",
+   "2026-11-13"
   ],
   "families": [
    "Nintendo"
@@ -19,13 +20,14 @@
     "2026-11-05",
     "2026-11-07",
     "2026-11-08",
-    "2026-11-11"
+    "2026-11-11",
+    "2026-11-13"
    ]
   },
   "days_by_platform": {
-   "Nintendo|Switch 2|": 4
+   "Nintendo|Switch 2|": 5
   },
-  "days_played": 4,
+  "days_played": 5,
   "spans": [
    [
     "2026-11-05",
@@ -35,7 +37,7 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 9.3,
+  "hours": 10.2,
   "hours_estimated": false,
   "estimated_from": [],
   "sessions": null,
@@ -45,11 +47,11 @@
     "family": "Nintendo",
     "platform": "Switch 2",
     "name": "The Legend of Zelda: Ocarina of Time",
-    "minutes": 559,
+    "minutes": 614,
     "earned": null,
     "total": null,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
-    "days_played": 4,
+    "days_played": 5,
     "family_play": false,
     "span": [
      "2026-11-05",
@@ -59,16 +61,17 @@
     "modeled": {
      "2026-11": [
       1.0,
-      20.0
+      19.0
      ]
     },
     "day_minutes": {
      "2026-11-07": 393,
      "2026-11-08": 44,
-     "2026-11-11": 102
+     "2026-11-11": 102,
+     "2026-11-13": 56
     },
     "first": "2026-11-05",
-    "last": "2026-11-11"
+    "last": "2026-11-13"
    }
   ],
   "versions": [
@@ -82,6 +85,142 @@
    }
   ],
   "img": "img/g/6d27cd041d9b0c80.webp"
+ },
+ {
+  "id": "mario-kart-world",
+  "name": "Mario Kart World",
+  "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
+  "first": "2025-06-07",
+  "last": "2026-11-13",
+  "days": [
+   "2025-06-07",
+   "2026-11-13"
+  ],
+  "families": [
+   "Nintendo"
+  ],
+  "days_by_family": {
+   "Nintendo": [
+    "2025-06-07",
+    "2026-11-13"
+   ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch 2|": 17
+  },
+  "days_played": 17,
+  "spans": [
+   [
+    "2025-06-07",
+    "2026-10-31",
+    "Nintendo"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 10.4,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "nintendo:0400c3f00006e000",
+    "family": "Nintendo",
+    "platform": "Switch 2",
+    "name": "Mario Kart World",
+    "minutes": 625,
+    "earned": null,
+    "total": null,
+    "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
+    "days_played": 17,
+    "family_play": false,
+    "span": [
+     "2025-06-07",
+     "2026-10-31"
+    ],
+    "span_days": 16,
+    "modeled": {
+     "2025-06": [
+      3.25,
+      126.5
+     ],
+     "2025-07": [
+      2.46,
+      95.8
+     ],
+     "2025-08": [
+      1.94,
+      75.6
+     ],
+     "2025-09": [
+      1.5,
+      58.3
+     ],
+     "2025-10": [
+      1.24,
+      48.3
+     ],
+     "2025-11": [
+      0.97,
+      37.8
+     ],
+     "2025-12": [
+      0.82,
+      31.9
+     ],
+     "2026-01": [
+      0.67,
+      26.2
+     ],
+     "2026-02": [
+      0.51,
+      19.9
+     ],
+     "2026-03": [
+      0.48,
+      18.8
+     ],
+     "2026-04": [
+      0.4,
+      15.7
+     ],
+     "2026-05": [
+      0.36,
+      14.1
+     ],
+     "2026-06": [
+      0.31,
+      12.2
+     ],
+     "2026-07": [
+      0.29,
+      11.3
+     ],
+     "2026-08": [
+      0.27,
+      10.4
+     ],
+     "2026-09": [
+      0.24,
+      9.3
+     ],
+     "2026-10": [
+      0.23,
+      9.1
+     ],
+     "2026-11": [
+      0.04,
+      1.7
+     ]
+    },
+    "day_minutes": {
+     "2026-11-13": 2
+    },
+    "first": "2025-06-07",
+    "last": "2026-11-13"
+   }
+  ],
+  "img": "img/g/7f43968270908821.webp"
  },
  {
   "id": "animal-crossing-new-horizons",
@@ -4257,132 +4396,6 @@
    }
   ],
   "img": "img/g/e53f88212a4a358e.webp"
- },
- {
-  "id": "mario-kart-world",
-  "name": "Mario Kart World",
-  "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
-  "first": "2025-06-07",
-  "last": "2026-09-27",
-  "days": [
-   "2025-06-07",
-   "2026-09-27"
-  ],
-  "families": [
-   "Nintendo"
-  ],
-  "days_by_family": {
-   "Nintendo": [
-    "2025-06-07",
-    "2026-09-27"
-   ]
-  },
-  "days_by_platform": {
-   "Nintendo|Switch 2|": 16
-  },
-  "days_played": 16,
-  "spans": [
-   [
-    "2025-06-07",
-    "2026-09-27",
-    "Nintendo"
-   ]
-  ],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": 10.4,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "nintendo:0400c3f00006e000",
-    "family": "Nintendo",
-    "platform": "Switch 2",
-    "name": "Mario Kart World",
-    "minutes": 624,
-    "earned": null,
-    "total": null,
-    "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
-    "days_played": 16,
-    "family_play": false,
-    "span": [
-     "2025-06-07",
-     "2026-09-27"
-    ],
-    "span_days": 16,
-    "modeled": {
-     "2025-06": [
-      3.06,
-      119.3
-     ],
-     "2025-07": [
-      2.24,
-      87.2
-     ],
-     "2025-08": [
-      1.75,
-      68.2
-     ],
-     "2025-09": [
-      1.33,
-      52.0
-     ],
-     "2025-10": [
-      1.09,
-      42.5
-     ],
-     "2025-11": [
-      0.84,
-      32.7
-     ],
-     "2025-12": [
-      0.69,
-      27.0
-     ],
-     "2026-01": [
-      0.56,
-      21.7
-     ],
-     "2026-02": [
-      0.41,
-      16.0
-     ],
-     "2026-03": [
-      0.38,
-      14.7
-     ],
-     "2026-04": [
-      0.3,
-      11.8
-     ],
-     "2026-05": [
-      0.26,
-      10.3
-     ],
-     "2026-06": [
-      0.22,
-      8.6
-     ],
-     "2026-07": [
-      0.22,
-      8.4
-     ],
-     "2026-08": [
-      0.36,
-      14.2
-     ],
-     "2026-09": [
-      2.3,
-      89.5
-     ]
-    },
-    "day_minutes": {},
-    "first": "2025-06-07",
-    "last": "2026-09-27"
-   }
-  ],
-  "img": "img/g/7f43968270908821.webp"
  },
  {
   "id": "like-a-dragon-infinite-wealth",

@@ -46,5 +46,21 @@
   "name": "EA SPORTS™ Madden NFL 27",
   "platform": "psn",
   "time": "2026-11-04T10:43:13Z"
+ },
+ {
+  "id": "0400c3f00006e000",
+  "minutes_delta": 1,
+  "minutes_total": 625,
+  "name": "Mario Kart World",
+  "platform": "nintendo",
+  "time": "2026-11-14T10:43:10Z"
+ },
+ {
+  "id": "0400486024dec000",
+  "minutes_delta": 55,
+  "minutes_total": 614,
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "platform": "nintendo",
+  "time": "2026-11-14T10:43:10Z"
  }
 ]
