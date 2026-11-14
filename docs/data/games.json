@@ -77,7 +77,7 @@
   "versions": [
    {
     "id": "the-legend-of-zelda-ocarina-of-time",
-    "name": "The Legend of Zelda: Ocarina of Time"
+    "name": "The Legend of Zelda: Ocarina of Time (N64)"
    },
    {
     "id": "the-legend-of-zelda-ocarina-of-time-3d",
@@ -5831,7 +5831,7 @@
  },
  {
   "id": "star-fox",
-  "name": "Star Fox",
+  "name": "Star Fox (Switch 2)",
   "art": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/StarFox2026Cover.jpg/250px-StarFox2026Cover.jpg",
   "first": "2026-06-09",
   "last": "2026-09-06",
@@ -5942,6 +5942,12 @@
     "day_minutes": {},
     "first": "2026-06-26",
     "last": "2026-09-06"
+   }
+  ],
+  "versions": [
+   {
+    "id": "star-fox-64-3d",
+    "name": "Star Fox 64 3D"
    }
   ],
   "img": "img/g/ce04ea1ae000f676.webp"
@@ -12820,7 +12826,7 @@
  },
  {
   "id": "super-mario-rpg",
-  "name": "Super Mario RPG",
+  "name": "Super Mario RPG (Switch)",
   "art": "https://img-eshop.cdn.nintendo.net/i/b15ff4449c0e8b3100919e965bd8483ec84c0bee9442522d32012ab949e2acb2.jpg",
   "first": "2023-11-17",
   "last": "2026-04-25",
@@ -13025,7 +13031,7 @@
  },
  {
   "id": "paper-mario-the-thousand-year-door",
-  "name": "Paper Mario: The Thousand-Year Door",
+  "name": "Paper Mario: The Thousand-Year Door (Switch)",
   "art": "https://img-eshop.cdn.nintendo.net/i/bd5e46a27aa0e949e338bb55bb5e3b1d66b9483faa2d23a1ea4960d0df5d8be0.jpg",
   "first": "2024-05-23",
   "last": "2026-04-25",
@@ -27511,7 +27517,7 @@
  },
  {
   "id": "the-legend-of-zelda-link-s-awakening",
-  "name": "The Legend of Zelda: Link's Awakening",
+  "name": "The Legend of Zelda: Link's Awakening (Switch)",
   "art": "https://img-eshop.cdn.nintendo.net/i/b0b0b2d150830b70b5bb259cdabefe21d2009b55cbd58854cf6a897587249054.jpg",
   "first": "2019-09-21",
   "last": "2023-05-13",
@@ -28815,7 +28821,7 @@
  },
  {
   "id": "goldeneye-007",
-  "name": "GoldenEye 007",
+  "name": "GoldenEye 007 (1997)",
   "art": "http://store-images.s-microsoft.com/image/apps.2158.14024294433653017.40ef41ab-6f85-4460-bdee-079089b18040.e7489875-412a-4040-bcf2-d2c176752478",
   "first": "2023-01-29",
   "last": "2023-01-29",
@@ -30263,8 +30269,8 @@
  },
  {
   "id": "shadow-of-the-colossus",
-  "name": "Shadow of the Colossus",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR01503_00_00E150139A61FE70810C9D92FC1B92063BDFF30E56/F8C2BA2A682D374FA17EF317243D91751762E693.PNG",
+  "name": "Shadow of the Colossus (PS4)",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR13427_00_00E2ABB2A7677C776A0D3949075E086668343A20AD/CB33787AD3F9A03EEEA729D27058A97DBE93FAD9.PNG",
   "first": "2022-09-05",
   "last": "2022-09-05",
   "days": [
@@ -30317,21 +30323,9 @@
     "earned_by_year": {
      "2022": 1
     }
-   },
-   {
-    "id": "psn:NPWR01503_00",
-    "family": "PlayStation",
-    "platform": "PS3",
-    "name": "Shadow of the Colossus",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR01503_00_00E150139A61FE70810C9D92FC1B92063BDFF30E56/F8C2BA2A682D374FA17EF317243D91751762E693.PNG",
-    "earned": 0,
-    "total": 31,
-    "first": null,
-    "last": null
    }
   ],
-  "img": "img/g/3aa040b2f7094012.webp"
+  "img": "img/g/13f54069889c225e.webp"
  },
  {
   "id": "contra-anniversary-collection",
@@ -32332,19 +32326,12 @@
   "img": "img/g/898c30b276e47372.webp"
  },
  {
-  "id": "god-of-war",
-  "name": "God of War",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR00950_00_006A41BF1A5E1779DC1DF512088854BC27F415BEDA/7002B6FDCAA9C698088B93514F60953FA56CEE40.PNG",
-  "first": "2009-12-02",
+  "id": "god-of-war-2",
+  "name": "God of War (2018)",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR12518_00_009C1232E900005FE409857E926767DFE9CAC7F371/CCDC60CADE4B3970C348FEFDE0094BA95C0A802F.PNG",
+  "first": "2018-04-29",
   "last": "2022-07-13",
   "days": [
-   "2009-12-02",
-   "2009-12-03",
-   "2009-12-09",
-   "2009-12-27",
-   "2009-12-30",
-   "2010-01-23",
-   "2010-01-30",
    "2018-04-29",
    "2018-06-03",
    "2018-06-09",
@@ -32355,13 +32342,6 @@
   ],
   "days_by_family": {
    "PlayStation": [
-    "2009-12-02",
-    "2009-12-03",
-    "2009-12-09",
-    "2009-12-27",
-    "2009-12-30",
-    "2010-01-23",
-    "2010-01-30",
     "2018-04-29",
     "2018-06-03",
     "2018-06-09",
@@ -32369,16 +32349,10 @@
    ]
   },
   "days_by_platform": {
-   "PlayStation|PS3|": 7,
    "PlayStation|PS4|": 4
   },
-  "days_played": 11,
+  "days_played": 4,
   "spans": [
-   [
-    "2009-12-02",
-    "2010-01-30",
-    "PlayStation"
-   ],
    [
     "2018-06-03",
     "2022-07-13",
@@ -32387,36 +32361,11 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 15.4,
-  "hours_estimated": true,
+  "hours": 1.9,
+  "hours_estimated": false,
   "estimated_from": [],
   "sessions": 5,
   "entries": [
-   {
-    "id": "psn:NPWR00950_00",
-    "family": "PlayStation",
-    "platform": "PS3",
-    "name": "God of War",
-    "minutes": 806,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR00950_00_006A41BF1A5E1779DC1DF512088854BC27F415BEDA/7002B6FDCAA9C698088B93514F60953FA56CEE40.PNG",
-    "earned": 28,
-    "total": 36,
-    "estimated": true,
-    "modeled_hours": {
-     "2009-12": 457.4,
-     "2010-01": 348.6
-    },
-    "span": [
-     "2009-12-02",
-     "2010-01-30"
-    ],
-    "first": "2009-12-02",
-    "last": "2010-01-30",
-    "earned_by_year": {
-     "2009": 10,
-     "2010": 28
-    }
-   },
    {
     "id": "psn-played:CUSA09943_00",
     "family": "PlayStation",
@@ -32526,21 +32475,9 @@
     "earned_by_year": {
      "2018": 1
     }
-   },
-   {
-    "id": "psn:NPWR05244_00",
-    "family": "PlayStation",
-    "platform": "Vita",
-    "name": "God of War",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR05244_00_008F7208D3DB4FB76906BAF55C60EE654F1161C1F5/8A5B0F1773086EB4640D85445CDA1857919ABEF1.PNG",
-    "earned": 0,
-    "total": 36,
-    "first": null,
-    "last": null
    }
   ],
-  "img": "img/g/be546041332c001a.webp"
+  "img": "img/g/a2be8043730ccf35.webp"
  },
  {
   "id": "death-stranding",
@@ -33242,7 +33179,7 @@
  },
  {
   "id": "microsoft-flight-simulator",
-  "name": "Microsoft Flight Simulator",
+  "name": "Microsoft Flight Simulator (2020)",
   "art": "http://store-images.s-microsoft.com/image/apps.1351.14377492558798445.319163e9-0c55-4be6-a4bb-aa431ab21aa6.9628d866-9893-4b50-948d-498b4cd57d5c",
   "first": "2020-09-13",
   "last": "2022-07-04",
@@ -34378,7 +34315,7 @@
  },
  {
   "id": "killer-instinct",
-  "name": "Killer Instinct",
+  "name": "Killer Instinct (2013)",
   "art": "http://store-images.s-microsoft.com/image/apps.18739.13510798886190122.27ebfbc6-d999-40a1-ac11-cba87a75b91a.2e7ec18d-e71e-487b-ae83-fe78b1556228",
   "first": "2021-04-25",
   "last": "2022-02-06",
@@ -37133,7 +37070,7 @@
  },
  {
   "id": "secret-of-mana",
-  "name": "Secret of Mana",
+  "name": "Secret of Mana (2018)",
   "art": "https://image.api.playstation.com/trophy/np/NPWR14554_00_0053C95E448E6189E255AC26E24646F353B9A18A20/2A9ADFE537EC44BA97FAC9F9C12E31033A25196D.PNG",
   "first": "2021-06-08",
   "last": "2021-06-08",
@@ -38710,7 +38647,7 @@
  },
  {
   "id": "star-wars-battlefront-ii",
-  "name": "Star Wars Battlefront II",
+  "name": "Star Wars Battlefront II (2017)",
   "art": "http://store-images.s-microsoft.com/image/apps.57852.64256825846959382.44b5bc43-437a-4414-83ca-b41ba9e7764a.6845daab-0518-41a7-b14a-525d8d79f571",
   "first": "2021-01-08",
   "last": "2021-01-08",
@@ -43831,7 +43768,7 @@
  },
  {
   "id": "the-legend-of-zelda-ocarina-of-time",
-  "name": "The Legend of Zelda: Ocarina of Time",
+  "name": "The Legend of Zelda: Ocarina of Time (N64)",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/110318571b1d2c226d74c845503dab5a.png",
   "first": "2015-07-11",
   "last": "2020-02-02",
@@ -51211,6 +51148,12 @@
     "last": "2018-07-03"
    }
   ],
+  "versions": [
+   {
+    "id": "star-fox",
+    "name": "Star Fox (Switch 2)"
+   }
+  ],
   "img": "img/g/d3b79f2903436043.webp"
  },
  {
@@ -53276,7 +53219,7 @@
   "versions": [
    {
     "id": "the-legend-of-zelda-ocarina-of-time",
-    "name": "The Legend of Zelda: Ocarina of Time"
+    "name": "The Legend of Zelda: Ocarina of Time (N64)"
    },
    {
     "id": "the-legend-of-zelda-ocarina-of-time-2",
@@ -55407,7 +55350,7 @@
   "versions": [
    {
     "id": "super-mario-rpg",
-    "name": "Super Mario RPG"
+    "name": "Super Mario RPG (Switch)"
    }
   ],
   "img": "img/g/87cf2f9f233e2cf9.webp"
@@ -56293,7 +56236,7 @@
  },
  {
   "id": "punch-out",
-  "name": "Punch-Out!!",
+  "name": "Punch-Out!! (1987)",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/wiiu/eb606dae6123618e7d9a61e67ce1e1a6.png",
   "first": "2015-02-15",
   "last": "2016-10-23",
@@ -62307,7 +62250,7 @@
  },
  {
   "id": "tomb-raider",
-  "name": "Tomb Raider",
+  "name": "Tomb Raider (2013)",
   "art": "https://image.api.playstation.com/trophy/np/NPWR02569_00_007B1E4E0A244B1B2D190ECCB261B43B92E844814E/26602F176C08C91433CA00E17DA75189E9CD11F4.PNG",
   "first": "2013-03-16",
   "last": "2014-02-22",
@@ -63753,7 +63696,7 @@
  },
  {
   "id": "mortal-kombat",
-  "name": "Mortal Kombat",
+  "name": "Mortal Kombat (2011)",
   "art": "https://image.api.playstation.com/trophy/np/NPWR01747_00_0000005EB8E0865D3DFCBDDBA685969D1E622F56ED/4FB18AFB31BD82D62E01A3BE4A4AD68C4F5F3199.PNG",
   "first": "2011-05-04",
   "last": "2012-10-29",
@@ -66899,6 +66842,93 @@
   "img": "img/g/fcf44d1b497a1296.webp"
  },
  {
+  "id": "god-of-war",
+  "name": "God of War (2005)",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR00950_00_006A41BF1A5E1779DC1DF512088854BC27F415BEDA/7002B6FDCAA9C698088B93514F60953FA56CEE40.PNG",
+  "first": "2009-12-02",
+  "last": "2010-01-30",
+  "days": [
+   "2009-12-02",
+   "2009-12-03",
+   "2009-12-09",
+   "2009-12-27",
+   "2009-12-30",
+   "2010-01-23",
+   "2010-01-30"
+  ],
+  "families": [
+   "PlayStation"
+  ],
+  "days_by_family": {
+   "PlayStation": [
+    "2009-12-02",
+    "2009-12-03",
+    "2009-12-09",
+    "2009-12-27",
+    "2009-12-30",
+    "2010-01-23",
+    "2010-01-30"
+   ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS3|": 7
+  },
+  "days_played": 7,
+  "spans": [
+   [
+    "2009-12-02",
+    "2010-01-30",
+    "PlayStation"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 13.4,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "psn:NPWR00950_00",
+    "family": "PlayStation",
+    "platform": "PS3",
+    "name": "God of War",
+    "minutes": 806,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR00950_00_006A41BF1A5E1779DC1DF512088854BC27F415BEDA/7002B6FDCAA9C698088B93514F60953FA56CEE40.PNG",
+    "earned": 28,
+    "total": 36,
+    "estimated": true,
+    "modeled_hours": {
+     "2009-12": 457.4,
+     "2010-01": 348.6
+    },
+    "span": [
+     "2009-12-02",
+     "2010-01-30"
+    ],
+    "first": "2009-12-02",
+    "last": "2010-01-30",
+    "earned_by_year": {
+     "2009": 10,
+     "2010": 28
+    }
+   },
+   {
+    "id": "psn:NPWR05244_00",
+    "family": "PlayStation",
+    "platform": "Vita",
+    "name": "God of War",
+    "minutes": null,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR05244_00_008F7208D3DB4FB76906BAF55C60EE654F1161C1F5/8A5B0F1773086EB4640D85445CDA1857919ABEF1.PNG",
+    "earned": 0,
+    "total": 36,
+    "first": null,
+    "last": null
+   }
+  ],
+  "img": "img/g/be546041332c001a.webp"
+ },
+ {
   "id": "lego-rock-band",
   "name": "LEGO Rock Band",
   "art": "http://images-eds.xboxlive.com/image?url=S35PkG.Po6AuYMOCXUZRrEOttKZnyhla8BAvz_.mFVKA4u8jVObzUIIr.IPhFRiAXDCYYehBCXOsKscjqVzwuC5rQsTAFBN3xha2q.kjSeefLgfS0XkIzLe5YQFRBNCWFzQgyWpuYsE3dj_BfiBuQw--",
@@ -67181,80 +67211,39 @@
  },
  {
   "id": "prince-of-persia",
-  "name": "Prince of Persia",
+  "name": "Prince of Persia (2008)",
   "art": "https://image.api.playstation.com/trophy/np/NPWR00374_00_0062FDA111AD1057ADD0F9FB4CFF545B63A5B80BF6/5A9C195DE602A0FAD84D181146D3CB55D1D040D5.PNG",
-  "first": "2007-06-19",
+  "first": "2009-09-20",
   "last": "2009-09-20",
   "days": [
-   "2007-06-19",
-   "2007-06-21",
-   "2007-07-10",
    "2009-09-20"
   ],
   "families": [
-   "PlayStation",
-   "Xbox"
+   "PlayStation"
   ],
   "days_by_family": {
    "PlayStation": [
     "2009-09-20"
-   ],
-   "Xbox": [
-    "2007-06-19",
-    "2007-06-21",
-    "2007-07-10"
    ]
   },
   "days_by_platform": {
-   "PlayStation|PS3|": 1,
-   "Xbox|360|thesurfshop19": 3
+   "PlayStation|PS3|": 1
   },
-  "days_played": 4,
-  "spans": [
-   [
-    "2007-06-19",
-    "2007-07-10",
-    "Xbox"
-   ]
-  ],
+  "days_played": 1,
+  "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 5.9,
+  "hours": 0.8,
   "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
    {
-    "id": "xbox:thesurfshop19:1480656997",
-    "family": "Xbox",
-    "platform": "360",
-    "name": "Prince of Persia",
-    "minutes": 264,
-    "earned": 3,
-    "total": 12,
-    "gamertag": "thesurfshop19",
-    "art": "http://store-images.s-microsoft.com/image/apps.13644.63106309821199100.9620a5eb-7967-4a1f-afe8-9a7568a40f30.3fa4801d-8133-4f2a-8ada-8d63b43663f4",
-    "estimated": true,
-    "modeled_hours": {
-     "2007-06": 152.2,
-     "2007-07": 111.8
-    },
-    "span": [
-     "2007-06-19",
-     "2007-07-10"
-    ],
-    "first": "2007-06-19",
-    "last": "2007-07-10",
-    "earned_by_year": {
-     "2007": 3
-    }
-   },
-   {
     "id": "psn:NPWR00374_00",
     "family": "PlayStation",
     "platform": "PS3",
     "name": "Prince of Persia",
-    "minutes": 88,
+    "minutes": 45,
     "art": "https://image.api.playstation.com/trophy/np/NPWR00374_00_0062FDA111AD1057ADD0F9FB4CFF545B63A5B80BF6/5A9C195DE602A0FAD84D181146D3CB55D1D040D5.PNG",
     "earned": 8,
     "total": 61,
@@ -68360,7 +68349,7 @@
  },
  {
   "id": "sonic-the-hedgehog",
-  "name": "Sonic the Hedgehog",
+  "name": "Sonic the Hedgehog (1991)",
   "art": "http://store-images.s-microsoft.com/image/apps.50245.68084662266854351.b57bdb58-5fd0-48a5-a8ec-80ef76ade173.a1c50ded-e249-41aa-ae33-6e4e06f0a0e5",
   "first": "2007-07-11",
   "last": "2007-07-31",
@@ -68501,6 +68490,73 @@
    }
   ],
   "img": "img/g/f765c6cad7010cf3.webp"
+ },
+ {
+  "id": "prince-of-persia-classic",
+  "name": "Prince of Persia Classic",
+  "art": "http://store-images.s-microsoft.com/image/apps.13644.63106309821199100.9620a5eb-7967-4a1f-afe8-9a7568a40f30.3fa4801d-8133-4f2a-8ada-8d63b43663f4",
+  "first": "2007-06-19",
+  "last": "2007-07-10",
+  "days": [
+   "2007-06-19",
+   "2007-06-21",
+   "2007-07-10"
+  ],
+  "families": [
+   "Xbox"
+  ],
+  "days_by_family": {
+   "Xbox": [
+    "2007-06-19",
+    "2007-06-21",
+    "2007-07-10"
+   ]
+  },
+  "days_by_platform": {
+   "Xbox|360|thesurfshop19": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2007-06-19",
+    "2007-07-10",
+    "Xbox"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 3.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "xbox:thesurfshop19:1480656997",
+    "family": "Xbox",
+    "platform": "360",
+    "name": "Prince of Persia",
+    "minutes": 230,
+    "earned": 3,
+    "total": 12,
+    "gamertag": "thesurfshop19",
+    "art": "http://store-images.s-microsoft.com/image/apps.13644.63106309821199100.9620a5eb-7967-4a1f-afe8-9a7568a40f30.3fa4801d-8133-4f2a-8ada-8d63b43663f4",
+    "estimated": true,
+    "modeled_hours": {
+     "2007-06": 132.6,
+     "2007-07": 97.4
+    },
+    "span": [
+     "2007-06-19",
+     "2007-07-10"
+    ],
+    "first": "2007-06-19",
+    "last": "2007-07-10",
+    "earned_by_year": {
+     "2007": 3
+    }
+   }
+  ],
+  "img": "img/g/bbc6c5ffe7ea5a88.webp"
  },
  {
   "id": "forza-motorsport-2",

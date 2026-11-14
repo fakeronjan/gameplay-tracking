@@ -142,6 +142,10 @@
   [
    "nintendo:0005000010101d00",
    "nintendo:0100ea80032ea000"
+  ],
+  [
+   "psn:NPWR00950_00",
+   "psn:NPWR05244_00"
   ]
  ],
  "split": [
@@ -150,6 +154,16 @@
   ],
   [
    "nintendo:0400486024dec000"
+  ],
+  [
+   "psn:NPWR00950_00",
+   "psn:NPWR05244_00"
+  ],
+  [
+   "xbox:thesurfshop19:1480656997"
+  ],
+  [
+   "psn:NPWR01503_00"
   ]
  ],
  "names": {
@@ -178,7 +192,7 @@
   "psn-played:CUSA00384_00": "Velocity 2X",
   "psn-played:PPSA02383_00": "Yakuza: Like a Dragon",
   "psn-played:CUSA05289_00": "PaRappa the Rapper Remastered",
-  "xbox:thesurfshop19:1480656996": "Sonic the Hedgehog",
+  "xbox:thesurfshop19:1480656996": "Sonic the Hedgehog (1991)",
   "xbox:thesurfshop19:1480656995": "Sonic the Hedgehog 2",
   "psn-played:CUSA13434_00": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
   "psn-played:CUSA00010_00": "Assassin's Creed IV: Black Flag",
@@ -219,7 +233,25 @@
   "nintendo:010028600ebda000": "Super Mario 3D World + Bowser's Fury",
   "nintendo:0400486024dec000": "The Legend of Zelda: Ocarina of Time (Switch 2)",
   "nintendo:0100152000022000": "Mario Kart 8 + Deluxe",
-  "nintendo:0100ea80032ea000": "New Super Mario Bros. U + Deluxe"
+  "nintendo:0100ea80032ea000": "New Super Mario Bros. U + Deluxe",
+  "nintendo:0005000010199b00": "The Legend of Zelda: Ocarina of Time (N64)",
+  "psn:NPWR00950_00": "God of War (2005)",
+  "psn:NPWR12518_00": "God of War (2018)",
+  "xbox:thesurfshop19:1480656997": "Prince of Persia Classic",
+  "psn:NPWR00374_00": "Prince of Persia (2008)",
+  "psn:NPWR13427_00": "Shadow of the Colossus (PS4)",
+  "psn:NPWR01747_00": "Mortal Kombat (2011)",
+  "psn:NPWR02569_00": "Tomb Raider (2013)",
+  "nintendo:01006bb00c6f0000": "The Legend of Zelda: Link's Awakening (Switch)",
+  "nintendo:0100ecd018ebe000": "Paper Mario: The Thousand-Year Door (Switch)",
+  "nintendo:0100bc0018138000": "Super Mario RPG (Switch)",
+  "nintendo:0400e88025b1a000": "Star Fox (Switch 2)",
+  "xbox:fakeronjan:58472989": "Killer Instinct (2013)",
+  "xbox:fakeronjan:833960563": "Star Wars Battlefront II (2017)",
+  "psn:NPWR14554_00": "Secret of Mana (2018)",
+  "steam:1250410": "Microsoft Flight Simulator (2020)",
+  "nintendo:000500001019d200": "Punch-Out!! (1987)",
+  "xbox:fakeronjan:1766089184": "GoldenEye 007 (1997)"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row; collections: split one collection list into its games (see build_games.split_collections)",
  "exclude": {
@@ -269,10 +301,15 @@
   [
    "nintendo:0005000010109200",
    "nintendo:0100bc0018138000"
+  ],
+  [
+   "nintendo:0400e88025b1a000",
+   "nintendo:0004000000049000"
   ]
  ],
  "_timeline_always": "Rows the Timeline always shows, even with family play hidden, besides games on an awards list (Ronjan 2026-11-12: Mario Kart 8 + Deluxe). Any entry id in the row.",
  "timeline_always": [
   "nintendo:0100152000022000"
- ]
+ ],
+ "_names_disambiguation": "Two games sharing a name get a suffix (Ronjan 2026-11-14): a remake or port of the same game gets its console, Ocarina of Time (N64) / (Switch 2); a different game reusing the name gets its year, God of War (2005) / (2018). Also applied to rows whose name matches a well-known game not in the library. Games sharing a name are kept apart with split, then rejoined per game with merge."
 }
