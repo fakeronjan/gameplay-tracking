@@ -2112,12 +2112,12 @@
    "platform": "Switch 2"
   },
   "0400486024dec000": {
-   "days_played": 5,
+   "days_played": 6,
    "family_play": false,
    "first_played": "2026-11-05T18:41:12Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
-   "last_played": "2026-11-14T00:56:37Z",
-   "minutes": 614,
+   "last_played": "2026-11-15T20:59:20Z",
+   "minutes": 713,
    "name": "The Legend of Zelda: Ocarina of Time",
    "platform": "Switch 2"
   },
@@ -2172,5 +2172,5 @@
    "platform": "Switch 2"
   }
  },
- "updated": "2026-11-15T19:27:43Z"
+ "updated": "2026-11-16T10:43:15Z"
 }

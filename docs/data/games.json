@@ -4,13 +4,14 @@
   "name": "The Legend of Zelda: Ocarina of Time (Switch 2)",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
   "first": "2026-11-05",
-  "last": "2026-11-13",
+  "last": "2026-11-15",
   "days": [
    "2026-11-05",
    "2026-11-07",
    "2026-11-08",
    "2026-11-11",
-   "2026-11-13"
+   "2026-11-13",
+   "2026-11-15"
   ],
   "families": [
    "Nintendo"
@@ -21,13 +22,14 @@
     "2026-11-07",
     "2026-11-08",
     "2026-11-11",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-15"
    ]
   },
   "days_by_platform": {
-   "Nintendo|Switch 2|": 5
+   "Nintendo|Switch 2|": 6
   },
-  "days_played": 5,
+  "days_played": 6,
   "spans": [
    [
     "2026-11-05",
@@ -37,7 +39,7 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 10.2,
+  "hours": 11.9,
   "hours_estimated": false,
   "estimated_from": [],
   "sessions": null,
@@ -47,11 +49,11 @@
     "family": "Nintendo",
     "platform": "Switch 2",
     "name": "The Legend of Zelda: Ocarina of Time",
-    "minutes": 614,
+    "minutes": 713,
     "earned": null,
     "total": null,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
-    "days_played": 5,
+    "days_played": 6,
     "family_play": false,
     "span": [
      "2026-11-05",
@@ -68,10 +70,11 @@
      "2026-11-07": 393,
      "2026-11-08": 44,
      "2026-11-11": 102,
-     "2026-11-13": 56
+     "2026-11-13": 56,
+     "2026-11-15": 99
     },
     "first": "2026-11-05",
-    "last": "2026-11-13"
+    "last": "2026-11-15"
    }
   ],
   "versions": [
