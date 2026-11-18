@@ -230,7 +230,7 @@ def model_span(first, end, pinned_end, n_days, minutes, p, anchor=None, real=(),
     return {m: [round(d, 2), round(mi, 1)] for m, (d, mi) in sorted(out.items())}
 
 
-def hours_span(first, last, minutes, p, real, ev):
+def hours_span(first, last, minutes, p, real, ev, anchor=None):
     """A PlayStation, Steam, or Xbox play record's minutes by month, {"YYYY-MM": minutes}: real total
     and real first and last played, nothing recorded in between. Weights per day are the play model
     (launch burst, burst before last played, floor) plus one kernel per real play day (trophy or
@@ -248,11 +248,20 @@ def hours_span(first, last, minutes, p, real, ev):
         kt = sum(k)
         for t in range(L + 1):
             w[t] += k[t] / kt
-    tot = sum(w)
+    # An anchor ({"by": date, "minutes": n}, config game_merges "hours_anchors") fixes how much of
+    # the total falls on or before a day: each side keeps the model's shape but is scaled to its share
+    cut = None
+    if anchor and first <= anchor["by"] < last:
+        cut = date.fromisoformat(anchor["by"]).toordinal() - a
+        head, tail = sum(w[:cut + 1]), sum(w[cut + 1:])
+        scale = [anchor["minutes"] / head if t <= cut else (minutes - anchor["minutes"]) / tail for t in range(L + 1)]
+    else:
+        tot = sum(w)
+        scale = [minutes / tot] * (L + 1)
     out = {}
     for t in range(L + 1):
         m = date.fromordinal(a + t).isoformat()[:7]
-        out[m] = out.get(m, 0) + minutes * w[t] / tot
+        out[m] = out.get(m, 0) + w[t] * scale[t]
     return {m: round(v, 1) for m, v in out.items() if v >= 0.05}
 
 
@@ -607,7 +616,8 @@ def build():
                 continue
             first, last = min(e["days"]), max(e["days"])
             real = sorted(d for d in fam_days[e["family"]] | set(e["days"]) if first <= d <= last)
-            e["modeled_hours"] = hours_span(first, last, e["minutes"], ncfg["model"], real, ncfg["evidence"])
+            e["modeled_hours"] = hours_span(first, last, e["minutes"], ncfg["model"], real, ncfg["evidence"],
+                                            cfg.get("hours_anchors", {}).get(i))
             e["span"] = [first, last]
 
     games = []
