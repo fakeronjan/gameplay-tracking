@@ -115,7 +115,9 @@ def add_blog():
         src = SITE / s["src"].lstrip("/")
         name = f"bl-{hashlib.sha1(s['src'].encode()).hexdigest()[:12]}.webp"
         save_webp(src, name)
-        out[row_key[s["game"]]].append({"img": name, "post": s["post"], "title": s["title"], "date": s["date"]})
+        w, h = Image.open(src).size
+        out[row_key[s["game"]]].append({"img": name, "post": s["post"], "title": s["title"], "date": s["date"],
+                                        **({"tall": True} if h > w else {})})
     return dict(out)
 
 
@@ -126,6 +128,8 @@ def add_ios(gallery):
     picks = json.loads((HERE / "config" / "ios_gallery.json").read_text())
     ios = json.loads((HERE / "docs" / "data" / "ios.json").read_text())["games"]
     for game, files in picks.items():
+        if game.startswith("_"):  # notes, like _excluded (turned down, with why)
+            continue
         caps = {c["file"]: c for c in ios[game]["captures"]}
         missing = [f for f in files if f not in caps]
         if missing:
@@ -135,7 +139,8 @@ def add_ios(gallery):
             src = next(IOS_ARCHIVE.glob(f"*/{f}"))  # filed by game, under the archive
             name = f"ios-{f.rsplit('.', 1)[0].lower()}.webp"
             save_webp(src, name)
-            entries.append({"time": caps[f]["time"][:19], "img": name})
+            w, h = Image.open(src).size  # portrait shots get their own tall tiles on the page
+            entries.append({"time": caps[f]["time"][:19], "img": name, **({"tall": True} if h > w else {})})
         gallery[f"ios:{game}"] = {"game": game, "total": sum(1 for c in ios[game]["captures"] if "dup_of" not in c),
                                   "shots": entries}
 

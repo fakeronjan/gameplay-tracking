@@ -95,7 +95,7 @@
   "20190520_083537_6327AC6B.png",
   "20220529_122847_72B57195.png",
   "20220529_132909_0A376438.png",
-  "20220609_192034_2DC1730E.jpg",
+  "20220609_192034_00CE77FF.png",
   "20230613_174105_0C2E2ED7.png",
   "20230613_174204_6417AE01.png"
  ],
@@ -159,5 +159,8 @@
  ],
  "NBA 2K24": [
   "20240418_104938_0966CB1B.png"
- ]
+ ],
+ "_excluded": {
+  "20220609_192034_2DC1730E.jpg": "Instagram story caption ('Finally!!!!!! Six years later'): Ronjan 2026-11-18, no screenshots with his story commentary"
+ }
 }
