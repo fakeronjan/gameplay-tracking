@@ -81,21 +81,42 @@ def main():
     add_ios(gallery)
     moments = add_playstation(gallery)
     milestones = add_zelda_notes(moments)
+    blog = add_blog()
 
     # Drop images no sample uses any more (a game's sample shifts when screenshots are added)
     keep = {s["img"] for g in gallery.values() for s in g["shots"]} | {m["img"] for m in moments.values()} \
-        | {m["img"] for ms in milestones.values() for m in ms}
+        | {m["img"] for ms in milestones.values() for m in ms} | {b["img"] for bs in blog.values() for b in bs}
     stale = [p for kind in SIZES for p in (OUT / kind).glob("*.webp") if p.name not in keep]
     for p in stale:
         p.unlink()
     (OUT / "gallery.json").write_text(json.dumps(gallery, indent=1, ensure_ascii=False) + "\n")
     (OUT / "moments.json").write_text(json.dumps(moments, indent=1, ensure_ascii=False, sort_keys=True) + "\n")
+    (OUT / "blog.json").write_text(json.dumps(blog, indent=1, ensure_ascii=False) + "\n")
     (OUT / "milestones.json").write_text(json.dumps(milestones, indent=1, ensure_ascii=False) + "\n")
     print(f"gallery: {len(gallery)} games, {sum(len(g['shots']) for g in gallery.values())} of "
           f"{sum(g['total'] for g in gallery.values())} screenshots; {len(stale)} stale images removed")
 
 
 IOS_ARCHIVE = Path.home() / "Documents/Archive/iOS Screenshots"
+SITE = Path.home() / "code/fakeronjan-com/src"
+
+
+def add_blog():
+    """Screenshots from Ronjan's posts (config/blog_shots.json, sorted by him 2026-11-18), for the
+    game page's "From the blog" section: keyed by one of the row's entry ids, each with its post's
+    title, date, and link. First frame for a GIF."""
+    cfg = json.loads((HERE / "config" / "blog_shots.json").read_text())
+    games = json.loads((HERE / "docs" / "data" / "games.json").read_text())
+    row_key = {r["name"]: min(e["id"] for e in r["entries"]) for r in games}
+    out = defaultdict(list)
+    for s in cfg["shots"]:
+        if s["game"] not in row_key:
+            raise SystemExit(f"config/blog_shots.json: {s['game']!r} isn't a row on the page")
+        src = SITE / s["src"].lstrip("/")
+        name = f"bl-{hashlib.sha1(s['src'].encode()).hexdigest()[:12]}.webp"
+        save_webp(src, name)
+        out[row_key[s["game"]]].append({"img": name, "post": s["post"], "title": s["title"], "date": s["date"]})
+    return dict(out)
 
 
 def add_ios(gallery):

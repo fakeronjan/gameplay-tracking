@@ -433,6 +433,14 @@ def entries_and_unlocks(cfg=None):
                                       "captures": sum(1 for c in g["captures"] if "dup_of" not in c),
                                       **({"estimated": True, "estimated_from": ["iOS stats"]} if mins else {})}
 
+    # Games with no platform data that Ronjan wrote about: a row just for the post screenshots
+    # (config/blog_shots.json; build_gallery.py puts the screenshots on the game page)
+    blog = json.loads((HERE / "config" / "blog_shots.json").read_text())
+    for name in blog.get("blog_only_rows", []):
+        first = next(s["src"] for s in blog["shots"] if s["game"] == name)
+        entries[f"blog:{name}"] = {"family": "Blog", "platform": "", "name": name, "days": [], "minutes": None,
+                                   "earned": None, "total": None, "art": "https://fakeronjan.com" + first, "blog_only": True}
+
     split_collections(entries, unlocks, cfg.get("collections", {}))
     for tid, p in psn["played"].items():
         add_play_record(entries, links, f"psn-played:{tid}", p)
@@ -654,13 +662,13 @@ def build():
             entries[i]["platform"] = "/".join(sorted(plats, key=["Wii U", "3DS"].index))
         es = [entries[i] for i in ids]
         days = sorted({d for e in es for d in e["days"]})
-        if not days and not any(e["earned"] or e["minutes"] for e in es):
+        if not days and not any(e["earned"] or e["minutes"] or e.get("blog_only") for e in es):
             continue  # owned or launched, with no unlocks, play time, or dated activity
         name = next((cfg["names"][i] for i in ids if i in cfg.get("names", {})), None) \
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
-        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6}
+        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "blog": 7}
         arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
             "id": game_id, "name": name, "art": arts[0][1] if arts else None,

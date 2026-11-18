@@ -1,0 +1,494 @@
+{
+ "_about": "Screenshots from Ronjan's fakeronjan.com posts, sorted by him 2026-11-18 (images already in the Switch, PlayStation, or iOS archives left out). Shown on each game page under 'From the blog', dated by the post and linking to it. blog_only_rows: games with no platform data that get a row just for these.",
+ "blog_only_rows": [
+  "John Madden Football '93",
+  "Mother 3",
+  "Tecmo Super Bowl",
+  "Tecmo Super NBA Basketball"
+ ],
+ "shots": [
+  {
+   "src": "/blog/img/ua/box-score-monday-a-madden-93-classic/1264443_orig.png",
+   "game": "John Madden Football '93",
+   "post": "/blog/ua-box-score-monday-a-madden-93-classic/",
+   "title": "Box Score Monday: a Madden 93 classic",
+   "date": "2013-08-26"
+  },
+  {
+   "src": "/blog/img/ua/box-score-monday-a-madden-93-classic/9859800-324.png",
+   "game": "John Madden Football '93",
+   "post": "/blog/ua-box-score-monday-a-madden-93-classic/",
+   "title": "Box Score Monday: a Madden 93 classic",
+   "date": "2013-08-26"
+  },
+  {
+   "src": "/blog/img/ua/countdown-rjs-favorite-nfl-video-games/4730533_orig.png",
+   "game": "Tecmo Super Bowl",
+   "post": "/blog/ua-countdown-rjs-favorite-nfl-video-games/",
+   "title": "Countdown: RJ's favorite NFL video games",
+   "date": "2013-08-29"
+  },
+  {
+   "src": "/blog/img/ua/tecmo-super-nba-basketball-a-mini-tribute/1305403.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/ua-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2013-10-29"
+  },
+  {
+   "src": "/blog/img/ua/tecmo-super-nba-basketball-a-mini-tribute/1800272.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/ua-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2013-10-29"
+  },
+  {
+   "src": "/blog/img/ua/tecmo-super-nba-basketball-a-mini-tribute/1959550.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/ua-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2013-10-29"
+  },
+  {
+   "src": "/blog/img/ua/game-of-the-year-2016-edition/pokemon-1-jiggly-get.jpg",
+   "game": "Pokémon GO",
+   "post": "/blog/ua-game-of-the-year-2016-edition/",
+   "title": "Game of the year: 2016 edition",
+   "date": "2016-12-13"
+  },
+  {
+   "src": "/blog/img/ua/game-of-the-year-2016-edition/pokemon-2-jiggly-monument.jpg",
+   "game": "Pokémon GO",
+   "post": "/blog/ua-game-of-the-year-2016-edition/",
+   "title": "Game of the year: 2016 edition",
+   "date": "2016-12-13"
+  },
+  {
+   "src": "/blog/img/ua/game-of-the-year-2016-edition/pokemon-3-farfetchd-get.jpg",
+   "game": "Pokémon GO",
+   "post": "/blog/ua-game-of-the-year-2016-edition/",
+   "title": "Game of the year: 2016 edition",
+   "date": "2016-12-13"
+  },
+  {
+   "src": "/blog/img/ua/game-of-the-year-2016-edition/pokemon-4-ditto-get.jpg",
+   "game": "Pokémon GO",
+   "post": "/blog/ua-game-of-the-year-2016-edition/",
+   "title": "Game of the year: 2016 edition",
+   "date": "2016-12-13"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-1-41-58-pm_orig.png",
+   "game": "Super Mario Maker",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-1-44-44-pm_orig.png",
+   "game": "Super Mario Maker",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-1-44-59-pm_orig.png",
+   "game": "Super Mario Maker",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-1-56-12-pm_orig.png",
+   "game": "Super Mario World",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-12-16-52-pm_orig.png",
+   "game": "New Super Mario Bros. 2",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-2-ranking-zelda/aymhaaacaaadvhjphtarkg.jpg",
+   "game": "The Legend of Zelda: A Link Between Worlds",
+   "post": "/blog/ua-goty-follow-up-2-ranking-zelda/",
+   "title": "GotY Follow Up #2: Ranking Zelda",
+   "date": "2018-01-15"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/screen-shot-2019-12-31-at-5.17.05-pm.png",
+   "game": "Super Mario Maker",
+   "post": "/blog/fr-game-of-the-year-game-of-the-decade/",
+   "title": "Game of the Year, Game of the Decade",
+   "date": "2019-12-31"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/1---league-overview.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/10---points-leaders.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/11---rebounds-leaders.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/12---assists-leaders.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/2---preseason-rankings.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/4---eastern-standings.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/5---western-standings.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/6---mvp.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/8---all-nba.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/nba-2k-quaransimulation/9---championship.jpeg",
+   "game": "NBA 2K20",
+   "post": "/blog/fr-nba-2k-quaransimulation/",
+   "title": "NBA 2K quaransimulation",
+   "date": "2020-04-06"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/flight-sim.jpg",
+   "game": "Microsoft Flight Simulator (2020)",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/ghost.jpg",
+   "game": "Ghost of Tsushima",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-1.jpg",
+   "game": "Super Mario Bros.",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/ace-attorney.png",
+   "game": "Phoenix Wright: Ace Attorney Trilogy",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/animal-crossing.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/bloodstained.png",
+   "game": "Bloodstained: Ritual of the Night",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/child-of-light.png",
+   "game": "Child of Light",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/flight-sim-bridge.png",
+   "game": "Microsoft Flight Simulator (2020)",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/flight-sim-home.png",
+   "game": "Microsoft Flight Simulator (2020)",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/forza.png",
+   "game": "Forza Horizon 5",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/kotor-2.png",
+   "game": "Star Wars: Knights of the Old Republic II: The Sith Lords",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/life-is-strange-sibs.png",
+   "game": "Life is Strange: True Colors",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/mother-3.jpg",
+   "game": "Mother 3",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/octopath.png",
+   "game": "Octopath Traveler",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2021/what-the-dub.png",
+   "game": "What the Dub?!",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/596ae9b0-1efc-46b2-97dc-1135294c34ac.png",
+   "game": "LEGO Star Wars: The Skywalker Saga",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/all-fish.png",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/all-insects.png",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_0098.jpg",
+   "game": "Quordle",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_1356.jpg",
+   "game": "Astro's Playroom",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_1357.jpg",
+   "game": "NBA 2K23",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/screen-shot-2022-12-22-at-6.01.41-pm.png",
+   "game": "Stray",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/my-top-10-zelda-games/1-a-link-between-worlds-pic.jpg",
+   "game": "The Legend of Zelda: A Link Between Worlds",
+   "post": "/blog/fr-my-top-10-zelda-games/",
+   "title": "My top 10 Zelda games",
+   "date": "2023-05-07"
+  },
+  {
+   "src": "/blog/img/fr/top-10-mario-games/2---mario-rpg-2.jpg",
+   "game": "Super Mario World",
+   "post": "/blog/fr-top-10-mario-games/",
+   "title": "My top 10 Mario games",
+   "date": "2023-07-04"
+  },
+  {
+   "src": "/blog/img/fr/top-10-mario-games/3---super-mario-world-2.jpg",
+   "game": "Super Mario World",
+   "post": "/blog/fr-top-10-mario-games/",
+   "title": "My top 10 Mario games",
+   "date": "2023-07-04"
+  },
+  {
+   "src": "/blog/img/fr/top-10-mario-games/3---super-mario-world.jpg",
+   "game": "Super Mario World",
+   "post": "/blog/fr-top-10-mario-games/",
+   "title": "My top 10 Mario games",
+   "date": "2023-07-04"
+  },
+  {
+   "src": "/blog/img/fr/useless-analysis-from-uselessanalysiscom/2520610_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/fr-useless-analysis-from-uselessanalysiscom/",
+   "title": "Useless analysis from uselessanalysis.com",
+   "date": "2023-10-08"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo1.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo2.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo3.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo4.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo5.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo6.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo7.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo8.png",
+   "game": "Tecmo Super NBA Basketball",
+   "post": "/blog/fr-tecmo-super-nba-basketball-a-mini-tribute/",
+   "title": "Tecmo Super NBA Basketball: a mini-tribute",
+   "date": "2024-11-17"
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/steam-jokers.png",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31"
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/steam-planets.png",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31"
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/steam-stats.png",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31"
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/steam-summary.png",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31"
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/steam-tarot.png",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31"
+  },
+  {
+   "src": "/blog/img/fr/my-favorite-rpgs/2-2b--2bmario-2brpg.jpg",
+   "game": "Super Mario RPG: Legend of the Seven Stars",
+   "post": "/blog/fr-my-favorite-rpgs/",
+   "title": "My favorite RPGs",
+   "date": "2025-03-05"
+  },
+  {
+   "src": "/blog/img/fr/my-favorite-rpgs/screenshot-2025-03-05-at-1.49.12-e2-80-afpm.png",
+   "game": "EarthBound",
+   "post": "/blog/fr-my-favorite-rpgs/",
+   "title": "My favorite RPGs",
+   "date": "2025-03-05"
+  }
+ ]
+}
