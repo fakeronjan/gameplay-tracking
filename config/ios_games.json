@@ -1,0 +1,93 @@
+{
+ "_about": "iOS screenshot labels (local/ios_screens/labels_v2.json, sorted by Ronjan 2026-11-18) -> page rows. A screenshot day counts as a played day. app_id = App Store id for art (null: web game; \"art\" gives its logo instead). Labels not listed here stay off the site.",
+ "games": {
+  "Retro Bowl": {
+   "name": "Retro Bowl",
+   "app_id": 1478902583,
+   "estimated_minutes": 3600,
+   "why": "~60 h on iOS (Ronjan approved 2026-11-18): average of Switch's 24.1 h scaled by screenshots (297 vs 92, ~78 h) and by days (45 vs 26, ~42 h)."
+  },
+  "Balatro": {
+   "name": "Balatro",
+   "app_id": 6502453075,
+   "estimated_minutes": 3900,
+   "why": "~65 h on iOS (Ronjan accepted 2026-11-18): iOS top-10 joker, tarot, and planet counts times hours per count from Switch (41.0 h actual) and Steam (138.2 h actual)."
+  },
+  "Pokémon GO": {
+   "name": "Pokémon GO",
+   "app_id": 1094591345
+  },
+  "Flipflop Solitaire": {
+   "name": "Flipflop Solitaire",
+   "app_id": 1256860418
+  },
+  "Retro Goal": {
+   "name": "Retro Goal",
+   "app_id": 1535765855
+  },
+  "LinkedIn Games": {
+   "name": "LinkedIn Games",
+   "app_id": null,
+   "gallery": false,
+   "art": "https://static.licdn.com/aero-v1/sc/h/byac478lrpewgckfspler3dtj"
+  },
+  "KenKen": {
+   "name": "KenKen",
+   "app_id": 485694706
+  },
+  "Good Sudoku": {
+   "name": "Good Sudoku",
+   "app_id": 1489118195
+  },
+  "Among Us": {
+   "name": "Among Us",
+   "app_id": 1351168404
+  },
+  "Wordle / NYT Games": {
+   "name": "Wordle",
+   "app_id": null,
+   "art": "https://www.nytimes.com/games-assets/v2/assets/wordle/wordle_logo_192x192.png"
+  },
+  "Quordle": {
+   "name": "Quordle",
+   "app_id": null,
+   "art": "https://www.merriam-webster.com/games/quordle/favicon-192.png"
+  },
+  "NBA 2K MyTEAM (mobile app)": {
+   "name": "NBA 2K24",
+   "app_id": null,
+   "why": "The NBA 2K24 MyTEAM mobile app, joined to the NBA 2K24 row like other platforms (Ronjan 2026-11-18); he tried it out while working at 2K."
+  }
+ },
+ "_controller_days": "Jackbox played on a console with the phone as the controller: the day goes on that console's copy, not an iOS row (Ronjan 2026-11-18). Dates already on the copy only confirm it.",
+ "controller_days": {
+  "psn-played:CUSA04949_00": [
+   {
+    "date": "2022-07-04",
+    "why": "Drawful 2 phone screens (titles 'by KOLA BAE'), on PS4 (Ronjan)"
+   }
+  ],
+  "psn-played:PPSA04139_00": [
+   {
+    "date": "2025-12-20",
+    "why": "Drawful Animate (Party Pack 8) phone screen, on PS5 (Ronjan)"
+   },
+   {
+    "date": "2023-04-28",
+    "why": "Weapons Drawn scoreboard"
+   },
+   {
+    "date": "2023-05-06",
+    "why": "Weapons Drawn scoreboard"
+   },
+   {
+    "date": "2023-05-14",
+    "why": "Weapons Drawn scoreboard"
+   },
+   {
+    "date": "2024-03-23",
+    "why": "Weapons Drawn screens"
+   }
+  ]
+ }
+}

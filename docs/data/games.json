@@ -45,26 +45,61 @@
    "2024-07-06",
    "2024-07-07",
    "2024-09-01",
+   "2024-10-01",
+   "2024-10-12",
+   "2024-10-13",
+   "2024-10-25",
+   "2024-11-09",
+   "2024-11-16",
+   "2024-11-27",
+   "2024-11-29",
+   "2024-11-30",
+   "2024-12-07",
+   "2024-12-14",
    "2024-12-16",
+   "2024-12-17",
+   "2024-12-20",
    "2024-12-21",
    "2024-12-27",
    "2024-12-29",
    "2025-01-01",
    "2025-01-03",
    "2025-01-12",
+   "2025-01-22",
    "2025-01-30",
    "2025-01-31",
+   "2025-02-04",
    "2025-02-09",
    "2025-02-25",
    "2025-03-15",
    "2026-11-18"
   ],
   "families": [
+   "Apple",
    "Nintendo",
    "PlayStation",
    "Steam"
   ],
   "days_by_family": {
+   "Apple": [
+    "2024-10-01",
+    "2024-10-12",
+    "2024-10-13",
+    "2024-10-25",
+    "2024-11-09",
+    "2024-11-16",
+    "2024-11-27",
+    "2024-11-29",
+    "2024-11-30",
+    "2024-12-07",
+    "2024-12-14",
+    "2024-12-16",
+    "2024-12-17",
+    "2024-12-20",
+    "2024-12-21",
+    "2025-01-22",
+    "2025-02-04"
+   ],
    "Nintendo": [
     "2024-04-03",
     "2024-04-04",
@@ -128,9 +163,10 @@
   "days_by_platform": {
    "PlayStation|PS5|": 10,
    "Steam|PC|": 12,
-   "Nintendo|Switch|": 35
+   "Nintendo|Switch|": 35,
+   "Apple|iOS|": 17
   },
-  "days_played": 56,
+  "days_played": 71,
   "spans": [
    [
     "2024-02-27",
@@ -143,6 +179,11 @@
     "Nintendo"
    ],
    [
+    "2024-10-01",
+    "2025-02-04",
+    "Apple"
+   ],
+   [
     "2024-12-21",
     "2026-11-18",
     "Steam"
@@ -150,9 +191,11 @@
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 196.8,
-  "hours_estimated": false,
-  "estimated_from": [],
+  "hours": 261.8,
+  "hours_estimated": true,
+  "estimated_from": [
+   "iOS stats"
+  ],
   "sessions": 22,
   "entries": [
    {
@@ -271,6 +314,34 @@
     "captures": 130,
     "first": "2024-04-03",
     "last": "2024-12-16"
+   },
+   {
+    "id": "ios:Balatro",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Balatro",
+    "minutes": 3900,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a7/c0/1aa7c0eb-434a-5a6a-774c-b02a6b702fc1/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "captures": 61,
+    "estimated": true,
+    "estimated_from": [
+     "iOS stats"
+    ],
+    "modeled_hours": {
+     "2024-10": 910.5,
+     "2024-11": 1016.2,
+     "2024-12": 1276.4,
+     "2025-01": 607.5,
+     "2025-02": 89.4
+    },
+    "span": [
+     "2024-10-01",
+     "2025-02-04"
+    ],
+    "first": "2024-10-01",
+    "last": "2025-02-04"
    },
    {
     "id": "steam:2379780",
@@ -16454,6 +16525,177 @@
   "img": "img/g/a11427ac38e47a0d.webp"
  },
  {
+  "id": "the-jackbox-party-pack-8",
+  "name": "The Jackbox Party Pack 8",
+  "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26278_00/768ca1fe-09ce-47dd-a8c8-92715843f359.png",
+  "first": "2021-10-24",
+  "last": "2025-12-20",
+  "days": [
+   "2021-10-24",
+   "2023-03-04",
+   "2023-04-28",
+   "2023-05-06",
+   "2023-05-14",
+   "2023-10-21",
+   "2023-11-04",
+   "2024-03-23",
+   "2025-12-20"
+  ],
+  "families": [
+   "PlayStation",
+   "Xbox"
+  ],
+  "days_by_family": {
+   "PlayStation": [
+    "2023-04-28",
+    "2023-05-06",
+    "2023-05-14",
+    "2023-10-21",
+    "2023-11-04",
+    "2024-03-23",
+    "2025-12-20"
+   ],
+   "Xbox": [
+    "2021-10-24",
+    "2023-03-04",
+    "2023-04-28",
+    "2023-05-06"
+   ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 7,
+   "Xbox|Xbox|fakeronjan": 4
+  },
+  "days_played": 9,
+  "spans": [
+   [
+    "2021-10-24",
+    "2023-05-06",
+    "Xbox"
+   ],
+   [
+    "2023-04-28",
+    "2025-12-20",
+    "PlayStation"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 6.6,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": 5,
+  "entries": [
+   {
+    "id": "xbox:fakeronjan:1701212022",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "The Jackbox Party Pack 8",
+    "minutes": 148,
+    "earned": 3,
+    "total": 0,
+    "gamertag": "fakeronjan",
+    "art": "http://store-images.s-microsoft.com/image/apps.20835.13811022212278199.9b41be7e-7c6d-4779-97c9-00a9c43c0f88.790d4698-2071-4fec-b71b-26fe91d0c3b0",
+    "modeled_hours": {
+     "2021-10": 14.5,
+     "2021-11": 19.8,
+     "2021-12": 5.9,
+     "2022-01": 3.4,
+     "2022-02": 2.3,
+     "2022-03": 2.0,
+     "2022-04": 1.6,
+     "2022-05": 1.3,
+     "2022-06": 1.0,
+     "2022-07": 0.8,
+     "2022-08": 0.7,
+     "2022-09": 0.5,
+     "2022-10": 0.5,
+     "2022-11": 0.4,
+     "2022-12": 0.5,
+     "2023-01": 1.8,
+     "2023-02": 10.8,
+     "2023-03": 21.1,
+     "2023-04": 41.7,
+     "2023-05": 17.4
+    },
+    "span": [
+     "2021-10-24",
+     "2023-05-06"
+    ],
+    "first": "2021-10-24",
+    "last": "2023-05-06"
+   },
+   {
+    "id": "psn-played:PPSA04139_00",
+    "family": "PlayStation",
+    "platform": "PS5",
+    "name": "The Jackbox Party Pack 8",
+    "minutes": 247,
+    "sessions": 5,
+    "earned": null,
+    "total": null,
+    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1618/We6rd73ZorrggYrPDshuFMuh.png",
+    "modeled_hours": {
+     "2023-04": 10.7,
+     "2023-05": 76.8,
+     "2023-06": 14.2,
+     "2023-07": 4.6,
+     "2023-08": 3.3,
+     "2023-09": 6.3,
+     "2023-10": 32.4,
+     "2023-11": 24.2,
+     "2023-12": 3.9,
+     "2024-01": 1.5,
+     "2024-02": 3.3,
+     "2024-03": 19.9,
+     "2024-04": 7.8,
+     "2024-05": 1.2,
+     "2024-06": 0.4,
+     "2024-07": 0.3,
+     "2024-08": 0.2,
+     "2024-09": 0.2,
+     "2024-10": 0.2,
+     "2024-11": 0.1,
+     "2024-12": 0.1,
+     "2025-01": 0.1,
+     "2025-02": 0.1,
+     "2025-03": 0.1,
+     "2025-04": 0.1,
+     "2025-05": 0.1,
+     "2025-06": 0.1,
+     "2025-07": 0.1,
+     "2025-08": 0.1,
+     "2025-09": 0.2,
+     "2025-10": 1.0,
+     "2025-11": 7.3,
+     "2025-12": 26.0
+    },
+    "span": [
+     "2023-04-28",
+     "2025-12-20"
+    ],
+    "first": "2023-04-28",
+    "last": "2025-12-20"
+   },
+   {
+    "id": "psn:NPWR26278_00",
+    "family": "PlayStation",
+    "platform": "PS5",
+    "name": "The Jackbox Party Pack 8",
+    "minutes": null,
+    "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26278_00/768ca1fe-09ce-47dd-a8c8-92715843f359.png",
+    "earned": 4,
+    "total": 20,
+    "first": "2023-05-14",
+    "last": "2023-11-04",
+    "earned_by_year": {
+     "2023": 4
+    }
+   }
+  ],
+  "img": "img/g/fc7f343ba218fa36.webp"
+ },
+ {
   "id": "heavy-rain",
   "name": "Heavy Rain",
   "art": "https://image.api.playstation.com/trophy/np/NPWR00324_00_008DAB1F50430C4731BD0A51BAFE43A467A594392A/1E684EF7FDD6C36734E7B4ABDE1F2F8440DD1700.PNG",
@@ -22282,6 +22524,67 @@
   "img": "img/g/9a515b889543edb8.webp"
  },
  {
+  "id": "linkedin-games",
+  "name": "LinkedIn Games",
+  "art": "https://static.licdn.com/aero-v1/sc/h/byac478lrpewgckfspler3dtj",
+  "first": "2024-09-03",
+  "last": "2024-12-30",
+  "days": [
+   "2024-09-03",
+   "2024-11-10",
+   "2024-12-02",
+   "2024-12-06",
+   "2024-12-15",
+   "2024-12-25",
+   "2024-12-26",
+   "2024-12-28",
+   "2024-12-30"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2024-09-03",
+    "2024-11-10",
+    "2024-12-02",
+    "2024-12-06",
+    "2024-12-15",
+    "2024-12-25",
+    "2024-12-26",
+    "2024-12-28",
+    "2024-12-30"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 9
+  },
+  "days_played": 9,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:LinkedIn Games",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "LinkedIn Games",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://static.licdn.com/aero-v1/sc/h/byac478lrpewgckfspler3dtj",
+    "captures": 10,
+    "first": "2024-09-03",
+    "last": "2024-12-30"
+   }
+  ],
+  "img": "img/g/9af27900dff226c5.webp"
+ },
+ {
   "id": "disney-classic-games-aladdin-and-the-lion-king",
   "name": "Disney Classic Games: Aladdin and The Lion King",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/cd8a6aecc62342f7a6af31dfb21de7fb_512",
@@ -23619,14 +23922,19 @@
    "2023-10-11",
    "2023-12-20",
    "2024-01-22",
+   "2024-04-18",
    "2024-05-22",
    "2024-05-26",
    "2024-08-13"
   ],
   "families": [
+   "Apple",
    "PlayStation"
   ],
   "days_by_family": {
+   "Apple": [
+    "2024-04-18"
+   ],
    "PlayStation": [
     "2023-09-07",
     "2023-09-08",
@@ -23641,9 +23949,10 @@
    ]
   },
   "days_by_platform": {
-   "PlayStation|PS5|": 10
+   "PlayStation|PS5|": 10,
+   "Apple|iOS|": 1
   },
-  "days_played": 10,
+  "days_played": 11,
   "spans": [
    [
     "2023-09-07",
@@ -23704,6 +24013,19 @@
      "2023": 14,
      "2024": 17
     }
+   },
+   {
+    "id": "ios:NBA 2K24",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "NBA 2K24",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "captures": 1,
+    "first": "2024-04-18",
+    "last": "2024-04-18"
    }
   ],
   "img": "img/g/65f229ddf16e46d1.webp"
@@ -25377,151 +25699,6 @@
   "img": "img/g/7ef3c69394644b7a.webp"
  },
  {
-  "id": "the-jackbox-party-pack-8",
-  "name": "The Jackbox Party Pack 8",
-  "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26278_00/768ca1fe-09ce-47dd-a8c8-92715843f359.png",
-  "first": "2021-10-24",
-  "last": "2024-03-23",
-  "days": [
-   "2021-10-24",
-   "2023-03-04",
-   "2023-04-28",
-   "2023-05-06",
-   "2023-05-14",
-   "2023-10-21",
-   "2023-11-04",
-   "2024-03-23"
-  ],
-  "families": [
-   "PlayStation",
-   "Xbox"
-  ],
-  "days_by_family": {
-   "PlayStation": [
-    "2023-05-14",
-    "2023-10-21",
-    "2023-11-04",
-    "2024-03-23"
-   ],
-   "Xbox": [
-    "2021-10-24",
-    "2023-03-04",
-    "2023-04-28",
-    "2023-05-06"
-   ]
-  },
-  "days_by_platform": {
-   "PlayStation|PS5|": 4,
-   "Xbox|Xbox|fakeronjan": 4
-  },
-  "days_played": 8,
-  "spans": [
-   [
-    "2021-10-24",
-    "2023-05-06",
-    "Xbox"
-   ],
-   [
-    "2023-05-14",
-    "2024-03-23",
-    "PlayStation"
-   ]
-  ],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": 6.6,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": 5,
-  "entries": [
-   {
-    "id": "xbox:fakeronjan:1701212022",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "The Jackbox Party Pack 8",
-    "minutes": 148,
-    "earned": 3,
-    "total": 0,
-    "gamertag": "fakeronjan",
-    "art": "http://store-images.s-microsoft.com/image/apps.20835.13811022212278199.9b41be7e-7c6d-4779-97c9-00a9c43c0f88.790d4698-2071-4fec-b71b-26fe91d0c3b0",
-    "modeled_hours": {
-     "2021-10": 14.5,
-     "2021-11": 19.8,
-     "2021-12": 5.9,
-     "2022-01": 3.4,
-     "2022-02": 2.3,
-     "2022-03": 2.0,
-     "2022-04": 1.6,
-     "2022-05": 1.3,
-     "2022-06": 1.0,
-     "2022-07": 0.8,
-     "2022-08": 0.7,
-     "2022-09": 0.5,
-     "2022-10": 0.5,
-     "2022-11": 0.4,
-     "2022-12": 0.5,
-     "2023-01": 1.8,
-     "2023-02": 10.8,
-     "2023-03": 21.1,
-     "2023-04": 41.7,
-     "2023-05": 17.4
-    },
-    "span": [
-     "2021-10-24",
-     "2023-05-06"
-    ],
-    "first": "2021-10-24",
-    "last": "2023-05-06"
-   },
-   {
-    "id": "psn-played:PPSA04139_00",
-    "family": "PlayStation",
-    "platform": "PS5",
-    "name": "The Jackbox Party Pack 8",
-    "minutes": 247,
-    "sessions": 5,
-    "earned": null,
-    "total": null,
-    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202109/1618/We6rd73ZorrggYrPDshuFMuh.png",
-    "modeled_hours": {
-     "2023-05": 41.9,
-     "2023-06": 20.5,
-     "2023-07": 8.4,
-     "2023-08": 6.4,
-     "2023-09": 11.1,
-     "2023-10": 52.6,
-     "2023-11": 39.5,
-     "2023-12": 7.0,
-     "2024-01": 3.6,
-     "2024-02": 10.8,
-     "2024-03": 45.2
-    },
-    "span": [
-     "2023-05-14",
-     "2024-03-23"
-    ],
-    "first": "2023-05-14",
-    "last": "2024-03-23"
-   },
-   {
-    "id": "psn:NPWR26278_00",
-    "family": "PlayStation",
-    "platform": "PS5",
-    "name": "The Jackbox Party Pack 8",
-    "minutes": null,
-    "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR26278_00/768ca1fe-09ce-47dd-a8c8-92715843f359.png",
-    "earned": 4,
-    "total": 20,
-    "first": "2023-05-14",
-    "last": "2023-11-04",
-    "earned_by_year": {
-     "2023": 4
-    }
-   }
-  ],
-  "img": "img/g/fc7f343ba218fa36.webp"
- },
- {
   "id": "madden-nfl-24",
   "name": "Madden NFL 24",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR33437_00/657682fe-cf9d-4a85-b1b7-df85a37c4a00.png",
@@ -25874,6 +26051,282 @@
   "img": "img/g/4f4b5e307086c564.webp"
  },
  {
+  "id": "retro-bowl",
+  "name": "Retro Bowl",
+  "art": "https://img-eshop.cdn.nintendo.net/i/2a00e64313459c1f5d89fafd104f4dc618130e8baadb159cde5e6f10fe377a66.jpg",
+  "first": "2020-11-01",
+  "last": "2024-01-29",
+  "days": [
+   "2020-11-01",
+   "2020-11-11",
+   "2020-11-14",
+   "2020-11-25",
+   "2020-11-28",
+   "2020-11-29",
+   "2020-12-06",
+   "2020-12-13",
+   "2020-12-17",
+   "2020-12-19",
+   "2020-12-20",
+   "2020-12-31",
+   "2021-01-01",
+   "2021-01-09",
+   "2021-01-10",
+   "2021-01-14",
+   "2021-01-15",
+   "2021-01-18",
+   "2021-01-29",
+   "2021-01-31",
+   "2021-02-06",
+   "2021-02-07",
+   "2021-02-08",
+   "2021-02-11",
+   "2021-02-12",
+   "2021-02-14",
+   "2021-02-21",
+   "2021-02-22",
+   "2021-02-26",
+   "2021-02-28",
+   "2021-03-01",
+   "2021-03-02",
+   "2021-03-06",
+   "2021-03-07",
+   "2022-01-07",
+   "2022-01-17",
+   "2022-01-28",
+   "2022-02-06",
+   "2022-07-30",
+   "2022-07-31",
+   "2022-08-04",
+   "2022-08-16",
+   "2022-08-18",
+   "2022-08-21",
+   "2022-08-28",
+   "2022-09-03",
+   "2022-09-17",
+   "2022-09-24",
+   "2022-09-25",
+   "2022-09-27",
+   "2022-10-27",
+   "2024-01-10",
+   "2024-01-12",
+   "2024-01-19",
+   "2024-01-20",
+   "2024-01-23",
+   "2024-01-28",
+   "2024-01-29"
+  ],
+  "families": [
+   "Apple",
+   "Nintendo"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2020-11-01",
+    "2020-11-11",
+    "2020-11-14",
+    "2020-11-25",
+    "2020-11-28",
+    "2020-11-29",
+    "2020-12-06",
+    "2020-12-13",
+    "2020-12-17",
+    "2020-12-19",
+    "2020-12-20",
+    "2020-12-31",
+    "2021-01-01",
+    "2021-01-09",
+    "2021-01-10",
+    "2021-01-14",
+    "2021-01-15",
+    "2021-01-18",
+    "2021-01-29",
+    "2021-01-31",
+    "2021-02-06",
+    "2021-02-07",
+    "2021-02-08",
+    "2021-02-11",
+    "2021-02-12",
+    "2021-02-14",
+    "2021-02-21",
+    "2021-02-22",
+    "2021-02-26",
+    "2021-02-28",
+    "2021-03-01",
+    "2021-03-02",
+    "2021-03-06",
+    "2021-03-07",
+    "2022-01-07",
+    "2022-01-17",
+    "2022-01-28",
+    "2022-02-06",
+    "2024-01-10",
+    "2024-01-12",
+    "2024-01-19",
+    "2024-01-20",
+    "2024-01-23",
+    "2024-01-28",
+    "2024-01-29"
+   ],
+   "Nintendo": [
+    "2022-07-30",
+    "2022-07-31",
+    "2022-08-04",
+    "2022-08-16",
+    "2022-08-18",
+    "2022-08-21",
+    "2022-08-28",
+    "2022-09-03",
+    "2022-09-17",
+    "2022-09-24",
+    "2022-09-25",
+    "2022-09-27",
+    "2022-10-27"
+   ]
+  },
+  "days_by_platform": {
+   "Nintendo|Switch|": 26,
+   "Apple|iOS|": 45
+  },
+  "days_played": 71,
+  "spans": [
+   [
+    "2020-11-01",
+    "2024-01-29",
+    "Apple"
+   ],
+   [
+    "2022-07-30",
+    "2022-10-27",
+    "Nintendo"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 84.1,
+  "hours_estimated": true,
+  "estimated_from": [
+   "iOS stats"
+  ],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Retro Bowl",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Retro Bowl",
+    "minutes": 3600,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7d/d8/197dd8db-93d4-f20b-b99b-fd809f070698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "captures": 297,
+    "estimated": true,
+    "estimated_from": [
+     "iOS stats"
+    ],
+    "modeled_hours": {
+     "2020-11": 430.9,
+     "2020-12": 560.9,
+     "2021-01": 635.3,
+     "2021-02": 685.1,
+     "2021-03": 350.2,
+     "2021-04": 43.1,
+     "2021-05": 8.0,
+     "2021-06": 3.1,
+     "2021-07": 2.2,
+     "2021-08": 1.7,
+     "2021-09": 1.3,
+     "2021-10": 1.6,
+     "2021-11": 5.2,
+     "2021-12": 40.8,
+     "2022-01": 165.7,
+     "2022-02": 88.7,
+     "2022-03": 13.6,
+     "2022-04": 1.8,
+     "2022-05": 0.5,
+     "2022-06": 0.3,
+     "2022-07": 0.3,
+     "2022-08": 0.3,
+     "2022-09": 0.2,
+     "2022-10": 0.2,
+     "2022-11": 0.2,
+     "2022-12": 0.2,
+     "2023-01": 0.2,
+     "2023-02": 0.2,
+     "2023-03": 0.2,
+     "2023-04": 0.2,
+     "2023-05": 0.2,
+     "2023-06": 0.2,
+     "2023-07": 0.2,
+     "2023-08": 0.2,
+     "2023-09": 0.3,
+     "2023-10": 1.4,
+     "2023-11": 10.0,
+     "2023-12": 90.7,
+     "2024-01": 454.4
+    },
+    "span": [
+     "2020-11-01",
+     "2024-01-29"
+    ],
+    "first": "2020-11-01",
+    "last": "2024-01-29"
+   },
+   {
+    "id": "nintendo:0100c5b016e30000",
+    "family": "Nintendo",
+    "platform": "Switch",
+    "name": "Retro Bowl",
+    "minutes": 1448,
+    "earned": null,
+    "total": null,
+    "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/342ddeb68c3b42839555f8f50bf951b0_512",
+    "days_played": 26,
+    "family_play": false,
+    "span": [
+     "2022-07-30",
+     "2022-10-27"
+    ],
+    "span_days": 26,
+    "modeled": {
+     "2022-07": [
+      2.0,
+      111.4
+     ],
+     "2022-08": [
+      11.2,
+      623.6
+     ],
+     "2022-09": [
+      9.74,
+      542.5
+     ],
+     "2022-10": [
+      3.06,
+      170.6
+     ]
+    },
+    "day_minutes": {},
+    "first": "2022-07-30",
+    "last": "2022-10-27"
+   },
+   {
+    "id": "switch:F71343E393314FD6E37E8D19DA678A69",
+    "family": "Nintendo",
+    "platform": "Switch",
+    "name": "Retro Bowl",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://img-eshop.cdn.nintendo.net/i/2a00e64313459c1f5d89fafd104f4dc618130e8baadb159cde5e6f10fe377a66.jpg",
+    "captures": 92,
+    "first": "2022-07-30",
+    "last": "2022-09-27"
+   }
+  ],
+  "img": "img/g/440a3348a19ebe7f.webp"
+ },
+ {
   "id": "mlb-the-show-23",
   "name": "MLB The Show 23",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR31639_00/17017a8d-1526-4024-b5ac-15d9d1e12fa3.png",
@@ -26140,6 +26593,111 @@
    }
   ],
   "img": "img/g/37020374ce8c320b.webp"
+ },
+ {
+  "id": "pok-mon-go",
+  "name": "Pokémon GO",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/f1/01/1bf101d5-4429-5f54-fc50-95e0b4b2e34b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2016-07-13",
+  "last": "2023-10-23",
+  "days": [
+   "2016-07-13",
+   "2016-09-04",
+   "2016-09-17",
+   "2016-10-04",
+   "2017-01-02",
+   "2018-05-30",
+   "2018-06-03",
+   "2018-06-18",
+   "2018-07-02",
+   "2018-07-07",
+   "2018-07-11",
+   "2018-07-13",
+   "2018-07-18",
+   "2018-07-27",
+   "2018-07-28",
+   "2018-07-30",
+   "2018-08-02",
+   "2018-08-03",
+   "2018-10-16",
+   "2018-10-19",
+   "2018-12-11",
+   "2018-12-30",
+   "2019-01-20",
+   "2019-03-06",
+   "2019-05-20",
+   "2019-06-01",
+   "2020-05-23",
+   "2022-05-29",
+   "2022-06-09",
+   "2023-06-13",
+   "2023-10-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2016-07-13",
+    "2016-09-04",
+    "2016-09-17",
+    "2016-10-04",
+    "2017-01-02",
+    "2018-05-30",
+    "2018-06-03",
+    "2018-06-18",
+    "2018-07-02",
+    "2018-07-07",
+    "2018-07-11",
+    "2018-07-13",
+    "2018-07-18",
+    "2018-07-27",
+    "2018-07-28",
+    "2018-07-30",
+    "2018-08-02",
+    "2018-08-03",
+    "2018-10-16",
+    "2018-10-19",
+    "2018-12-11",
+    "2018-12-30",
+    "2019-01-20",
+    "2019-03-06",
+    "2019-05-20",
+    "2019-06-01",
+    "2020-05-23",
+    "2022-05-29",
+    "2022-06-09",
+    "2023-06-13",
+    "2023-10-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 31
+  },
+  "days_played": 31,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Pokémon GO",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Pokémon GO",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/f1/01/1bf101d5-4429-5f54-fc50-95e0b4b2e34b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "captures": 59,
+    "first": "2016-07-13",
+    "last": "2023-10-23"
+   }
+  ],
+  "img": "img/g/7ad0de0e27fce973.webp"
  },
  {
   "id": "marvel-s-spider-man-2",
@@ -26644,6 +27202,7 @@
    "2021-05-21",
    "2021-05-30",
    "2021-06-26",
+   "2022-07-04",
    "2023-03-04",
    "2023-07-16"
   ],
@@ -26659,6 +27218,7 @@
     "2021-04-23"
    ],
    "PlayStation": [
+    "2022-07-04",
     "2023-07-16"
    ],
    "Steam": [
@@ -26674,12 +27234,12 @@
    ]
   },
   "days_by_platform": {
-   "PlayStation|PS4|": 1,
+   "PlayStation|PS4|": 2,
    "Xbox|Xbox|fakeronjan": 3,
    "Steam|PC|": 4,
    "Nintendo|Switch|": 5
   },
-  "days_played": 13,
+  "days_played": 14,
   "spans": [
    [
     "2020-03-26",
@@ -26695,6 +27255,11 @@
     "2021-05-30",
     "2023-03-04",
     "Xbox"
+   ],
+   [
+    "2022-07-04",
+    "2023-07-16",
+    "PlayStation"
    ]
   ],
   "family_play": false,
@@ -26869,7 +27434,26 @@
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA05045_00/1/i_81abec2fe26de87419de7c64c4413a82d7922b4c85060d7e12d5f3b5d1c4f8f2/i/icon0.png",
-    "first": "2023-07-16",
+    "modeled_hours": {
+     "2022-07": 11.1,
+     "2022-08": 3.0,
+     "2022-09": 1.4,
+     "2022-10": 1.1,
+     "2022-11": 0.8,
+     "2022-12": 0.7,
+     "2023-01": 0.5,
+     "2023-02": 0.4,
+     "2023-03": 0.4,
+     "2023-04": 0.3,
+     "2023-05": 0.6,
+     "2023-06": 3.5,
+     "2023-07": 8.1
+    },
+    "span": [
+     "2022-07-04",
+     "2023-07-16"
+    ],
+    "first": "2022-07-04",
     "last": "2023-07-16"
    },
    {
@@ -29758,119 +30342,6 @@
    }
   ],
   "img": "img/g/63e2cdb33328f13c.webp"
- },
- {
-  "id": "retro-bowl",
-  "name": "Retro Bowl",
-  "art": "https://img-eshop.cdn.nintendo.net/i/2a00e64313459c1f5d89fafd104f4dc618130e8baadb159cde5e6f10fe377a66.jpg",
-  "first": "2022-07-30",
-  "last": "2022-10-27",
-  "days": [
-   "2022-07-30",
-   "2022-07-31",
-   "2022-08-04",
-   "2022-08-16",
-   "2022-08-18",
-   "2022-08-21",
-   "2022-08-28",
-   "2022-09-03",
-   "2022-09-17",
-   "2022-09-24",
-   "2022-09-25",
-   "2022-09-27",
-   "2022-10-27"
-  ],
-  "families": [
-   "Nintendo"
-  ],
-  "days_by_family": {
-   "Nintendo": [
-    "2022-07-30",
-    "2022-07-31",
-    "2022-08-04",
-    "2022-08-16",
-    "2022-08-18",
-    "2022-08-21",
-    "2022-08-28",
-    "2022-09-03",
-    "2022-09-17",
-    "2022-09-24",
-    "2022-09-25",
-    "2022-09-27",
-    "2022-10-27"
-   ]
-  },
-  "days_by_platform": {
-   "Nintendo|Switch|": 26
-  },
-  "days_played": 26,
-  "spans": [
-   [
-    "2022-07-30",
-    "2022-10-27",
-    "Nintendo"
-   ]
-  ],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": 24.1,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "nintendo:0100c5b016e30000",
-    "family": "Nintendo",
-    "platform": "Switch",
-    "name": "Retro Bowl",
-    "minutes": 1448,
-    "earned": null,
-    "total": null,
-    "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/342ddeb68c3b42839555f8f50bf951b0_512",
-    "days_played": 26,
-    "family_play": false,
-    "span": [
-     "2022-07-30",
-     "2022-10-27"
-    ],
-    "span_days": 26,
-    "modeled": {
-     "2022-07": [
-      2.0,
-      111.4
-     ],
-     "2022-08": [
-      11.2,
-      623.6
-     ],
-     "2022-09": [
-      9.74,
-      542.5
-     ],
-     "2022-10": [
-      3.06,
-      170.6
-     ]
-    },
-    "day_minutes": {},
-    "first": "2022-07-30",
-    "last": "2022-10-27"
-   },
-   {
-    "id": "switch:F71343E393314FD6E37E8D19DA678A69",
-    "family": "Nintendo",
-    "platform": "Switch",
-    "name": "Retro Bowl",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "art": "https://img-eshop.cdn.nintendo.net/i/2a00e64313459c1f5d89fafd104f4dc618130e8baadb159cde5e6f10fe377a66.jpg",
-    "captures": 92,
-    "first": "2022-07-30",
-    "last": "2022-09-27"
-   }
-  ],
-  "img": "img/g/440a3348a19ebe7f.webp"
  },
  {
   "id": "puyo-puyo-tetris",
@@ -33694,6 +34165,51 @@
   "img": "img/g/1607a164d494f62e.webp"
  },
  {
+  "id": "quordle",
+  "name": "Quordle",
+  "art": "https://www.merriam-webster.com/games/quordle/favicon-192.png",
+  "first": "2022-05-01",
+  "last": "2022-05-01",
+  "days": [
+   "2022-05-01"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2022-05-01"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Quordle",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Quordle",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://www.merriam-webster.com/games/quordle/favicon-192.png",
+    "captures": 1,
+    "first": "2022-05-01",
+    "last": "2022-05-01"
+   }
+  ],
+  "img": "img/g/869488fc7602602d.webp"
+ },
+ {
   "id": "katamari-damacy-reroll",
   "name": "Katamari Damacy Reroll",
   "art": "http://store-images.s-microsoft.com/image/apps.20606.14196637029317475.4897efb5-0a1d-4262-9ddc-38d688e82593.eaa3cf6c-2640-4bec-82af-b923057ff2e3",
@@ -33938,6 +34454,57 @@
   "img": "img/g/222b2c24a6d2f735.webp"
  },
  {
+  "id": "kenken",
+  "name": "KenKen",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/42/1b/c1421b04-f454-5067-dc69-9d2db13cbfc0/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "first": "2021-03-24",
+  "last": "2022-03-19",
+  "days": [
+   "2021-03-24",
+   "2021-03-28",
+   "2021-04-02",
+   "2022-03-19"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-03-24",
+    "2021-03-28",
+    "2021-04-02",
+    "2022-03-19"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 4
+  },
+  "days_played": 4,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:KenKen",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "KenKen",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/42/1b/c1421b04-f454-5067-dc69-9d2db13cbfc0/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "captures": 4,
+    "first": "2021-03-24",
+    "last": "2022-03-19"
+   }
+  ],
+  "img": "img/g/fef23d41e272c0cb.webp"
+ },
+ {
   "id": "shredders",
   "name": "Shredders",
   "art": "http://store-images.s-microsoft.com/image/apps.12627.13979077126806036.a2655d57-9f8b-422e-a646-07fca70ec826.44420f18-88a4-4936-877b-48f92b3f1c10",
@@ -34026,6 +34593,53 @@
    }
   ],
   "img": "img/g/56fd4b674208971c.webp"
+ },
+ {
+  "id": "wordle",
+  "name": "Wordle",
+  "art": "https://www.nytimes.com/games-assets/v2/assets/wordle/wordle_logo_192x192.png",
+  "first": "2022-01-16",
+  "last": "2022-02-08",
+  "days": [
+   "2022-01-16",
+   "2022-02-08"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2022-01-16",
+    "2022-02-08"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Wordle",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Wordle",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://www.nytimes.com/games-assets/v2/assets/wordle/wordle_logo_192x192.png",
+    "captures": 2,
+    "first": "2022-01-16",
+    "last": "2022-02-08"
+   }
+  ],
+  "img": "img/g/bb18be817c8c3eb6.webp"
  },
  {
   "id": "tetris-effect-connected",
@@ -34416,23 +35030,29 @@
   "id": "among-us",
   "name": "Among Us",
   "art": "http://store-images.s-microsoft.com/image/apps.16094.13589262686196899.16e3418a-cbf2-4748-9724-1c9dc9b7a0b9.476dcb12-abc8-433a-ac3c-858a44939d8f",
-  "first": "2022-02-06",
+  "first": "2021-02-12",
   "last": "2022-02-06",
   "days": [
+   "2021-02-12",
    "2022-02-06"
   ],
   "families": [
+   "Apple",
    "Xbox"
   ],
   "days_by_family": {
+   "Apple": [
+    "2021-02-12"
+   ],
    "Xbox": [
     "2022-02-06"
    ]
   },
   "days_by_platform": {
-   "Xbox|Xbox|fakeronjan": 1
+   "Xbox|Xbox|fakeronjan": 1,
+   "Apple|iOS|": 1
   },
-  "days_played": 1,
+  "days_played": 2,
   "spans": [],
   "family_play": false,
   "timeline_always": false,
@@ -34441,6 +35061,19 @@
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "ios:Among Us",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Among Us",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/63/39/7c6339b6-8c2f-02a6-6c8f-b8e6d6a71660/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "captures": 1,
+    "first": "2021-02-12",
+    "last": "2021-02-12"
+   },
    {
     "id": "xbox:fakeronjan:1992453063",
     "family": "Xbox",
@@ -35866,6 +36499,55 @@
   "img": "img/g/d9f82ec8fb43a238.webp"
  },
  {
+  "id": "retro-goal",
+  "name": "Retro Goal",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/6a/ef/806aef32-fa0a-abf4-69a0-4489db9fb7ef/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+  "first": "2021-10-31",
+  "last": "2021-11-11",
+  "days": [
+   "2021-10-31",
+   "2021-11-02",
+   "2021-11-11"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-10-31",
+    "2021-11-02",
+    "2021-11-11"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Retro Goal",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Retro Goal",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/6a/ef/806aef32-fa0a-abf4-69a0-4489db9fb7ef/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+    "captures": 15,
+    "first": "2021-10-31",
+    "last": "2021-11-11"
+   }
+  ],
+  "img": "img/g/cae2675504899eaa.webp"
+ },
+ {
   "id": "twelve-minutes",
   "name": "Twelve Minutes",
   "art": "http://store-images.s-microsoft.com/image/apps.34616.14575158939973468.8de3d6d9-bc4e-4537-a09c-9ddc10c7f50d.c2b830a0-c878-4ab9-bc41-9b7656084e10",
@@ -36210,6 +36892,83 @@
    }
   ],
   "img": "img/g/7c03775fde66bae5.webp"
+ },
+ {
+  "id": "flipflop-solitaire",
+  "name": "Flipflop Solitaire",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6f/59/c56f5922-ac30-0889-86d9-611b0c9053a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-04-26",
+  "last": "2021-09-25",
+  "days": [
+   "2021-04-26",
+   "2021-04-30",
+   "2021-05-01",
+   "2021-05-20",
+   "2021-05-22",
+   "2021-06-12",
+   "2021-06-13",
+   "2021-06-15",
+   "2021-06-19",
+   "2021-07-04",
+   "2021-07-16",
+   "2021-08-05",
+   "2021-08-07",
+   "2021-08-20",
+   "2021-08-21",
+   "2021-08-28",
+   "2021-09-25"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-04-26",
+    "2021-04-30",
+    "2021-05-01",
+    "2021-05-20",
+    "2021-05-22",
+    "2021-06-12",
+    "2021-06-13",
+    "2021-06-15",
+    "2021-06-19",
+    "2021-07-04",
+    "2021-07-16",
+    "2021-08-05",
+    "2021-08-07",
+    "2021-08-20",
+    "2021-08-21",
+    "2021-08-28",
+    "2021-09-25"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 17
+  },
+  "days_played": 17,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Flipflop Solitaire",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Flipflop Solitaire",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6f/59/c56f5922-ac30-0889-86d9-611b0c9053a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "captures": 20,
+    "first": "2021-04-26",
+    "last": "2021-09-25"
+   }
+  ],
+  "img": "img/g/878df98dfe9a1a9a.webp"
  },
  {
   "id": "the-legend-of-zelda-skyward-sword-hd",
@@ -37361,6 +38120,51 @@
    }
   ],
   "img": "img/g/2f6c3c4e57440cd4.webp"
+ },
+ {
+  "id": "good-sudoku",
+  "name": "Good Sudoku",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/70/17/437017e8-5daa-8bd5-0503-4cbca0531f5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-05-22",
+  "last": "2021-05-22",
+  "days": [
+   "2021-05-22"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-05-22"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Good Sudoku",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Good Sudoku",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/70/17/437017e8-5daa-8bd5-0503-4cbca0531f5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "captures": 1,
+    "first": "2021-05-22",
+    "last": "2021-05-22"
+   }
+  ],
+  "img": "img/g/ddc8107ffbdb4053.webp"
  },
  {
   "id": "castlevania-symphony-of-the-night",

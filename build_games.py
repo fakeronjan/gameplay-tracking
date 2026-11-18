@@ -422,9 +422,27 @@ def entries_and_unlocks(cfg=None):
         entries[f"miiverse:{name}"] = {"family": "Nintendo", "platform": "Wii U/3DS", "name": name,
                                        "days": days, "minutes": None, "earned": None, "total": None, "art": art[name]}
 
+    # iOS: screenshots only (tools/build_ios.py, sorted by Ronjan 2026-11-18). A screenshot day
+    # counts as a played day; no hours, except an estimate set in config/ios_games.json
+    if (DATA / "ios.json").exists():
+        for name, g in load("ios.json")["games"].items():
+            mins = g.get("estimated_minutes")
+            entries[f"ios:{name}"] = {"family": "Apple", "platform": "iOS", "name": name,
+                                      "days": sorted({c["time"][:10] for c in g["captures"]}),
+                                      "minutes": mins, "earned": None, "total": None, "art": g.get("art"),
+                                      "captures": sum(1 for c in g["captures"] if "dup_of" not in c),
+                                      **({"estimated": True, "estimated_from": ["iOS stats"]} if mins else {})}
+
     split_collections(entries, unlocks, cfg.get("collections", {}))
     for tid, p in psn["played"].items():
         add_play_record(entries, links, f"psn-played:{tid}", p)
+    # Days seen on the phone while it was the controller for a console game (Jackbox): they go on
+    # that console's copy (config/ios_games.json controller_days)
+    ios_cfg = json.loads((HERE / "config" / "ios_games.json").read_text())
+    for eid, days in ios_cfg.get("controller_days", {}).items():
+        if eid not in entries:
+            raise SystemExit(f"config/ios_games.json controller_days names {eid}, which doesn't exist")
+        entries[eid]["days"] = sorted(set(entries[eid]["days"]) | {d["date"] for d in days})
     for u in unlocks:
         u.pop("group", None)
     return entries, unlocks, links
@@ -642,7 +660,7 @@ def build():
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
-        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5}
+        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6}
         arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
             "id": game_id, "name": name, "art": arts[0][1] if arts else None,
