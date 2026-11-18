@@ -78,6 +78,7 @@ def main():
         gallery[f"switch:{first_id[row]}"] = {"game": row, "total": len(by_row[row]), "shots": entries}
 
     add_miiverse(gallery)
+    add_ios(gallery)
     moments = add_playstation(gallery)
     milestones = add_zelda_notes(moments)
 
@@ -92,6 +93,30 @@ def main():
     (OUT / "milestones.json").write_text(json.dumps(milestones, indent=1, ensure_ascii=False) + "\n")
     print(f"gallery: {len(gallery)} games, {sum(len(g['shots']) for g in gallery.values())} of "
           f"{sum(g['total'] for g in gallery.values())} screenshots; {len(stale)} stale images removed")
+
+
+IOS_ARCHIVE = Path.home() / "Documents/Archive/iOS Screenshots"
+
+
+def add_ios(gallery):
+    """iOS galleries: the picks in config/ios_gallery.json, each one checked by Ronjan before it
+    went public (2026-11-18; up to 24 per game, picked across its dates like the others, with
+    any he turned down swapped for another from the same stretch). LinkedIn Games has none."""
+    picks = json.loads((HERE / "config" / "ios_gallery.json").read_text())
+    ios = json.loads((HERE / "docs" / "data" / "ios.json").read_text())["games"]
+    for game, files in picks.items():
+        caps = {c["file"]: c for c in ios[game]["captures"]}
+        missing = [f for f in files if f not in caps]
+        if missing:
+            raise SystemExit(f"config/ios_gallery.json: {game} picks aren't {game} screenshots: {missing}")
+        entries = []
+        for f in sorted(files):
+            src = next(IOS_ARCHIVE.glob(f"*/{f}"))  # filed by game, under the archive
+            name = f"ios-{f.rsplit('.', 1)[0].lower()}.webp"
+            save_webp(src, name)
+            entries.append({"time": caps[f]["time"][:19], "img": name})
+        gallery[f"ios:{game}"] = {"game": game, "total": sum(1 for c in ios[game]["captures"] if "dup_of" not in c),
+                                  "shots": entries}
 
 
 MIIVERSE = Path.home() / "Documents/Archive/Nintendo/miiverse_backup/assets/user"

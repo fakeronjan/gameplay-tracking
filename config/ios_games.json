@@ -4,8 +4,14 @@
   "Retro Bowl": {
    "name": "Retro Bowl",
    "app_id": 1478902583,
-   "estimated_minutes": 3600,
-   "why": "~60 h on iOS (Ronjan approved 2026-11-18): average of Switch's 24.1 h scaled by screenshots (297 vs 92, ~78 h) and by days (45 vs 26, ~42 h)."
+   "estimated_minutes": 3240,
+   "why": "~54 h on iOS: average of Switch's 24.1 h scaled by screenshots (277 vs 92, ~73 h) and by days (38 vs 26, ~35 h). Was ~60 h (Ronjan approved 2026-11-18) before Retro Bowl College was split out."
+  },
+  "Retro Bowl College": {
+   "name": "Retro Bowl College",
+   "app_id": 1632904520,
+   "estimated_minutes": 360,
+   "why": "~6 h on iOS, Retro Bowl's method: Switch 24.1 h scaled by screenshots (20 vs 92, ~5 h) and by days (7 vs 26, ~6.5 h), averaged. All January 2024 (Ronjan spotted it 2026-11-18 by the darker blue)."
   },
   "Balatro": {
    "name": "Balatro",
