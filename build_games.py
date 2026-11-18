@@ -386,6 +386,25 @@ def entries_and_unlocks(cfg=None):
         if tid in by_title:
             links.append((eid, by_title[tid]))
 
+    # Zelda Notes medals (Ocarina of Time on Switch 2), read from screenshots by
+    # build_zelda_notes.py: each earned tier is an unlock, and the list's progress counts all four
+    # tiers of every medal, hidden ones included (Ronjan 2026-11-18: "33 of 88 🏅")
+    if (DATA / "zelda_notes.json").exists():
+        zn = load("zelda_notes.json")
+        e = entries.get(zn["game_entry"])
+        if e is None:
+            raise SystemExit(f"zelda_notes.json names {zn['game_entry']}, which has no play record")
+        for m in zn["medals"]:
+            for t in m["tiers"]:
+                if t["earned"]:
+                    unlocks.append({"entry": zn["game_entry"], "name": f"{m['name']} ({t['tier']})",
+                                    "detail": f"{m['stat']}: {t['threshold']}" if t["threshold"] else m["stat"],
+                                    "kind": t["tier"].lower(), "rarity": None, "earned": t["earned"],
+                                    "icon": t["icon"]})
+        e["earned"] = sum(1 for m in zn["medals"] for t in m["tiers"] if t["earned"])
+        e["total"] = 4 * len(zn["medals"])
+        e["unlock_unit"] = "medals"
+
     posts, art = defaultdict(list), {}
     for p in load("miiverse.json")["posts"]:
         posts[p["game"]].append(p["date"][:10])

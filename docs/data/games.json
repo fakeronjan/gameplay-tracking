@@ -50,8 +50,8 @@
     "platform": "Switch 2",
     "name": "The Legend of Zelda: Ocarina of Time",
     "minutes": 713,
-    "earned": null,
-    "total": null,
+    "earned": 35,
+    "total": 88,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
     "days_played": 6,
     "family_play": false,
@@ -73,8 +73,12 @@
      "2026-11-13": 56,
      "2026-11-15": 99
     },
+    "unlock_unit": "medals",
     "first": "2026-11-05",
-    "last": "2026-11-15"
+    "last": "2026-11-15",
+    "earned_by_year": {
+     "2026": 35
+    }
    },
    {
     "id": "switch:C7AB5EB5BC593814C18959860F3600AE",

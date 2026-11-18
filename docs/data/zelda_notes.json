@@ -1,0 +1,845 @@
+{
+ "game_entry": "nintendo:0400486024dec000",
+ "captured": "2026-11-18",
+ "medals": [
+  {
+   "name": null,
+   "stat": "Battles Fought in the Hall of Fallen Foes",
+   "value": null,
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "10",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Silver",
+     "threshold": "30",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": null,
+   "stat": "Consecutive Correct Answers in the Ocarina of Time Quiz",
+   "value": null,
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "10",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Silver",
+     "threshold": "20",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Lover of Luxury",
+   "stat": "Consumable Items Used",
+   "value": "226",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "200",
+     "earned": "2026-11-15",
+     "icon": "img/u/zn-consumable-items-used-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "300",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Distance Trekker",
+   "stat": "Distance Traveled",
+   "value": "72 km",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "30 km",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-distance-traveled-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "50 km",
+     "earned": "2026-11-11",
+     "icon": "img/u/zn-distance-traveled-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Monsters' Bane",
+   "stat": "Enemies Defeated",
+   "value": "340",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "100",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-enemies-defeated-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "300",
+     "earned": "2026-11-15",
+     "icon": "img/u/zn-enemies-defeated-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Quest Challenger",
+   "stat": "Events Completed",
+   "value": "11",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "5",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-events-completed-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "10",
+     "earned": "2026-11-13",
+     "icon": "img/u/zn-events-completed-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": null,
+   "stat": "Fish Caught",
+   "value": null,
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "5",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Silver",
+     "threshold": "10",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": null,
+   "stat": "Gold Skulltula Tokens Obtained",
+   "value": "19",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "20",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Silver",
+     "threshold": "40",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Magic User",
+   "stat": "Magic Power Used",
+   "value": "27",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "20",
+     "earned": "2026-11-13",
+     "icon": "img/u/zn-magic-power-used-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "40",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Explorer",
+   "stat": "Map Completion",
+   "value": "25%",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "25%",
+     "earned": "2026-11-15",
+     "icon": "img/u/zn-map-completion-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "50%",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": "75%",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": null,
+   "stat": "Medals Obtained in Hall of Fallen Foes",
+   "value": null,
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "20",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Silver",
+     "threshold": "40",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": "60",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Game Player",
+   "stat": "Minigames Played",
+   "value": "14",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "5",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-minigames-played-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "10",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-minigames-played-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Musician",
+   "stat": "Ocarina Performances",
+   "value": "66",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "10",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-ocarina-performances-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "20",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-ocarina-performances-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": "50",
+     "earned": "2026-11-13",
+     "icon": "img/u/zn-ocarina-performances-gold.webp"
+    },
+    {
+     "tier": "Master",
+     "threshold": "100",
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Social Butterfly",
+   "stat": "People Spoken To",
+   "value": "108",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "20",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-people-spoken-to-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "50",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-people-spoken-to-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": "100",
+     "earned": "2026-11-11",
+     "icon": "img/u/zn-people-spoken-to-gold.webp"
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Traveler",
+   "stat": "Places Visited",
+   "value": "23",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "10",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-places-visited-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "20",
+     "earned": "2026-11-08",
+     "icon": "img/u/zn-places-visited-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Citizen of Hyrule",
+   "stat": "Play Time",
+   "value": "11 hours",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "10 hours",
+     "earned": "2026-11-13",
+     "icon": "img/u/zn-play-time-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "20 hours",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": "40 hours",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Crusher",
+   "stat": "Pots Destroyed",
+   "value": "366",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "50",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-pots-destroyed-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "100",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-pots-destroyed-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": "200",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-pots-destroyed-gold.webp"
+    },
+    {
+     "tier": "Master",
+     "threshold": "300",
+     "earned": "2026-11-11",
+     "icon": "img/u/zn-pots-destroyed-master.webp"
+    }
+   ]
+  },
+  {
+   "name": "Wealthy One",
+   "stat": "Rupees Earned",
+   "value": "1,100",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "500",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-rupees-earned-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "1,000",
+     "earned": "2026-11-15",
+     "icon": "img/u/zn-rupees-earned-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Economizer",
+   "stat": "Special Item Uses",
+   "value": "414",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "100",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-special-item-uses-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "200",
+     "earned": "2026-11-11",
+     "icon": "img/u/zn-special-item-uses-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Grass Slasher",
+   "stat": "Times Grass Was Cut",
+   "value": "1,407",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "100",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-times-grass-was-cut-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "300",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-times-grass-was-cut-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": "500",
+     "earned": "2026-11-07",
+     "icon": "img/u/zn-times-grass-was-cut-gold.webp"
+    },
+    {
+     "tier": "Master",
+     "threshold": "1,000",
+     "earned": "2026-11-08",
+     "icon": "img/u/zn-times-grass-was-cut-master.webp"
+    }
+   ]
+  },
+  {
+   "name": "amiibo Enthusiast",
+   "stat": "Times amiibo Were Used",
+   "value": "10",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "5",
+     "earned": "2026-11-13",
+     "icon": "img/u/zn-times-amiibo-were-used-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "10",
+     "earned": "2026-11-13",
+     "icon": "img/u/zn-times-amiibo-were-used-silver.webp"
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  },
+  {
+   "name": "Treasure Hunter",
+   "stat": "Treasure Chests Opened",
+   "value": "57",
+   "tiers": [
+    {
+     "tier": "Bronze",
+     "threshold": "50",
+     "earned": "2026-11-15",
+     "icon": "img/u/zn-treasure-chests-opened-bronze.webp"
+    },
+    {
+     "tier": "Silver",
+     "threshold": "100",
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Gold",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    },
+    {
+     "tier": "Master",
+     "threshold": null,
+     "earned": null,
+     "icon": null
+    }
+   ]
+  }
+ ],
+ "milestones": [
+  {
+   "stat": "Special Item Uses",
+   "value": "400",
+   "time": "2026-11-15T15:52"
+  },
+  {
+   "stat": "Rupees Earned",
+   "value": "1,000",
+   "time": "2026-11-15T15:33"
+  },
+  {
+   "stat": "Treasure Chests Opened",
+   "value": "50",
+   "time": "2026-11-15T15:04"
+  },
+  {
+   "stat": "Special Item Uses",
+   "value": "300",
+   "time": "2026-11-15T14:59"
+  },
+  {
+   "stat": "Times Targeting Was Used",
+   "value": "400",
+   "time": "2026-11-15T14:58"
+  },
+  {
+   "stat": "Consumable Items Used",
+   "value": "200",
+   "time": "2026-11-15T14:53"
+  },
+  {
+   "stat": "Ocarina Performances",
+   "value": "60",
+   "time": "2026-11-15T14:48"
+  },
+  {
+   "stat": "Enemies Defeated",
+   "value": "300",
+   "time": "2026-11-15T14:46"
+  },
+  {
+   "stat": "Play Time",
+   "value": "10 hours",
+   "time": "2026-11-15T14:41"
+  },
+  {
+   "stat": "Distance Traveled",
+   "value": "60 km",
+   "time": "2026-11-15T14:24"
+  },
+  {
+   "stat": "Pots Destroyed",
+   "value": "300",
+   "time": "2026-11-13T19:30"
+  },
+  {
+   "stat": "Magic Power Used",
+   "value": "20",
+   "time": "2026-11-13T19:29"
+  },
+  {
+   "stat": "Ocarina Performances",
+   "value": "50",
+   "time": "2026-11-13T19:22"
+  },
+  {
+   "stat": "Magic Power Used",
+   "value": "10",
+   "time": "2026-11-13T19:19"
+  },
+  {
+   "stat": "Treasure Chests Opened",
+   "value": "40",
+   "time": "2026-11-13T19:18"
+  },
+  {
+   "stat": "Times amiibo Were Used",
+   "value": "10",
+   "time": "2026-11-13T19:17"
+  },
+  {
+   "stat": "Ocarina Performances",
+   "value": "40",
+   "time": "2026-11-11T11:58"
+  },
+  {
+   "stat": "Roll Attacks Performed",
+   "value": "400",
+   "time": "2026-11-11T11:58"
+  },
+  {
+   "stat": "Sword Swings",
+   "value": "2,000",
+   "time": "2026-11-11T11:45"
+  },
+  {
+   "stat": "People Spoken To",
+   "value": "100",
+   "time": "2026-11-11T11:39"
+  },
+  {
+   "stat": "Times Targeting Was Used",
+   "value": "300",
+   "time": "2026-11-11T11:17"
+  },
+  {
+   "stat": "Treasure Chests Opened",
+   "value": "30",
+   "time": "2026-11-11T11:03"
+  },
+  {
+   "stat": "Special Item Uses",
+   "value": "200",
+   "time": "2026-11-11T10:55"
+  },
+  {
+   "stat": "Times Jumped",
+   "value": "1,000",
+   "time": "2026-11-11T10:51"
+  },
+  {
+   "stat": "Times Jumped",
+   "value": "900",
+   "time": "2026-11-11T10:34"
+  },
+  {
+   "stat": "Times Grass Was Cut",
+   "value": "1,000",
+   "time": "2026-11-08T08:40"
+  },
+  {
+   "stat": "Times Grass Was Cut",
+   "value": "900",
+   "time": "2026-11-08T08:28"
+  },
+  {
+   "stat": "Times Grass Was Cut",
+   "value": "800",
+   "time": "2026-11-08T08:21"
+  },
+  {
+   "stat": "Distance Traveled",
+   "value": "40 km",
+   "time": "2026-11-08T08:19"
+  },
+  {
+   "stat": "Enemies Defeated",
+   "value": "200",
+   "time": "2026-11-08T08:07"
+  },
+  {
+   "stat": "Ocarina Performances",
+   "value": "30",
+   "time": "2026-11-08T07:59"
+  }
+ ]
+}

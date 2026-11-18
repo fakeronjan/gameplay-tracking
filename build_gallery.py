@@ -79,19 +79,54 @@ def main():
 
     add_miiverse(gallery)
     moments = add_playstation(gallery)
+    milestones = add_zelda_notes(moments)
 
     # Drop images no sample uses any more (a game's sample shifts when screenshots are added)
-    keep = {s["img"] for g in gallery.values() for s in g["shots"]} | {m["img"] for m in moments.values()}
+    keep = {s["img"] for g in gallery.values() for s in g["shots"]} | {m["img"] for m in moments.values()} \
+        | {m["img"] for ms in milestones.values() for m in ms}
     stale = [p for kind in SIZES for p in (OUT / kind).glob("*.webp") if p.name not in keep]
     for p in stale:
         p.unlink()
     (OUT / "gallery.json").write_text(json.dumps(gallery, indent=1, ensure_ascii=False) + "\n")
     (OUT / "moments.json").write_text(json.dumps(moments, indent=1, ensure_ascii=False, sort_keys=True) + "\n")
+    (OUT / "milestones.json").write_text(json.dumps(milestones, indent=1, ensure_ascii=False) + "\n")
     print(f"gallery: {len(gallery)} games, {sum(len(g['shots']) for g in gallery.values())} of "
           f"{sum(g['total'] for g in gallery.values())} screenshots; {len(stale)} stale images removed")
 
 
 MIIVERSE = Path.home() / "Documents/Archive/Nintendo/miiverse_backup/assets/user"
+ZN_PARSED = HERE / "local" / "zelda_notes" / "parsed.json"
+
+
+def add_zelda_notes(moments):
+    """Zelda Notes milestone pictures (Ocarina of Time, Switch 2), cropped from Ronjan's
+    screenshots by build_zelda_notes.py's box. Each becomes a picture in the game page's
+    Milestones section, and when a milestone lands on a medal tier's threshold ON THE SAME DAY
+    the medal says it was earned, it's also that medal's moment, like a PlayStation trophy
+    capture. (Different days happen: Play Time 10 hours is a 11/13 medal but a 11/15 milestone,
+    and the medal agrees with Nintendo's play history, so a mismatch gets no moment.)"""
+    if not ZN_PARSED.exists():
+        return {}
+    zn = json.loads(ZN_PARSED.read_text())
+    out = []
+    for m in zn["milestones"]:
+        src = Path(m["src"])
+        name = f"zm-{m['time'].replace('-', '').replace(':', '').replace('T', '')}-{hashlib.sha1(src.name.encode()).hexdigest()[:6]}.webp"
+        for kind, size in SIZES.items():
+            dest = OUT / kind / name
+            if not dest.exists():
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                im = Image.open(src).convert("RGB").crop(tuple(m["crop"]))
+                im.thumbnail((size, size))
+                im.save(dest, "WEBP", quality=72 if kind == "t" else 82)
+        out.append({"stat": m["stat"], "value": m["value"], "time": m["time"], "img": name})
+    by_threshold = {(m["stat"], m["value"]): m for m in out}
+    for medal in zn["medals"]:
+        for t in medal["tiers"]:
+            ms = by_threshold.get((medal["stat"], t["threshold"]))
+            if t["earned"] and ms and ms["time"][:10] == t["earned"]:
+                moments[f"{zn['game_entry']}|{t['earned']}|{medal['name']} ({t['tier']})"] = {"img": ms["img"], "time": ms["time"]}
+    return {zn["game_entry"]: out}
 
 
 def add_miiverse(gallery):

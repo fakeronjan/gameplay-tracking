@@ -20,7 +20,8 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent.parent
 SHOTS = HERE.parent / "gameplay-screenshots"
 ARCHIVES = [Path.home() / "Documents/Archive/Nintendo/Nintendo Switch Screenshots",
-            Path.home() / "Documents/Archive/Sony PlayStation Screenshots"]
+            Path.home() / "Documents/Archive/Sony PlayStation Screenshots",
+            HERE / "local" / "zelda_notes" / "raw"]  # Zelda Notes screenshots, moved out of Photos
 STATE = HERE / "local" / "sync_state.json"
 LOG = HERE / "local" / "sync.log"
 QUIET = 600
@@ -80,6 +81,7 @@ def build_and_publish():
             for repo in (HERE, SHOTS):
                 clean_and_current(repo)
             run([PY, "build_frozen.py"])
+            run([PY, "build_zelda_notes.py"])  # Zelda Notes medals + milestones (local/zelda_notes/raw)
             run([PY, "build_games.py"])
             run([PY, "fetch_images.py"])
             for f in (HERE / "docs" / "data").glob("*.json"):
