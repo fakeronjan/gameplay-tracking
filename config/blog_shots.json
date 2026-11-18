@@ -1,5 +1,5 @@
 {
- "_about": "Screenshots from Ronjan's fakeronjan.com posts, sorted by him 2026-11-18 (images already in the Switch, PlayStation, or iOS archives left out). Shown on each game page under 'From the blog', dated by the post and linking to it. blog_only_rows: games with no platform data that get a row just for these.",
+ "_about": "Screenshots from Ronjan's fakeronjan.com posts, sorted by him 2026-11-18 (images already in the Switch, PlayStation, or iOS archives left out). Shown on each game page under 'From the blog', dated by the post and linking to it. blog_only_rows: games with no platform data that get a row just for these. also_archived: the same picture is in the Switch, PlayStation, or iOS archive (game taken from that capture); added 2026-11-18 so every post is tied to its games.",
  "blog_only_rows": [
   "John Madden Football '93",
   "Mother 3",
@@ -85,6 +85,102 @@
    "date": "2016-12-13"
   },
   {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25487603-10212449464884172-5668761420221154068-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488039-10212449451683842-8067198534811019368-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488083-10212449479124528-6236985954144947411-o.jpg",
+   "game": "The Legend of Zelda: Breath of the Wild",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488283-10212449448683767-6205627176514074118-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488302-10212449467364234-2794981039668556468-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488427-10212449460644066-8298041895523215655-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25532210-10212449453483887-8136706110451413517-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25542766-10212449477284482-10910483325011343-o.jpg",
+   "game": "The Legend of Zelda: Breath of the Wild",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25586883-10212449483364634-1565106065132763791-o.jpg",
+   "game": "The Legend of Zelda: Breath of the Wild",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25586901-10212449447323733-1959049248006742538-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25626167-10212449459324033-9088435887094432769-o.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/25531920-10212449471964349-6673736017189160312-o_orig.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-1-41-58-pm_orig.png",
    "game": "Super Mario Maker",
    "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
@@ -125,6 +221,94 @@
    "post": "/blog/ua-goty-follow-up-2-ranking-zelda/",
    "title": "GotY Follow Up #2: Ranking Zelda",
    "date": "2018-01-15"
+  },
+  {
+   "src": "/blog/img/ua/great-video-game-levels-2-celeste/30653258-10213350858858458-6209756058353664000-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/ua-great-video-game-levels-2-celeste/",
+   "title": "Great Video Game Levels #2: Celeste",
+   "date": "2018-05-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/great-video-game-levels-2-celeste/30657051-10213350866738655-4109686650278248448-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/ua-great-video-game-levels-2-celeste/",
+   "title": "Great Video Game Levels #2: Celeste",
+   "date": "2018-05-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/great-video-game-levels-2-celeste/30657329-10213350870098739-7922839086174306304-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/ua-great-video-game-levels-2-celeste/",
+   "title": "Great Video Game Levels #2: Celeste",
+   "date": "2018-05-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/great-video-game-levels-2-celeste/30688238-10213350854858358-272362043951022080-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/ua-great-video-game-levels-2-celeste/",
+   "title": "Great Video Game Levels #2: Celeste",
+   "date": "2018-05-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/great-video-game-levels-2-celeste/30697708-10213350862738555-7503420316945743872-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/ua-great-video-game-levels-2-celeste/",
+   "title": "Great Video Game Levels #2: Celeste",
+   "date": "2018-05-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/great-video-game-levels-2-celeste/30713535-10213350870658753-8350122009241321472-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/ua-great-video-game-levels-2-celeste/",
+   "title": "Great Video Game Levels #2: Celeste",
+   "date": "2018-05-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/enih8uluwaebpgr.jpeg",
+   "game": "Cadence of Hyrule",
+   "post": "/blog/fr-game-of-the-year-game-of-the-decade/",
+   "title": "Game of the Year, Game of the Decade",
+   "date": "2019-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/eniiltau4aiypj9.jpeg",
+   "game": "The Legend of Zelda: Link's Awakening (Switch)",
+   "post": "/blog/fr-game-of-the-year-game-of-the-decade/",
+   "title": "Game of the Year, Game of the Decade",
+   "date": "2019-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/eniimkpu8ayixl9.jpeg",
+   "game": "Pokémon Sword",
+   "post": "/blog/fr-game-of-the-year-game-of-the-decade/",
+   "title": "Game of the Year, Game of the Decade",
+   "date": "2019-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/eniixf-u4aavbsf.jpeg",
+   "game": "Untitled Goose Game",
+   "post": "/blog/fr-game-of-the-year-game-of-the-decade/",
+   "title": "Game of the Year, Game of the Decade",
+   "date": "2019-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/enijywxu0aacfa8.jpeg",
+   "game": "Super Mario Maker 2",
+   "post": "/blog/fr-game-of-the-year-game-of-the-decade/",
+   "title": "Game of the Year, Game of the Decade",
+   "date": "2019-12-31",
+   "also_archived": true
   },
   {
    "src": "/blog/img/fr/game-of-the-year-game-of-the-decade/screen-shot-2019-12-31-at-5.17.05-pm.png",
@@ -204,6 +388,70 @@
    "date": "2020-04-06"
   },
   {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-1.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-2.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-3.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-4.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-5.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-6.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-7.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/animal-crossing-8.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/game-of-the-year-2020/flight-sim.jpg",
    "game": "Microsoft Flight Simulator (2020)",
    "post": "/blog/fr-game-of-the-year-2020/",
@@ -223,6 +471,62 @@
    "post": "/blog/fr-game-of-the-year-2020/",
    "title": "Game of the Year 2020",
    "date": "2020-12-28"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-2.jpg",
+   "game": "Super Mario Bros. 35",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-3.jpg",
+   "game": "Super Mario Bros. 35",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-4.jpg",
+   "game": "Super Mario Bros. 35",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-5.jpg",
+   "game": "Super Mario Bros. 35",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/retro-bowl-1.jpg",
+   "game": "Retro Bowl",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/retro-bowl-2.png",
+   "game": "Retro Bowl",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2020/retro-bowl-3.png",
+   "game": "Retro Bowl",
+   "post": "/blog/fr-game-of-the-year-2020/",
+   "title": "Game of the Year 2020",
+   "date": "2020-12-28",
+   "also_archived": true
   },
   {
    "src": "/blog/img/fr/game-of-the-year-2021/ace-attorney.png",
@@ -302,11 +606,27 @@
    "date": "2021-12-27"
   },
   {
+   "src": "/blog/img/fr/game-of-the-year-2021/retro-goal.png",
+   "game": "Retro Goal",
+   "post": "/blog/fr-game-of-the-year-2021/",
+   "title": "Game of the Year 2021",
+   "date": "2021-12-27",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/game-of-the-year-2021/what-the-dub.png",
    "game": "What the Dub?!",
    "post": "/blog/fr-game-of-the-year-2021/",
    "title": "Game of the Year 2021",
    "date": "2021-12-27"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/2022041908152200-02cb906ea538a35643c1e1484c4b947d.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
   },
   {
    "src": "/blog/img/fr/game-of-the-year-2022/596ae9b0-1efc-46b2-97dc-1135294c34ac.png",
@@ -328,6 +648,78 @@
    "post": "/blog/fr-game-of-the-year-2022/",
    "title": "Game of the Year 2022",
    "date": "2022-12-22"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/birthday.jpg",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/cerseilani-map.gif",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/happy-blathers.gif",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/house-and-island-tour.gif",
+   "game": "Animal Crossing: New Horizons",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_0012.jpg",
+   "game": "Stray",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_0013.jpg",
+   "game": "Stray",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_0014.jpg",
+   "game": "Stray",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_0016.jpg",
+   "game": "Stray",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2022/img_0020.jpg",
+   "game": "Stray",
+   "post": "/blog/fr-game-of-the-year-2022/",
+   "title": "Game of the Year 2022",
+   "date": "2022-12-22",
+   "also_archived": true
   },
   {
    "src": "/blog/img/fr/game-of-the-year-2022/img_0098.jpg",
@@ -358,11 +750,67 @@
    "date": "2022-12-22"
   },
   {
+   "src": "/blog/img/fr/january-25/30657051-10213350866738655-4109686650278248448-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/fr-january-25/",
+   "title": "January 25",
+   "date": "2023-01-25",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/january-25/30657329-10213350870098739-7922839086174306304-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/fr-january-25/",
+   "title": "January 25",
+   "date": "2023-01-25",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/january-25/30688238-10213350854858358-272362043951022080-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/fr-january-25/",
+   "title": "January 25",
+   "date": "2023-01-25",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/january-25/30697708-10213350862738555-7503420316945743872-o_orig.jpg",
+   "game": "Celeste",
+   "post": "/blog/fr-january-25/",
+   "title": "January 25",
+   "date": "2023-01-25",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/my-top-10-zelda-games/1-a-link-between-worlds-pic.jpg",
    "game": "The Legend of Zelda: A Link Between Worlds",
    "post": "/blog/fr-my-top-10-zelda-games/",
    "title": "My top 10 Zelda games",
    "date": "2023-05-07"
+  },
+  {
+   "src": "/blog/img/fr/my-top-10-zelda-games/2-links-awakening-pic.jpeg",
+   "game": "The Legend of Zelda: Link's Awakening (Switch)",
+   "post": "/blog/fr-my-top-10-zelda-games/",
+   "title": "My top 10 Zelda games",
+   "date": "2023-05-07",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/my-top-10-zelda-games/3-breath-of-the-wild-pic.jpg",
+   "game": "The Legend of Zelda: Breath of the Wild",
+   "post": "/blog/fr-my-top-10-zelda-games/",
+   "title": "My top 10 Zelda games",
+   "date": "2023-05-07",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/my-top-10-zelda-games/8-cadence-pic.jpeg",
+   "game": "Cadence of Hyrule",
+   "post": "/blog/fr-my-top-10-zelda-games/",
+   "title": "My top 10 Zelda games",
+   "date": "2023-05-07",
+   "also_archived": true
   },
   {
    "src": "/blog/img/fr/top-10-mario-games/2---mario-rpg-2.jpg",
@@ -386,11 +834,155 @@
    "date": "2023-07-04"
   },
   {
+   "src": "/blog/img/fr/top-10-mario-games/4---mario-odyssey-2.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/fr-top-10-mario-games/",
+   "title": "My top 10 Mario games",
+   "date": "2023-07-04",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/top-10-mario-games/4---mario-odyssey-3.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/fr-top-10-mario-games/",
+   "title": "My top 10 Mario games",
+   "date": "2023-07-04",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/top-10-mario-games/8---mario-3.jpg",
+   "game": "Super Mario Bros. 3",
+   "post": "/blog/fr-top-10-mario-games/",
+   "title": "My top 10 Mario games",
+   "date": "2023-07-04",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/useless-analysis-from-uselessanalysiscom/2520610_orig.jpg",
    "game": "NBA 2K14",
    "post": "/blog/fr-useless-analysis-from-uselessanalysiscom/",
    "title": "Useless analysis from uselessanalysis.com",
    "date": "2023-10-08"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/3.-mario-bros-wonder.jpg",
+   "game": "Super Mario Bros. Wonder",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/4.-zelda-first-pic.jpg",
+   "game": "The Legend of Zelda: Tears of the Kingdom",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/5.-zelda-second-pic.jpg",
+   "game": "The Legend of Zelda: Tears of the Kingdom",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0927.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0928.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0929.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0930.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0931.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0932.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0933.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0934.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0935.jpeg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/img_0936.jpeg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/octopath-thank-you.jpg",
+   "game": "Octopath Traveler II",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2023/octopath-visuals.jpg",
+   "game": "Octopath Traveler II",
+   "post": "/blog/fr-game-of-the-year-2023/",
+   "title": "Game of the Year 2023",
+   "date": "2023-12-20",
+   "also_archived": true
   },
   {
    "src": "/blog/img/fr/tecmo-super-nba-basketball-a-mini-tribute/tecmo1.png",
@@ -449,6 +1041,102 @@
    "date": "2024-11-17"
   },
   {
+   "src": "/blog/img/fr/game-of-the-year-2024/img_3224.jpg",
+   "game": "EA Sports College Football 25",
+   "post": "/blog/fr-game-of-the-year-2024/",
+   "title": "Game of the Year 2024",
+   "date": "2024-12-30",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2024/img_4468.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-game-of-the-year-2024/",
+   "title": "Game of the Year 2024",
+   "date": "2024-12-30",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/ios-jokers.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/ios-planets.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/ios-stats.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/ios-summary.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/ios-tarot.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/playstation-jokers.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/playstation-planets.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/playstation-stats.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/playstation-summary.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/playstation-tarot.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/one-year-four-balatros/steam-jokers.png",
    "game": "Balatro",
    "post": "/blog/fr-one-year-four-balatros/",
@@ -484,6 +1172,46 @@
    "date": "2024-12-31"
   },
   {
+   "src": "/blog/img/fr/one-year-four-balatros/switch-jokers.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/switch-planets.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/switch-stats.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/switch-summary.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/one-year-four-balatros/switch-tarot.jpg",
+   "game": "Balatro",
+   "post": "/blog/fr-one-year-four-balatros/",
+   "title": "One Year, Four Balatros",
+   "date": "2024-12-31",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/my-favorite-rpgs/2-2b--2bmario-2brpg.jpg",
    "game": "Super Mario RPG: Legend of the Seven Stars",
    "post": "/blog/fr-my-favorite-rpgs/",
@@ -491,11 +1219,115 @@
    "date": "2025-03-05"
   },
   {
+   "src": "/blog/img/fr/my-favorite-rpgs/img_0930.jpg",
+   "game": "Super Mario RPG (Switch)",
+   "post": "/blog/fr-my-favorite-rpgs/",
+   "title": "My favorite RPGs",
+   "date": "2025-03-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/my-favorite-rpgs/img_5305.jpg",
+   "game": "Paper Mario: The Thousand-Year Door (Switch)",
+   "post": "/blog/fr-my-favorite-rpgs/",
+   "title": "My favorite RPGs",
+   "date": "2025-03-05",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/my-favorite-rpgs/img_5307.jpg",
+   "game": "Like a Dragon: Infinite Wealth",
+   "post": "/blog/fr-my-favorite-rpgs/",
+   "title": "My favorite RPGs",
+   "date": "2025-03-05",
+   "also_archived": true
+  },
+  {
    "src": "/blog/img/fr/my-favorite-rpgs/screenshot-2025-03-05-at-1.49.12-e2-80-afpm.png",
    "game": "EarthBound",
    "post": "/blog/fr-my-favorite-rpgs/",
    "title": "My favorite RPGs",
    "date": "2025-03-05"
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/dispatch.jpg",
+   "game": "Dispatch",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/e33-maelle.jpg",
+   "game": "Clair Obscur: Expedition 33",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/e33-plant-flag.jpg",
+   "game": "Clair Obscur: Expedition 33",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/e33-start.jpg",
+   "game": "Clair Obscur: Expedition 33",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/e33-the-main-point.jpg",
+   "game": "Clair Obscur: Expedition 33",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/e33-verso.jpg",
+   "game": "Clair Obscur: Expedition 33",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/lost-records.jpg",
+   "game": "Lost Records: Bloom & Rage",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/marvel.jpg",
+   "game": "Marvel Cosmic Invasion",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/pirate-yakuza.jpg",
+   "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
+  },
+  {
+   "src": "/blog/img/fr/game-of-the-year-2025/split-fiction.jpg",
+   "game": "Split Fiction",
+   "post": "/blog/fr-game-of-the-year-2025/",
+   "title": "Game of the Year 2025",
+   "date": "2025-12-21",
+   "also_archived": true
   }
  ]
 }
