@@ -314,12 +314,32 @@
   "nintendo:0100152000022000"
  ],
  "_names_disambiguation": "Two games sharing a name get a suffix (Ronjan 2026-11-14): a remake or port of the same game gets its console, Ocarina of Time (N64) / (Switch 2); a different game reusing the name gets its year, God of War (2005) / (2018). Also applied to rows whose name matches a well-known game not in the library. Games sharing a name are kept apart with split, then rejoined per game with merge.",
- "_hours_anchors": "Fixed points for a play record's hours over time, {entry: {by, minutes, why}}: the model spreads the rest (Ronjan 2026-11-18).",
+ "_hours_anchors": "Fixed points for a play record's hours over time, {entry: {by, minutes, why} or a list of them}: the model spreads the rest (Ronjan 2026-11-18).",
  "hours_anchors": {
+  "steam:2379780": [
+   {
+    "by": "2024-12-31",
+    "minutes": 2040,
+    "why": "Balatro on Steam: ~34 h by the 12/31/2024 'One Year, Four Balatros' post. Much of it was offline on a December 2024 cruise (Ronjan), which Steam only counts in its total. 34 h = the post's top-10 joker, tarot, and planet counts (1,739 / 812 / 1,020) times hours per count from current stats against the real 138.2 h (38 / 30 / 33 h, averaged)."
+   },
+   {
+    "by": "2026-01-01",
+    "minutes": 8259,
+    "why": "Balatro on Steam in 2026: barely played (Ronjan 2026-11-18), so ~0.5 h from 1/1 to the 4/4/2026 last played before the daily log; the 2 logged minutes on 11/18 count as is."
+   }
+  ]
+ },
+ "_hours_month_shares": "Known monthly shares of a year's play for one record, {entry: {year: {YYYY-MM: share}, why}}: that year's modeled minutes are reshaped to them (Ronjan 2026-11-18).",
+ "hours_month_shares": {
   "steam:2379780": {
-   "by": "2024-12-31",
-   "minutes": 2040,
-   "why": "Balatro on Steam: ~34 h by the 12/31/2024 'One Year, Four Balatros' post. Much of it was offline on a December 2024 cruise (Ronjan), which Steam only counts in its total. 34 h = the post's top-10 joker, tarot, and planet counts (1,739 / 812 / 1,020) times hours per count from current stats against the real 138.2 h (38 / 30 / 33 h, averaged)."
+   "2025": {
+    "2025-01": 62,
+    "2025-02": 28,
+    "2025-03": 3,
+    "2025-04": 0.5,
+    "2025-07": 1
+   },
+   "why": "Balatro on Steam, 2025: Steam's 2025 year-in-review playtime by month (Jan 62%, Feb 28%, Mar ~3%, Apr and Jul under 1%). Ronjan: barely played it on Steam in 2026."
   }
  }
 }

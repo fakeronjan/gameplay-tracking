@@ -250,14 +250,16 @@ def hours_span(first, last, minutes, p, real, ev, anchor=None):
             w[t] += k[t] / kt
     # An anchor ({"by": date, "minutes": n}, config game_merges "hours_anchors") fixes how much of
     # the total falls on or before a day: each side keeps the model's shape but is scaled to its share
-    cut = None
-    if anchor and first <= anchor["by"] < last:
-        cut = date.fromisoformat(anchor["by"]).toordinal() - a
-        head, tail = sum(w[:cut + 1]), sum(w[cut + 1:])
-        scale = [anchor["minutes"] / head if t <= cut else (minutes - anchor["minutes"]) / tail for t in range(L + 1)]
-    else:
-        tot = sum(w)
-        scale = [minutes / tot] * (L + 1)
+    # Several anchors (a list) fix the running total at each of their days
+    anchors = sorted((x for x in ([anchor] if isinstance(anchor, dict) else anchor or []) if first <= x["by"] < last),
+                     key=lambda x: x["by"])
+    cuts = [(date.fromisoformat(x["by"]).toordinal() - a, x["minutes"]) for x in anchors] + [(L, minutes)]
+    scale, start, done = [0.0] * (L + 1), 0, 0
+    for cut, upto in cuts:
+        seg = sum(w[start:cut + 1])
+        for t in range(start, cut + 1):
+            scale[t] = (upto - done) / seg if seg else 0
+        start, done = cut + 1, upto
     out = {}
     for t in range(L + 1):
         m = date.fromordinal(a + t).isoformat()[:7]
@@ -632,6 +634,22 @@ def build():
     # with estimated hours (PS3, Vita, 360, collection shares) span first to last trophy or
     # achievement (Ronjan, 2026-11-12).
     ncfg = json.loads((HERE / "config" / "nintendo_overrides.json").read_text())
+    # Since the daily refresh began (2026-10-28), playtime_log.json has each day's real minutes per
+    # PlayStation and Steam play record: those count as is, on their days, and the model only
+    # spreads the minutes from before the log (Ronjan 2026-11-18: 2 logged Balatro minutes had
+    # moved "last played" to today and the model put ~8 h in the two weeks before it)
+    log_start = "2026-10-28"
+    logged = defaultdict(lambda: defaultdict(float))
+    for x in load("playtime_log.json") if (DATA / "playtime_log.json").exists() else []:
+        eid = {"steam": f"steam:{x['id']}", "psn": f"psn-played:{x['id']}"}.get(x["platform"])
+        if not eid or not x.get("minutes_delta"):
+            continue
+        t = datetime.fromisoformat(x["time"].replace("Z", "+00:00")).astimezone(ZoneInfo("America/New_York"))
+        # The daily refresh runs before dawn Eastern: its minutes were played the day before
+        day = (t.date() - timedelta(days=1) if t.hour < 9 else t.date()).isoformat()
+        logged[eid][day] += x["minutes_delta"]
+    shares_cfg = cfg.get("hours_month_shares", {})
+    baseline = json.loads((HERE / "config" / "log_baseline.json").read_text())["last_played"]
     for ids in rows.values():
         fam_days = defaultdict(set)
         for i in ids:
@@ -641,9 +659,33 @@ def build():
             if e["family"] == "Nintendo" or not e["minutes"] or len(set(e["days"])) < 2:
                 continue
             first, last = min(e["days"]), max(e["days"])
-            real = sorted(d for d in fam_days[e["family"]] | set(e["days"]) if first <= d <= last)
-            e["modeled_hours"] = hours_span(first, last, e["minutes"], ncfg["model"], real, ncfg["evidence"],
-                                            cfg.get("hours_anchors", {}).get(i))
+            day_log = logged.get(i, {})
+            model_minutes = e["minutes"] - sum(day_log.values())
+            # The model's span ends at the last day played before the log; logged days are exact
+            pre = [d for d in e["days"] if d < log_start or d not in day_log]
+            # Last played as of the day before the log began (config/log_baseline.json)
+            base = baseline.get(i)
+            if base and base < log_start:
+                pre = sorted(set(pre) | {base})
+            model_last = max(pre) if pre else first
+            real = sorted(d for d in fam_days[e["family"]] | set(pre) if first <= d <= model_last)
+            mh = {}
+            if model_minutes > 0:
+                if first < model_last:
+                    mh = hours_span(first, model_last, model_minutes, ncfg["model"], real, ncfg["evidence"],
+                                    cfg.get("hours_anchors", {}).get(i))
+                else:
+                    mh = {first[:7]: round(model_minutes, 1)}
+            # Known monthly shares for a year (Steam's year-in-review): that year's minutes, reshaped
+            for year, sh in {k: v for k, v in shares_cfg.get(i, {}).items() if k.isdigit()}.items():
+                tot = sum(v for m, v in mh.items() if m[:4] == year)
+                if tot:
+                    mh = {m: v for m, v in mh.items() if m[:4] != year}
+                    for m, w in sh.items():
+                        mh[m] = round(mh.get(m, 0) + tot * w / sum(sh.values()), 1)
+            for d, m in day_log.items():
+                mh[d[:7]] = round(mh.get(d[:7], 0) + m, 1)
+            e["modeled_hours"] = dict(sorted(mh.items()))
             e["span"] = [first, last]
 
     games = []
