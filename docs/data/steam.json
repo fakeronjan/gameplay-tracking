@@ -8,6 +8,7 @@
    "icon": "ea5a576e8bb0844bd41c6332586256ddcbe50258",
    "last_played": "2026-03-19T23:55:56Z",
    "minutes": 19,
+   "minutes_offline": 0,
    "name": "Trombone Champ"
   },
   "107100": {
@@ -18,6 +19,7 @@
    "icon": "8377b4460f19465c261673f76f2656bdb3288273",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Bastion"
   },
   "1133760": {
@@ -28,6 +30,7 @@
    "icon": "f7007ddabb9d8ab4408255c3336ae296fdc02b5e",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "CHRONO CROSS: THE RADICAL DREAMERS EDITION"
   },
   "1145360": {
@@ -38,6 +41,7 @@
    "icon": "8a3fca36a00883e8066263ad35dd15d77a1f9abc",
    "last_played": "2026-03-22T02:46:23Z",
    "minutes": 1,
+   "minutes_offline": 0,
    "name": "Hades"
   },
   "1147860": {
@@ -57,6 +61,7 @@
    "icon": "fb3dc343dc41261963e049b1d38985a7c9d9df43",
    "last_played": "2026-03-21T14:22:22Z",
    "minutes": 4,
+   "minutes_offline": 0,
    "name": "UFO 50"
   },
   "1147940": {
@@ -64,6 +69,7 @@
    "icon": "6f766a8a48e637023b230b484b346efdaf34489a",
    "last_played": "2026-03-19T23:59:42Z",
    "minutes": 144,
+   "minutes_offline": 0,
    "name": "3dSen"
   },
   "1148590": {
@@ -74,6 +80,7 @@
    "icon": "420b8488badd2d6d1b853307df7a550b2d2c33e2",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM 64"
   },
   "1150690": {
@@ -84,6 +91,7 @@
    "icon": "29c42e099c6527a041bf17812d140508fab9c387",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "OMORI"
   },
   "1173820": {
@@ -94,6 +102,7 @@
    "icon": "7ed130e7b09843205b7d38cccef63a40cd9d09b3",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "FINAL FANTASY VI"
   },
   "1250410": {
@@ -104,6 +113,7 @@
    "icon": "e374de450803dc212690bf721a14843a0dd2ad58",
    "last_played": "2020-09-13T15:08:09Z",
    "minutes": 465,
+   "minutes_offline": 0,
    "name": "Microsoft Flight Simulator (2020)"
   },
   "1404850": {
@@ -163,6 +173,7 @@
    "icon": "ce8b9c2719ccf0fb47c3b97eb58f758913a268fd",
    "last_played": "2026-03-22T03:00:40Z",
    "minutes": 60,
+   "minutes_offline": 0,
    "name": "Luck be a Landlord"
   },
   "1454400": {
@@ -173,6 +184,7 @@
    "icon": "e0c68bbdb2813528f0802ef6751655e33a42c9bb",
    "last_played": "2026-03-22T02:43:34Z",
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Cookie Clicker"
   },
   "1462040": {
@@ -183,6 +195,7 @@
    "icon": "3cf19bc8fa3bc953d68a9b46b0a7555839188da0",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "FINAL FANTASY VII REMAKE INTERGRADE"
   },
   "1495860": {
@@ -306,6 +319,7 @@
    "icon": "fa945cfbba16674bbed1f9e400e3746dbf26d112",
    "last_played": "2021-12-28T20:02:05Z",
    "minutes": 202,
+   "minutes_offline": 0,
    "name": "What The Dub?!"
   },
   "1785650": {
@@ -316,6 +330,7 @@
    "icon": "e2c6e070c1d48f9309dc48ee786bfd0b799d0604",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "TopSpin 2K25"
   },
   "1971650": {
@@ -326,6 +341,7 @@
    "icon": "7a90088ff3b521a0edcbd414fcd88361dd3d8b45",
    "last_played": "2026-03-22T03:07:36Z",
    "minutes": 7,
+   "minutes_offline": 0,
    "name": "OCTOPATH TRAVELER II"
   },
   "20540": {
@@ -333,6 +349,7 @@
    "icon": "64946619217da497c9b29bc817bb40dd7d28c912",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Company of Heroes: Tales of Valor"
   },
   "208200": {
@@ -343,6 +360,7 @@
    "icon": "00b2e4a81c7305be9203e17010d3a5ab51f53737",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM 3: BFG Edition"
   },
   "208580": {
@@ -353,6 +371,7 @@
    "icon": "1c9e1a68198c15eb47b35c692fbfa5adeb7a6566",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "STAR WARS™ Knights of the Old Republic™ II: The Sith Lords™"
   },
   "20900": {
@@ -360,6 +379,7 @@
    "icon": "746d1cd48fb2e57d579b05b6e9eccba95859e549",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "The Witcher: Enhanced Edition"
   },
   "213670": {
@@ -370,6 +390,7 @@
    "icon": "afad8295902080fb2aedd9aaabb3e21c10eecc85",
    "last_played": "2014-12-29T23:16:46Z",
    "minutes": 221,
+   "minutes_offline": 0,
    "name": "South Park™: The Stick of Truth™"
   },
   "2139090": {
@@ -377,6 +398,7 @@
    "icon": "d50087d22a8af5fc1aca12206e53c1c2e3df9077",
    "last_played": "2024-10-17T22:31:44Z",
    "minutes": 10,
+   "minutes_offline": 0,
    "name": "Project ETHOS"
   },
   "2280": {
@@ -387,6 +409,7 @@
    "icon": "3e5e70b1e0c4869dc3276b10b830f6ce9d341cf9",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM + DOOM II"
   },
   "228200": {
@@ -394,6 +417,7 @@
    "icon": "df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Company of Heroes "
   },
   "2300": {
@@ -401,6 +425,7 @@
    "icon": "ca71be262e191f3fdb2148f5ae56ff3e2ca340c2",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM II"
   },
   "237930": {
@@ -411,6 +436,7 @@
    "icon": "b45dc369d45afe945d379e75545959f845094f92",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Transistor"
   },
   "2379780": {
@@ -438,7 +464,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/6c56b680fef6cfc0b791b97373e811c1a5ff1d37.jpg",
       "id": "BAL_02",
       "name": "Ante Upper!",
-      "rarity": 74.5
+      "rarity": 74.4
      },
      {
       "detail": "Win a Run",
@@ -462,7 +488,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/a55b642e2986b818a9e2c56cfddcc8213b26682e.jpg",
       "id": "BAL_17",
       "name": "1,000K",
-      "rarity": 47.8
+      "rarity": 47.7
      },
      {
       "detail": "Have 80 or more cards in your deck",
@@ -478,7 +504,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/dd13d58459711c378794da939b08b7983f346176.jpg",
       "id": "BAL_04",
       "name": "Low Stakes",
-      "rarity": 43.7
+      "rarity": 43.6
      },
      {
       "detail": "Win a run on at least Black Stake difficulty",
@@ -526,7 +552,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/ef51600bad9ee0f338cde583d16a786ee3032536.jpg",
       "id": "BAL_21",
       "name": "You Get What You Get",
-      "rarity": 33.4
+      "rarity": 33.3
      },
      {
       "detail": "Discover a Legendary Joker",
@@ -550,7 +576,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/e873e467487b547fba760f7b8b8ce93c179c5e3e.jpg",
       "id": "BAL_26",
       "name": "Cartomancy",
-      "rarity": 60.9
+      "rarity": 60.8
      },
      {
       "detail": "Win a run in 12 or fewer rounds",
@@ -566,7 +592,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/6fc77ec70586d4a4ec395b10af1c0276fe0cdc72.jpg",
       "id": "BAL_27",
       "name": "Clairvoyance",
-      "rarity": 29.6
+      "rarity": 29.5
      },
      {
       "detail": "Have $400 or more during a single run",
@@ -574,7 +600,7 @@
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/2379780/0e5333b2b6d782317610e6ccf8f9aebddbc24ada.jpg",
       "id": "BAL_09",
       "name": "Nest Egg",
-      "rarity": 16.6
+      "rarity": 16.5
      },
      {
       "detail": "Win a run on at least Gold Stake difficulty",
@@ -628,8 +654,9 @@
     "total": 31
    },
    "icon": "b6018068070ab0e23561694c11f7950dd6f4c752",
-   "last_played": "2026-04-05T02:43:14Z",
-   "minutes": 4190,
+   "last_played": "2026-11-18T18:01:52Z",
+   "minutes": 8291,
+   "minutes_offline": 4099,
    "name": "Balatro"
   },
   "246620": {
@@ -737,6 +764,7 @@
    "icon": "9e39dcfd5a300732c16111b268853ef11a0ba4d0",
    "last_played": "2026-03-22T02:48:51Z",
    "minutes": 172,
+   "minutes_offline": 0,
    "name": "Plague Inc: Evolved"
   },
   "250760": {
@@ -747,6 +775,7 @@
    "icon": "a4df2557166453374519b64ed5ccef3f0a643f4e",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Shovel Knight: Treasure Trove"
   },
   "289070": {
@@ -782,6 +811,7 @@
    "icon": "9dc914132fec244adcede62fb8e7524a72a7398c",
    "last_played": "2020-03-08T13:10:29Z",
    "minutes": 289,
+   "minutes_offline": 0,
    "name": "Sid Meier's Civilization VI"
   },
   "292030": {
@@ -792,6 +822,7 @@
    "icon": "7b52d11edee478d652ef4e7103e00644bed2c74c",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "The Witcher 3: Wild Hunt — Remastered"
   },
   "32370": {
@@ -799,6 +830,7 @@
    "icon": "018b6650c8de8c9c36d957cf6f8bc11d0c21d083",
    "last_played": "2026-03-22T02:44:52Z",
    "minutes": 86,
+   "minutes_offline": 0,
    "name": "STAR WARS™ Knights of the Old Republic™"
   },
   "324710": {
@@ -834,6 +866,7 @@
    "icon": "0329ee658d47fefe92e32aa43459da6eb3abea1e",
    "last_played": "2016-01-24T02:34:43Z",
    "minutes": 19,
+   "minutes_offline": 0,
    "name": "To Be or Not To Be"
   },
   "3323850": {
@@ -841,6 +874,7 @@
    "icon": "8d258ce95d891378ab72c683043247a6cb2b963a",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Blippo+"
   },
   "379720": {
@@ -851,6 +885,7 @@
    "icon": "b6e72ff47d1990cb644700751eeeff14e0aba6dc",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM"
   },
   "391540": {
@@ -858,6 +893,7 @@
    "icon": "2ce672b89b63ec1e70d2f12862e72eb4a33e9268",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Undertale"
   },
   "413410": {
@@ -868,6 +904,7 @@
    "icon": "221f5116c2c1d46fa71a7b014b5e882334a2d0da",
    "last_played": "2020-03-04T01:51:46Z",
    "minutes": 3,
+   "minutes_offline": 0,
    "name": "Danganronpa: Trigger Happy Havoc"
   },
   "413420": {
@@ -878,6 +915,7 @@
    "icon": "912bb82c4ee0f7734ed28c97fde01a1371978896",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Danganronpa 2: Goodbye Despair"
   },
   "416690": {
@@ -885,6 +923,7 @@
    "icon": "b00f068e1153997f129374084d7127451449f395",
    "last_played": "2016-01-24T02:04:49Z",
    "minutes": 25,
+   "minutes_offline": 0,
    "name": "Oh...Sir! Prototype"
   },
   "417860": {
@@ -936,6 +975,7 @@
    "icon": "51909ffd578abe91b984f60c9cfe90ec74845608",
    "last_played": "2015-12-27T19:44:17Z",
    "minutes": 86,
+   "minutes_offline": 0,
    "name": "Emily is Away"
   },
   "419460": {
@@ -943,6 +983,7 @@
    "icon": "4db26ebdcd6457ef42fa11f9aa39455ec1939a7a",
    "last_played": "2016-01-13T04:29:48Z",
    "minutes": 35,
+   "minutes_offline": 0,
    "name": "That Dragon, Cancer"
   },
   "43110": {
@@ -953,6 +994,7 @@
    "icon": "a70fe6dc214f24107d20596f3040dbfa220ed42d",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Metro 2033"
   },
   "442070": {
@@ -1004,6 +1046,7 @@
    "icon": "a2aab99a9ec657f817aff247593b3310cae44288",
    "last_played": "2021-05-21T21:23:29Z",
    "minutes": 728,
+   "minutes_offline": 0,
    "name": "Drawful 2"
   },
   "4560": {
@@ -1011,6 +1054,7 @@
    "icon": "64946619217da497c9b29bc817bb40dd7d28c912",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Company of Heroes - Legacy Edition"
   },
   "462770": {
@@ -1021,6 +1065,7 @@
    "icon": "75ed6f3b5fe1413ff42c21d2493a0e99c704ef2e",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Pyre"
   },
   "462780": {
@@ -1031,6 +1076,7 @@
    "icon": "4616a0d94eb5864f2933fd0157bb60a27b14d5fe",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Darksiders Warmastered Edition"
   },
   "504230": {
@@ -1041,6 +1087,7 @@
    "icon": "04cb7aa0b497a3962e6b1655b7fd81a2cc95d18b",
    "last_played": "2026-03-20T00:54:27Z",
    "minutes": 10,
+   "minutes_offline": 0,
    "name": "Celeste"
   },
   "50620": {
@@ -1051,6 +1098,7 @@
    "icon": "e429cee10d864faf2aae2ea9cd75e8e1942fbe08",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Darksiders"
   },
   "55110": {
@@ -1061,6 +1109,7 @@
    "icon": "e59c7e741c05c9071176b270bdbb733afe55c751",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Red Faction: Armageddon"
   },
   "55230": {
@@ -1071,6 +1120,7 @@
    "icon": "ec83645f13643999e7c91da75d418053d6b56529",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Saints Row: The Third"
   },
   "567640": {
@@ -1081,6 +1131,7 @@
    "icon": "27e0b08d9506a81bc9f8d3a3616fb455106bfa68",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Danganronpa V3: Killing Harmony"
   },
   "637670": {
@@ -1091,6 +1142,7 @@
    "icon": "4c46e1e68c28baed34216ccada78d1a8bc38560f",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Secret of Mana"
   },
   "654880": {
@@ -1101,6 +1153,7 @@
    "icon": "7687276ef9fd90f2b427564620a358f66771a84d",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Dream Daddy: A Dad Dating Simulator"
   },
   "698780": {
@@ -1108,6 +1161,7 @@
    "icon": "2bf8ed528d8f251428435a6f6ffc8e4e8e4b294c",
    "last_played": "2018-04-08T19:29:54Z",
    "minutes": 262,
+   "minutes_offline": 0,
    "name": "Doki Doki Literature Club"
   },
   "782330": {
@@ -1118,6 +1172,7 @@
    "icon": "14235f425d27ab3b83661ba14c17d22dc90e566b",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM Eternal"
   },
   "8930": {
@@ -1849,6 +1904,7 @@
    "icon": "fbe80c4743e226f0bf65559c91b12953d4446808",
    "last_played": "2020-03-05T02:53:24Z",
    "minutes": 8110,
+   "minutes_offline": 0,
    "name": "Sid Meier's Civilization V"
   },
   "9050": {
@@ -1856,6 +1912,7 @@
    "icon": "a80e3028754c85e62fcc130d3b76ddf8892699e0",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM 3"
   },
   "9070": {
@@ -1863,6 +1920,7 @@
    "icon": "4b080a4a896d9e53f3179ff4c84fece833e18451",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "DOOM 3: Resurrection of Evil"
   },
   "921570": {
@@ -1946,6 +2004,7 @@
    "icon": "f044bcf179c1f3609c730d5ed4e0af0a984ea8b5",
    "last_played": "2023-04-30T23:08:38Z",
    "minutes": 75,
+   "minutes_offline": 0,
    "name": "OCTOPATH TRAVELER"
   },
   "9340": {
@@ -1953,8 +2012,9 @@
    "icon": "29725d719946c3e1aa4eea15d262c9fd789c1392",
    "last_played": null,
    "minutes": 0,
+   "minutes_offline": 0,
    "name": "Company of Heroes: Opposing Fronts"
   }
  },
- "updated": "2026-11-18T10:43:12Z"
+ "updated": "2026-11-18T18:07:05Z"
 }

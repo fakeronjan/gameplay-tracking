@@ -278,13 +278,20 @@ def update_steam(log):
     for g in owned:
         appid = str(g["appid"])
         prev = old["games"].get(appid, {})
+        # The Steam client's play time is playtime_forever PLUS playtime_disconnected (time played
+        # with Steam offline). Balatro on 11/18/2026: 4,192 + 4,099 = 8,291 min = the client's 138.2 h.
+        offline = g.get("playtime_disconnected") or 0
         game = {
-            "name": g["name"], "icon": g.get("img_icon_url"), "minutes": g["playtime_forever"],
+            "name": g["name"], "icon": g.get("img_icon_url"), "minutes": g["playtime_forever"] + offline,
+            "minutes_offline": offline,
             "last_played": (datetime.fromtimestamp(g["rtime_last_played"], timezone.utc).isoformat().replace("+00:00", "Z")
                             if g.get("rtime_last_played") else None),
             "achievements": prev.get("achievements"),
         }
-        log_playtime(log, "steam", appid, g["name"], prev.get("minutes", 0) if old["games"] else None, game["minutes"])
+        # A record saved before minutes counted offline time gets that offline time added to its
+        # baseline, so the switch isn't logged as hours played today
+        before = prev.get("minutes", 0) + (offline if "minutes_offline" not in prev else 0)
+        log_playtime(log, "steam", appid, g["name"], before if old["games"] else None, game["minutes"])
         stale = prev.get("achievements") and prev["achievements"]["earned"] and "icon" not in prev["achievements"]["earned"][0]
         if "achievements" not in prev or prev.get("last_played") != game["last_played"] or stale:
             game["achievements"] = steam_achievements(key, appid)

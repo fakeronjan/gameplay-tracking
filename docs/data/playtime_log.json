@@ -70,5 +70,13 @@
   "name": "The Legend of Zelda: Ocarina of Time",
   "platform": "nintendo",
   "time": "2026-11-16T10:43:15Z"
+ },
+ {
+  "id": "2379780",
+  "minutes_delta": 2,
+  "minutes_total": 8291,
+  "name": "Balatro",
+  "platform": "steam",
+  "time": "2026-11-18T18:07:17Z"
  }
 ]
