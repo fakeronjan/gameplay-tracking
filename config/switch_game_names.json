@@ -537,5 +537,12 @@
   "title_id": "010093801237C000",
   "source": "decoded_titledb",
   "art": "https://img-eshop.cdn.nintendo.net/i/924b1b82bc75719dba325773795096359df9e6b4be0de77efa90b0e3039c6fff.jpg"
+ },
+ "C7AB5EB5BC593814C18959860F3600AE": {
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "title_id": "0400486024DEC000",
+  "source": "Ronjan (not in titledb yet)",
+  "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/28e8fae272fc4a11ab07848881779c60_512",
+  "art_source": "Nintendo play-history icon (titledb's Switch 2 data stops at Sept 2025)"
  }
 }
