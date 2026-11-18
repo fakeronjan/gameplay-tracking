@@ -108,7 +108,7 @@ def add_blog():
     cfg = json.loads((HERE / "config" / "blog_shots.json").read_text())
     games = json.loads((HERE / "docs" / "data" / "games.json").read_text())
     row_key = {r["name"]: min(e["id"] for e in r["entries"]) for r in games}
-    out = defaultdict(list)
+    out, posts = defaultdict(list), {}
     for s in cfg["shots"]:
         if s["game"] not in row_key:
             raise SystemExit(f"config/blog_shots.json: {s['game']!r} isn't a row on the page")
@@ -116,8 +116,15 @@ def add_blog():
         name = f"bl-{hashlib.sha1(s['src'].encode()).hexdigest()[:12]}.webp"
         save_webp(src, name)
         w, h = Image.open(src).size
-        out[row_key[s["game"]]].append({"img": name, "post": s["post"], "title": s["title"], "date": s["date"],
+        # Where the image sits in its post, so each post's screenshots keep the post's own order
+        pos = posts.setdefault(s["post"], (SITE / "blog" / (s["post"].strip("/").split("/")[-1] + ".md")).read_text()).find(s["src"])
+        if pos < 0:
+            raise SystemExit(f"config/blog_shots.json: {s['src']} isn't in {s['post']}")
+        out[row_key[s["game"]]].append({"img": name, "post": s["post"], "title": s["title"], "date": s["date"], "pos": pos,
                                         **({"tall": True} if h > w else {})})
+    for shots in out.values():  # newest post first, then the post's own order
+        shots.sort(key=lambda b: (b["post"], b["pos"]))
+        shots.sort(key=lambda b: b["date"], reverse=True)
     return dict(out)
 
 
