@@ -1,0 +1,558 @@
+{
+ "_about": "Series, curated by Ronjan 2026-11-18: a series is the game's own named line, not the umbrella franchise (Mario Kart, Smash, Paper Mario, and Mario & Luigi are each their own; Wario Land and Yoshi aren't Super Mario; DK64 and Bananza are with Donkey Kong Country, Donkey Kong (1994) isn't; spin-offs join their series: Cadence of Hyrule, Theatrhythm, Dancing in Starlight, Sackboy, Drawful 2; Puyo Puyo Tetris is Tetris; one LEGO series; LEGO Rock Band is Rock Band only). Remakes are 'Other versions', not series. Row display names; a game can be in two (LEGO Rock Band).",
+ "series": {
+  "Ace Attorney": [
+   "Phoenix Wright: Ace Attorney Trilogy",
+   "The Great Ace Attorney Chronicles"
+  ],
+  "Assassin's Creed": [
+   "Assassin's Creed IV: Black Flag",
+   "Assassin's Creed Origins"
+  ],
+  "Banjo-Kazooie": [
+   "Banjo-Kazooie",
+   "Banjo-Kazooie: Nuts & Bolts",
+   "Banjo-Tooie"
+  ],
+  "Batman: Arkham": [
+   "Batman: Arkham Asylum",
+   "Batman: Arkham Knight"
+  ],
+  "Big Brain Academy": [
+   "Big Brain Academy",
+   "Big Brain Academy: Brain vs. Brain"
+  ],
+  "Blitz: The League": [
+   "Blitz: The League",
+   "Blitz: The League II"
+  ],
+  "Bloodstained": [
+   "Bloodstained: Curse of the Moon",
+   "Bloodstained: Ritual of the Night"
+  ],
+  "Castlevania": [
+   "Castlevania Anniversary Collection",
+   "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+   "Castlevania: Symphony of the Night"
+  ],
+  "Civilization": [
+   "Sid Meier's Civilization V",
+   "Sid Meier's Civilization VI"
+  ],
+  "College Football": [
+   "EA Sports College Football 25",
+   "EA Sports College Football 26",
+   "NCAA Football 08",
+   "NCAA Football 11",
+   "NCAA Football 12",
+   "NCAA Football 14"
+  ],
+  "Contra": [
+   "Contra",
+   "Contra Anniversary Collection",
+   "Contrast"
+  ],
+  "Crackdown": [
+   "Crackdown",
+   "Crackdown 3: Campaign"
+  ],
+  "Dance Central": [
+   "Dance Central",
+   "Dance Central Spotlight"
+  ],
+  "Danganronpa": [
+   "Danganronpa 1.2 Reload",
+   "Danganronpa 2: Goodbye Despair",
+   "Danganronpa V3: Killing Harmony",
+   "Danganronpa: Trigger Happy Havoc"
+  ],
+  "Destiny": [
+   "Destiny",
+   "Destiny 2"
+  ],
+  "Donkey Kong Country": [
+   "Donkey Kong 64",
+   "Donkey Kong Bananza",
+   "Donkey Kong Country",
+   "Donkey Kong Country 2: Diddy's Kong Quest",
+   "Donkey Kong Country 3: Dixie Kong's Double Trouble",
+   "Donkey Kong Country Returns 3D",
+   "Donkey Kong Country Tropical Freeze"
+  ],
+  "DOOM": [
+   "DOOM (1993)",
+   "DOOM + DOOM II",
+   "DOOM Eternal"
+  ],
+  "Dragon Age": [
+   "Dragon Age: Inquisition",
+   "Dragon Age: Origins"
+  ],
+  "EarthBound / Mother": [
+   "EarthBound",
+   "Mother 3"
+  ],
+  "F-Zero": [
+   "F-ZERO 99",
+   "F-Zero"
+  ],
+  "Fable": [
+   "Fable II",
+   "Fable III"
+  ],
+  "Fallout": [
+   "Fallout 3",
+   "Fallout: New Vegas"
+  ],
+  "FIFA / EA Sports FC": [
+   "2010 FIFA World Cup",
+   "EA Sports FC 24",
+   "EA Sports FC 26",
+   "FIFA 08",
+   "FIFA 09",
+   "FIFA 13",
+   "FIFA 15",
+   "FIFA 18",
+   "FIFA 20",
+   "FIFA 21",
+   "FIFA 23",
+   "FIFA Football",
+   "FIFA Soccer 11"
+  ],
+  "Fight Night": [
+   "Fight Night Champion",
+   "Fight Night Round 4"
+  ],
+  "Final Fantasy": [
+   "Final Fantasy VI",
+   "Final Fantasy VII",
+   "Final Fantasy VII Rebirth",
+   "Final Fantasy VII Remake",
+   "Final Fantasy X/X-2 HD Remaster",
+   "Final Fantasy XIII",
+   "Final Fantasy XV",
+   "Final Fantasy XVI",
+   "Theatrhythm Final Bar Line"
+  ],
+  "Forza Horizon": [
+   "Forza Horizon 4",
+   "Forza Horizon 5"
+  ],
+  "Geometry Wars": [
+   "Geometry Wars Evolved",
+   "Geometry Wars³: Dimensions"
+  ],
+  "God of War": [
+   "God of War (2005)",
+   "God of War (2018)",
+   "God of War II",
+   "God of War III",
+   "God of War Ragnarök",
+   "God of War: Chains of Olympus"
+  ],
+  "Grand Theft Auto": [
+   "Grand Theft Auto III - The Definitive Edition",
+   "Grand Theft Auto IV",
+   "Grand Theft Auto V",
+   "Grand Theft Auto: San Andreas - The Definitive Edition",
+   "Grand Theft Auto: Vice City"
+  ],
+  "Guacamelee!": [
+   "Guacamelee!",
+   "Guacamelee! 2"
+  ],
+  "Guitar Hero": [
+   "Guitar Hero II",
+   "Guitar Hero III",
+   "Guitar Hero Live"
+  ],
+  "Horizon": [
+   "Horizon Forbidden West",
+   "Horizon Zero Dawn"
+  ],
+  "inFAMOUS": [
+   "inFAMOUS",
+   "inFAMOUS Second Son"
+  ],
+  "Injustice": [
+   "Injustice 2",
+   "Injustice: Gods Among Us"
+  ],
+  "Killer Instinct": [
+   "Killer Instinct (2013)",
+   "Killer Instinct Classic"
+  ],
+  "Kinect Sports": [
+   "Kinect Sports",
+   "Kinect Sports Rivals"
+  ],
+  "Knights of the Old Republic": [
+   "Star Wars: Knights of the Old Republic",
+   "Star Wars: Knights of the Old Republic II: The Sith Lords"
+  ],
+  "LEGO": [
+   "LEGO 2K Drive",
+   "LEGO Batman: Legacy of the Dark Knight",
+   "LEGO City Undercover",
+   "LEGO City Undercover: The Chase Begins",
+   "LEGO Dimensions",
+   "LEGO Marvel Super Heroes",
+   "LEGO Star Wars II + LEGO Star Wars: The Complete Saga",
+   "LEGO Star Wars: The Force Awakens",
+   "LEGO Star Wars: The Skywalker Saga",
+   "LEGO The Incredibles",
+   "The LEGO Movie - Videogame"
+  ],
+  "Life is Strange": [
+   "Life is Strange",
+   "Life is Strange: Before the Storm",
+   "Life is Strange: Double Exposure",
+   "Life is Strange: Reunion",
+   "Life is Strange: True Colors"
+  ],
+  "Like a Dragon / Yakuza": [
+   "Like a Dragon: Infinite Wealth",
+   "Like a Dragon: Pirate Yakuza in Hawaii",
+   "Yakuza 0",
+   "Yakuza: Like a Dragon"
+  ],
+  "LittleBigPlanet": [
+   "LittleBigPlanet",
+   "LittleBigPlanet 2",
+   "LittleBigPlanet 3",
+   "LittleBigPlanet Karting",
+   "Sackboy: A Big Adventure"
+  ],
+  "Madden NFL": [
+   "John Madden Football '93",
+   "Madden NFL 08",
+   "Madden NFL 10",
+   "Madden NFL 11",
+   "Madden NFL 13",
+   "Madden NFL 16",
+   "Madden NFL 19",
+   "Madden NFL 20",
+   "Madden NFL 21",
+   "Madden NFL 22",
+   "Madden NFL 23",
+   "Madden NFL 24",
+   "Madden NFL 25",
+   "Madden NFL 26",
+   "Madden NFL 27"
+  ],
+  "Mario & Luigi": [
+   "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+   "Mario & Luigi: Dream Team",
+   "Mario & Luigi: Superstar Saga"
+  ],
+  "Mario Kart": [
+   "Mario Kart 7",
+   "Mario Kart 8 + Deluxe",
+   "Mario Kart World",
+   "Super Mario Kart"
+  ],
+  "Mario Party": [
+   "Mario Party Superstars",
+   "Super Mario Party",
+   "Super Mario Party Jamboree"
+  ],
+  "Mario Tennis": [
+   "Mario Tennis",
+   "Mario Tennis Aces"
+  ],
+  "Marvel vs. Capcom": [
+   "Marvel vs. Capcom: Infinite",
+   "Ultimate Marvel vs. Capcom 3"
+  ],
+  "Marvel's Spider-Man": [
+   "Marvel's Spider-Man",
+   "Marvel's Spider-Man 2"
+  ],
+  "Mass Effect": [
+   "Mass Effect",
+   "Mass Effect 2",
+   "Mass Effect 3",
+   "Mass Effect: Andromeda"
+  ],
+  "Mega Man": [
+   "Mega Man 10",
+   "Mega Man Legacy Collection",
+   "Mega Man Legacy Collection 2"
+  ],
+  "Metroid": [
+   "Metroid",
+   "Metroid Dread",
+   "Metroid Fusion",
+   "Metroid Prime Remastered",
+   "Metroid Prime: Trilogy",
+   "Metroid: Zero Mission",
+   "Super Metroid"
+  ],
+  "Microsoft Flight Simulator": [
+   "Microsoft Flight Simulator (2020)",
+   "Microsoft Flight Simulator 2024"
+  ],
+  "MLB The Show": [
+   "MLB 12 The Show",
+   "MLB The Show 21",
+   "MLB The Show 23",
+   "MLB The Show 24"
+  ],
+  "Monopoly": [
+   "Monopoly",
+   "Monopoly Plus"
+  ],
+  "Mortal Kombat": [
+   "Mortal Kombat (2011)",
+   "Mortal Kombat 1",
+   "Mortal Kombat 11",
+   "Mortal Kombat X",
+   "Mortal Kombat vs. DC Universe",
+   "Mortal Kombat: Legacy Kollection"
+  ],
+  "NBA 2K": [
+   "NBA 2K10",
+   "NBA 2K11",
+   "NBA 2K12",
+   "NBA 2K13",
+   "NBA 2K14",
+   "NBA 2K15",
+   "NBA 2K16",
+   "NBA 2K18",
+   "NBA 2K19",
+   "NBA 2K20",
+   "NBA 2K21",
+   "NBA 2K22",
+   "NBA 2K23",
+   "NBA 2K24",
+   "NBA 2K25",
+   "NBA 2K7"
+  ],
+  "Octopath Traveler": [
+   "Octopath Traveler",
+   "Octopath Traveler 0",
+   "Octopath Traveler II"
+  ],
+  "Overcooked": [
+   "Overcooked 2",
+   "Overcooked!"
+  ],
+  "Paper Mario": [
+   "Paper Mario",
+   "Paper Mario: The Origami King",
+   "Paper Mario: The Thousand-Year Door (Switch)",
+   "Super Paper Mario"
+  ],
+  "PaRappa the Rapper": [
+   "PaRappa the Rapper 2",
+   "PaRappa the Rapper Remastered"
+  ],
+  "Persona": [
+   "Persona 3 Reload",
+   "Persona 4 Golden",
+   "Persona 5 + Royal",
+   "Persona 5: Dancing in Starlight"
+  ],
+  "Plants vs. Zombies": [
+   "Plants vs. Zombies",
+   "Plants vs. Zombies: Garden Warfare"
+  ],
+  "Pocket Card Jockey": [
+   "Pocket Card Jockey",
+   "Pocket Card Jockey Ride On!"
+  ],
+  "Pokémon": [
+   "Pokémon Friends",
+   "Pokémon GO",
+   "Pokémon Legends: Arceus",
+   "Pokémon Shuffle",
+   "Pokémon Sword",
+   "Pokémon Y",
+   "Pokémon Yellow Version",
+   "Pokémon: Let's Go, Eevee!",
+   "Pokémon: Let's Go, Pikachu!"
+  ],
+  "Prince of Persia": [
+   "Prince of Persia (2008)",
+   "Prince of Persia Classic"
+  ],
+  "Professor Layton": [
+   "Professor Layton and the Azran Legacy",
+   "Professor Layton and the Miracle Mask"
+  ],
+  "Punch-Out!!": [
+   "Punch-Out!! (2009)",
+   "Punch-Out!! Featuring Mr. Dream",
+   "Super Punch-Out!!"
+  ],
+  "Rayman": [
+   "Rayman Legends",
+   "Rayman Origins"
+  ],
+  "Red Dead Redemption": [
+   "Red Dead Redemption",
+   "Red Dead Redemption 2"
+  ],
+  "Retro Bowl": [
+   "Retro Bowl",
+   "Retro Bowl College"
+  ],
+  "Rock Band": [
+   "LEGO Rock Band",
+   "Rock Band",
+   "Rock Band 2",
+   "Rock Band 4"
+  ],
+  "Saints Row": [
+   "Saints Row IV: Re-Elected",
+   "Saints Row: The Third"
+  ],
+  "Shovel Knight": [
+   "Shovel Knight Pocket Dungeon",
+   "Shovel Knight: Treasure Trove"
+  ],
+  "Sly Cooper": [
+   "Sly Cooper and the Thievius Raccoonus",
+   "Sly Cooper: Thieves in Time"
+  ],
+  "Sonic the Hedgehog": [
+   "3D Sonic The Hedgehog 2",
+   "Sonic Mania",
+   "Sonic the Hedgehog (1991)",
+   "Sonic the Hedgehog 2"
+  ],
+  "SteamWorld Dig": [
+   "SteamWorld Dig",
+   "SteamWorld Dig 2"
+  ],
+  "Street Fighter": [
+   "Street Fighter 30th Anniversary Collection",
+   "Street Fighter 6",
+   "Street Fighter II Turbo Hyper Fighting",
+   "Street Fighter IV + Super Street Fighter IV + Ultra Street Fighter IV",
+   "Street Fighter V",
+   "Ultra Street Fighter II The Final Challengers"
+  ],
+  "Super Bomberman": [
+   "Super Bomberman Collection",
+   "Super Bomberman R",
+   "Super Bomberman R Online"
+  ],
+  "Super Mario": [
+   "Arcade Archives VS. Super Mario Bros.",
+   "New Super Mario Bros. 2",
+   "New Super Mario Bros. U + Deluxe",
+   "Super Mario 3D All-Stars",
+   "Super Mario 3D Land",
+   "Super Mario 3D World + Bowser's Fury",
+   "Super Mario 64",
+   "Super Mario Bros.",
+   "Super Mario Bros. 3",
+   "Super Mario Bros. 35",
+   "Super Mario Bros. Wonder",
+   "Super Mario Galaxy",
+   "Super Mario Galaxy 2",
+   "Super Mario Land",
+   "Super Mario Odyssey",
+   "Super Mario World"
+  ],
+  "Super Mario Maker": [
+   "Super Mario Maker",
+   "Super Mario Maker 2",
+   "Super Mario Maker for Nintendo 3DS"
+  ],
+  "Super Mega Baseball": [
+   "Super Mega Baseball",
+   "Super Mega Baseball 2",
+   "Super Mega Baseball 4"
+  ],
+  "Super Smash Bros.": [
+   "Super Smash Bros. Ultimate",
+   "Super Smash Bros. for Nintendo 3DS",
+   "Super Smash Bros. for Wii U"
+  ],
+  "Tecmo Bowl": [
+   "Tecmo Bowl Throwback",
+   "Tecmo Super Bowl"
+  ],
+  "Tetris": [
+   "Puyo Puyo Tetris",
+   "Puyo Puyo Tetris 2",
+   "Tetris 99",
+   "Tetris Axis",
+   "Tetris Effect: Connected"
+  ],
+  "The BIGS": [
+   "The BIGS",
+   "The BIGS 2"
+  ],
+  "The Elder Scrolls": [
+   "The Elder Scrolls IV: Oblivion",
+   "The Elder Scrolls V: Skyrim"
+  ],
+  "The Jackbox Party Pack": [
+   "Drawful 2",
+   "The Jackbox Party Pack",
+   "The Jackbox Party Pack 3",
+   "The Jackbox Party Pack 8"
+  ],
+  "The Last of Us": [
+   "The Last of Us",
+   "The Last of Us Part II"
+  ],
+  "The Legend of Zelda": [
+   "Cadence of Hyrule",
+   "The Legend of Zelda",
+   "The Legend of Zelda: A Link Between Worlds",
+   "The Legend of Zelda: A Link to the Past",
+   "The Legend of Zelda: Breath of the Wild",
+   "The Legend of Zelda: Echoes of Wisdom",
+   "The Legend of Zelda: Link's Awakening (Switch)",
+   "The Legend of Zelda: Majora's Mask 3D",
+   "The Legend of Zelda: Ocarina of Time (N64)",
+   "The Legend of Zelda: Ocarina of Time (Switch 2)",
+   "The Legend of Zelda: Ocarina of Time 3D",
+   "The Legend of Zelda: Skyward Sword HD",
+   "The Legend of Zelda: Tears of the Kingdom",
+   "The Legend of Zelda: The Wind Waker HD"
+  ],
+  "The Walking Dead": [
+   "The Walking Dead: Season 1",
+   "The Walking Dead: Season 2"
+  ],
+  "Tomb Raider": [
+   "Tomb Raider (2013)",
+   "Tomb Raider: Legend"
+  ],
+  "Top Spin": [
+   "Top Spin 4",
+   "TopSpin 2K25"
+  ],
+  "Uncharted": [
+   "Uncharted 2: Among Thieves",
+   "Uncharted 3: Drake's Deception",
+   "Uncharted 4: A Thief's End",
+   "Uncharted: Drake's Fortune",
+   "Uncharted: Golden Abyss",
+   "Uncharted: The Lost Legacy"
+  ],
+  "Viva Piñata": [
+   "Viva Piñata",
+   "Viva Piñata: Trouble in Paradise"
+  ],
+  "Wii Sports": [
+   "Nintendo Switch Sports",
+   "Wii Sports Club"
+  ],
+  "Yooka-Laylee": [
+   "Yooka-Laylee",
+   "Yooka-Laylee and the Impossible Lair",
+   "Yooka-Replaylee"
+  ],
+  "Yoshi": [
+   "Yoshi's Crafted World",
+   "Yoshi's Island: Super Mario Advance 3",
+   "Yoshi's New Island"
+  ]
+ }
+}

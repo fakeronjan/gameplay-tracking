@@ -484,6 +484,9 @@
     "name": "The Legend of Zelda: Ocarina of Time 3D"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/6d27cd041d9b0c80.webp"
  },
  {
@@ -619,6 +622,9 @@
     "first": "2025-06-07",
     "last": "2026-11-13"
    }
+  ],
+  "series": [
+   "mario-kart"
   ],
   "img": "img/g/7f43968270908821.webp"
  },
@@ -1438,6 +1444,9 @@
     }
    }
   ],
+  "series": [
+   "madden-nfl"
+  ],
   "img": "img/g/2f63219becf51e0a.webp"
  },
  {
@@ -1630,6 +1639,9 @@
      "2026": 6
     }
    }
+  ],
+  "series": [
+   "mass-effect"
   ],
   "img": "img/g/5f30e98f4cc4657a.webp"
  },
@@ -2001,6 +2013,9 @@
      "2025": 16
     }
    }
+  ],
+  "series": [
+   "grand-theft-auto"
   ],
   "img": "img/g/1aa6fe8d2d3aaefe.webp"
  },
@@ -3791,6 +3806,9 @@
     "last": "2021-12-11"
    }
   ],
+  "series": [
+   "rayman"
+  ],
   "img": "img/g/b7ccdc0dd19ffa47.webp"
  },
  {
@@ -4473,6 +4491,9 @@
     "last": "2026-09-27"
    }
   ],
+  "series": [
+   "pok-mon"
+  ],
   "img": "img/g/b9a1d6104dbcbc45.webp"
  },
  {
@@ -4790,6 +4811,9 @@
     "last": "2026-09-19"
    }
   ],
+  "series": [
+   "metroid"
+  ],
   "img": "img/g/e53f88212a4a358e.webp"
  },
  {
@@ -4930,6 +4954,9 @@
      "2024": 45
     }
    }
+  ],
+  "series": [
+   "like-a-dragon-yakuza"
   ],
   "img": "img/g/0ac9b69f380d3aa5.webp"
  },
@@ -5198,6 +5225,9 @@
     "first": "2023-05-12",
     "last": "2023-06-17"
    }
+  ],
+  "series": [
+   "the-legend-of-zelda"
   ],
   "img": "img/g/8db9a69395883840.webp"
  },
@@ -5766,6 +5796,9 @@
     "first": "2017-03-04",
     "last": "2023-05-05"
    }
+  ],
+  "series": [
+   "the-legend-of-zelda"
   ],
   "img": "img/g/54308348998fd13c.webp"
  },
@@ -6888,6 +6921,9 @@
     "last": "2020-04-18"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/4602f263a8636931.webp"
  },
  {
@@ -6973,6 +7009,9 @@
     "last": null
    }
   ],
+  "series": [
+   "grand-theft-auto"
+  ],
   "img": "img/g/a410acdf2ba6c2c9.webp"
  },
  {
@@ -7032,6 +7071,9 @@
      "2026": 1
     }
    }
+  ],
+  "series": [
+   "grand-theft-auto"
   ],
   "img": "img/g/d3854ef180e096d6.webp"
  },
@@ -7516,6 +7558,9 @@
     "last": "2018-10-30"
    }
   ],
+  "series": [
+   "mario-tennis"
+  ],
   "img": "img/g/6fd51a8a8f5378ee.webp"
  },
  {
@@ -7707,6 +7752,9 @@
     "first": "2022-07-08",
     "last": "2022-07-08"
    }
+  ],
+  "series": [
+   "uncharted"
   ],
   "img": "img/g/b1c0585be2e6f167.webp"
  },
@@ -7934,6 +7982,9 @@
      "2026": 9
     }
    }
+  ],
+  "series": [
+   "uncharted"
   ],
   "img": "img/g/ef7a8c5c04e64851.webp"
  },
@@ -8369,6 +8420,9 @@
     "last": "2026-08-26"
    }
   ],
+  "series": [
+   "super-smash-bros"
+  ],
   "img": "img/g/a94439f6bfae6d11.webp"
  },
  {
@@ -8526,6 +8580,9 @@
     }
    }
   ],
+  "series": [
+   "lego"
+  ],
   "img": "img/g/f6ffdce1969d97ca.webp"
  },
  {
@@ -8603,6 +8660,9 @@
      "2026": 2
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/1a7f96e2e1d430b6.webp"
  },
@@ -8717,6 +8777,9 @@
      "2026": 4
     }
    }
+  ],
+  "series": [
+   "overcooked"
   ],
   "img": "img/g/ab8a5b6885a8b880.webp"
  },
@@ -9380,6 +9443,9 @@
     "last": "2023-11-05"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/499a3883c32db6d6.webp"
  },
  {
@@ -9493,6 +9559,9 @@
      "2024": 7
     }
    }
+  ],
+  "series": [
+   "mortal-kombat"
   ],
   "img": "img/g/252cb4a6b733bf6f.webp"
  },
@@ -10384,6 +10453,9 @@
     "last": "2023-05-07"
    }
   ],
+  "series": [
+   "super-mario-maker"
+  ],
   "img": "img/g/fc54c11342be634a.webp"
  },
  {
@@ -10683,6 +10755,9 @@
     "last": "2022-02-06"
    }
   ],
+  "series": [
+   "guacamelee"
+  ],
   "img": "img/g/ddadfbe17d16067a.webp"
  },
  {
@@ -10794,6 +10869,9 @@
      "2026": 1
     }
    }
+  ],
+  "series": [
+   "microsoft-flight-simulator"
   ],
   "img": "img/g/cb76422a1132d65a.webp"
  },
@@ -11701,6 +11779,9 @@
     "last": null
    }
   ],
+  "series": [
+   "shovel-knight"
+  ],
   "img": "img/g/281d844d5644f24f.webp"
  },
  {
@@ -11901,6 +11982,9 @@
     }
    }
   ],
+  "series": [
+   "lego"
+  ],
   "img": "img/g/0e0c3dcb23918e13.webp"
  },
  {
@@ -11976,6 +12060,9 @@
      "2026": 1
     }
    }
+  ],
+  "series": [
+   "mortal-kombat"
   ],
   "img": "img/g/b04076c29ab574c9.webp"
  },
@@ -12247,6 +12334,9 @@
     "last": null
    }
   ],
+  "series": [
+   "mega-man"
+  ],
   "img": "img/g/c440c77cb5010392.webp"
  },
  {
@@ -12324,6 +12414,9 @@
     }
    }
   ],
+  "series": [
+   "life-is-strange"
+  ],
   "img": "img/g/23e82cb6e595711c.webp"
  },
  {
@@ -12380,6 +12473,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "final-fantasy"
   ],
   "img": "img/g/e480f80323b2afa0.webp"
  },
@@ -12600,6 +12696,9 @@
      "2024": 19
     }
    }
+  ],
+  "series": [
+   "final-fantasy"
   ],
   "img": "img/g/ba26eded1c9582a4.webp"
  },
@@ -13613,6 +13712,9 @@
     "last": "2024-06-07"
    }
   ],
+  "series": [
+   "paper-mario"
+  ],
   "img": "img/g/204bbe226a822889.webp"
  },
  {
@@ -13727,6 +13829,9 @@
      "2026": 43
     }
    }
+  ],
+  "series": [
+   "persona"
   ],
   "img": "img/g/d42ef76d36afa968.webp"
  },
@@ -13908,6 +14013,9 @@
     "last": null
    }
   ],
+  "series": [
+   "doom"
+  ],
   "img": "img/g/d558c8face0dde56.webp"
  },
  {
@@ -13983,6 +14091,9 @@
      "2026": 9
     }
    }
+  ],
+  "series": [
+   "super-bomberman"
   ],
   "img": "img/g/e7f8bb08219a74ae.webp"
  },
@@ -14091,6 +14202,9 @@
     "first": "2024-11-24",
     "last": "2024-11-24"
    }
+  ],
+  "series": [
+   "life-is-strange"
   ],
   "img": "img/g/5f7af98bedf27ed4.webp"
  },
@@ -14241,6 +14355,9 @@
     "first": "2026-03-21",
     "last": "2026-03-21"
    }
+  ],
+  "series": [
+   "knights-of-the-old-republic"
   ],
   "img": "img/g/6929fc3c25a37902.webp"
  },
@@ -14505,6 +14622,9 @@
     "first": "2026-03-21",
     "last": "2026-03-21"
    }
+  ],
+  "series": [
+   "octopath-traveler"
   ],
   "img": "img/g/a6eb37464b88482f.webp"
  },
@@ -14880,6 +15000,9 @@
      "2024": 7
     }
    }
+  ],
+  "series": [
+   "street-fighter"
   ],
   "img": "img/g/dedc73b206b72870.webp"
  },
@@ -16037,6 +16160,9 @@
     }
    }
   ],
+  "series": [
+   "street-fighter"
+  ],
   "img": "img/g/e966db0d1f466949.webp"
  },
  {
@@ -16172,6 +16298,9 @@
      "2026": 16
     }
    }
+  ],
+  "series": [
+   "parappa-the-rapper"
   ],
   "img": "img/g/02262a058b8cb86a.webp"
  },
@@ -16429,6 +16558,9 @@
     }
    }
   ],
+  "series": [
+   "octopath-traveler"
+  ],
   "img": "img/g/017c479bf024de12.webp"
  },
  {
@@ -16503,6 +16635,9 @@
      "2025": 2
     }
    }
+  ],
+  "series": [
+   "yooka-laylee"
   ],
   "img": "img/g/a11427ac38e47a0d.webp"
  },
@@ -16674,6 +16809,9 @@
      "2023": 4
     }
    }
+  ],
+  "series": [
+   "the-jackbox-party-pack"
   ],
   "img": "img/g/fc7f343ba218fa36.webp"
  },
@@ -16980,6 +17118,9 @@
      "2020": 1
     }
    }
+  ],
+  "series": [
+   "littlebigplanet"
   ],
   "img": "img/g/b50e1356fce2ec28.webp"
  },
@@ -17302,6 +17443,9 @@
     }
    }
   ],
+  "series": [
+   "bloodstained"
+  ],
   "img": "img/g/80a6b92be5d9c45a.webp"
  },
  {
@@ -17395,6 +17539,9 @@
      "2025": 2
     }
    }
+  ],
+  "series": [
+   "uncharted"
   ],
   "img": "img/g/4fc1a874a3c62fa1.webp"
  },
@@ -17737,6 +17884,9 @@
     }
    }
   ],
+  "series": [
+   "uncharted"
+  ],
   "img": "img/g/982160f24eab28d4.webp"
  },
  {
@@ -17811,6 +17961,9 @@
      "2025": 1
     }
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/c7f70ccbef704d4d.webp"
  },
@@ -17894,6 +18047,9 @@
     }
    }
   ],
+  "series": [
+   "college-football"
+  ],
   "img": "img/g/976ed971eef57e2b.webp"
  },
  {
@@ -17963,6 +18119,9 @@
     "first": "2025-07-17",
     "last": "2025-08-03"
    }
+  ],
+  "series": [
+   "donkey-kong-country"
   ],
   "img": "img/g/f34bbd0152cac681.webp"
  },
@@ -18058,6 +18217,9 @@
      "2024": 9
     }
    }
+  ],
+  "series": [
+   "college-football"
   ],
   "img": "img/g/b178d6254d78aaa1.webp"
  },
@@ -18785,6 +18947,9 @@
     "last": "2025-06-29"
    }
   ],
+  "series": [
+   "donkey-kong-country"
+  ],
   "img": "img/g/2640d163a1efd08a.webp"
  },
  {
@@ -18863,6 +19028,9 @@
     "first": "2025-06-21",
     "last": "2025-06-21"
    }
+  ],
+  "series": [
+   "pocket-card-jockey"
   ],
   "img": "img/g/f3476365d2f2247f.webp"
  },
@@ -19171,6 +19339,9 @@
     "last": "2020-09-18"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/756c8c1cde50b908.webp"
  },
  {
@@ -19241,6 +19412,9 @@
     "last": "2025-06-22"
    }
   ],
+  "series": [
+   "metroid"
+  ],
   "img": "img/g/5db608d701345848.webp"
  },
  {
@@ -19305,6 +19479,9 @@
     "first": "2025-06-21",
     "last": "2025-06-21"
    }
+  ],
+  "series": [
+   "the-legend-of-zelda"
   ],
   "img": "img/g/ce162511cf27976f.webp"
  },
@@ -19616,6 +19793,9 @@
     "first": "2020-10-01",
     "last": "2020-10-11"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/f033c1622b47c449.webp"
  },
@@ -20171,6 +20351,9 @@
     "first": "2022-07-02",
     "last": "2025-06-07"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/6c29b380c7e53c85.webp"
  },
@@ -20859,6 +21042,9 @@
     "last": "2023-08-04"
    }
   ],
+  "series": [
+   "mario-kart"
+  ],
   "img": "img/g/dd8b833d3761e37f.webp"
  },
  {
@@ -21352,6 +21538,9 @@
     "last": null
    }
   ],
+  "series": [
+   "street-fighter"
+  ],
   "img": "img/g/6ef02439804c8ea6.webp"
  },
  {
@@ -21715,6 +21904,9 @@
     }
    }
   ],
+  "series": [
+   "persona"
+  ],
   "img": "img/g/b5535ae260ff3cda.webp"
  },
  {
@@ -21978,6 +22170,9 @@
     }
    }
   ],
+  "series": [
+   "persona"
+  ],
   "img": "img/g/9e9deb75ab04acac.webp"
  },
  {
@@ -22063,6 +22258,9 @@
      "2025": 49
     }
    }
+  ],
+  "series": [
+   "like-a-dragon-yakuza"
   ],
   "img": "img/g/3c578d236fd4557e.webp"
  },
@@ -22309,6 +22507,9 @@
     }
    }
   ],
+  "series": [
+   "persona"
+  ],
   "img": "img/g/8f3484ef747066a4.webp"
  },
  {
@@ -22397,6 +22598,9 @@
      "2025": 3
     }
    }
+  ],
+  "series": [
+   "final-fantasy"
   ],
   "img": "img/g/77d7a62316745c2e.webp"
  },
@@ -22934,6 +23138,9 @@
     }
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/7ee1e1562f35ffe0.webp"
  },
  {
@@ -23212,6 +23419,9 @@
     "first": "2024-11-10",
     "last": "2024-11-10"
    }
+  ],
+  "series": [
+   "mario-party"
   ],
   "img": "img/g/f523ca96924d0fa8.webp"
  },
@@ -23624,6 +23834,9 @@
     }
    }
   ],
+  "series": [
+   "ace-attorney"
+  ],
   "img": "img/g/72b8a01ad5b2d341.webp"
  },
  {
@@ -23771,6 +23984,9 @@
     }
    }
   ],
+  "series": [
+   "ace-attorney"
+  ],
   "img": "img/g/ee5386bd3efd9034.webp"
  },
  {
@@ -23887,6 +24103,9 @@
      "2024": 1
     }
    }
+  ],
+  "series": [
+   "destiny"
   ],
   "img": "img/g/26e503018ff04650.webp"
  },
@@ -24010,6 +24229,9 @@
     "last": "2024-04-18"
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/65f229ddf16e46d1.webp"
  },
  {
@@ -24066,6 +24288,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/624973e55cb7e710.webp"
  },
@@ -24135,6 +24360,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "doom"
   ],
   "img": "img/g/fb37999269d90ef7.webp"
  },
@@ -24554,6 +24782,9 @@
     }
    }
   ],
+  "series": [
+   "octopath-traveler"
+  ],
   "img": "img/g/309beb2471f27eaa.webp"
  },
  {
@@ -24744,6 +24975,9 @@
      "2015": 16
     }
    }
+  ],
+  "series": [
+   "mortal-kombat"
   ],
   "img": "img/g/217f8ab096540a31.webp"
  },
@@ -25114,6 +25348,9 @@
     }
    }
   ],
+  "series": [
+   "street-fighter"
+  ],
   "img": "img/g/7eb27d9db04bef7a.webp"
  },
  {
@@ -25199,6 +25436,9 @@
      "2023": 1
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/933ed03fcb8546b6.webp"
  },
@@ -25366,6 +25606,9 @@
     }
    }
   ],
+  "series": [
+   "like-a-dragon-yakuza"
+  ],
   "img": "img/g/e3cb82eb1ffa2f16.webp"
  },
  {
@@ -25453,6 +25696,9 @@
     "last": null
    }
   ],
+  "series": [
+   "top-spin"
+  ],
   "img": "img/g/6eebecb835abfefc.webp"
  },
  {
@@ -25517,6 +25763,9 @@
     "first": "2024-04-14",
     "last": "2024-04-14"
    }
+  ],
+  "series": [
+   "wii-sports"
   ],
   "img": "img/g/e107b299688d69bb.webp"
  },
@@ -25593,6 +25842,9 @@
      "2024": 1
     }
    }
+  ],
+  "series": [
+   "like-a-dragon-yakuza"
   ],
   "img": "img/g/51159045b418f1df.webp"
  },
@@ -25677,6 +25929,9 @@
      "2024": 13
     }
    }
+  ],
+  "series": [
+   "mlb-the-show"
   ],
   "img": "img/g/7ef3c69394644b7a.webp"
  },
@@ -25764,6 +26019,9 @@
      "2024": 4
     }
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/8ead580b956e4318.webp"
  },
@@ -26106,6 +26364,9 @@
     "last": "2024-01-29"
    }
   ],
+  "series": [
+   "retro-bowl"
+  ],
   "img": "img/g/e4773409af940d10.webp"
  },
  {
@@ -26192,6 +26453,9 @@
      "2024": 7
     }
    }
+  ],
+  "series": [
+   "mlb-the-show"
   ],
   "img": "img/g/fb3271c134ac5002.webp"
  },
@@ -26374,6 +26638,9 @@
     }
    }
   ],
+  "series": [
+   "the-jackbox-party-pack"
+  ],
   "img": "img/g/37020374ce8c320b.webp"
  },
  {
@@ -26471,6 +26738,9 @@
     "last": "2023-10-23"
    }
   ],
+  "series": [
+   "pok-mon"
+  ],
   "img": "img/g/7ad0de0e27fce973.webp"
  },
  {
@@ -26531,6 +26801,9 @@
      "2023": 1
     }
    }
+  ],
+  "series": [
+   "marvel-s-spider-man"
   ],
   "img": "img/g/022b50713534d653.webp"
  },
@@ -26707,6 +26980,9 @@
     "last": "2023-09-15"
    }
   ],
+  "series": [
+   "f-zero"
+  ],
   "img": "img/g/a36a258a66da3a00.webp"
  },
  {
@@ -26864,6 +27140,9 @@
     }
    }
   ],
+  "series": [
+   "final-fantasy"
+  ],
   "img": "img/g/a4ee214b1538d636.webp"
  },
  {
@@ -26958,6 +27237,9 @@
      "2023": 13
     }
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/0dc10db36d069e29.webp"
  },
@@ -27245,6 +27527,9 @@
      "2023": 4
     }
    }
+  ],
+  "series": [
+   "the-jackbox-party-pack"
   ],
   "img": "img/g/6e8b8d981d41be9e.webp"
  },
@@ -27721,6 +28006,9 @@
     }
    }
   ],
+  "series": [
+   "lego"
+  ],
   "img": "img/g/76af5fe75bd2fba5.webp"
  },
  {
@@ -27796,6 +28084,9 @@
     }
    }
   ],
+  "series": [
+   "super-mega-baseball"
+  ],
   "img": "img/g/7d87c6f55a3a22a4.webp"
  },
  {
@@ -27840,6 +28131,9 @@
     "first": "2023-06-12",
     "last": "2023-06-12"
    }
+  ],
+  "series": [
+   "final-fantasy"
   ],
   "img": "img/g/6fbdb660d6c605dd.webp"
  },
@@ -28164,6 +28458,9 @@
     "first": "2019-09-21",
     "last": "2019-10-19"
    }
+  ],
+  "series": [
+   "the-legend-of-zelda"
   ],
   "img": "img/g/468972a830d9b47d.webp"
  },
@@ -28599,6 +28896,9 @@
     "last": "2023-05-13"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/981e599ec8c5361c.webp"
  },
  {
@@ -28643,6 +28943,9 @@
     "first": "2023-05-06",
     "last": "2023-05-06"
    }
+  ],
+  "series": [
+   "knights-of-the-old-republic"
   ],
   "img": "img/g/861792b1e76e3461.webp"
  },
@@ -28921,6 +29224,9 @@
     "last": "2019-07-04"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/fcd2c494859778a3.webp"
  },
  {
@@ -28992,6 +29298,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "final-fantasy"
   ],
   "img": "img/g/fde7433666721e25.webp"
  },
@@ -29330,6 +29639,9 @@
     "first": "2021-01-24",
     "last": "2023-01-28"
    }
+  ],
+  "series": [
+   "rock-band"
   ],
   "img": "img/g/053fd28e1e7b009a.webp"
  },
@@ -29828,6 +30140,9 @@
     "last": null
    }
   ],
+  "series": [
+   "god-of-war"
+  ],
   "img": "img/g/cad3de3cba20be8e.webp"
  },
  {
@@ -30115,6 +30430,9 @@
     }
    }
   ],
+  "series": [
+   "fifa-ea-sports-fc"
+  ],
   "img": "img/g/63e2cdb33328f13c.webp"
  },
  {
@@ -30353,6 +30671,9 @@
     "first": "2022-07-30",
     "last": "2022-09-27"
    }
+  ],
+  "series": [
+   "retro-bowl"
   ],
   "img": "img/g/440a3348a19ebe7f.webp"
  },
@@ -30686,6 +31007,9 @@
     "last": "2022-10-27"
    }
   ],
+  "series": [
+   "tetris"
+  ],
   "img": "img/g/d0fc569656c31c85.webp"
  },
  {
@@ -30912,6 +31236,9 @@
     "last": null
    }
   ],
+  "series": [
+   "contra"
+  ],
   "img": "img/g/5268f43ca3f9e08d.webp"
  },
  {
@@ -31126,6 +31453,9 @@
     }
    }
   ],
+  "series": [
+   "madden-nfl"
+  ],
   "img": "img/g/a26aa04d41149203.webp"
  },
  {
@@ -31204,6 +31534,9 @@
      "2022": 11
     }
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/8af9e9b8456645a2.webp"
  },
@@ -31862,6 +32195,9 @@
     "first": "2019-02-11",
     "last": "2019-03-04"
    }
+  ],
+  "series": [
+   "super-mega-baseball"
   ],
   "img": "img/g/47db78246e39eb8a.webp"
  },
@@ -32671,6 +33007,9 @@
     }
    }
   ],
+  "series": [
+   "fifa-ea-sports-fc"
+  ],
   "img": "img/g/989692033a9c703c.webp"
  },
  {
@@ -32834,6 +33173,9 @@
     }
    }
   ],
+  "series": [
+   "god-of-war"
+  ],
   "img": "img/g/898c30b276e47372.webp"
  },
  {
@@ -32988,6 +33330,9 @@
     }
    }
   ],
+  "series": [
+   "god-of-war"
+  ],
   "img": "img/g/a2be8043730ccf35.webp"
  },
  {
@@ -33121,6 +33466,9 @@
      "2022": 14
     }
    }
+  ],
+  "series": [
+   "littlebigplanet"
   ],
   "img": "img/g/1799bab6ac43f7c6.webp"
  },
@@ -33364,6 +33712,9 @@
     "last": "2022-07-11"
    }
   ],
+  "series": [
+   "pok-mon"
+  ],
   "img": "img/g/679b150de72436a3.webp"
  },
  {
@@ -33473,6 +33824,9 @@
     "last": null
    }
   ],
+  "series": [
+   "horizon"
+  ],
   "img": "img/g/044fe10949b4ea29.webp"
  },
  {
@@ -33570,6 +33924,9 @@
     "first": "2021-11-05",
     "last": "2022-07-08"
    }
+  ],
+  "series": [
+   "mario-party"
   ],
   "img": "img/g/86c2988c0c5d7a4a.webp"
  },
@@ -33792,6 +34149,9 @@
     "last": "2022-07-04"
    }
   ],
+  "series": [
+   "microsoft-flight-simulator"
+  ],
   "img": "img/g/64cb01a41e768052.webp"
  },
  {
@@ -33912,6 +34272,9 @@
      "2022": 15
     }
    }
+  ],
+  "series": [
+   "marvel-s-spider-man"
   ],
   "img": "img/g/942b1648e5bc9740.webp"
  },
@@ -34042,6 +34405,9 @@
     "first": "2022-05-22",
     "last": "2022-05-22"
    }
+  ],
+  "series": [
+   "pok-mon"
   ],
   "img": "img/g/c2843354f9653888.webp"
  },
@@ -34174,6 +34540,9 @@
     "first": "2022-02-27",
     "last": "2022-05-15"
    }
+  ],
+  "series": [
+   "danganronpa"
   ],
   "img": "img/g/1607a164d494f62e.webp"
  },
@@ -34367,6 +34736,9 @@
     "last": "2022-04-03"
    }
   ],
+  "series": [
+   "yooka-laylee"
+  ],
   "img": "img/g/2703cf92fe4cbb21.webp"
  },
  {
@@ -34463,6 +34835,9 @@
     "first": "2022-04-02",
     "last": "2022-04-02"
    }
+  ],
+  "series": [
+   "paper-mario"
   ],
   "img": "img/g/222b2c24a6d2f735.webp"
  },
@@ -34790,6 +35165,9 @@
     "last": "2022-02-06"
    }
   ],
+  "series": [
+   "tetris"
+  ],
   "img": "img/g/500950605903270a.webp"
  },
  {
@@ -34965,6 +35343,9 @@
     "last": "2022-02-06"
    }
   ],
+  "series": [
+   "life-is-strange"
+  ],
   "img": "img/g/dade2c0322ac28ad.webp"
  },
  {
@@ -35036,6 +35417,9 @@
     "first": "2021-04-25",
     "last": "2022-02-06"
    }
+  ],
+  "series": [
+   "killer-instinct"
   ],
   "img": "img/g/038e2178f23c43f8.webp"
  },
@@ -35403,6 +35787,9 @@
     "last": "2018-11-08"
    }
   ],
+  "series": [
+   "mario-party"
+  ],
   "img": "img/g/b938be416bfadfe2.webp"
  },
  {
@@ -35493,6 +35880,9 @@
     "last": "2022-01-03"
    }
   ],
+  "series": [
+   "grand-theft-auto"
+  ],
   "img": "img/g/889ae9c54e168bcf.webp"
  },
  {
@@ -35575,6 +35965,9 @@
     "last": "2022-01-03"
    }
   ],
+  "series": [
+   "grand-theft-auto"
+  ],
   "img": "img/g/8b27aa1cd86cfbce.webp"
  },
  {
@@ -35627,6 +36020,9 @@
     "last": "2021-12-29"
    }
   ],
+  "series": [
+   "shovel-knight"
+  ],
   "img": "img/g/8eed5632fc8e46ba.webp"
  },
  {
@@ -35671,6 +36067,9 @@
     "first": "2021-12-29",
     "last": "2021-12-29"
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/689ea1b23ee2124e.webp"
  },
@@ -35748,6 +36147,9 @@
     "last": null
    }
   ],
+  "series": [
+   "red-dead-redemption"
+  ],
   "img": "img/g/2ac1dfa2f1d2b375.webp"
  },
  {
@@ -35810,6 +36212,9 @@
     "first": "2021-11-14",
     "last": "2021-12-28"
    }
+  ],
+  "series": [
+   "forza-horizon"
   ],
   "img": "img/g/52e82c8b4321b76a.webp"
  },
@@ -35930,6 +36335,9 @@
     "last": "2021-12-27"
    }
   ],
+  "series": [
+   "tetris"
+  ],
   "img": "img/g/52d2c42032a8c6c3.webp"
  },
  {
@@ -35995,6 +36403,9 @@
     "first": "2021-12-24",
     "last": "2021-12-25"
    }
+  ],
+  "series": [
+   "big-brain-academy"
   ],
   "img": "img/g/2eca1cce26c1ffdf.webp"
  },
@@ -36335,6 +36746,9 @@
     "last": "2021-12-14"
    }
   ],
+  "series": [
+   "the-elder-scrolls"
+  ],
   "img": "img/g/deda2cdd1523ccf4.webp"
  },
  {
@@ -36463,6 +36877,9 @@
     "first": "2021-09-12",
     "last": "2021-12-11"
    }
+  ],
+  "series": [
+   "life-is-strange"
   ],
   "img": "img/g/b4e00a68b62ee575.webp"
  },
@@ -36904,6 +37321,9 @@
     "last": "2021-10-02"
    }
   ],
+  "series": [
+   "fifa-ea-sports-fc"
+  ],
   "img": "img/g/7c03775fde66bae5.webp"
  },
  {
@@ -37033,6 +37453,9 @@
     "last": "2021-09-06"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/4216bd7e35dbaf8a.webp"
  },
  {
@@ -37094,6 +37517,9 @@
     "first": "2021-08-03",
     "last": "2021-08-27"
    }
+  ],
+  "series": [
+   "lego"
   ],
   "img": "img/g/cd0987931bbb8f54.webp"
  },
@@ -37687,6 +38113,9 @@
     }
    }
   ],
+  "series": [
+   "plants-vs-zombies"
+  ],
   "img": "img/g/161b2e3ae4a1923d.webp"
  },
  {
@@ -37767,6 +38196,9 @@
     "first": "2021-06-27",
     "last": "2021-06-27"
    }
+  ],
+  "series": [
+   "geometry-wars"
   ],
   "img": "img/g/3984dd52af054b70.webp"
  },
@@ -38087,6 +38519,9 @@
     "last": "2021-05-31"
    }
   ],
+  "series": [
+   "mass-effect"
+  ],
   "img": "img/g/cc5c1622b58c1137.webp"
  },
  {
@@ -38131,6 +38566,9 @@
     "first": "2021-05-30",
     "last": "2021-05-30"
    }
+  ],
+  "series": [
+   "super-bomberman"
   ],
   "img": "img/g/2f6c3c4e57440cd4.webp"
  },
@@ -38313,6 +38751,9 @@
     }
    }
   ],
+  "series": [
+   "castlevania"
+  ],
   "img": "img/g/928d6a290a544753.webp"
  },
  {
@@ -38403,6 +38844,9 @@
     "last": "2021-04-25"
    }
   ],
+  "series": [
+   "mortal-kombat"
+  ],
   "img": "img/g/840de2b4358e7c44.webp"
  },
  {
@@ -38448,6 +38892,9 @@
     "last": "2021-04-25"
    }
   ],
+  "series": [
+   "mlb-the-show"
+  ],
   "img": "img/g/209ae495f287004e.webp"
  },
  {
@@ -38492,6 +38939,9 @@
     "first": "2021-04-15",
     "last": "2021-04-15"
    }
+  ],
+  "series": [
+   "castlevania"
   ],
   "img": "img/g/381c68a98fb343ff.webp"
  },
@@ -38648,6 +39098,9 @@
     "first": "2021-03-24",
     "last": "2021-03-24"
    }
+  ],
+  "series": [
+   "dragon-age"
   ],
   "img": "img/g/a083d59b4f5d9801.webp"
  },
@@ -38851,6 +39304,9 @@
     }
    }
   ],
+  "series": [
+   "final-fantasy"
+  ],
   "img": "img/g/33681daf7a52bde6.webp"
  },
  {
@@ -38968,6 +39424,9 @@
     "last": "2021-03-20"
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/ed4562a04f9c0c3a.webp"
  },
  {
@@ -39016,6 +39475,9 @@
      "2021": 1
     }
    }
+  ],
+  "series": [
+   "fallout"
   ],
   "img": "img/g/9cf86dfec5841caf.webp"
  },
@@ -39104,6 +39566,9 @@
      "2021": 1
     }
    }
+  ],
+  "series": [
+   "fight-night"
   ],
   "img": "img/g/6dab9f11a6a036e0.webp"
  },
@@ -39291,6 +39756,9 @@
     "last": "2021-01-23"
    }
   ],
+  "series": [
+   "madden-nfl"
+  ],
   "img": "img/g/dda3322fd5e5d26a.webp"
  },
  {
@@ -39354,6 +39822,9 @@
     "first": "2021-01-20",
     "last": "2021-01-20"
    }
+  ],
+  "series": [
+   "final-fantasy"
   ],
   "img": "img/g/09f7594d4551b10f.webp"
  },
@@ -40037,6 +40508,9 @@
     }
    }
   ],
+  "series": [
+   "rayman"
+  ],
   "img": "img/g/ed8f48fbd00a0221.webp"
  },
  {
@@ -40248,6 +40722,9 @@
     "last": null
    }
   ],
+  "series": [
+   "doom"
+  ],
   "img": "img/g/0073dc443ce05f0e.webp"
  },
  {
@@ -40292,6 +40769,9 @@
     "first": "2020-11-28",
     "last": "2020-11-28"
    }
+  ],
+  "series": [
+   "assassin-s-creed"
   ],
   "img": "img/g/14e505bfded61208.webp"
  },
@@ -40620,6 +41100,9 @@
     "last": "2020-11-13"
    }
   ],
+  "series": [
+   "forza-horizon"
+  ],
   "img": "img/g/9cf68e8b89c52b03.webp"
  },
  {
@@ -40705,6 +41188,9 @@
      "2016": 3
     }
    }
+  ],
+  "series": [
+   "banjo-kazooie"
   ],
   "img": "img/g/c9bfa46f1d38689b.webp"
  },
@@ -40810,6 +41296,9 @@
      "2020": 1
     }
    }
+  ],
+  "series": [
+   "marvel-vs-capcom"
   ],
   "img": "img/g/e9bb46bedb4bac08.webp"
  },
@@ -40925,6 +41414,9 @@
     "last": null
    }
   ],
+  "series": [
+   "monopoly"
+  ],
   "img": "img/g/2d42625ff0ed2fdb.webp"
  },
  {
@@ -41017,6 +41509,9 @@
     "last": null
    }
   ],
+  "series": [
+   "marvel-vs-capcom"
+  ],
   "img": "img/g/52f5465ed685d241.webp"
  },
  {
@@ -41096,6 +41591,9 @@
      "2020": 2
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/3b62cbf265205b6a.webp"
  },
@@ -41597,6 +42095,9 @@
     "last": "2018-09-05"
    }
   ],
+  "series": [
+   "lego"
+  ],
   "img": "img/g/b1b6c41a1668b219.webp"
  },
  {
@@ -41770,6 +42271,9 @@
      "2020": 3
     }
    }
+  ],
+  "series": [
+   "lego"
   ],
   "img": "img/g/3d43dd7f69294cc7.webp"
  },
@@ -42051,6 +42555,9 @@
     }
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/5c11359e99cab302.webp"
  },
  {
@@ -42206,6 +42713,9 @@
      "2020": 1
     }
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/c42a279a315ffeff.webp"
  },
@@ -42367,6 +42877,9 @@
      "2020": 2
     }
    }
+  ],
+  "series": [
+   "the-last-of-us"
   ],
   "img": "img/g/f7a81b4d9ade7c29.webp"
  },
@@ -42633,6 +43146,9 @@
     "last": "2020-05-10"
    }
   ],
+  "series": [
+   "the-jackbox-party-pack"
+  ],
   "img": "img/g/e4ef6046b1913737.webp"
  },
  {
@@ -42866,6 +43382,9 @@
     "last": "2017-08-26"
    }
   ],
+  "series": [
+   "street-fighter"
+  ],
   "img": "img/g/255f80501739e16d.webp"
  },
  {
@@ -42984,6 +43503,9 @@
     "last": "2020-04-27"
    }
   ],
+  "series": [
+   "yoshi"
+  ],
   "img": "img/g/90fdaa0f11914f31.webp"
  },
  {
@@ -43092,6 +43614,9 @@
     }
    }
   ],
+  "series": [
+   "danganronpa"
+  ],
   "img": "img/g/0f8ddf84e32c06be.webp"
  },
  {
@@ -43169,6 +43694,9 @@
      "2020": 1
     }
    }
+  ],
+  "series": [
+   "castlevania"
   ],
   "img": "img/g/e207189ec30733e5.webp"
  },
@@ -43274,6 +43802,9 @@
     "first": "2020-03-15",
     "last": "2020-03-15"
    }
+  ],
+  "series": [
+   "killer-instinct"
   ],
   "img": "img/g/c6fbcedeb929414e.webp"
  },
@@ -43400,6 +43931,9 @@
     "first": "2020-03-15",
     "last": "2020-03-15"
    }
+  ],
+  "series": [
+   "crackdown"
   ],
   "img": "img/g/8e04b43a9bfe4bdf.webp"
  },
@@ -43600,6 +44134,9 @@
     "first": "2018-11-16",
     "last": "2018-11-16"
    }
+  ],
+  "series": [
+   "civilization"
   ],
   "img": "img/g/ed76343350cfc6e2.webp"
  },
@@ -43807,6 +44344,9 @@
     }
    }
   ],
+  "series": [
+   "civilization"
+  ],
   "img": "img/g/27a0906f75eafadf.webp"
  },
  {
@@ -43858,6 +44398,9 @@
     "first": "2020-03-02",
     "last": "2020-03-02"
    }
+  ],
+  "series": [
+   "overcooked"
   ],
   "img": "img/g/519a951088afa738.webp"
  },
@@ -44117,6 +44660,9 @@
     "last": "2020-02-22"
    }
   ],
+  "series": [
+   "metroid"
+  ],
   "img": "img/g/734e05bc08585f4d.webp"
  },
  {
@@ -44190,6 +44736,9 @@
     "first": "2019-12-25",
     "last": "2020-02-22"
    }
+  ],
+  "series": [
+   "big-brain-academy"
   ],
   "img": "img/g/ca01a07523ac2864.webp"
  },
@@ -44285,6 +44834,9 @@
     "first": "2019-11-16",
     "last": "2019-11-22"
    }
+  ],
+  "series": [
+   "pok-mon"
   ],
   "img": "img/g/658bd97352a25516.webp"
  },
@@ -44608,6 +45160,9 @@
     "last": "2020-02-02"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/02ba63db003bf4fc.webp"
  },
  {
@@ -44904,6 +45459,9 @@
     "name": "The Legend of Zelda: Ocarina of Time (Switch 2)"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/f92fae9ab6579011.webp"
  },
  {
@@ -45193,6 +45751,9 @@
     "first": "2015-04-01",
     "last": "2019-12-25"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/441a2868adfb46be.webp"
  },
@@ -45657,6 +46218,9 @@
     "last": "2017-10-10"
    }
   ],
+  "series": [
+   "donkey-kong-country"
+  ],
   "img": "img/g/9677f74b6826431e.webp"
  },
  {
@@ -45963,6 +46527,9 @@
     "last": "2019-11-28"
    }
   ],
+  "series": [
+   "super-smash-bros"
+  ],
   "img": "img/g/188aed8dc3b6f3ac.webp"
  },
  {
@@ -46259,6 +46826,9 @@
     "last": "2019-11-28"
    }
   ],
+  "series": [
+   "super-mario-maker"
+  ],
   "img": "img/g/392b4b9e80fb17b0.webp"
  },
  {
@@ -46498,6 +47068,9 @@
     "first": "2016-08-28",
     "last": "2016-08-28"
    }
+  ],
+  "series": [
+   "paper-mario"
   ],
   "img": "img/g/6bea1648e4fc3b7e.webp"
  },
@@ -46873,6 +47446,9 @@
     "last": "2018-02-19"
    }
   ],
+  "series": [
+   "earthbound-mother"
+  ],
   "img": "img/g/9026d5b9dbbeef71.webp"
  },
  {
@@ -47159,6 +47735,9 @@
     "last": "2019-11-28"
    }
   ],
+  "series": [
+   "donkey-kong-country"
+  ],
   "img": "img/g/47a8acd310361f69.webp"
  },
  {
@@ -47283,6 +47862,9 @@
     "last": "2019-09-15"
    }
   ],
+  "series": [
+   "viva-pi-ata"
+  ],
   "img": "img/g/f9a8b626c3c89bee.webp"
  },
  {
@@ -47327,6 +47909,9 @@
     "first": "2019-08-13",
     "last": "2019-08-13"
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/e26249671b7506ad.webp"
  },
@@ -47440,6 +48025,9 @@
     "last": "2019-08-12"
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/1e25adb3cd468b3c.webp"
  },
  {
@@ -47505,6 +48093,9 @@
     "first": "2019-07-28",
     "last": "2019-07-29"
    }
+  ],
+  "series": [
+   "super-mega-baseball"
   ],
   "img": "img/g/4657f431ecd8d5ac.webp"
  },
@@ -47778,6 +48369,9 @@
     "last": null
    }
   ],
+  "series": [
+   "saints-row"
+  ],
   "img": "img/g/5589f371bedf39cc.webp"
  },
  {
@@ -47843,6 +48437,9 @@
     "last": "2019-02-17"
    }
   ],
+  "series": [
+   "tetris"
+  ],
   "img": "img/g/914125684aeaf292.webp"
  },
  {
@@ -47887,6 +48484,9 @@
     "first": "2019-02-10",
     "last": "2019-02-10"
    }
+  ],
+  "series": [
+   "mega-man"
   ],
   "img": "img/g/d0c50fbf0695a5e9.webp"
  },
@@ -47968,6 +48568,9 @@
     "first": "2019-01-10",
     "last": "2019-01-10"
    }
+  ],
+  "series": [
+   "guacamelee"
   ],
   "img": "img/g/d2cd051d0200451f.webp"
  },
@@ -48128,6 +48731,9 @@
     "first": "2019-01-11",
     "last": "2019-01-11"
    }
+  ],
+  "series": [
+   "mario-and-luigi"
   ],
   "img": "img/g/b0c06ffbc94fd9a0.webp"
  },
@@ -48454,6 +49060,9 @@
     "last": "2018-11-25"
    }
   ],
+  "series": [
+   "pok-mon"
+  ],
   "img": "img/g/5f6ce5e633f06618.webp"
  },
  {
@@ -48543,6 +49152,9 @@
     "first": "2018-05-01",
     "last": "2018-11-04"
    }
+  ],
+  "series": [
+   "super-smash-bros"
   ],
   "img": "img/g/4e85f4d72ed66140.webp"
  },
@@ -48921,6 +49533,9 @@
     "last": "2016-10-29"
    }
   ],
+  "series": [
+   "mario-kart"
+  ],
   "img": "img/g/99788a9f1f31daef.webp"
  },
  {
@@ -49247,6 +49862,9 @@
     "last": "2018-10-07"
    }
   ],
+  "series": [
+   "mario-kart"
+  ],
   "img": "img/g/65ff1a4e7e65a786.webp"
  },
  {
@@ -49364,6 +49982,9 @@
     "first": "2018-08-25",
     "last": "2018-08-25"
    }
+  ],
+  "series": [
+   "monopoly"
   ],
   "img": "img/g/a964692de66fda18.webp"
  },
@@ -49511,6 +50132,9 @@
     "last": "2018-08-14"
    }
   ],
+  "series": [
+   "super-mario-maker"
+  ],
   "img": "img/g/a802a5d2f9183546.webp"
  },
  {
@@ -49654,6 +50278,9 @@
     "first": "2018-06-29",
     "last": "2018-07-22"
    }
+  ],
+  "series": [
+   "batman-arkham"
   ],
   "img": "img/g/fb7a55b8f13abf68.webp"
  },
@@ -49929,6 +50556,9 @@
     "first": "2015-02-26",
     "last": "2018-07-06"
    }
+  ],
+  "series": [
+   "street-fighter"
   ],
   "img": "img/g/0f0c1d3f7baf4327.webp"
  },
@@ -50310,6 +50940,9 @@
     "last": "2018-06-10"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/0718b1892b3785f6.webp"
  },
  {
@@ -50575,6 +51208,9 @@
     "first": "2015-02-21",
     "last": "2018-07-04"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/f1b4b2137a6e6d46.webp"
  },
@@ -50846,6 +51482,9 @@
     "last": "2018-07-04"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/26689662130bab74.webp"
  },
  {
@@ -51088,6 +51727,9 @@
     "last": "2018-07-04"
    }
   ],
+  "series": [
+   "mario-and-luigi"
+  ],
   "img": "img/g/6318c10108fc676a.webp"
  },
  {
@@ -51293,6 +51935,9 @@
     "first": "2015-08-08",
     "last": "2018-07-04"
    }
+  ],
+  "series": [
+   "donkey-kong-country"
   ],
   "img": "img/g/87aed6c0b4753efd.webp"
  },
@@ -51597,6 +52242,9 @@
     "first": "2015-03-22",
     "last": "2015-03-22"
    }
+  ],
+  "series": [
+   "the-legend-of-zelda"
   ],
   "img": "img/g/b8b071f7ccebfe75.webp"
  },
@@ -52068,6 +52716,9 @@
     "last": "2018-06-30"
    }
   ],
+  "series": [
+   "super-bomberman"
+  ],
   "img": "img/g/5efdee6532b94685.webp"
  },
  {
@@ -52157,6 +52808,9 @@
     "first": "2017-12-22",
     "last": "2018-06-24"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/2956f09f7d94b4f7.webp"
  },
@@ -52285,6 +52939,9 @@
     "last": null
    }
   ],
+  "series": [
+   "fifa-ea-sports-fc"
+  ],
   "img": "img/g/9fed901ac13ca00e.webp"
  },
  {
@@ -52350,6 +53007,9 @@
     "first": "2018-06-08",
     "last": "2018-06-09"
    }
+  ],
+  "series": [
+   "bloodstained"
   ],
   "img": "img/g/c3a323ed6705108d.webp"
  },
@@ -52871,6 +53531,9 @@
     "last": "2018-05-20"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/acda007ee94548b9.webp"
  },
  {
@@ -53151,6 +53814,9 @@
     "last": "2018-05-20"
    }
   ],
+  "series": [
+   "donkey-kong-country"
+  ],
   "img": "img/g/5cb025780f33884b.webp"
  },
  {
@@ -53296,6 +53962,9 @@
     "last": null
    }
   ],
+  "series": [
+   "danganronpa"
+  ],
   "img": "img/g/3006c7a3f21fc79a.webp"
  },
  {
@@ -53439,6 +54108,9 @@
     "first": "2016-12-29",
     "last": "2016-12-29"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/e044574159bdc068.webp"
  },
@@ -54070,6 +54742,9 @@
     "name": "The Legend of Zelda: Ocarina of Time (Switch 2)"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/d3ae82e86cb2c9e3.webp"
  },
  {
@@ -54370,6 +55045,9 @@
     "last": "2018-02-28"
    }
   ],
+  "series": [
+   "lego"
+  ],
   "img": "img/g/d2f5556b658e6490.webp"
  },
  {
@@ -54610,6 +55288,9 @@
     "last": "2016-11-26"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/9812e49804d196ef.webp"
  },
  {
@@ -54739,6 +55420,9 @@
     "first": "2016-10-10",
     "last": "2018-02-23"
    }
+  ],
+  "series": [
+   "metroid"
   ],
   "img": "img/g/c180f93aa65f6970.webp"
  },
@@ -54993,6 +55677,9 @@
     "last": "2017-01-22"
    }
   ],
+  "series": [
+   "pocket-card-jockey"
+  ],
   "img": "img/g/18b7551b89713c7f.webp"
  },
  {
@@ -55123,6 +55810,9 @@
     "first": "2017-09-24",
     "last": "2018-01-27"
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/b7ff22417e81467f.webp"
  },
@@ -55342,6 +56032,9 @@
     }
    }
   ],
+  "series": [
+   "uncharted"
+  ],
   "img": "img/g/73ae2183e1dcbb67.webp"
  },
  {
@@ -55425,6 +56118,9 @@
     }
    }
   ],
+  "series": [
+   "life-is-strange"
+  ],
   "img": "img/g/1620b20553b81e05.webp"
  },
  {
@@ -55482,6 +56178,9 @@
     "last": null
    }
   ],
+  "series": [
+   "horizon"
+  ],
   "img": "img/g/5f760f3774889308.webp"
  },
  {
@@ -55538,6 +56237,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "mass-effect"
   ],
   "img": "img/g/47364905f087aef9.webp"
  },
@@ -55605,6 +56307,9 @@
     "last": "2017-12-28"
    }
   ],
+  "series": [
+   "steamworld-dig"
+  ],
   "img": "img/g/b1bb588b0424b358.webp"
  },
  {
@@ -55670,6 +56375,9 @@
     "first": "2017-12-17",
     "last": "2017-12-21"
    }
+  ],
+  "series": [
+   "yooka-laylee"
   ],
   "img": "img/g/8b018f7d3d214687.webp"
  },
@@ -55809,6 +56517,9 @@
      "2017": 1
     }
    }
+  ],
+  "series": [
+   "injustice"
   ],
   "img": "img/g/6b5a6080aa777501.webp"
  },
@@ -55974,6 +56685,9 @@
     "last": "2017-08-16"
    }
   ],
+  "series": [
+   "sonic-the-hedgehog"
+  ],
   "img": "img/g/6786a62d89a2cd63.webp"
  },
  {
@@ -56066,6 +56780,9 @@
      "2017": 8
     }
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/7d8283f628072af2.webp"
  },
@@ -56387,6 +57104,9 @@
     "last": "2017-05-26"
    }
   ],
+  "series": [
+   "punch-out"
+  ],
   "img": "img/g/b7df796f9f06e756.webp"
  },
  {
@@ -56523,6 +57243,9 @@
     "last": "2017-01-03"
    }
   ],
+  "series": [
+   "yoshi"
+  ],
   "img": "img/g/8e36cda7cb6aa9cc.webp"
  },
  {
@@ -56574,6 +57297,9 @@
     "first": "2016-12-24",
     "last": "2016-12-24"
    }
+  ],
+  "series": [
+   "super-mario"
   ],
   "img": "img/g/e14eeb130258a249.webp"
  },
@@ -57076,6 +57802,9 @@
     "last": "2016-10-23"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/2165abf3a9e351a7.webp"
  },
  {
@@ -57145,6 +57874,9 @@
     "first": "2015-02-15",
     "last": "2016-10-23"
    }
+  ],
+  "series": [
+   "punch-out"
   ],
   "img": "img/g/9e621efe83179a17.webp"
  },
@@ -57234,6 +57966,9 @@
     "last": null
    }
   ],
+  "series": [
+   "danganronpa"
+  ],
   "img": "img/g/4072e665c32cb76f.webp"
  },
  {
@@ -57304,6 +58039,9 @@
     "last": "2016-10-15"
    }
   ],
+  "series": [
+   "sonic-the-hedgehog"
+  ],
   "img": "img/g/45ffcf49a13207f2.webp"
  },
  {
@@ -57369,6 +58107,9 @@
     "first": "2016-09-17",
     "last": "2016-09-18"
    }
+  ],
+  "series": [
+   "pok-mon"
   ],
   "img": "img/g/2d349675fec44d8c.webp"
  },
@@ -57608,6 +58349,9 @@
     "last": "2016-08-20"
    }
   ],
+  "series": [
+   "punch-out"
+  ],
   "img": "img/g/359e0312e0604b04.webp"
  },
  {
@@ -57671,6 +58415,9 @@
     "first": "2016-07-08",
     "last": "2016-08-15"
    }
+  ],
+  "series": [
+   "kinect-sports"
   ],
   "img": "img/g/09f80edd26ff3694.webp"
  },
@@ -57753,6 +58500,9 @@
     "first": "2016-08-06",
     "last": "2016-08-06"
    }
+  ],
+  "series": [
+   "viva-pi-ata"
   ],
   "img": "img/g/94dc0af447f022d9.webp"
  },
@@ -57985,6 +58735,9 @@
     "last": "2016-06-19"
    }
   ],
+  "series": [
+   "paper-mario"
+  ],
   "img": "img/g/9f09c870dc915297.webp"
  },
  {
@@ -58066,6 +58819,9 @@
      "2016": 1
     }
    }
+  ],
+  "series": [
+   "sly-cooper"
   ],
   "img": "img/g/4d312ac8a5779f05.webp"
  },
@@ -58464,6 +59220,9 @@
     }
    }
   ],
+  "series": [
+   "injustice"
+  ],
   "img": "img/g/4239acacb0c2f5e8.webp"
  },
  {
@@ -58546,6 +59305,9 @@
     }
    }
   ],
+  "series": [
+   "final-fantasy"
+  ],
   "img": "img/g/72cc05c5ff5b2144.webp"
  },
  {
@@ -58598,6 +59360,9 @@
     "last": "2016-03-24"
    }
   ],
+  "series": [
+   "metroid"
+  ],
   "img": "img/g/5efb49cbe85eff3e.webp"
  },
  {
@@ -58642,6 +59407,9 @@
     "first": "2016-02-15",
     "last": "2016-02-15"
    }
+  ],
+  "series": [
+   "dance-central"
   ],
   "img": "img/g/94a91daf27118243.webp"
  },
@@ -58806,6 +59574,9 @@
     }
    }
   ],
+  "series": [
+   "banjo-kazooie"
+  ],
   "img": "img/g/6baf82261da4aab3.webp"
  },
  {
@@ -58874,6 +59645,9 @@
      "2016": 1
     }
    }
+  ],
+  "series": [
+   "banjo-kazooie"
   ],
   "img": "img/g/aa070465a5cb923b.webp"
  },
@@ -58995,6 +59769,9 @@
      "2016": 1
     }
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/4a57811c6581077f.webp"
  },
@@ -59119,6 +59896,9 @@
      "2016": 9
     }
    }
+  ],
+  "series": [
+   "guitar-hero"
   ],
   "img": "img/g/9d028645ef1162e4.webp"
  },
@@ -59285,6 +60065,9 @@
      "2016": 9
     }
    }
+  ],
+  "series": [
+   "parappa-the-rapper"
   ],
   "img": "img/g/ce638f51889e93cf.webp"
  },
@@ -59460,6 +60243,9 @@
     "last": "2015-11-22"
    }
   ],
+  "series": [
+   "yoshi"
+  ],
   "img": "img/g/5ddba337c2861e9e.webp"
  },
  {
@@ -59507,6 +60293,9 @@
      "2015": 2
     }
    }
+  ],
+  "series": [
+   "lego"
   ],
   "img": "img/g/a78244f09444bc4d.webp"
  },
@@ -59646,6 +60435,9 @@
     "last": "2015-08-30"
    }
   ],
+  "series": [
+   "mario-tennis"
+  ],
   "img": "img/g/d3383b308514f29c.webp"
  },
  {
@@ -59719,6 +60511,9 @@
     "first": "2015-06-11",
     "last": "2015-08-05"
    }
+  ],
+  "series": [
+   "the-legend-of-zelda"
   ],
   "img": "img/g/653749a0756e4910.webp"
  },
@@ -59891,6 +60686,9 @@
     "last": "2015-05-24"
    }
   ],
+  "series": [
+   "pok-mon"
+  ],
   "img": "img/g/4a5e0af6866aef64.webp"
  },
  {
@@ -60021,6 +60819,9 @@
      "2015": 7
     }
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/ce6b125b43a26f6a.webp"
  },
@@ -60203,6 +61004,9 @@
     "last": "2015-03-21"
    }
   ],
+  "series": [
+   "the-legend-of-zelda"
+  ],
   "img": "img/g/86f8dccc20b22f50.webp"
  },
  {
@@ -60268,6 +61072,9 @@
     "first": "2015-02-26",
     "last": "2015-02-28"
    }
+  ],
+  "series": [
+   "f-zero"
   ],
   "img": "img/g/72a29a5ecc077833.webp"
  },
@@ -60344,6 +61151,9 @@
      "2015": 8
     }
    }
+  ],
+  "series": [
+   "saints-row"
   ],
   "img": "img/g/f26615b9e2ac612a.webp"
  },
@@ -60587,6 +61397,9 @@
     "last": "2015-01-31"
    }
   ],
+  "series": [
+   "metroid"
+  ],
   "img": "img/g/af0d031dd3f3a4bb.webp"
  },
  {
@@ -60711,6 +61524,9 @@
     }
    }
   ],
+  "series": [
+   "the-walking-dead"
+  ],
   "img": "img/g/66bd3507beff1b87.webp"
  },
  {
@@ -60779,6 +61595,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "geometry-wars"
   ],
   "img": "img/g/92d683ec45567109.webp"
  },
@@ -60909,6 +61728,9 @@
     "last": null
    }
   ],
+  "series": [
+   "the-walking-dead"
+  ],
   "img": "img/g/9335086490b83c47.webp"
  },
  {
@@ -60984,6 +61806,9 @@
      "2014": 1
     }
    }
+  ],
+  "series": [
+   "dragon-age"
   ],
   "img": "img/g/fc067d742f2a90af.webp"
  },
@@ -61098,6 +61923,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "plants-vs-zombies"
   ],
   "img": "img/g/398a035324d06bd1.webp"
  },
@@ -61421,6 +62249,9 @@
     }
    }
   ],
+  "series": [
+   "steamworld-dig"
+  ],
   "img": "img/g/82b1d417c5e12cbd.webp"
  },
  {
@@ -61491,6 +62322,9 @@
     "last": "2014-11-07"
    }
   ],
+  "series": [
+   "super-mario"
+  ],
   "img": "img/g/a5b4a8479e805aae.webp"
  },
  {
@@ -61542,6 +62376,9 @@
     "first": "2014-11-07",
     "last": "2014-11-07"
    }
+  ],
+  "series": [
+   "metroid"
   ],
   "img": "img/g/a33ec04b2691dc76.webp"
  },
@@ -61608,6 +62445,9 @@
     "first": "2014-10-18",
     "last": "2014-10-26"
    }
+  ],
+  "series": [
+   "wii-sports"
   ],
   "img": "img/g/6b64d15dbace4b60.webp"
  },
@@ -62128,6 +62968,9 @@
     }
    }
   ],
+  "series": [
+   "destiny"
+  ],
   "img": "img/g/14eac7f84cc4c75d.webp"
  },
  {
@@ -62406,6 +63249,9 @@
     "last": "2014-08-13"
    }
   ],
+  "series": [
+   "professor-layton"
+  ],
   "img": "img/g/c96241af56e8b95e.webp"
  },
  {
@@ -62512,6 +63358,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "the-last-of-us"
   ],
   "img": "img/g/a4f77765bc848097.webp"
  },
@@ -62879,6 +63728,9 @@
     }
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/65123018509f4b84.webp"
  },
  {
@@ -63029,6 +63881,9 @@
      "2014": 1
     }
    }
+  ],
+  "series": [
+   "infamous"
   ],
   "img": "img/g/7cb3077ecd6dc936.webp"
  },
@@ -63206,6 +64061,9 @@
     }
    }
   ],
+  "series": [
+   "tomb-raider"
+  ],
   "img": "img/g/92fe5e20b97583c4.webp"
  },
  {
@@ -63280,6 +64138,9 @@
      "2014": 3
     }
    }
+  ],
+  "series": [
+   "lego"
   ],
   "img": "img/g/d4a956806c02a618.webp"
  },
@@ -63578,6 +64439,9 @@
     "last": "2013-11-30"
    }
   ],
+  "series": [
+   "pok-mon"
+  ],
   "img": "img/g/eb8272beda0aa10d.webp"
  },
  {
@@ -63634,6 +64498,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "assassin-s-creed"
   ],
   "img": "img/g/c9f7f2692976f3f2.webp"
  },
@@ -63739,6 +64606,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "contra"
   ],
   "img": "img/g/ff09d1d543141068.webp"
  },
@@ -63879,6 +64749,9 @@
     "last": "2013-09-16"
    }
   ],
+  "series": [
+   "donkey-kong-country"
+  ],
   "img": "img/g/08c06d12425b3849.webp"
  },
  {
@@ -63951,6 +64824,9 @@
     }
    }
   ],
+  "series": [
+   "college-football"
+  ],
   "img": "img/g/5b8f5438c7391e72.webp"
  },
  {
@@ -64020,6 +64896,9 @@
     "first": "2013-08-12",
     "last": "2013-09-02"
    }
+  ],
+  "series": [
+   "mario-and-luigi"
   ],
   "img": "img/g/f5415f6119392f43.webp"
  },
@@ -64091,6 +64970,9 @@
     "last": "2013-08-03"
    }
   ],
+  "series": [
+   "tetris"
+  ],
   "img": "img/g/3b4c247bb71d6353.webp"
  },
  {
@@ -64138,6 +65020,9 @@
      "2013": 1
     }
    }
+  ],
+  "series": [
+   "littlebigplanet"
   ],
   "img": "img/g/3b79a0f8a68ab542.webp"
  },
@@ -64239,6 +65124,9 @@
     }
    }
   ],
+  "series": [
+   "batman-arkham"
+  ],
   "img": "img/g/76dea677fce77897.webp"
  },
  {
@@ -64290,6 +65178,9 @@
     "first": "2013-07-03",
     "last": "2013-07-03"
    }
+  ],
+  "series": [
+   "lego"
   ],
   "img": "img/g/e776be6bb27a17bc.webp"
  },
@@ -64356,6 +65247,9 @@
     "first": "2013-06-16",
     "last": "2013-06-22"
    }
+  ],
+  "series": [
+   "professor-layton"
   ],
   "img": "img/g/c5d7d2dd92e6b2f8.webp"
  },
@@ -64441,6 +65335,9 @@
      "2013": 13
     }
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/3dab7a08a15df3b7.webp"
  },
@@ -64535,6 +65432,9 @@
      "2012": 2
     }
    }
+  ],
+  "series": [
+   "red-dead-redemption"
   ],
   "img": "img/g/f056a958118047f6.webp"
  },
@@ -64701,6 +65601,9 @@
     }
    }
   ],
+  "series": [
+   "mortal-kombat"
+  ],
   "img": "img/g/75bc070d401e568e.webp"
  },
  {
@@ -64770,6 +65673,9 @@
      "2012": 9
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/db5916c6bf652fb6.webp"
  },
@@ -64925,6 +65831,9 @@
     }
    }
   ],
+  "series": [
+   "madden-nfl"
+  ],
   "img": "img/g/e1b6b312e0f11689.webp"
  },
  {
@@ -65055,6 +65964,9 @@
     }
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/366dd831201376d2.webp"
  },
  {
@@ -65138,6 +66050,9 @@
      "2012": 33
     }
    }
+  ],
+  "series": [
+   "mass-effect"
   ],
   "img": "img/g/f6401f2da113430b.webp"
  },
@@ -65266,6 +66181,9 @@
     }
    }
   ],
+  "series": [
+   "fifa-ea-sports-fc"
+  ],
   "img": "img/g/7f5c30ce43ba986c.webp"
  },
  {
@@ -65313,6 +66231,9 @@
      "2012": 2
     }
    }
+  ],
+  "series": [
+   "uncharted"
   ],
   "img": "img/g/8a429552a705fbd0.webp"
  },
@@ -65378,6 +66299,9 @@
      "2012": 6
     }
    }
+  ],
+  "series": [
+   "sly-cooper"
   ],
   "img": "img/g/165185d6d199f8b4.webp"
  },
@@ -65491,6 +66415,9 @@
     }
    }
   ],
+  "series": [
+   "mlb-the-show"
+  ],
   "img": "img/g/0a7d9faee38b4080.webp"
  },
  {
@@ -65602,6 +66529,9 @@
      "2011": 8
     }
    }
+  ],
+  "series": [
+   "god-of-war"
   ],
   "img": "img/g/6d489d5d3ba00c1c.webp"
  },
@@ -65859,6 +66789,9 @@
     }
    }
   ],
+  "series": [
+   "college-football"
+  ],
   "img": "img/g/a90538be8eb881cf.webp"
  },
  {
@@ -66110,6 +67043,9 @@
     }
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/cf18222d475055f0.webp"
  },
  {
@@ -66304,6 +67240,9 @@
     }
    }
   ],
+  "series": [
+   "dance-central"
+  ],
   "img": "img/g/15f16b86cec956a8.webp"
  },
  {
@@ -66374,6 +67313,9 @@
     }
    }
   ],
+  "series": [
+   "top-spin"
+  ],
   "img": "img/g/02db60d844000161.webp"
  },
  {
@@ -66443,6 +67385,9 @@
      "2011": 15
     }
    }
+  ],
+  "series": [
+   "littlebigplanet"
   ],
   "img": "img/g/faf396e7f0efc44c.webp"
  },
@@ -66628,6 +67573,9 @@
     }
    }
   ],
+  "series": [
+   "fable"
+  ],
   "img": "img/g/97bac83c3440871f.webp"
  },
  {
@@ -66692,6 +67640,9 @@
     }
    }
   ],
+  "series": [
+   "kinect-sports"
+  ],
   "img": "img/g/a2daefc74559bba6.webp"
  },
  {
@@ -66740,6 +67691,9 @@
      "2010": 2
     }
    }
+  ],
+  "series": [
+   "fable"
   ],
   "img": "img/g/a58ff065a563d204.webp"
  },
@@ -66806,6 +67760,9 @@
      "2010": 12
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/0a62b51458a61b2a.webp"
  },
@@ -66876,6 +67833,9 @@
      "2010": 7
     }
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/d91b2b813f2e806f.webp"
  },
@@ -67028,6 +67988,9 @@
      "2010": 4
     }
    }
+  ],
+  "series": [
+   "lego"
   ],
   "img": "img/g/ecfba96b5be3e7b3.webp"
  },
@@ -67216,6 +68179,9 @@
     }
    }
   ],
+  "series": [
+   "college-football"
+  ],
   "img": "img/g/63bde2f08b904cff.webp"
  },
  {
@@ -67278,6 +68244,9 @@
      "2010": 6
     }
    }
+  ],
+  "series": [
+   "tecmo-bowl"
   ],
   "img": "img/g/817f3aa7aceb6693.webp"
  },
@@ -67345,6 +68314,9 @@
      "2010": 7
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/6f762a4f58f82dce.webp"
  },
@@ -67423,6 +68395,9 @@
      "2010": 8
     }
    }
+  ],
+  "series": [
+   "fight-night"
   ],
   "img": "img/g/05cde81a9e76d741.webp"
  },
@@ -67563,6 +68538,9 @@
     }
    }
   ],
+  "series": [
+   "mega-man"
+  ],
   "img": "img/g/c161641e73bf7810.webp"
  },
  {
@@ -67610,6 +68588,9 @@
      "2010": 4
     }
    }
+  ],
+  "series": [
+   "fallout"
   ],
   "img": "img/g/4aa8f8f111deeed4.webp"
  },
@@ -67682,6 +68663,9 @@
      "2010": 26
     }
    }
+  ],
+  "series": [
+   "god-of-war"
   ],
   "img": "img/g/fcf44d1b497a1296.webp"
  },
@@ -67770,6 +68754,9 @@
     "last": null
    }
   ],
+  "series": [
+   "god-of-war"
+  ],
   "img": "img/g/be546041332c001a.webp"
  },
  {
@@ -67818,6 +68805,9 @@
      "2009": 9
     }
    }
+  ],
+  "series": [
+   "rock-band"
   ],
   "img": "img/g/546c59cb78408a02.webp"
  },
@@ -67912,6 +68902,9 @@
     }
    }
   ],
+  "series": [
+   "littlebigplanet"
+  ],
   "img": "img/g/f0a1c09e86d0f30d.webp"
  },
  {
@@ -67975,6 +68968,9 @@
      "2009": 4
     }
    }
+  ],
+  "series": [
+   "nba-2k"
   ],
   "img": "img/g/70df74297fdac310.webp"
  },
@@ -68051,6 +69047,9 @@
     }
    }
   ],
+  "series": [
+   "madden-nfl"
+  ],
   "img": "img/g/6ff143326823f112.webp"
  },
  {
@@ -68098,6 +69097,9 @@
      "2009": 8
     }
    }
+  ],
+  "series": [
+   "prince-of-persia"
   ],
   "img": "img/g/b73ff6b02a949d68.webp"
  },
@@ -68235,6 +69237,9 @@
     }
    }
   ],
+  "series": [
+   "infamous"
+  ],
   "img": "img/g/6526f3965168f132.webp"
  },
  {
@@ -68282,6 +69287,9 @@
      "2009": 1
     }
    }
+  ],
+  "series": [
+   "mortal-kombat"
   ],
   "img": "img/g/3009da392d9486c3.webp"
  },
@@ -68349,6 +69357,9 @@
     }
    }
   ],
+  "series": [
+   "blitz-the-league"
+  ],
   "img": "img/g/18f7bf10441a55cc.webp"
  },
  {
@@ -68396,6 +69407,9 @@
      "2009": 5
     }
    }
+  ],
+  "series": [
+   "the-bigs"
   ],
   "img": "img/g/89f11a9d88914b02.webp"
  },
@@ -68510,6 +69524,9 @@
     }
    }
   ],
+  "series": [
+   "rock-band"
+  ],
   "img": "img/g/6c9613b0ac0a7782.webp"
  },
  {
@@ -68578,6 +69595,9 @@
      "2009": 14
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/fc3ab3a186913055.webp"
  },
@@ -68776,6 +69796,9 @@
     }
    }
   ],
+  "series": [
+   "rock-band"
+  ],
   "img": "img/g/8ceb2667e4dfd343.webp"
  },
  {
@@ -68824,6 +69847,9 @@
      "2007": 1
     }
    }
+  ],
+  "series": [
+   "guitar-hero"
   ],
   "img": "img/g/d0740e3097384987.webp"
  },
@@ -68888,6 +69914,9 @@
      "2007": 2
     }
    }
+  ],
+  "series": [
+   "fifa-ea-sports-fc"
   ],
   "img": "img/g/2b3a86d30cc44e40.webp"
  },
@@ -68955,6 +69984,9 @@
      "2007": 3
     }
    }
+  ],
+  "series": [
+   "sonic-the-hedgehog"
   ],
   "img": "img/g/77874f29c9da0de8.webp"
  },
@@ -69118,6 +70150,9 @@
     }
    }
   ],
+  "series": [
+   "madden-nfl"
+  ],
   "img": "img/g/d30cfd0ec8d48821.webp"
  },
  {
@@ -69189,6 +70224,9 @@
     }
    }
   ],
+  "series": [
+   "college-football"
+  ],
   "img": "img/g/8c60699366b372f9.webp"
  },
  {
@@ -69258,6 +70296,9 @@
      "2007": 9
     }
    }
+  ],
+  "series": [
+   "sonic-the-hedgehog"
   ],
   "img": "img/g/5924509aa7c82310.webp"
  },
@@ -69333,6 +70374,9 @@
     }
    }
   ],
+  "series": [
+   "the-bigs"
+  ],
   "img": "img/g/f765c6cad7010cf3.webp"
  },
  {
@@ -69399,6 +70443,9 @@
      "2007": 3
     }
    }
+  ],
+  "series": [
+   "prince-of-persia"
   ],
   "img": "img/g/bbc6c5ffe7ea5a88.webp"
  },
@@ -69616,6 +70663,9 @@
     }
    }
   ],
+  "series": [
+   "nba-2k"
+  ],
   "img": "img/g/5946fedb404e8fe2.webp"
  },
  {
@@ -69679,6 +70729,9 @@
      "2007": 2
     }
    }
+  ],
+  "series": [
+   "tomb-raider"
   ],
   "img": "img/g/f0b5deb3371e3a74.webp"
  },
@@ -69857,6 +70910,9 @@
     }
    }
   ],
+  "series": [
+   "crackdown"
+  ],
   "img": "img/g/5e9d8c9aecef116b.webp"
  },
  {
@@ -70002,6 +71058,9 @@
      "2007": 8
     }
    }
+  ],
+  "series": [
+   "blitz-the-league"
   ],
   "img": "img/g/864d694e334964ec.webp"
  },
@@ -70183,6 +71242,9 @@
     }
    }
   ],
+  "series": [
+   "contra"
+  ],
   "img": "img/g/5f13f77cb2154fd1.webp"
  },
  {
@@ -70231,6 +71293,9 @@
      "2006": 1
     }
    }
+  ],
+  "series": [
+   "the-elder-scrolls"
   ],
   "img": "img/g/512f2a60a6787021.webp"
  },
@@ -70339,6 +71404,9 @@
     "last": null
    }
   ],
+  "series": [
+   "tecmo-bowl"
+  ],
   "img": "img/g/308395e1d805d523.webp"
  },
  {
@@ -70374,6 +71442,9 @@
     "last": null
    }
   ],
+  "series": [
+   "earthbound-mother"
+  ],
   "img": "img/g/387994d74708f141.webp"
  },
  {
@@ -70408,6 +71479,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "madden-nfl"
   ],
   "img": "img/g/cfabf0e656d6b464.webp"
  },
@@ -70482,6 +71556,9 @@
     "first": null,
     "last": null
    }
+  ],
+  "series": [
+   "guitar-hero"
   ],
   "img": "img/g/aa9c8a9a95a68ef7.webp"
  }

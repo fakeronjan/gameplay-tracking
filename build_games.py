@@ -790,6 +790,20 @@ def build():
                     e["earned_by_year"][y] = run
     unlocks.sort(key=lambda u: (u["earned"] or "", u["game"], u["name"]), reverse=True)
 
+    # Series (config/series.json, curated by Ronjan): each row lists its series' ids, and
+    # series.json lists each series' games, for the Series tab and series pages
+    series_cfg = json.loads((HERE / "config" / "series.json").read_text())["series"]
+    by_name = {r["name"]: r for r in games}
+    series = []
+    for sname, members in series_cfg.items():
+        missing = [m for m in members if m not in by_name]
+        if missing:
+            raise SystemExit(f"config/series.json {sname!r} names games that aren't rows: {missing}")
+        sid = re.sub(r"[^a-z0-9]+", "-", key(sname)).strip("-")
+        series.append({"id": sid, "name": sname, "games": [by_name[m]["id"] for m in members]})
+        for m in members:
+            by_name[m].setdefault("series", []).append(sid)
+    (DATA / "series.json").write_text(json.dumps(series, indent=1, ensure_ascii=False) + "\n")
     (DATA / "games.json").write_text(json.dumps(games, indent=1, ensure_ascii=False) + "\n")
     (DATA / "unlocks.json").write_text(json.dumps(unlocks, indent=1, ensure_ascii=False) + "\n")
     multi = sum(1 for r in games if len(r["families"]) > 1)
