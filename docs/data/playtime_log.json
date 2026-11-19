@@ -78,5 +78,13 @@
   "name": "Balatro",
   "platform": "steam",
   "time": "2026-11-18T18:07:17Z"
+ },
+ {
+  "id": "PPSA01289_00",
+  "minutes_delta": 1,
+  "minutes_total": 253,
+  "name": "Sackboy: A Big Adventure",
+  "platform": "psn",
+  "time": "2026-11-19T10:43:13Z"
  }
 ]
