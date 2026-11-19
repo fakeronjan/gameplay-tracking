@@ -101,14 +101,6 @@
    "also_archived": true
   },
   {
-   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488083-10212449479124528-6236985954144947411-o.jpg",
-   "game": "The Legend of Zelda: Breath of the Wild",
-   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
-   "title": "Nintendo's Odyssey: Breath of Fresh Air",
-   "date": "2017-12-20",
-   "also_archived": true
-  },
-  {
    "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25488283-10212449448683767-6205627176514074118-o.jpg",
    "game": "Super Mario Odyssey",
    "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
@@ -489,22 +481,6 @@
    "also_archived": true
   },
   {
-   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-4.jpg",
-   "game": "Super Mario Bros. 35",
-   "post": "/blog/fr-game-of-the-year-2020/",
-   "title": "Game of the Year 2020",
-   "date": "2020-12-28",
-   "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/game-of-the-year-2020/mario-35-5.jpg",
-   "game": "Super Mario Bros. 35",
-   "post": "/blog/fr-game-of-the-year-2020/",
-   "title": "Game of the Year 2020",
-   "date": "2020-12-28",
-   "also_archived": true
-  },
-  {
    "src": "/blog/img/fr/game-of-the-year-2020/retro-bowl-1.jpg",
    "game": "Retro Bowl + Retro Bowl College",
    "post": "/blog/fr-game-of-the-year-2020/",
@@ -750,74 +726,12 @@
    "date": "2022-12-22"
   },
   {
-   "src": "/blog/img/fr/january-25/30657051-10213350866738655-4109686650278248448-o_orig.jpg",
-   "game": "Celeste",
-   "post": "/blog/fr-january-25/",
-   "title": "January 25",
-   "date": "2023-01-25",
-   "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/january-25/30657329-10213350870098739-7922839086174306304-o_orig.jpg",
-   "game": "Celeste",
-   "post": "/blog/fr-january-25/",
-   "title": "January 25",
-   "date": "2023-01-25",
-   "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/january-25/30688238-10213350854858358-272362043951022080-o_orig.jpg",
-   "game": "Celeste",
-   "post": "/blog/fr-january-25/",
-   "title": "January 25",
-   "date": "2023-01-25",
-   "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/january-25/30697708-10213350862738555-7503420316945743872-o_orig.jpg",
-   "game": "Celeste",
-   "post": "/blog/fr-january-25/",
-   "title": "January 25",
-   "date": "2023-01-25",
-   "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/my-top-10-zelda-games/1-a-link-between-worlds-pic.jpg",
-   "game": "The Legend of Zelda: A Link Between Worlds",
-   "post": "/blog/fr-my-top-10-zelda-games/",
-   "title": "My top 10 Zelda games",
-   "date": "2023-05-07"
-  },
-  {
-   "src": "/blog/img/fr/my-top-10-zelda-games/2-links-awakening-pic.jpeg",
-   "game": "The Legend of Zelda: Link's Awakening (Switch)",
-   "post": "/blog/fr-my-top-10-zelda-games/",
-   "title": "My top 10 Zelda games",
-   "date": "2023-05-07",
-   "also_archived": true
-  },
-  {
    "src": "/blog/img/fr/my-top-10-zelda-games/3-breath-of-the-wild-pic.jpg",
    "game": "The Legend of Zelda: Breath of the Wild",
    "post": "/blog/fr-my-top-10-zelda-games/",
    "title": "My top 10 Zelda games",
    "date": "2023-05-07",
    "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/my-top-10-zelda-games/8-cadence-pic.jpeg",
-   "game": "Cadence of Hyrule",
-   "post": "/blog/fr-my-top-10-zelda-games/",
-   "title": "My top 10 Zelda games",
-   "date": "2023-05-07",
-   "also_archived": true
-  },
-  {
-   "src": "/blog/img/fr/top-10-mario-games/2---mario-rpg-2.jpg",
-   "game": "Super Mario World",
-   "post": "/blog/fr-top-10-mario-games/",
-   "title": "My top 10 Mario games",
-   "date": "2023-07-04"
   },
   {
    "src": "/blog/img/fr/top-10-mario-games/3---super-mario-world-2.jpg",
@@ -1219,14 +1133,6 @@
    "date": "2025-03-05"
   },
   {
-   "src": "/blog/img/fr/my-favorite-rpgs/img_0930.jpg",
-   "game": "Super Mario RPG (Switch)",
-   "post": "/blog/fr-my-favorite-rpgs/",
-   "title": "My favorite RPGs",
-   "date": "2025-03-05",
-   "also_archived": true
-  },
-  {
    "src": "/blog/img/fr/my-favorite-rpgs/img_5305.jpg",
    "game": "Paper Mario: The Thousand-Year Door (Switch)",
    "post": "/blog/fr-my-favorite-rpgs/",
@@ -1328,6 +1234,195 @@
    "title": "Game of the Year 2025",
    "date": "2025-12-21",
    "also_archived": true
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-small-stars-vs-tall-stars/2172697_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-small-stars-vs-tall-stars/",
+   "title": "X's, O's, and Triangles: Small-Stars vs. Tall-Stars",
+   "date": "2013-11-25"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-small-stars-vs-tall-stars/4914155_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-small-stars-vs-tall-stars/",
+   "title": "X's, O's, and Triangles: Small-Stars vs. Tall-Stars",
+   "date": "2013-11-25"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-small-stars-vs-tall-stars/5446610.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-small-stars-vs-tall-stars/",
+   "title": "X's, O's, and Triangles: Small-Stars vs. Tall-Stars",
+   "date": "2013-11-25"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-small-stars-vs-tall-stars/4496391.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-small-stars-vs-tall-stars/",
+   "title": "X's, O's, and Triangles: Small-Stars vs. Tall-Stars",
+   "date": "2013-11-25"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-small-stars-vs-tall-stars/6829703_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-small-stars-vs-tall-stars/",
+   "title": "X's, O's, and Triangles: Small-Stars vs. Tall-Stars",
+   "date": "2013-11-25"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/4335566_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/9981111_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/5490575.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/7387413.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/2419960.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/6070871.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/3132064_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/7451855.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/2520610.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/4429779_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/xs-os-and-triangles-dream-team-vs-jordan/7713800_orig.jpg",
+   "game": "NBA 2K14",
+   "post": "/blog/ua-xs-os-and-triangles-dream-team-vs-jordan/",
+   "title": "X's, O's, and Triangles: Dream Team vs. Jordan",
+   "date": "2013-12-10"
+  },
+  {
+   "src": "/blog/img/ua/countdown-the-best-disney-movie-songs/24174568-10212310771376921-1197148368132354908-n_orig.jpg",
+   "game": "Disney Infinity 3.0",
+   "post": "/blog/ua-countdown-the-best-disney-movie-songs/",
+   "title": "Countdown: The Best Disney Movie Songs",
+   "date": "2018-02-14"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-2-ranking-zelda/aymhaaacaaadvhjpg-n9bw.jpg",
+   "game": "The Legend of Zelda: A Link Between Worlds",
+   "post": "/blog/ua-goty-follow-up-2-ranking-zelda/",
+   "title": "GotY Follow Up #2: Ranking Zelda",
+   "date": "2018-01-15"
+  },
+  {
+   "src": "/blog/img/ua/goty-follow-up-tiering-the-mario-platformers/screen-shot-2017-12-27-at-1-43-26-pm_orig.png",
+   "game": "Super Mario Maker",
+   "post": "/blog/ua-goty-follow-up-tiering-the-mario-platformers/",
+   "title": "GotY Follow-up: Tiering the Mario Platformers",
+   "date": "2017-12-27"
+  },
+  {
+   "src": "/blog/img/ua/nintendos-odyssey-breath-of-fresh-air/25626128-10212449440483562-28533604731784330-o_orig.jpg",
+   "game": "Super Mario Odyssey",
+   "post": "/blog/ua-nintendos-odyssey-breath-of-fresh-air/",
+   "title": "Nintendo's Odyssey: Breath of Fresh Air",
+   "date": "2017-12-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/4559203-654.jpg",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/8607165.jpg",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/1038458.jpg",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/8164802.jpg",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/1177110-430.jpg",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/112848_orig.png",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
+  },
+  {
+   "src": "/blog/img/ua/showdown-team-lebron-vs-team-durant/583781-457.jpg",
+   "game": "NBA 2K13",
+   "post": "/blog/ua-showdown-team-lebron-vs-team-durant/",
+   "title": "Showdown: Team LeBron vs. Team Durant",
+   "date": "2013-09-20"
   }
  ]
 }

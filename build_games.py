@@ -443,6 +443,17 @@ def entries_and_unlocks(cfg=None):
         entries[f"blog:{name}"] = {"family": "Blog", "platform": "", "name": name, "days": [], "minutes": None,
                                    "earned": None, "total": None, "art": "https://fakeronjan.com" + first, "blog_only": True}
 
+    # Games with no platform data that only show up in Ronjan's camera photos (config/camera_shots.json)
+    camera = json.loads((HERE / "config" / "camera_shots.json").read_text())
+    for name in camera.get("camera_only_rows", []):
+        if f"blog:{name}" in entries:
+            continue
+        shots = sorted(s["time"] for s in camera["shots"] if s["game"] == name)
+        entries[f"camera:{name}"] = {"family": "Photos", "platform": "", "name": name, "days": [], "minutes": None,
+                                     "earned": None, "total": None, "blog_only": True,
+                                     "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-"
+                                            + next(s["uuid"] for s in camera["shots"] if s["game"] == name)[:13].lower() + ".webp"}
+
     split_collections(entries, unlocks, cfg.get("collections", {}))
     for tid, p in psn["played"].items():
         add_play_record(entries, links, f"psn-played:{tid}", p)
@@ -710,7 +721,7 @@ def build():
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
-        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "blog": 7}
+        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "blog": 7, "camera": 8}
         arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
             "id": game_id, "name": name, "art": arts[0][1] if arts else None,

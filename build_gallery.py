@@ -82,6 +82,10 @@ def main():
     moments = add_playstation(gallery)
     milestones = add_zelda_notes(moments)
     blog = add_blog()
+    add_camera(gallery)
+    exclude = set(json.loads((HERE / "config" / "camera_shots.json").read_text())["gallery_exclude"])
+    for g in gallery.values():
+        g["shots"] = [s for s in g["shots"] if s["img"] not in exclude]
 
     # Drop images no sample uses any more (a game's sample shifts when screenshots are added)
     keep = {s["img"] for g in gallery.values() for s in g["shots"]} | {m["img"] for m in moments.values()} \
@@ -95,6 +99,27 @@ def main():
     (OUT / "milestones.json").write_text(json.dumps(milestones, indent=1, ensure_ascii=False) + "\n")
     print(f"gallery: {len(gallery)} games, {sum(len(g['shots']) for g in gallery.values())} of "
           f"{sum(g['total'] for g in gallery.values())} screenshots; {len(stale)} stale images removed")
+
+
+PHOTOS = Path.home() / "Pictures/Photos Library.photoslibrary/resources/derivatives"
+
+
+def add_camera(gallery):
+    """Camera photos of game screens and saved screenshots from the Photos library
+    (config/camera_shots.json, checked one by one by Ronjan 2026-11-19), keyed "camera:<row name>"
+    so the game page shows them with the row's other screenshots, under Photos."""
+    cfg = json.loads((HERE / "config" / "camera_shots.json").read_text())
+    by_game = defaultdict(list)
+    for s in cfg["shots"]:
+        u = s["uuid"]
+        src = sorted(PHOTOS.glob(f"{u[0]}/{u}_1_10[25]_c.jpeg")) or sorted(PHOTOS.glob(f"masters/{u[0]}/{u}_4_5005_c.jpeg"))
+        if not src:
+            raise SystemExit(f"config/camera_shots.json: no Photos preview for {u}")
+        name = f"cam-{u[:13].lower()}.webp"
+        save_webp(src[-1], name)
+        by_game[s["game"]].append({"time": s["time"][:19], "img": name, **({"tall": True} if s.get("tall") else {})})
+    for game, shots in by_game.items():
+        gallery[f"camera:{game}"] = {"game": game, "total": len(shots), "shots": sorted(shots, key=lambda x: x["time"])}
 
 
 IOS_ARCHIVE = Path.home() / "Documents/Archive/iOS Screenshots"
