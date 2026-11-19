@@ -1,5 +1,65 @@
 [
  {
+  "id": "grand-theft-auto-vi",
+  "name": "Grand Theft Auto VI",
+  "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png",
+  "first": "2026-11-19",
+  "last": "2026-11-19",
+  "days": [
+   "2026-11-19"
+  ],
+  "families": [
+   "PlayStation"
+  ],
+  "days_by_family": {
+   "PlayStation": [
+    "2026-11-19"
+   ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS5|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.9,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": 1,
+  "entries": [
+   {
+    "id": "psn-played:PPSA01547_00",
+    "family": "PlayStation",
+    "platform": "PS5",
+    "name": "Grand Theft Auto VI",
+    "minutes": 56,
+    "sessions": 1,
+    "earned": null,
+    "total": null,
+    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/9f51f0ccdb65bd29c36a0907a738c2902a712f03e2fd6470.png",
+    "first": "2026-11-19",
+    "last": "2026-11-19"
+   },
+   {
+    "id": "psn:NPWR21085_00",
+    "family": "PlayStation",
+    "platform": "PS5",
+    "name": "Grand Theft Auto VI",
+    "minutes": null,
+    "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png",
+    "earned": 1,
+    "total": 55,
+    "first": "2026-11-19",
+    "last": "2026-11-19",
+    "earned_by_year": {
+     "2026": 1
+    }
+   }
+  ],
+  "img": "img/g/23b6bd2d78329536.webp"
+ },
+ {
   "id": "sackboy-a-big-adventure",
   "name": "Sackboy: A Big Adventure",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR19950_00/28286d6e-d0b0-492f-8e0e-573ad62184ef.png",
