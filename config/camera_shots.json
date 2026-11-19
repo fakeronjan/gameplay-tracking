@@ -54,11 +54,6 @@
    "time": "2013-07-08T20:09:25"
   },
   {
-   "uuid": "2F67B58C-D15C-498A-AFCB-950CCA27A118",
-   "game": "The Walking Dead: Season 1",
-   "time": "2013-07-08T20:09:25"
-  },
-  {
    "uuid": "5E65EA63-40F9-497A-947D-A58C7D806E7E",
    "game": "The Walking Dead: Season 1",
    "time": "2013-07-08T20:09:37"
@@ -99,24 +94,9 @@
    "time": "2013-09-20T09:48:00"
   },
   {
-   "uuid": "736C056E-81C9-4B14-B8AB-FF08FCF09423",
-   "game": "NBA 2K13",
-   "time": "2013-09-20T09:48:05"
-  },
-  {
    "uuid": "27575F2B-8137-4D5B-B251-220004E357D6",
    "game": "NBA 2K13",
    "time": "2013-09-20T09:48:07"
-  },
-  {
-   "uuid": "A968490F-22B9-4B9A-B6C8-7AA03E1F330F",
-   "game": "NBA 2K13",
-   "time": "2013-09-20T09:48:07"
-  },
-  {
-   "uuid": "5713125E-B2DC-4D8C-843B-5F386DD497EA",
-   "game": "NBA 2K13",
-   "time": "2013-09-20T09:48:08"
   },
   {
    "uuid": "F3D9E22E-C55E-4C2D-BB7E-460854464067",
@@ -165,11 +145,6 @@
   },
   {
    "uuid": "E236F358-4A85-4D73-8C12-AABB45D9F62C",
-   "game": "NBA 2K13",
-   "time": "2013-09-20T09:48:38"
-  },
-  {
-   "uuid": "30FD0D09-A632-4767-9212-0FDD80FE6F1F",
    "game": "NBA 2K13",
    "time": "2013-09-20T09:48:38"
   },
@@ -1413,16 +1388,6 @@
    "time": "2019-11-28T13:40:51"
   },
   {
-   "uuid": "9CE109B5-3CE1-4F99-8799-FFC9D0FD1627",
-   "game": "Super Mario Maker",
-   "time": "2019-11-28T13:40:51"
-  },
-  {
-   "uuid": "505A19DB-A62B-4F12-A367-09D8BB087F13",
-   "game": "Mario Paint",
-   "time": "2019-12-07T13:41:56"
-  },
-  {
    "uuid": "1BBF5190-FE5D-42DA-80C9-97119386059E",
    "game": "Mario Paint",
    "time": "2019-12-07T13:41:56"
@@ -1439,11 +1404,6 @@
   },
   {
    "uuid": "88027E51-34DC-481C-BE74-6DE8B36858D1",
-   "game": "Mario Paint",
-   "time": "2019-12-07T13:50:18"
-  },
-  {
-   "uuid": "EC5B72BF-25F0-4E8D-A54D-CD691F73B83A",
    "game": "Mario Paint",
    "time": "2019-12-07T13:50:18"
   },
@@ -1478,19 +1438,9 @@
    "time": "2020-02-01T13:25:50"
   },
   {
-   "uuid": "DF3DB238-A84D-4573-80C9-EC70A40998FB",
-   "game": "Mario Kart 8 + Deluxe",
-   "time": "2020-03-19T18:00:07"
-  },
-  {
    "uuid": "211434A4-3C75-4BDD-86C4-83BFC2918793",
    "game": "Mario Kart 8 + Deluxe",
    "time": "2020-03-19T18:00:07"
-  },
-  {
-   "uuid": "7475CEBF-7A42-4A1B-A8D3-D6BD6EBD21CD",
-   "game": "Mario Kart 8 + Deluxe",
-   "time": "2020-03-19T18:05:52"
   },
   {
    "uuid": "BD72781B-E208-454A-BCA5-3C04091F2B7E",
@@ -1511,11 +1461,6 @@
    "uuid": "D3FD2001-CF53-426A-BA6D-FE754FA93565",
    "game": "Animal Crossing: New Horizons",
    "time": "2020-03-21T20:46:37"
-  },
-  {
-   "uuid": "1B18BDB0-54B3-4C36-99DE-D8A6CEB83104",
-   "game": "Super Smash Bros. Ultimate",
-   "time": "2020-03-24T17:33:01"
   },
   {
    "uuid": "3BB5B388-A776-49A3-98D9-C05F7EF4E81B",
@@ -1558,19 +1503,9 @@
    "time": "2020-03-28T15:58:33"
   },
   {
-   "uuid": "2D8122D6-6B24-425D-B06D-5240D45D847C",
-   "game": "Mario Paint",
-   "time": "2020-03-28T16:10:02"
-  },
-  {
    "uuid": "B10A5254-4C19-4DB5-BDB4-DB9A7F492F5E",
    "game": "Mario Paint",
    "time": "2020-03-28T16:10:03"
-  },
-  {
-   "uuid": "C5B24F1F-4B0D-465C-8273-81BF17897048",
-   "game": "Mario Paint",
-   "time": "2020-03-28T16:53:36"
   },
   {
    "uuid": "2F6635C3-EEE0-4310-A996-BAFB8DAE9EB0",
@@ -1586,11 +1521,6 @@
    "uuid": "399FB025-10A8-4471-A6DF-3FC99F6C467D",
    "game": "Plague Inc: Evolved",
    "time": "2020-03-29T17:28:41"
-  },
-  {
-   "uuid": "D32B3DF1-2E5F-4D7B-A655-5EC37B9EFEB1",
-   "game": "NBA 2K20",
-   "time": "2020-04-05T11:35:49"
   },
   {
    "uuid": "CB706687-E8A6-44C2-BA25-215D0BC9FEAA",
@@ -1615,21 +1545,10 @@
    "tall": true
   },
   {
-   "uuid": "8B5812C4-80B2-4FAB-B9B7-AFBB3CD48910",
-   "game": "NBA 2K20",
-   "time": "2020-04-05T12:09:25",
-   "tall": true
-  },
-  {
    "uuid": "91301157-4DFA-48E2-ACC3-484F99E417D4",
    "game": "NBA 2K20",
    "time": "2020-04-05T12:09:25",
    "tall": true
-  },
-  {
-   "uuid": "7D9DB700-84CA-40D5-B7A6-EE4BC2E14922",
-   "game": "NBA 2K20",
-   "time": "2020-04-05T12:15:37"
   },
   {
    "uuid": "A10FCF4A-EF23-4A31-A83E-AC9AD923A43A",
@@ -1637,29 +1556,14 @@
    "time": "2020-04-05T12:15:37"
   },
   {
-   "uuid": "546AD073-A994-4D06-A47A-40D77B6C7D97",
-   "game": "NBA 2K20",
-   "time": "2020-04-05T12:39:48"
-  },
-  {
    "uuid": "BE616A60-8EAE-46C3-875F-8AAFC744486A",
    "game": "NBA 2K20",
    "time": "2020-04-05T12:39:49"
   },
   {
-   "uuid": "7B88123D-9529-4CAC-964A-8E82FFC59021",
-   "game": "NBA 2K20",
-   "time": "2020-04-05T14:35:48"
-  },
-  {
    "uuid": "29DA451F-7B07-47CF-BACE-6D33F97F20BB",
    "game": "NBA 2K20",
    "time": "2020-04-05T14:35:49"
-  },
-  {
-   "uuid": "35E53E82-7983-4BE2-9A2C-33D11BF0BD97",
-   "game": "NBA 2K20",
-   "time": "2020-04-05T15:06:42"
   },
   {
    "uuid": "C93C9651-AF70-4AC4-8C9B-3FF43D441E34",
@@ -1670,11 +1574,6 @@
    "uuid": "BEF1472A-9915-468F-9E2E-E6724DBB1062",
    "game": "Animal Crossing: New Horizons",
    "time": "2020-04-06T17:40:43"
-  },
-  {
-   "uuid": "4713B40D-41A1-4D58-912D-72AA2B5B9CAA",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2020-04-08T22:03:55"
   },
   {
    "uuid": "A98898D2-2FC6-41C0-8BB2-42F77D2D5D7C",
@@ -1697,11 +1596,6 @@
    "time": "2020-04-10T17:48:13"
   },
   {
-   "uuid": "E2B06146-1161-4A19-99CC-91B23743305D",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2020-04-12T09:44:19"
-  },
-  {
    "uuid": "172DA978-BC7C-45F0-BD37-FD13F058C485",
    "game": "Animal Crossing: New Horizons",
    "time": "2020-04-12T09:44:20"
@@ -1712,19 +1606,9 @@
    "time": "2020-04-15T12:35:31"
   },
   {
-   "uuid": "C494BC0D-1A96-49DD-BCAA-1869B0273EEA",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2020-04-15T12:35:31"
-  },
-  {
    "uuid": "92D0A5AB-CD01-493F-8ABB-9098F8BA84CB",
    "game": "Animal Crossing: New Horizons",
    "time": "2020-04-18T09:07:54"
-  },
-  {
-   "uuid": "B4D7171B-1194-44B7-A26D-7D04A42F42A3",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2020-04-19T10:35:15"
   },
   {
    "uuid": "31B55291-0C3B-4CB7-B271-E605BEED3943",
@@ -1780,17 +1664,6 @@
    "tall": true
   },
   {
-   "uuid": "87F5C893-352C-4334-AD3B-1F0ADF7A46CC",
-   "game": "Super Mario 64",
-   "time": "2020-05-25T14:54:31",
-   "tall": true
-  },
-  {
-   "uuid": "49CE8164-8C0B-438A-B704-20097EE46970",
-   "game": "Bug Fables: The Everlasting Sapling",
-   "time": "2020-05-30T11:48:12"
-  },
-  {
    "uuid": "2FB0BB4E-D7B4-40C2-9F82-A98BC21A4C37",
    "game": "Bug Fables: The Everlasting Sapling",
    "time": "2020-05-30T11:48:12"
@@ -1811,16 +1684,6 @@
    "time": "2020-06-21T09:51:40"
   },
   {
-   "uuid": "C99563CB-2BD6-4970-830C-0EEA276330EB",
-   "game": "Mario Paint",
-   "time": "2020-06-21T09:51:40"
-  },
-  {
-   "uuid": "A17E02A7-B567-4D9C-86BB-B5D5171E882A",
-   "game": "Madden NFL 20",
-   "time": "2020-07-01T16:50:03"
-  },
-  {
    "uuid": "B17EFC41-1AD1-44E1-97D8-A2253E28BF50",
    "game": "Madden NFL 20",
    "time": "2020-07-01T16:50:04"
@@ -1839,16 +1702,6 @@
    "uuid": "A1043585-7D0B-4AB0-93F8-38A1791DAD49",
    "game": "Ken Griffey Jr. Presents Major League Baseball",
    "time": "2020-07-11T08:56:48"
-  },
-  {
-   "uuid": "4B1BCD05-99AE-47D8-9B1E-6D7C5E927FFC",
-   "game": "Ken Griffey Jr. Presents Major League Baseball",
-   "time": "2020-07-11T08:56:48"
-  },
-  {
-   "uuid": "02A2650D-80A3-4D55-9A46-6DA694987A98",
-   "game": "Ken Griffey Jr. Presents Major League Baseball",
-   "time": "2020-07-12T17:21:40"
   },
   {
    "uuid": "8815DB0C-2C57-4591-BCF4-E5A5F5FDF1A3",
@@ -1876,31 +1729,15 @@
    "time": "2020-07-12T17:22:13"
   },
   {
-   "uuid": "562A1532-5B6E-42E3-B1CE-9EF92EA12709",
-   "game": "NCAA Football 2004",
-   "time": "2020-07-19T09:58:13"
-  },
-  {
    "uuid": "58D631EC-9796-45BB-BBA6-A7632371D5BA",
    "game": "NCAA Football 2004",
    "time": "2020-07-19T09:58:14"
-  },
-  {
-   "uuid": "588B025F-0092-46A5-B5BF-F5B8317C8EAF",
-   "game": "NCAA Football 2004",
-   "time": "2020-07-19T10:05:57",
-   "tall": true
   },
   {
    "uuid": "90AF353B-DF8A-40CF-BDE8-553E294F74AD",
    "game": "NCAA Football 2004",
    "time": "2020-07-19T10:05:57",
    "tall": true
-  },
-  {
-   "uuid": "9FB49D1A-017A-408A-8B75-A03BDFDD5F11",
-   "game": "NBA Live 96",
-   "time": "2020-07-19T10:46:04"
   },
   {
    "uuid": "6834F8AB-893C-40A2-BDBA-8C86892698A8",
@@ -1914,11 +1751,6 @@
   },
   {
    "uuid": "306648B8-6CC0-4874-B2C4-A3609F371932",
-   "game": "FIFA 20",
-   "time": "2020-07-26T12:13:10"
-  },
-  {
-   "uuid": "9043FAB7-DDBA-4053-9B2E-06FC9F1FE254",
    "game": "FIFA 20",
    "time": "2020-07-26T12:13:10"
   },
@@ -1998,22 +1830,12 @@
    "time": "2020-10-11T18:33:36"
   },
   {
-   "uuid": "C98788E1-CB68-4B8F-B9F9-D06714022693",
-   "game": "Mario Kart Live: Home Circuit",
-   "time": "2020-10-20T19:06:30"
-  },
-  {
    "uuid": "65AA84E5-4301-4818-9B08-E7663E2E302B",
    "game": "Mario Kart Live: Home Circuit",
    "time": "2020-10-20T19:06:31"
   },
   {
    "uuid": "3B22689B-B6E4-4568-B741-BA7E15AFF617",
-   "game": "Mario Kart Live: Home Circuit",
-   "time": "2020-10-20T19:14:55"
-  },
-  {
-   "uuid": "C4CAD588-3B94-47B8-9816-A5C4D8580437",
    "game": "Mario Kart Live: Home Circuit",
    "time": "2020-10-20T19:14:55"
   },
@@ -2053,11 +1875,6 @@
    "time": "2020-10-24T20:03:14"
   },
   {
-   "uuid": "E2BBBCC8-880E-4A43-906A-7A77C997114F",
-   "game": "Retro Bowl + Retro Bowl College",
-   "time": "2020-10-24T20:15:02"
-  },
-  {
    "uuid": "B7C24440-0CDD-4795-9467-DF2B112F106B",
    "game": "Retro Bowl + Retro Bowl College",
    "time": "2020-10-24T20:15:02"
@@ -2073,19 +1890,9 @@
    "time": "2020-10-24T20:22:23"
   },
   {
-   "uuid": "362E3563-22FF-4E66-881D-428FAF291F4E",
-   "game": "Retro Bowl + Retro Bowl College",
-   "time": "2020-10-24T20:30:01"
-  },
-  {
    "uuid": "CA77FCE4-E3B0-419F-AF5D-CCFE46CF240F",
    "game": "Retro Bowl + Retro Bowl College",
    "time": "2020-10-24T20:30:01"
-  },
-  {
-   "uuid": "02E4ED06-CC9E-4D3E-A0E8-245B5580E7A2",
-   "game": "Retro Bowl + Retro Bowl College",
-   "time": "2020-10-29T19:01:10"
   },
   {
    "uuid": "A8B97803-F268-49D6-BAF1-9EB073CDAFB5",
@@ -2093,29 +1900,14 @@
    "time": "2020-10-29T19:01:11"
   },
   {
-   "uuid": "314B8DBD-2CE6-40D4-95F0-B5FABD8A4993",
-   "game": "Retro Bowl + Retro Bowl College",
-   "time": "2020-10-29T19:01:28"
-  },
-  {
    "uuid": "CA506444-32DF-4259-84B4-FAC85D4A5E16",
    "game": "Retro Bowl + Retro Bowl College",
    "time": "2020-10-29T19:01:28"
   },
   {
-   "uuid": "41319A07-B122-47FA-8847-F083307DDECB",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2020-11-08T17:02:52"
-  },
-  {
    "uuid": "123387CF-DD73-466C-945F-BB6E7A25E7A9",
    "game": "Animal Crossing: New Horizons",
    "time": "2020-11-08T17:02:53"
-  },
-  {
-   "uuid": "B5AB1C86-4316-455A-8783-1B0D4D2119FF",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2020-11-26T11:48:40"
   },
   {
    "uuid": "FE09A016-E7FE-4F9C-8DE6-B76AAC948EB8",
@@ -2160,12 +1952,6 @@
    "tall": true
   },
   {
-   "uuid": "BCAC63E2-3D70-43DE-86F6-A9C6978031DE",
-   "game": "Mother 3",
-   "time": "2021-06-30T20:51:39",
-   "tall": true
-  },
-  {
    "uuid": "AED0162E-88A6-4F1A-91DF-489D276BAADB",
    "game": "Mother 3",
    "time": "2021-06-30T20:51:40",
@@ -2189,12 +1975,6 @@
    "tall": true
   },
   {
-   "uuid": "D47CE2F1-5328-4313-9968-380EED921D23",
-   "game": "Mother 3",
-   "time": "2021-07-11T18:55:24",
-   "tall": true
-  },
-  {
    "uuid": "D8249A22-4B38-42B3-84C1-132CF6601630",
    "game": "Mother 3",
    "time": "2021-07-11T18:55:24",
@@ -2212,11 +1992,6 @@
   },
   {
    "uuid": "A22F46FE-393C-463F-AC4E-CCEA62417602",
-   "game": "FIFA 21",
-   "time": "2021-07-18T11:00:41"
-  },
-  {
-   "uuid": "A7014431-9839-41FF-9FB2-1A26B6E43AF7",
    "game": "FIFA 21",
    "time": "2021-07-18T11:00:41"
   },
@@ -2254,11 +2029,6 @@
    "uuid": "1B231D42-28B1-460B-9060-584DF6DDE7E8",
    "game": "FIFA 21",
    "time": "2021-07-22T21:41:07"
-  },
-  {
-   "uuid": "6BD7E7ED-8E96-4A73-BCE9-B1E8D2A15B70",
-   "game": "Phoenix Wright: Ace Attorney Trilogy",
-   "time": "2021-07-27T20:27:05"
   },
   {
    "uuid": "40D0C1DF-BA85-428D-B340-4D2C8FD53FCF",
@@ -2322,19 +2092,9 @@
    "time": "2021-08-07T20:21:31"
   },
   {
-   "uuid": "AC55BDF0-566E-4636-85FB-84A2F0C79502",
-   "game": "Drawful 2",
-   "time": "2021-08-07T20:22:06"
-  },
-  {
    "uuid": "47656B73-A35A-492E-A38A-87009969A92B",
    "game": "Drawful 2",
    "time": "2021-08-07T20:22:07"
-  },
-  {
-   "uuid": "A4843073-A8E7-4085-B39A-AECF66C4F5F1",
-   "game": "Tecmo Super Bowl",
-   "time": "2021-08-21T22:35:56"
   },
   {
    "uuid": "B69E8D84-81CC-4292-9171-41E1F7138DB4",
@@ -2362,19 +2122,9 @@
    "time": "2021-08-27T11:04:32"
   },
   {
-   "uuid": "96396658-9DEF-488B-B25C-3904D80ED536",
-   "game": "Tetris Attack",
-   "time": "2021-09-05T11:36:04"
-  },
-  {
    "uuid": "771589B1-7150-4A22-9423-8016685AAB03",
    "game": "Tetris Attack",
    "time": "2021-09-05T11:36:04"
-  },
-  {
-   "uuid": "2FB2383C-C808-4C18-8117-C65BFD46EF40",
-   "game": "Mario Paint",
-   "time": "2021-09-05T11:57:25"
   },
   {
    "uuid": "F8D03DF8-F74B-4225-9203-9BBB072AAF72",
@@ -2472,11 +2222,6 @@
    "time": "2021-12-29T20:43:35"
   },
   {
-   "uuid": "A40AAFBF-1EDC-417D-AEF9-E74813A37675",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2021-12-29T20:43:35"
-  },
-  {
    "uuid": "79A57208-584A-45B3-B476-B9364974BD68",
    "game": "Animal Crossing: New Horizons",
    "time": "2021-12-29T20:44:56"
@@ -2499,12 +2244,6 @@
   },
   {
    "uuid": "F6BD11F8-962B-49D1-8DB3-C57ACB4240C7",
-   "game": "Wario Land: Super Mario Land 3",
-   "time": "2022-01-03T20:20:36",
-   "tall": true
-  },
-  {
-   "uuid": "42C0D783-7693-4DD3-9DE5-4D25BD116B93",
    "game": "Wario Land: Super Mario Land 3",
    "time": "2022-01-03T20:20:36",
    "tall": true
@@ -2691,11 +2430,6 @@
   },
   {
    "uuid": "57D7A255-352F-4078-B410-47D85DB6D2DB",
-   "game": "Animal Crossing: New Horizons",
-   "time": "2022-09-04T09:15:28"
-  },
-  {
-   "uuid": "CE501B28-B148-4906-AA3B-FFD247148D55",
    "game": "Animal Crossing: New Horizons",
    "time": "2022-09-04T09:15:28"
   },
@@ -2916,16 +2650,6 @@
    "time": "2023-01-06T18:52:35"
   },
   {
-   "uuid": "74F95702-574B-4687-817C-EE74CACDA6DF",
-   "game": "NBA 2K23",
-   "time": "2023-01-06T18:52:35"
-  },
-  {
-   "uuid": "D72158D1-D193-4AE1-AEA9-23B808835E6B",
-   "game": "NBA 2K23",
-   "time": "2023-01-06T18:52:40"
-  },
-  {
    "uuid": "CD7F90B7-338E-403B-8887-9FAB115F500B",
    "game": "NBA 2K23",
    "time": "2023-01-06T18:52:40"
@@ -2944,11 +2668,6 @@
    "uuid": "C0D46A06-CBC6-4009-86AC-48FB3C545181",
    "game": "Grand Theft Auto V",
    "time": "2023-02-12T17:41:59"
-  },
-  {
-   "uuid": "6C914B4A-B995-4D95-A083-12B0AEE92C05",
-   "game": "Octopath Traveler II",
-   "time": "2023-03-11T17:40:39"
   },
   {
    "uuid": "2155FBAD-0AB0-40BC-A9C1-75E6C0140DF6",
@@ -3059,11 +2778,6 @@
    "uuid": "8F544833-F9F5-4B1C-AE0D-114FAB9ABA66",
    "game": "The Legend of Zelda: Breath of the Wild",
    "time": "2023-05-05T15:45:15"
-  },
-  {
-   "uuid": "E6C4C887-8BE3-48FE-A66E-18236A39395A",
-   "game": "The Legend of Zelda: Tears of the Kingdom",
-   "time": "2023-05-14T09:37:01"
   },
   {
    "uuid": "1DA9F887-E253-46FE-90DE-884139B5E983",
@@ -3275,12 +2989,6 @@
    "tall": true
   },
   {
-   "uuid": "74806A07-73AB-400F-BEC2-748F30FD3AD5",
-   "game": "EarthBound",
-   "time": "2024-01-01T11:30:14",
-   "tall": true
-  },
-  {
    "uuid": "52F51B2C-240B-459A-AA01-75128B8EED13",
    "game": "NBA 2K24",
    "time": "2024-01-05T15:50:04"
@@ -3304,11 +3012,6 @@
   },
   {
    "uuid": "657816C2-A8E6-4F2D-98C9-5C4260CBFB4B",
-   "game": "NBA 2K24",
-   "time": "2024-01-25T14:36:10"
-  },
-  {
-   "uuid": "CE119545-3F99-44BF-8ACC-AFAA79FD4140",
    "game": "NBA 2K24",
    "time": "2024-01-25T14:36:10"
   },
@@ -3589,11 +3292,6 @@
    "time": "2024-12-16T20:02:14"
   },
   {
-   "uuid": "F343D2C7-514A-4305-A22E-72D2DCDDA267",
-   "game": "Balatro",
-   "time": "2024-12-16T20:02:14"
-  },
-  {
    "uuid": "B94102BE-0482-4DF2-947B-40778246139C",
    "game": "Balatro",
    "time": "2025-01-22T22:01:26",
@@ -3715,11 +3413,6 @@
    "uuid": "5B0C8619-7634-4D87-9275-BAB58BFBF288",
    "game": "Mario Paint",
    "time": "2025-09-02T19:35:11"
-  },
-  {
-   "uuid": "49AED810-BA67-47C3-A8EA-993A3D08A004",
-   "game": "Mario Paint",
-   "time": "2025-09-02T19:36:51"
   },
   {
    "uuid": "DDBBCACD-9691-45C7-8AB2-E6CA17D2FD5F",
@@ -3896,16 +3589,6 @@
    "uuid": "566C6F5B-F4CA-4B1C-A8FF-F5296979A8D0",
    "game": "Mario Paint",
    "time": "2025-09-26T21:15:11"
-  },
-  {
-   "uuid": "B2D74E49-0459-454D-A82E-D82D50DC81DB",
-   "game": "Mario Paint",
-   "time": "2025-09-26T21:22:00"
-  },
-  {
-   "uuid": "9006952D-5738-4AF9-9A29-8B630CF8DFEE",
-   "game": "Mario Paint",
-   "time": "2025-09-26T21:59:04"
   },
   {
    "uuid": "242DD77A-C520-4C79-A673-CABC02B2D8D1",
