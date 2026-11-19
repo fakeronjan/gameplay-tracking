@@ -303,7 +303,7 @@
   "psn-played:CUSA02038_00",
   "psn-played:PPSA28492_00"
  ],
- "_versions": "Other versions of the same game kept as their own rows (remakes): each game page links to the rest (Ronjan 2026-11-12). Any entry id in a row stands for that row.",
+ "_versions": "Other versions of the same game kept as their own rows (remakes): each game page links to the rest (Ronjan 2026-11-12). Any entry id in a row stands for that row. Final Fantasy VII, Remake, and Rebirth linked 2026-11-18 (Ronjan).",
  "versions": [
   [
    "nintendo:0005000010199b00",
@@ -317,6 +317,11 @@
   [
    "nintendo:0400e88025b1a000",
    "nintendo:0004000000049000"
+  ],
+  [
+   "psn-played:CUSA01875_00",
+   "psn-played:CUSA07211_00",
+   "psn-played:PPSA08666_00"
   ]
  ],
  "_timeline_always": "Rows the Timeline always shows, even with family play hidden, besides games on an awards list (Ronjan 2026-11-12: Mario Kart 8 + Deluxe). Any entry id in the row.",

@@ -12749,6 +12749,16 @@
     }
    }
   ],
+  "versions": [
+   {
+    "id": "final-fantasy-vii",
+    "name": "Final Fantasy VII"
+   },
+   {
+    "id": "final-fantasy-vii-rebirth",
+    "name": "Final Fantasy VII Rebirth"
+   }
+  ],
   "released": "2020-04-10",
   "series": [
    "final-fantasy"
@@ -22710,6 +22720,16 @@
      "2024": 2,
      "2025": 3
     }
+   }
+  ],
+  "versions": [
+   {
+    "id": "final-fantasy-vii",
+    "name": "Final Fantasy VII"
+   },
+   {
+    "id": "final-fantasy-vii-remake",
+    "name": "Final Fantasy VII Remake"
    }
   ],
   "released": "2024-02-29",
@@ -59659,6 +59679,16 @@
      "2015": 1,
      "2016": 2
     }
+   }
+  ],
+  "versions": [
+   {
+    "id": "final-fantasy-vii-remake",
+    "name": "Final Fantasy VII Remake"
+   },
+   {
+    "id": "final-fantasy-vii-rebirth",
+    "name": "Final Fantasy VII Rebirth"
    }
   ],
   "released": "1997-09-07",
