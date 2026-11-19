@@ -622,8 +622,7 @@
    "pok-mon-sword",
    "pok-mon-y",
    "pok-mon-yellow-version",
-   "pok-mon-let-s-go-eevee",
-   "pok-mon-let-s-go-pikachu"
+   "pok-mon-let-s-go-pikachu-eevee"
   ]
  },
  {
@@ -665,14 +664,6 @@
   "games": [
    "red-dead-redemption",
    "red-dead-redemption-2"
-  ]
- },
- {
-  "id": "retro-bowl",
-  "name": "Retro Bowl",
-  "games": [
-   "retro-bowl",
-   "retro-bowl-college"
   ]
  },
  {

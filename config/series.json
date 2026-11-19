@@ -1,5 +1,5 @@
 {
- "_about": "Series, curated by Ronjan 2026-11-18: a series is the game's own named line, not the umbrella franchise (Mario Kart, Smash, Paper Mario, and Mario & Luigi are each their own; Wario Land and Yoshi aren't Super Mario; DK64 and Bananza are with Donkey Kong Country, Donkey Kong (1994) isn't; spin-offs join their series: Cadence of Hyrule, Theatrhythm, Dancing in Starlight, Sackboy, Drawful 2; Puyo Puyo Tetris is Tetris; one LEGO series; LEGO Rock Band is Rock Band only). Remakes are 'Other versions', not series. Row display names; a game can be in two (LEGO Rock Band).",
+ "_about": "Series, curated by Ronjan 2026-11-18: a series is the game's own named line, not the umbrella franchise (Mario Kart, Smash, Paper Mario, and Mario & Luigi are each their own; Wario Land and Yoshi aren't Super Mario; DK64 and Bananza are with Donkey Kong Country, Donkey Kong (1994) isn't; spin-offs join their series: Cadence of Hyrule, Theatrhythm, Dancing in Starlight, Sackboy, Drawful 2; Puyo Puyo Tetris is Tetris; one LEGO series; LEGO Rock Band is Rock Band only). Remakes are 'Other versions', not series. Row display names; a game can be in two (LEGO Rock Band). Merged 2026-11-18 (Ronjan): Retro Bowl + Retro Bowl College (a re-skin) and the two Let's Go versions are one row each.",
  "series": {
   "Ace Attorney": [
    "Phoenix Wright: Ace Attorney Trilogy",
@@ -369,8 +369,7 @@
    "Pokémon Sword",
    "Pokémon Y",
    "Pokémon Yellow Version",
-   "Pokémon: Let's Go, Eevee!",
-   "Pokémon: Let's Go, Pikachu!"
+   "Pokémon: Let's Go, Pikachu! + Eevee!"
   ],
   "Prince of Persia": [
    "Prince of Persia (2008)",
@@ -392,10 +391,6 @@
   "Red Dead Redemption": [
    "Red Dead Redemption",
    "Red Dead Redemption 2"
-  ],
-  "Retro Bowl": [
-   "Retro Bowl",
-   "Retro Bowl College"
   ],
   "Rock Band": [
    "LEGO Rock Band",

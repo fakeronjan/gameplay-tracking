@@ -146,6 +146,14 @@
   [
    "psn:NPWR00950_00",
    "psn:NPWR05244_00"
+  ],
+  [
+   "nintendo:0100c5b016e30000",
+   "ios:Retro Bowl College"
+  ],
+  [
+   "nintendo:010003f003a34000",
+   "nintendo:0100187003a36000"
   ]
  ],
  "split": [
@@ -253,7 +261,9 @@
   "steam:1250410": "Microsoft Flight Simulator (2020)",
   "nintendo:000500001019d200": "Punch-Out!! (2009)",
   "xbox:fakeronjan:1766089184": "GoldenEye 007 (1997)",
-  "nintendo:0004000000041d00": "Donkey Kong (1994)"
+  "nintendo:0004000000041d00": "Donkey Kong (1994)",
+  "nintendo:0100c5b016e30000": "Retro Bowl + Retro Bowl College",
+  "nintendo:010003f003a34000": "Pokémon: Let's Go, Pikachu! + Eevee!"
  },
  "_notes": "merge: entry-id groups that are one game; split: entry ids kept out of name matching; names: display name, keyed by any entry id in the row; collections: split one collection list into its games (see build_games.split_collections)",
  "exclude": {
@@ -341,5 +351,12 @@
    },
    "why": "Balatro on Steam, 2025: Steam's 2025 year-in-review playtime by month (Jan 62%, Feb 28%, Mar ~3%, Apr and Jul under 1%). Ronjan: barely played it on Steam in 2026."
   }
+ },
+ "_old_ids": "Game page ids a row used to have (a merge or rename changes its id): old links redirect to the row (2026-11-18).",
+ "old_ids": {
+  "retro-bowl": "retro-bowl-retro-bowl-college",
+  "retro-bowl-college": "retro-bowl-retro-bowl-college",
+  "pok-mon-let-s-go-pikachu": "pok-mon-let-s-go-pikachu-eevee",
+  "pok-mon-let-s-go-eevee": "pok-mon-let-s-go-pikachu-eevee"
  }
 }

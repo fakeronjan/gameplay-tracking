@@ -790,6 +790,19 @@ def build():
                     e["earned_by_year"][y] = run
     unlocks.sort(key=lambda u: (u["earned"] or "", u["game"], u["name"]), reverse=True)
 
+    # Old game page ids (a merge or rename changed them): the page redirects them to the row
+    ids_now = {r["id"]: r for r in games}
+    for old, new in cfg.get("old_ids", {}).items():
+        if new not in ids_now:
+            raise SystemExit(f"config/game_merges.json old_ids points {old} at {new}, which isn't a row")
+        ids_now[new].setdefault("old_ids", []).append(old)
+
+    # Original North American release dates (config/release_dates.json, 2026-11-18 import)
+    released = json.loads((HERE / "config" / "release_dates.json").read_text())["dates"]
+    for r in games:
+        if released.get(r["id"], {}).get("date"):
+            r["released"] = released[r["id"]]["date"]
+
     # Series (config/series.json, curated by Ronjan): each row lists its series' ids, and
     # series.json lists each series' games, for the Series tab and series pages
     series_cfg = json.loads((HERE / "config" / "series.json").read_text())["series"]

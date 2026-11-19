@@ -1,0 +1,2429 @@
+{
+ "_about": "Original North American release date per game row (one-time import 2026-11-18): IGDB, cross-checked with Steam, App Store, and eShop dates and each game's Wikipedia article; 90 doubtful ones checked by Ronjan, then every game compared with its own Wikipedia article and the 67 disagreements checked by Ronjan. Early access games use the full release date. Rules: a combined row (Persona 5 + Royal) uses the first game's original date; an expanded version played on its own (Persona 4 Golden) uses that version's date; remakes are their own rows. null = no release date (apps like Switch Online).",
+ "dates": {
+  "007-first-light": {
+   "date": "2026-05-27",
+   "source": "IGDB clean match"
+  },
+  "2010-fifa-world-cup": {
+   "date": "2010-04-27",
+   "source": "pre-selected, kept"
+  },
+  "3d-dot-game-heroes": {
+   "date": "2010-05-11",
+   "source": "IGDB clean match"
+  },
+  "3d-sonic-the-hedgehog-2": {
+   "date": "2015-10-08",
+   "source": "IGDB clean match"
+  },
+  "3dsen": {
+   "date": null,
+   "source": "Ronjan: no release date"
+  },
+  "aegis-wing": {
+   "date": "2007-05-16",
+   "source": "IGDB clean match"
+  },
+  "alice-madness-returns": {
+   "date": "2011-06-14",
+   "source": "IGDB clean match"
+  },
+  "all-pro-football-2k8": {
+   "date": "2007-07-16",
+   "source": "IGDB clean match"
+  },
+  "among-us": {
+   "date": "2018-06-15",
+   "source": "Ronjan picked IGDB Among Us"
+  },
+  "amplitude": {
+   "date": "2016-01-05",
+   "source": "IGDB clean match"
+  },
+  "animal-crossing-new-horizons": {
+   "date": "2020-03-20",
+   "source": "IGDB original, store has a later version"
+  },
+  "animal-well": {
+   "date": "2024-05-09",
+   "source": "IGDB clean match"
+  },
+  "apotheon": {
+   "date": "2015-02-03",
+   "source": "IGDB clean match"
+  },
+  "arcade-archives-punch-out": {
+   "date": "2018-03-30",
+   "source": "IGDB + store agree"
+  },
+  "arcade-archives-vs-super-mario-bros": {
+   "date": "2017-12-22",
+   "source": "IGDB + store agree"
+  },
+  "assassin-s-creed-iv-black-flag": {
+   "date": "2013-10-29",
+   "source": "IGDB clean match"
+  },
+  "assassin-s-creed-origins": {
+   "date": "2017-10-26",
+   "source": "IGDB clean match"
+  },
+  "astro-bot": {
+   "date": "2024-09-06",
+   "source": "IGDB clean match"
+  },
+  "astro-s-playroom": {
+   "date": "2020-11-12",
+   "source": "IGDB clean match"
+  },
+  "atari-50-the-anniversary-celebration": {
+   "date": "2022-11-11",
+   "source": "IGDB clean match"
+  },
+  "baba-is-you": {
+   "date": "2019-03-13",
+   "source": "IGDB + store agree"
+  },
+  "back-to-the-future-episode-1-it-s-about-time": {
+   "date": "2010-12-23",
+   "source": "pre-selected, kept"
+  },
+  "balatro": {
+   "date": "2024-02-20",
+   "source": "IGDB + store agree"
+  },
+  "baldur-s-gate-3": {
+   "date": "2023-08-03",
+   "source": "Ronjan"
+  },
+  "banjo-kazooie": {
+   "date": "1998-06-29",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "banjo-kazooie-nuts-and-bolts": {
+   "date": "2008-11-12",
+   "source": "IGDB clean match"
+  },
+  "banjo-tooie": {
+   "date": "2000-11-20",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "bastion": {
+   "date": "2011-07-20",
+   "source": "IGDB + store agree"
+  },
+  "batman-arkham-asylum": {
+   "date": "2009-08-25",
+   "source": "IGDB clean match"
+  },
+  "batman-arkham-knight": {
+   "date": "2015-06-23",
+   "source": "IGDB clean match"
+  },
+  "big-brain-academy": {
+   "date": "2006-06-05",
+   "source": "IGDB clean match"
+  },
+  "big-brain-academy-brain-vs-brain": {
+   "date": "2021-12-03",
+   "source": "IGDB + store agree"
+  },
+  "bioshock": {
+   "date": "2007-08-21",
+   "source": "pre-selected, kept"
+  },
+  "blitz-the-league": {
+   "date": "2005-10-17",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "blitz-the-league-ii": {
+   "date": "2008-10-13",
+   "source": "IGDB clean match"
+  },
+  "bloodstained-curse-of-the-moon": {
+   "date": "2018-05-23",
+   "source": "IGDB + store agree"
+  },
+  "bloodstained-ritual-of-the-night": {
+   "date": "2019-06-18",
+   "source": "IGDB + store agree"
+  },
+  "blue-prince": {
+   "date": "2025-04-10",
+   "source": "IGDB clean match"
+  },
+  "brawlhalla": {
+   "date": "2017-10-17",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "bug-fables-the-everlasting-sapling": {
+   "date": "2019-11-21",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "burnout-paradise": {
+   "date": "2008-01-22",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "cadence-of-hyrule": {
+   "date": "2019-06-13",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "call-of-duty-modern-warfare-ii": {
+   "date": "2022-10-28",
+   "source": "IGDB clean match"
+  },
+  "captain-toad-treasure-tracker": {
+   "date": "2014-12-05",
+   "source": "IGDB clean match"
+  },
+  "card-shark": {
+   "date": "2022-06-02",
+   "source": "IGDB + store agree"
+  },
+  "castle-crashers": {
+   "date": "2008-08-27",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "castlevania-anniversary-collection": {
+   "date": "2019-05-16",
+   "source": "IGDB clean match"
+  },
+  "castlevania-requiem-symphony-of-the-night-and-rondo-of-blood": {
+   "date": "2018-10-26",
+   "source": "IGDB clean match"
+  },
+  "castlevania-symphony-of-the-night": {
+   "date": "1997-10-02",
+   "source": "IGDB clean match"
+  },
+  "cat-cafe-manager": {
+   "date": "2022-04-14",
+   "source": "IGDB + store agree"
+  },
+  "catherine-catherine-full-body": {
+   "date": "2011-07-26",
+   "source": "IGDB clean match"
+  },
+  "celeste": {
+   "date": "2018-01-25",
+   "source": "IGDB + store agree"
+  },
+  "child-of-light": {
+   "date": "2014-04-29",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "clair-obscur-expedition-33": {
+   "date": "2025-04-24",
+   "source": "IGDB clean match"
+  },
+  "clubhouse-games-51-worldwide-classics": {
+   "date": "2020-06-05",
+   "source": "IGDB + store agree"
+  },
+  "collection-of-mana": {
+   "date": "2019-06-11",
+   "source": "IGDB + store agree"
+  },
+  "conker-live-and-reloaded": {
+   "date": "2005-06-21",
+   "source": "IGDB clean match"
+  },
+  "contra": {
+   "date": "1987-03-01",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "contra-anniversary-collection": {
+   "date": "2019-06-11",
+   "source": "IGDB clean match"
+  },
+  "contrast": {
+   "date": "2013-11-15",
+   "source": "IGDB clean match"
+  },
+  "crackdown": {
+   "date": "2007-02-20",
+   "source": "IGDB clean match"
+  },
+  "crackdown-3-campaign": {
+   "date": "2019-02-15",
+   "source": "Ronjan"
+  },
+  "cyberpunk-2077": {
+   "date": "2020-12-10",
+   "source": "IGDB clean match"
+  },
+  "dance-central": {
+   "date": "2010-11-04",
+   "source": "IGDB clean match"
+  },
+  "dance-central-spotlight": {
+   "date": "2014-09-02",
+   "source": "IGDB clean match"
+  },
+  "danganronpa-1-2-reload": {
+   "date": "2017-03-14",
+   "source": "Ronjan"
+  },
+  "danganronpa-2-goodbye-despair": {
+   "date": "2014-09-02",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "danganronpa-trigger-happy-havoc": {
+   "date": "2014-02-11",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "danganronpa-v3-killing-harmony": {
+   "date": "2017-09-26",
+   "source": "IGDB + store agree"
+  },
+  "darkest-dungeon": {
+   "date": "2016-01-19",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "darksiders": {
+   "date": "2010-01-05",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "dead-cells": {
+   "date": "2018-08-07",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "dead-nation-apocalypse-edition": {
+   "date": "2014-03-04",
+   "source": "IGDB clean match"
+  },
+  "death-s-door": {
+   "date": "2021-07-20",
+   "source": "IGDB clean match"
+  },
+  "death-stranding": {
+   "date": "2019-11-08",
+   "source": "IGDB clean match"
+  },
+  "destiny": {
+   "date": "2014-09-09",
+   "source": "IGDB clean match"
+  },
+  "destiny-2": {
+   "date": "2017-09-06",
+   "source": "IGDB clean match"
+  },
+  "diablo-iii": {
+   "date": "2012-05-15",
+   "source": "IGDB clean match"
+  },
+  "disney-classic-games-aladdin-and-the-lion-king": {
+   "date": "1993-10-19",
+   "source": "Wikipedia (Ronjan, round two)"
+  },
+  "disney-dreamlight-valley": {
+   "date": "2023-12-05",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "disney-fantasia-music-evolved": {
+   "date": "2014-10-21",
+   "source": "Ronjan"
+  },
+  "disney-infinity-3-0": {
+   "date": "2015-08-30",
+   "source": "IGDB clean match"
+  },
+  "disneyland-adventures": {
+   "date": "2011-11-15",
+   "source": "IGDB clean match"
+  },
+  "dispatch": {
+   "date": "2025-10-22",
+   "source": "IGDB clean match"
+  },
+  "doki-doki-literature-club-doki-doki-literature-club-plus": {
+   "date": "2017-09-22",
+   "source": "IGDB + store agree"
+  },
+  "doki-doki-universe": {
+   "date": "2013-12-02",
+   "source": "IGDB clean match"
+  },
+  "don-bradman-cricket": {
+   "date": "2016-04-25",
+   "source": "Ronjan"
+  },
+  "don-t-starve-console-edition": {
+   "date": "2014-01-07",
+   "source": "IGDB clean match"
+  },
+  "donkey-kong": {
+   "date": "1994-06-01",
+   "source": "Wikipedia, pre-selected and kept; month only"
+  },
+  "donkey-kong-64": {
+   "date": "1999-11-22",
+   "source": "IGDB clean match"
+  },
+  "donkey-kong-bananza": {
+   "date": "2025-07-17",
+   "source": "IGDB + store agree"
+  },
+  "donkey-kong-country": {
+   "date": "1994-11-21",
+   "source": "IGDB clean match"
+  },
+  "donkey-kong-country-2-diddy-s-kong-quest": {
+   "date": "1995-12-01",
+   "source": "IGDB clean match"
+  },
+  "donkey-kong-country-3-dixie-kong-s-double-trouble": {
+   "date": "1996-11-18",
+   "source": "IGDB clean match"
+  },
+  "donkey-kong-country-returns-3d": {
+   "date": "2013-05-24",
+   "source": "IGDB clean match"
+  },
+  "donkey-kong-country-tropical-freeze": {
+   "date": "2014-02-21",
+   "source": "pre-selected, kept"
+  },
+  "doom": {
+   "date": "1993-10-04",
+   "source": "IGDB clean match"
+  },
+  "doom-doom-ii": {
+   "date": "1993-12-10",
+   "source": "pre-selected, kept"
+  },
+  "doom-eternal": {
+   "date": "2020-03-19",
+   "source": "IGDB + store agree"
+  },
+  "dragon-age-inquisition": {
+   "date": "2014-11-18",
+   "source": "IGDB clean match"
+  },
+  "dragon-age-origins": {
+   "date": "2009-11-03",
+   "source": "IGDB clean match"
+  },
+  "drawful-2": {
+   "date": "2016-06-21",
+   "source": "IGDB + store agree"
+  },
+  "driveclub": {
+   "date": "2014-10-07",
+   "source": "IGDB clean match"
+  },
+  "dust-an-elysian-tail": {
+   "date": "2012-08-15",
+   "source": "IGDB clean match"
+  },
+  "ea-sports-college-football-25": {
+   "date": "2024-07-16",
+   "source": "IGDB clean match"
+  },
+  "ea-sports-college-football-26": {
+   "date": "2025-07-11",
+   "source": "IGDB clean match"
+  },
+  "ea-sports-fc-24": {
+   "date": "2023-09-22",
+   "source": "IGDB clean match"
+  },
+  "ea-sports-fc-26": {
+   "date": "2025-09-19",
+   "source": "IGDB clean match"
+  },
+  "earthbound": {
+   "date": "1995-06-05",
+   "source": "IGDB clean match"
+  },
+  "earthworm-jim-hd": {
+   "date": "2010-06-09",
+   "source": "IGDB clean match"
+  },
+  "efootball": {
+   "date": "2021-09-30",
+   "source": "IGDB clean match"
+  },
+  "el-shaddai": {
+   "date": "2011-08-16",
+   "source": "pre-selected, kept"
+  },
+  "elden-ring": {
+   "date": "2022-02-25",
+   "source": "IGDB clean match"
+  },
+  "emily-is-away": {
+   "date": "2015-11-20",
+   "source": "IGDB + store agree"
+  },
+  "f-zero": {
+   "date": "1991-08-23",
+   "source": "IGDB clean match"
+  },
+  "f-zero-99": {
+   "date": "2023-09-14",
+   "source": "IGDB + store agree"
+  },
+  "fable-ii": {
+   "date": "2008-10-21",
+   "source": "IGDB clean match"
+  },
+  "fable-iii": {
+   "date": "2010-10-26",
+   "source": "IGDB clean match"
+  },
+  "fall-guys-ultimate-knockout": {
+   "date": "2020-08-04",
+   "source": "Ronjan"
+  },
+  "fallout-3": {
+   "date": "2008-10-28",
+   "source": "IGDB clean match"
+  },
+  "fallout-new-vegas": {
+   "date": "2010-10-19",
+   "source": "IGDB clean match"
+  },
+  "far-cry-4": {
+   "date": "2014-11-18",
+   "source": "IGDB clean match"
+  },
+  "fez": {
+   "date": "2012-04-13",
+   "source": "IGDB clean match"
+  },
+  "fifa-08": {
+   "date": "2007-10-08",
+   "source": "pre-selected, kept"
+  },
+  "fifa-09": {
+   "date": "2008-10-15",
+   "source": "Ronjan picked IGDB FIFA Soccer 09"
+  },
+  "fifa-13": {
+   "date": "2012-09-25",
+   "source": "Ronjan"
+  },
+  "fifa-15": {
+   "date": "2014-09-23",
+   "source": "IGDB clean match"
+  },
+  "fifa-18": {
+   "date": "2017-09-29",
+   "source": "pre-selected, kept"
+  },
+  "fifa-20": {
+   "date": "2019-09-27",
+   "source": "IGDB clean match"
+  },
+  "fifa-21": {
+   "date": "2020-10-06",
+   "source": "IGDB clean match"
+  },
+  "fifa-23": {
+   "date": "2022-09-27",
+   "source": "IGDB clean match"
+  },
+  "fifa-football": {
+   "date": "2012-02-22",
+   "source": "Ronjan"
+  },
+  "fifa-soccer-11": {
+   "date": "2010-09-28",
+   "source": "IGDB clean match"
+  },
+  "fight-night-champion": {
+   "date": "2011-03-01",
+   "source": "IGDB clean match"
+  },
+  "fight-night-round-4": {
+   "date": "2009-06-23",
+   "source": "IGDB clean match"
+  },
+  "final-fantasy-vi": {
+   "date": "1994-10-11",
+   "source": "pre-selected, kept"
+  },
+  "final-fantasy-vii": {
+   "date": "1997-09-07",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "final-fantasy-vii-rebirth": {
+   "date": "2024-02-29",
+   "source": "IGDB clean match"
+  },
+  "final-fantasy-vii-remake": {
+   "date": "2020-04-10",
+   "source": "IGDB clean match"
+  },
+  "final-fantasy-x-x-2-hd": {
+   "date": "2014-03-18",
+   "source": "IGDB clean match"
+  },
+  "final-fantasy-xiii": {
+   "date": "2010-03-09",
+   "source": "IGDB clean match"
+  },
+  "final-fantasy-xv": {
+   "date": "2016-11-29",
+   "source": "pre-selected, kept"
+  },
+  "final-fantasy-xvi": {
+   "date": "2023-06-22",
+   "source": "IGDB clean match"
+  },
+  "fire-emblem-warriors": {
+   "date": "2017-10-20",
+   "source": "IGDB + store agree"
+  },
+  "flipflop-solitaire": {
+   "date": "2017-11-09",
+   "source": "IGDB + store agree"
+  },
+  "flow": {
+   "date": "2007-02-22",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "flower": {
+   "date": "2009-02-12",
+   "source": "IGDB clean match"
+  },
+  "fortnite": {
+   "date": "2017-07-25",
+   "source": "IGDB clean match"
+  },
+  "forza-horizon-4": {
+   "date": "2018-10-02",
+   "source": "IGDB clean match"
+  },
+  "forza-horizon-5": {
+   "date": "2021-11-09",
+   "source": "IGDB clean match"
+  },
+  "forza-motorsport-2": {
+   "date": "2007-05-29",
+   "source": "IGDB clean match"
+  },
+  "frozen-free-fall-snowball-fight": {
+   "date": "2015-09-15",
+   "source": "IGDB clean match"
+  },
+  "fuser": {
+   "date": "2020-11-09",
+   "source": "IGDB clean match"
+  },
+  "game-builder-garage": {
+   "date": "2021-06-11",
+   "source": "IGDB + store agree"
+  },
+  "game-of-thrones": {
+   "date": "2012-05-15",
+   "source": "IGDB clean match"
+  },
+  "gears-of-war": {
+   "date": "2006-11-07",
+   "source": "IGDB clean match"
+  },
+  "genshin-impact": {
+   "date": "2020-09-28",
+   "source": "pre-selected, kept"
+  },
+  "geometry-wars-dimensions": {
+   "date": "2014-11-25",
+   "source": "IGDB clean match"
+  },
+  "geometry-wars-evolved": {
+   "date": "2005-11-22",
+   "source": "pre-selected, kept"
+  },
+  "ghost-of-tsushima": {
+   "date": "2020-07-17",
+   "source": "IGDB clean match"
+  },
+  "god-of-war": {
+   "date": "2005-03-22",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "god-of-war-2": {
+   "date": "2018-04-20",
+   "source": "IGDB clean match"
+  },
+  "god-of-war-chains-of-olympus": {
+   "date": "2008-03-04",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "god-of-war-ii": {
+   "date": "2007-03-13",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "god-of-war-iii": {
+   "date": "2010-03-16",
+   "source": "IGDB clean match"
+  },
+  "god-of-war-ragnar-k": {
+   "date": "2022-11-09",
+   "source": "IGDB clean match"
+  },
+  "goldeneye-007": {
+   "date": "1997-08-25",
+   "source": "IGDB clean match"
+  },
+  "good-sudoku": {
+   "date": "2020-07-23",
+   "source": "IGDB + store agree"
+  },
+  "grand-theft-auto-iii": {
+   "date": "2021-11-11",
+   "source": "IGDB clean match"
+  },
+  "grand-theft-auto-iv": {
+   "date": "2008-04-29",
+   "source": "IGDB clean match"
+  },
+  "grand-theft-auto-san-andreas": {
+   "date": "2021-11-11",
+   "source": "IGDB clean match"
+  },
+  "grand-theft-auto-v": {
+   "date": "2013-09-17",
+   "source": "IGDB clean match"
+  },
+  "grand-theft-auto-vice-city": {
+   "date": "2002-10-27",
+   "source": "pre-selected, kept"
+  },
+  "grim-fandango": {
+   "date": "2015-01-26",
+   "source": "IGDB clean match"
+  },
+  "guacamelee": {
+   "date": "2013-04-09",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "guacamelee-2": {
+   "date": "2018-08-21",
+   "source": "IGDB original, store has a later version"
+  },
+  "guitar-hero-ii": {
+   "date": "2006-11-07",
+   "source": "IGDB clean match"
+  },
+  "guitar-hero-iii": {
+   "date": "2007-10-28",
+   "source": "pre-selected, kept"
+  },
+  "guitar-hero-live": {
+   "date": "2015-10-20",
+   "source": "IGDB clean match"
+  },
+  "hades": {
+   "date": "2020-09-17",
+   "source": "Ronjan"
+  },
+  "halo-the-master-chief-collection": {
+   "date": "2014-11-11",
+   "source": "IGDB clean match"
+  },
+  "heavy-rain": {
+   "date": "2010-02-23",
+   "source": "IGDB clean match"
+  },
+  "heavy-weapon": {
+   "date": "2005-02-24",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "hexic-hd": {
+   "date": "2005-11-16",
+   "source": "IGDB clean match"
+  },
+  "hitman-3": {
+   "date": "2021-01-20",
+   "source": "IGDB clean match"
+  },
+  "hollow-knight": {
+   "date": "2017-02-24",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "horizon-chase-turbo": {
+   "date": "2018-05-15",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "horizon-forbidden-west": {
+   "date": "2022-02-18",
+   "source": "IGDB clean match"
+  },
+  "horizon-zero-dawn": {
+   "date": "2017-02-28",
+   "source": "IGDB clean match"
+  },
+  "human-resource-machine": {
+   "date": "2015-10-29",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "infamous": {
+   "date": "2009-05-26",
+   "source": "IGDB clean match"
+  },
+  "infamous-second-son": {
+   "date": "2014-03-21",
+   "source": "IGDB clean match"
+  },
+  "injustice-2": {
+   "date": "2017-05-16",
+   "source": "IGDB clean match"
+  },
+  "injustice-gods-among-us": {
+   "date": "2013-04-16",
+   "source": "IGDB clean match"
+  },
+  "iron-man": {
+   "date": "2008-05-02",
+   "source": "IGDB clean match"
+  },
+  "jak-and-daxter-the-precursor-legacy": {
+   "date": "2001-12-03",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "jetpac-refuelled": {
+   "date": "2007-03-28",
+   "source": "IGDB clean match"
+  },
+  "john-madden-football-93": {
+   "date": "1992-11-01",
+   "source": "Wikipedia, pre-selected and kept; month only"
+  },
+  "jurassic-world-evolution": {
+   "date": "2018-06-11",
+   "source": "IGDB clean match"
+  },
+  "just-cause-2": {
+   "date": "2010-03-23",
+   "source": "IGDB clean match"
+  },
+  "kameo": {
+   "date": "2005-11-22",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "katamari-damacy-reroll": {
+   "date": "2018-12-06",
+   "source": "IGDB clean match"
+  },
+  "kenken": {
+   "date": null,
+   "source": "Ronjan: no release date"
+  },
+  "killer-instinct": {
+   "date": "2013-11-22",
+   "source": "pre-selected, kept"
+  },
+  "killer-instinct-classic": {
+   "date": "2013-12-11",
+   "source": "IGDB clean match"
+  },
+  "kinect-adventures": {
+   "date": "2010-11-04",
+   "source": "IGDB clean match"
+  },
+  "kinect-me": {
+   "date": null,
+   "source": "Ronjan: no release date"
+  },
+  "kinect-sports": {
+   "date": "2010-11-04",
+   "source": "IGDB clean match"
+  },
+  "kinect-sports-rivals": {
+   "date": "2014-04-08",
+   "source": "IGDB clean match"
+  },
+  "kingdom-hearts-iii": {
+   "date": "2019-01-29",
+   "source": "IGDB clean match"
+  },
+  "kirby-star-allies": {
+   "date": "2018-03-16",
+   "source": "IGDB + store agree"
+  },
+  "klonoa-phantasy-reverie-series": {
+   "date": "2022-07-08",
+   "source": "IGDB clean match"
+  },
+  "lego-2k-drive": {
+   "date": "2023-05-19",
+   "source": "IGDB clean match"
+  },
+  "lego-batman-legacy-of-the-dark-knight": {
+   "date": "2026-05-19",
+   "source": "IGDB clean match"
+  },
+  "lego-city-undercover": {
+   "date": "2013-03-17",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "lego-city-undercover-the-chase-begins": {
+   "date": "2013-04-20",
+   "source": "IGDB clean match"
+  },
+  "lego-dimensions": {
+   "date": "2015-09-27",
+   "source": "IGDB clean match"
+  },
+  "lego-marvel-super-heroes": {
+   "date": "2013-10-22",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "lego-rock-band": {
+   "date": "2009-11-03",
+   "source": "IGDB clean match"
+  },
+  "lego-star-wars-ii-lego-star-wars-the-complete-saga": {
+   "date": "2007-01-05",
+   "source": "IGDB clean match"
+  },
+  "lego-star-wars-the-force-awakens": {
+   "date": "2016-06-27",
+   "source": "IGDB clean match"
+  },
+  "lego-star-wars-the-skywalker-saga": {
+   "date": "2022-04-05",
+   "source": "IGDB clean match"
+  },
+  "lego-the-incredibles": {
+   "date": "2018-06-15",
+   "source": "IGDB clean match"
+  },
+  "lemmings-touch": {
+   "date": "2014-05-27",
+   "source": "IGDB clean match"
+  },
+  "life-is-strange": {
+   "date": "2015-01-29",
+   "source": "IGDB clean match"
+  },
+  "life-is-strange-before-the-storm": {
+   "date": "2017-08-31",
+   "source": "IGDB clean match"
+  },
+  "life-is-strange-double-exposure": {
+   "date": "2024-10-29",
+   "source": "IGDB clean match"
+  },
+  "life-is-strange-reunion": {
+   "date": "2026-03-26",
+   "source": "IGDB clean match"
+  },
+  "life-is-strange-true-colors": {
+   "date": "2021-09-10",
+   "source": "IGDB clean match"
+  },
+  "like-a-dragon-infinite-wealth": {
+   "date": "2024-01-26",
+   "source": "IGDB clean match"
+  },
+  "like-a-dragon-pirate-yakuza-in-hawaii": {
+   "date": "2025-02-21",
+   "source": "IGDB clean match"
+  },
+  "limbo": {
+   "date": "2010-07-21",
+   "source": "IGDB clean match"
+  },
+  "linkedin-games": {
+   "date": null,
+   "source": "Ronjan: no release date"
+  },
+  "littlebigplanet": {
+   "date": "2008-10-27",
+   "source": "IGDB clean match"
+  },
+  "littlebigplanet-2": {
+   "date": "2011-01-18",
+   "source": "IGDB clean match"
+  },
+  "littlebigplanet-3": {
+   "date": "2014-11-18",
+   "source": "IGDB clean match"
+  },
+  "littlebigplanet-karting": {
+   "date": "2012-11-06",
+   "source": "IGDB clean match"
+  },
+  "lost-records-bloom-and-rage": {
+   "date": "2025-02-18",
+   "source": "IGDB clean match"
+  },
+  "lost-via-domus": {
+   "date": "2008-02-26",
+   "source": "IGDB clean match"
+  },
+  "luck-be-a-landlord": {
+   "date": "2021-01-08",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "madden-nfl-08": {
+   "date": "2007-08-14",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-10": {
+   "date": "2009-08-14",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-11": {
+   "date": "2010-08-10",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-13": {
+   "date": "2012-08-28",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-16": {
+   "date": "2015-08-25",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-19": {
+   "date": "2018-08-10",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-20": {
+   "date": "2019-08-02",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-21": {
+   "date": "2020-08-28",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "madden-nfl-22": {
+   "date": "2021-08-20",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-23": {
+   "date": "2022-08-19",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-24": {
+   "date": "2023-08-18",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-25": {
+   "date": "2024-08-12",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-26": {
+   "date": "2025-08-11",
+   "source": "IGDB clean match"
+  },
+  "madden-nfl-27": {
+   "date": "2026-08-06",
+   "source": "IGDB clean match"
+  },
+  "marble-blast-ultra": {
+   "date": "2006-01-25",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "mario-and-luigi-bowser-s-inside-story-bowser-jr-s-journey": {
+   "date": "2019-01-11",
+   "source": "IGDB clean match"
+  },
+  "mario-and-luigi-dream-team": {
+   "date": "2013-08-10",
+   "source": "IGDB clean match"
+  },
+  "mario-and-luigi-superstar-saga": {
+   "date": "2003-11-17",
+   "source": "IGDB clean match"
+  },
+  "mario-and-sonic-at-the-olympic-games-tokyo-2020": {
+   "date": "2019-11-05",
+   "source": "IGDB + store agree"
+  },
+  "mario-golf-super-rush": {
+   "date": "2021-06-25",
+   "source": "IGDB + store agree"
+  },
+  "mario-kart-7": {
+   "date": "2011-12-03",
+   "source": "IGDB clean match"
+  },
+  "mario-kart-8-deluxe": {
+   "date": "2014-05-29",
+   "source": "IGDB original, store has a later version"
+  },
+  "mario-kart-world": {
+   "date": "2025-06-05",
+   "source": "IGDB + store agree"
+  },
+  "mario-party-superstars": {
+   "date": "2021-10-29",
+   "source": "IGDB + store agree"
+  },
+  "mario-rabbids-kingdom-battle": {
+   "date": "2017-08-29",
+   "source": "Ronjan"
+  },
+  "mario-tennis": {
+   "date": "2000-08-28",
+   "source": "IGDB clean match"
+  },
+  "mario-tennis-aces": {
+   "date": "2018-06-22",
+   "source": "IGDB + store agree"
+  },
+  "marvel-cosmic-invasion": {
+   "date": "2025-12-01",
+   "source": "IGDB clean match"
+  },
+  "marvel-s-spider-man": {
+   "date": "2018-09-07",
+   "source": "IGDB clean match"
+  },
+  "marvel-s-spider-man-2": {
+   "date": "2023-10-20",
+   "source": "IGDB clean match"
+  },
+  "marvel-vs-capcom-infinite": {
+   "date": "2017-09-19",
+   "source": "IGDB clean match"
+  },
+  "mass-effect": {
+   "date": "2007-11-20",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "mass-effect-2": {
+   "date": "2010-01-26",
+   "source": "pre-selected, kept"
+  },
+  "mass-effect-3": {
+   "date": "2012-03-06",
+   "source": "IGDB clean match"
+  },
+  "mass-effect-andromeda": {
+   "date": "2017-03-21",
+   "source": "IGDB clean match"
+  },
+  "mega-man-10": {
+   "date": "2010-03-01",
+   "source": "IGDB clean match"
+  },
+  "mega-man-legacy-collection": {
+   "date": "2015-08-24",
+   "source": "IGDB clean match"
+  },
+  "mega-man-legacy-collection-2": {
+   "date": "2017-08-08",
+   "source": "IGDB clean match"
+  },
+  "metal-gear-solid-v-ground-zeroes": {
+   "date": "2014-03-18",
+   "source": "IGDB clean match"
+  },
+  "metroid": {
+   "date": "1987-08-01",
+   "source": "Ronjan picked IGDB Metroid"
+  },
+  "metroid-dread": {
+   "date": "2021-10-08",
+   "source": "IGDB + store agree"
+  },
+  "metroid-fusion": {
+   "date": "2002-11-17",
+   "source": "IGDB clean match"
+  },
+  "metroid-prime": {
+   "date": "2023-02-08",
+   "source": "IGDB + store agree"
+  },
+  "metroid-prime-trilogy": {
+   "date": "2009-08-24",
+   "source": "IGDB clean match"
+  },
+  "metroid-zero-mission": {
+   "date": "2004-02-09",
+   "source": "IGDB clean match"
+  },
+  "microsoft-flight-simulator": {
+   "date": "2020-08-17",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "microsoft-flight-simulator-2024": {
+   "date": "2024-11-19",
+   "source": "IGDB clean match"
+  },
+  "microsoft-solitaire-collection": {
+   "date": "2012-10-26",
+   "source": "IGDB clean match"
+  },
+  "mighty-no-9": {
+   "date": "2016-06-21",
+   "source": "IGDB clean match"
+  },
+  "miitopia": {
+   "date": "2021-05-21",
+   "source": "IGDB + store agree"
+  },
+  "mina-the-hollower": {
+   "date": "2026-05-29",
+   "source": "IGDB + store agree"
+  },
+  "minecraft": {
+   "date": "2011-08-16",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "mirror-s-edge-catalyst": {
+   "date": "2016-06-07",
+   "source": "IGDB clean match"
+  },
+  "mixtape": {
+   "date": "2026-05-07",
+   "source": "IGDB clean match"
+  },
+  "mlb-12-the-show": {
+   "date": "2012-03-06",
+   "source": "IGDB clean match"
+  },
+  "mlb-the-show-21": {
+   "date": "2021-04-20",
+   "source": "IGDB clean match"
+  },
+  "mlb-the-show-23": {
+   "date": "2023-03-28",
+   "source": "IGDB clean match"
+  },
+  "mlb-the-show-24": {
+   "date": "2024-03-19",
+   "source": "IGDB clean match"
+  },
+  "monopoly": {
+   "date": "2017-10-31",
+   "source": "Ronjan"
+  },
+  "monopoly-plus": {
+   "date": "2014-11-25",
+   "source": "IGDB clean match"
+  },
+  "mortal-kombat": {
+   "date": "2011-04-19",
+   "source": "pre-selected, kept"
+  },
+  "mortal-kombat-1": {
+   "date": "2023-09-14",
+   "source": "IGDB clean match"
+  },
+  "mortal-kombat-11": {
+   "date": "2019-04-22",
+   "source": "IGDB clean match"
+  },
+  "mortal-kombat-legacy-kollection": {
+   "date": "2025-10-30",
+   "source": "IGDB clean match"
+  },
+  "mortal-kombat-vs-dc-universe": {
+   "date": "2008-11-16",
+   "source": "IGDB clean match"
+  },
+  "mortal-kombat-x": {
+   "date": "2015-04-13",
+   "source": "IGDB clean match"
+  },
+  "mother-3": {
+   "date": "2006-04-20",
+   "source": "IGDB clean match"
+  },
+  "mutant-football-league": {
+   "date": "2017-10-31",
+   "source": "IGDB original, store has a later version"
+  },
+  "nba-2k10": {
+   "date": "2009-10-06",
+   "source": "IGDB clean match"
+  },
+  "nba-2k11": {
+   "date": "2010-10-04",
+   "source": "IGDB clean match"
+  },
+  "nba-2k12": {
+   "date": "2011-10-04",
+   "source": "IGDB clean match"
+  },
+  "nba-2k13": {
+   "date": "2012-10-02",
+   "source": "IGDB clean match"
+  },
+  "nba-2k14": {
+   "date": "2013-10-01",
+   "source": "IGDB clean match"
+  },
+  "nba-2k15": {
+   "date": "2014-10-07",
+   "source": "IGDB clean match"
+  },
+  "nba-2k16": {
+   "date": "2015-09-29",
+   "source": "IGDB clean match"
+  },
+  "nba-2k18": {
+   "date": "2017-09-15",
+   "source": "IGDB + store agree"
+  },
+  "nba-2k19": {
+   "date": "2018-09-10",
+   "source": "IGDB + store agree"
+  },
+  "nba-2k20": {
+   "date": "2019-09-05",
+   "source": "IGDB clean match"
+  },
+  "nba-2k21": {
+   "date": "2020-09-03",
+   "source": "IGDB clean match"
+  },
+  "nba-2k22": {
+   "date": "2021-09-09",
+   "source": "IGDB clean match"
+  },
+  "nba-2k23": {
+   "date": "2022-09-09",
+   "source": "IGDB clean match"
+  },
+  "nba-2k24": {
+   "date": "2023-09-08",
+   "source": "IGDB clean match"
+  },
+  "nba-2k25": {
+   "date": "2024-09-04",
+   "source": "IGDB clean match"
+  },
+  "nba-2k7": {
+   "date": "2006-09-26",
+   "source": "IGDB clean match"
+  },
+  "nba-jam-on-fire-edition": {
+   "date": "2011-10-04",
+   "source": "IGDB clean match"
+  },
+  "nba-street-homecourt": {
+   "date": "2007-02-19",
+   "source": "IGDB clean match"
+  },
+  "nba-the-run": {
+   "date": "2026-06-09",
+   "source": "pre-selected, kept"
+  },
+  "ncaa-football-08": {
+   "date": "2007-07-17",
+   "source": "IGDB clean match"
+  },
+  "ncaa-football-11": {
+   "date": "2010-07-13",
+   "source": "IGDB clean match"
+  },
+  "ncaa-football-12": {
+   "date": "2011-07-12",
+   "source": "IGDB clean match"
+  },
+  "ncaa-football-14": {
+   "date": "2013-07-09",
+   "source": "IGDB clean match"
+  },
+  "never-alone": {
+   "date": "2014-11-18",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "new-super-mario-bros-2": {
+   "date": "2012-08-18",
+   "source": "IGDB clean match"
+  },
+  "new-super-mario-bros-u-deluxe": {
+   "date": "2012-11-18",
+   "source": "IGDB original, store has a later version"
+  },
+  "ni-no-kuni-wrath-of-the-white-witch": {
+   "date": "2013-01-22",
+   "source": "IGDB original, store has a later version"
+  },
+  "nintendo-switch-sports": {
+   "date": "2022-04-29",
+   "source": "IGDB + store agree"
+  },
+  "nintendo-world-championships-nes-edition": {
+   "date": "2024-07-18",
+   "source": "IGDB + store agree"
+  },
+  "no-man-s-sky": {
+   "date": "2016-08-09",
+   "source": "IGDB clean match"
+  },
+  "nobody-saves-the-world": {
+   "date": "2022-01-18",
+   "source": "IGDB clean match"
+  },
+  "octodad-dadliest-catch": {
+   "date": "2014-01-30",
+   "source": "IGDB clean match"
+  },
+  "octopath-traveler": {
+   "date": "2018-07-13",
+   "source": "IGDB + store agree"
+  },
+  "octopath-traveler-0": {
+   "date": "2025-12-04",
+   "source": "IGDB clean match"
+  },
+  "octopath-traveler-ii": {
+   "date": "2023-02-24",
+   "source": "IGDB + store agree"
+  },
+  "oddworld-new-n-tasty": {
+   "date": "2014-07-22",
+   "source": "IGDB clean match"
+  },
+  "oh-sir-the-insult-simulator": {
+   "date": "2015-12-21",
+   "source": "Ronjan"
+  },
+  "okami-hd": {
+   "date": "2012-10-30",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "old-school-musical": {
+   "date": "2018-09-13",
+   "source": "IGDB + store agree"
+  },
+  "outland": {
+   "date": "2011-04-27",
+   "source": "IGDB clean match"
+  },
+  "outlast": {
+   "date": "2013-09-04",
+   "source": "IGDB clean match"
+  },
+  "overcooked": {
+   "date": "2016-08-03",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "overcooked-2": {
+   "date": "2018-08-07",
+   "source": "IGDB clean match"
+  },
+  "oxenfree": {
+   "date": "2016-01-14",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "pac-man-championship-edition-dx": {
+   "date": "2010-11-17",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "paper-mario": {
+   "date": "2001-02-05",
+   "source": "IGDB clean match"
+  },
+  "paper-mario-the-origami-king": {
+   "date": "2020-07-17",
+   "source": "IGDB + store agree"
+  },
+  "paper-mario-the-thousand-year-door": {
+   "date": "2024-05-23",
+   "source": "IGDB + store agree"
+  },
+  "parappa-the-rapper": {
+   "date": "2017-04-04",
+   "source": "IGDB clean match"
+  },
+  "parappa-the-rapper-2": {
+   "date": "2002-01-22",
+   "source": "IGDB clean match"
+  },
+  "peggle": {
+   "date": "2007-02-27",
+   "source": "pre-selected, kept"
+  },
+  "people-of-note": {
+   "date": "2026-04-07",
+   "source": "IGDB clean match"
+  },
+  "persona-3-reload": {
+   "date": "2024-02-02",
+   "source": "IGDB clean match"
+  },
+  "persona-4-golden": {
+   "date": "2012-11-20",
+   "source": "pre-selected, kept"
+  },
+  "persona-5-dancing-in-starlight": {
+   "date": "2018-12-04",
+   "source": "IGDB clean match"
+  },
+  "persona-5-royal": {
+   "date": "2017-04-04",
+   "source": "IGDB clean match"
+  },
+  "pga-tour-2k23": {
+   "date": "2022-10-11",
+   "source": "IGDB clean match"
+  },
+  "phoenix-wright-ace-attorney-trilogy": {
+   "date": "2014-12-09",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "pinball-arcade": {
+   "date": "2012-02-09",
+   "source": "IGDB clean match"
+  },
+  "pix-the-cat": {
+   "date": "2014-10-07",
+   "source": "IGDB clean match"
+  },
+  "pixeljunk-shooter-ultimate": {
+   "date": "2014-06-03",
+   "source": "IGDB clean match"
+  },
+  "plague-inc-evolved": {
+   "date": "2015-09-18",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "planet-coaster-console-edition": {
+   "date": "2020-11-10",
+   "source": "IGDB clean match"
+  },
+  "plants-vs-zombies": {
+   "date": "2009-05-05",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "plants-vs-zombies-garden-warfare": {
+   "date": "2014-02-18",
+   "source": "IGDB clean match"
+  },
+  "pocket-card-jockey": {
+   "date": "2016-05-05",
+   "source": "IGDB clean match"
+  },
+  "pocket-card-jockey-ride-on": {
+   "date": "2023-01-20",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "pok-mon-friends": {
+   "date": "2025-07-22",
+   "source": "pre-selected, kept"
+  },
+  "pok-mon-go": {
+   "date": "2016-07-06",
+   "source": "Ronjan"
+  },
+  "pok-mon-legends-arceus": {
+   "date": "2022-01-28",
+   "source": "IGDB + store agree"
+  },
+  "pok-mon-let-s-go-pikachu-eevee": {
+   "date": "2018-11-16",
+   "source": "IGDB + store agree"
+  },
+  "pok-mon-shuffle": {
+   "date": "2015-02-18",
+   "source": "IGDB clean match"
+  },
+  "pok-mon-sword": {
+   "date": "2019-11-15",
+   "source": "IGDB clean match"
+  },
+  "pok-mon-y": {
+   "date": "2013-10-12",
+   "source": "IGDB clean match"
+  },
+  "pok-mon-yellow-version": {
+   "date": "1999-10-18",
+   "source": "pre-selected, kept"
+  },
+  "prince-of-persia": {
+   "date": "2008-12-02",
+   "source": "pre-selected, kept"
+  },
+  "prince-of-persia-classic": {
+   "date": "2007-06-13",
+   "source": "IGDB clean match"
+  },
+  "professor-layton-and-the-azran-legacy": {
+   "date": "2014-02-28",
+   "source": "IGDB clean match"
+  },
+  "professor-layton-and-the-miracle-mask": {
+   "date": "2012-10-27",
+   "source": "IGDB clean match"
+  },
+  "project-ethos": {
+   "date": null,
+   "source": "Ronjan: no release date"
+  },
+  "psychonauts-2": {
+   "date": "2021-08-24",
+   "source": "IGDB clean match"
+  },
+  "punch-out": {
+   "date": "2009-05-18",
+   "source": "IGDB clean match"
+  },
+  "punch-out-featuring-mr-dream": {
+   "date": "1987-10-01",
+   "source": "Ronjan"
+  },
+  "puyo-puyo-tetris": {
+   "date": "2017-04-24",
+   "source": "IGDB + store agree"
+  },
+  "puyo-puyo-tetris-2": {
+   "date": "2020-12-08",
+   "source": "IGDB clean match"
+  },
+  "puzzle-bobble-everybubble": {
+   "date": "2023-05-23",
+   "source": "IGDB + store agree"
+  },
+  "puzzle-fighter-hd": {
+   "date": "2007-08-30",
+   "source": "Ronjan"
+  },
+  "puzzle-quest": {
+   "date": "2007-03-16",
+   "source": "Ronjan"
+  },
+  "quordle": {
+   "date": "2022-02-01",
+   "source": "Wikipedia, pre-selected and kept; month only"
+  },
+  "raji-an-ancient-epic": {
+   "date": "2020-08-18",
+   "source": "IGDB clean match"
+  },
+  "rare-replay": {
+   "date": "2015-08-04",
+   "source": "IGDB clean match"
+  },
+  "rayman-legends": {
+   "date": "2013-09-03",
+   "source": "pre-selected, kept"
+  },
+  "rayman-origins": {
+   "date": "2011-11-15",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "red-dead-redemption": {
+   "date": "2010-05-18",
+   "source": "IGDB clean match"
+  },
+  "red-dead-redemption-2": {
+   "date": "2018-10-26",
+   "source": "IGDB clean match"
+  },
+  "resogun": {
+   "date": "2013-11-15",
+   "source": "IGDB clean match"
+  },
+  "retro-bowl-retro-bowl-college": {
+   "date": "2020-01-17",
+   "source": "IGDB + store agree; Retro Bowl (the first game) for the merged row"
+  },
+  "retro-city-rampage": {
+   "date": "2012-10-09",
+   "source": "IGDB clean match"
+  },
+  "retro-goal": {
+   "date": "2021-06-24",
+   "source": "IGDB + store agree"
+  },
+  "rhythm-heaven-groove": {
+   "date": "2026-07-02",
+   "source": "IGDB + store agree"
+  },
+  "rifftrax-the-game": {
+   "date": "2022-05-05",
+   "source": "IGDB clean match"
+  },
+  "river-city-girls": {
+   "date": "2019-09-05",
+   "source": "IGDB clean match"
+  },
+  "road-not-taken": {
+   "date": "2014-08-05",
+   "source": "IGDB clean match"
+  },
+  "rock-band": {
+   "date": "2007-11-20",
+   "source": "IGDB clean match"
+  },
+  "rock-band-2": {
+   "date": "2008-09-14",
+   "source": "IGDB clean match"
+  },
+  "rock-band-4": {
+   "date": "2015-10-06",
+   "source": "IGDB clean match"
+  },
+  "rocket-league": {
+   "date": "2015-07-06",
+   "source": "IGDB clean match"
+  },
+  "rogue-legacy": {
+   "date": "2014-07-29",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "sackboy-a-big-adventure": {
+   "date": "2020-11-12",
+   "source": "IGDB clean match"
+  },
+  "saints-row-iv-re-elected": {
+   "date": "2015-01-20",
+   "source": "IGDB clean match"
+  },
+  "saints-row-the-third": {
+   "date": "2011-11-15",
+   "source": "IGDB + store agree"
+  },
+  "secret-of-mana": {
+   "date": "2018-02-15",
+   "source": "IGDB + store agree"
+  },
+  "secret-ponchos": {
+   "date": "2014-12-02",
+   "source": "IGDB clean match"
+  },
+  "sega-genesis-classics": {
+   "date": "2018-12-07",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "shadow-of-the-colossus": {
+   "date": "2018-02-06",
+   "source": "IGDB clean match"
+  },
+  "shantae-half-genie-hero": {
+   "date": "2016-12-20",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "shovel-knight-pocket-dungeon": {
+   "date": "2021-12-13",
+   "source": "IGDB + store agree"
+  },
+  "shovel-knight-treasure-trove": {
+   "date": "2014-06-26",
+   "source": "pre-selected, kept"
+  },
+  "shredders": {
+   "date": "2022-03-16",
+   "source": "IGDB clean match"
+  },
+  "sid-meier-s-civilization-v": {
+   "date": "2010-09-21",
+   "source": "IGDB + store agree"
+  },
+  "sid-meier-s-civilization-vi": {
+   "date": "2016-10-20",
+   "source": "IGDB + store agree"
+  },
+  "slay-the-spire": {
+   "date": "2019-01-23",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "sly-cooper-and-the-thievius-raccoonus": {
+   "date": "2002-09-23",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "sly-cooper-thieves-in-time": {
+   "date": "2013-02-05",
+   "source": "IGDB clean match"
+  },
+  "snipperclips": {
+   "date": "2017-03-03",
+   "source": "pre-selected, kept"
+  },
+  "sonic-mania": {
+   "date": "2017-08-15",
+   "source": "IGDB + store agree"
+  },
+  "sonic-the-hedgehog": {
+   "date": "1991-06-23",
+   "source": "IGDB clean match"
+  },
+  "sonic-the-hedgehog-2": {
+   "date": "1992-11-24",
+   "source": "IGDB clean match"
+  },
+  "south-park-the-stick-of-truth": {
+   "date": "2014-03-03",
+   "source": "IGDB + store agree"
+  },
+  "spelunky": {
+   "date": "2008-12-21",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "splatoon-2": {
+   "date": "2017-07-21",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "split-fiction": {
+   "date": "2025-03-06",
+   "source": "IGDB clean match"
+  },
+  "sportsfriends": {
+   "date": "2014-05-06",
+   "source": "IGDB clean match"
+  },
+  "star-fox": {
+   "date": "2026-06-25",
+   "source": "IGDB clean match"
+  },
+  "star-fox-64-3d": {
+   "date": "2011-09-08",
+   "source": "IGDB clean match"
+  },
+  "star-wars-battlefront-ii": {
+   "date": "2017-11-17",
+   "source": "IGDB clean match"
+  },
+  "star-wars-jedi-fallen-order": {
+   "date": "2019-11-15",
+   "source": "IGDB clean match"
+  },
+  "star-wars-knights-of-the-old-republic": {
+   "date": "2003-07-15",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "star-wars-knights-of-the-old-republic-ii-the-sith-lords": {
+   "date": "2004-12-06",
+   "source": "IGDB clean match"
+  },
+  "star-wars-outlaws": {
+   "date": "2024-08-27",
+   "source": "IGDB clean match"
+  },
+  "star-wars-squadrons": {
+   "date": "2020-10-01",
+   "source": "IGDB clean match"
+  },
+  "star-wars-the-force-unleashed": {
+   "date": "2008-09-16",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "stardew-valley": {
+   "date": "2016-02-26",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "starlink-battle-for-atlas": {
+   "date": "2018-10-16",
+   "source": "IGDB + store agree"
+  },
+  "steamworld-dig": {
+   "date": "2013-08-07",
+   "source": "IGDB clean match"
+  },
+  "steamworld-dig-2": {
+   "date": "2017-09-21",
+   "source": "IGDB + store agree"
+  },
+  "steins-gate": {
+   "date": "2014-03-31",
+   "source": "IGDB clean match"
+  },
+  "stick-it-to-the-man": {
+   "date": "2013-11-19",
+   "source": "IGDB clean match"
+  },
+  "stray": {
+   "date": "2022-07-19",
+   "source": "IGDB clean match"
+  },
+  "street-fighter-30th-anniversary-collection": {
+   "date": "2018-05-29",
+   "source": "IGDB + store agree"
+  },
+  "street-fighter-6": {
+   "date": "2023-06-02",
+   "source": "IGDB clean match"
+  },
+  "street-fighter-ii-turbo-hyper-fighting": {
+   "date": "1992-12-21",
+   "source": "IGDB clean match"
+  },
+  "street-fighter-iv-super-street-fighter-iv-ultra-street-fighter-iv": {
+   "date": "2008-08-12",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "street-fighter-v": {
+   "date": "2016-02-15",
+   "source": "IGDB clean match"
+  },
+  "super-bomberman-collection": {
+   "date": "2026-02-05",
+   "source": "IGDB clean match"
+  },
+  "super-bomberman-r": {
+   "date": "2017-03-03",
+   "source": "IGDB + store agree"
+  },
+  "super-bomberman-r-online": {
+   "date": "2020-09-01",
+   "source": "IGDB clean match"
+  },
+  "super-mario-3d-all-stars": {
+   "date": "2020-09-18",
+   "source": "IGDB + store agree"
+  },
+  "super-mario-3d-land": {
+   "date": "2011-11-12",
+   "source": "IGDB clean match"
+  },
+  "super-mario-3d-world-bowser-s-fury": {
+   "date": "2013-11-21",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "super-mario-64": {
+   "date": "1996-09-29",
+   "source": "IGDB clean match"
+  },
+  "super-mario-bros": {
+   "date": "1985-10-01",
+   "source": "Wikipedia, pre-selected and kept; month only"
+  },
+  "super-mario-bros-3": {
+   "date": "1990-02-12",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "super-mario-bros-35": {
+   "date": "2020-10-01",
+   "source": "IGDB + store agree"
+  },
+  "super-mario-bros-wonder": {
+   "date": "2023-10-20",
+   "source": "IGDB original, store has a later version"
+  },
+  "super-mario-galaxy": {
+   "date": "2007-11-12",
+   "source": "IGDB clean match"
+  },
+  "super-mario-galaxy-2": {
+   "date": "2010-05-23",
+   "source": "IGDB clean match"
+  },
+  "super-mario-kart": {
+   "date": "1992-09-01",
+   "source": "pre-selected, kept"
+  },
+  "super-mario-land": {
+   "date": "1989-07-31",
+   "source": "IGDB clean match"
+  },
+  "super-mario-maker": {
+   "date": "2015-09-10",
+   "source": "IGDB clean match"
+  },
+  "super-mario-maker-2": {
+   "date": "2019-06-28",
+   "source": "IGDB + store agree"
+  },
+  "super-mario-maker-for-nintendo-3ds": {
+   "date": "2016-12-02",
+   "source": "IGDB clean match"
+  },
+  "super-mario-odyssey": {
+   "date": "2017-10-27",
+   "source": "IGDB + store agree"
+  },
+  "super-mario-party": {
+   "date": "2018-10-05",
+   "source": "IGDB + store agree"
+  },
+  "super-mario-party-jamboree": {
+   "date": "2024-10-17",
+   "source": "IGDB original, store has a later version"
+  },
+  "super-mario-rpg": {
+   "date": "2023-11-17",
+   "source": "IGDB + store agree"
+  },
+  "super-mario-rpg-legend-of-the-seven-stars": {
+   "date": "1996-05-13",
+   "source": "IGDB clean match"
+  },
+  "super-mario-world": {
+   "date": "1991-08-23",
+   "source": "IGDB clean match"
+  },
+  "super-meat-boy": {
+   "date": "2010-10-20",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "super-mega-baseball": {
+   "date": "2014-12-16",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "super-mega-baseball-2": {
+   "date": "2018-05-01",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "super-mega-baseball-4": {
+   "date": "2023-05-30",
+   "source": "IGDB clean match"
+  },
+  "super-metroid": {
+   "date": "1994-04-18",
+   "source": "IGDB clean match"
+  },
+  "super-paper-mario": {
+   "date": "2007-04-09",
+   "source": "IGDB clean match"
+  },
+  "super-punch-out": {
+   "date": "1994-10-24",
+   "source": "IGDB clean match"
+  },
+  "super-smash-bros-for-nintendo-3ds": {
+   "date": "2014-10-03",
+   "source": "IGDB clean match"
+  },
+  "super-smash-bros-for-wii-u": {
+   "date": "2014-11-21",
+   "source": "IGDB clean match"
+  },
+  "super-smash-bros-ultimate": {
+   "date": "2018-12-07",
+   "source": "IGDB + store agree"
+  },
+  "surgeon-simulator": {
+   "date": "2013-04-19",
+   "source": "pre-selected, kept"
+  },
+  "switch-online-game-boy": {
+   "date": "1989-07-31",
+   "source": "Ronjan"
+  },
+  "switch-online-game-boy-advance": {
+   "date": "2001-06-11",
+   "source": "Ronjan"
+  },
+  "switch-online-gamecube": {
+   "date": "2001-11-18",
+   "source": "Ronjan"
+  },
+  "switch-online-nes": {
+   "date": "1985-10-18",
+   "source": "Ronjan"
+  },
+  "switch-online-nintendo-64": {
+   "date": "1996-09-29",
+   "source": "Ronjan"
+  },
+  "switch-online-sega-genesis": {
+   "date": "1989-08-01",
+   "source": "Ronjan"
+  },
+  "switch-online-snes": {
+   "date": "1991-08-23",
+   "source": "Ronjan"
+  },
+  "tearaway-unfolded": {
+   "date": "2015-09-09",
+   "source": "IGDB clean match"
+  },
+  "tecmo-bowl-throwback": {
+   "date": "2010-04-28",
+   "source": "IGDB clean match"
+  },
+  "tecmo-super-bowl": {
+   "date": "1991-12-01",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "tecmo-super-nba-basketball": {
+   "date": "1993-03-11",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "teenage-mutant-ninja-turtles-shredder-s-revenge": {
+   "date": "2022-06-16",
+   "source": "IGDB clean match"
+  },
+  "teenage-mutant-ninja-turtles-the-cowabunga-collection": {
+   "date": "2022-08-30",
+   "source": "IGDB clean match"
+  },
+  "tell-me-why": {
+   "date": "2020-08-27",
+   "source": "IGDB clean match"
+  },
+  "tetris-99": {
+   "date": "2019-02-13",
+   "source": "IGDB clean match"
+  },
+  "tetris-axis": {
+   "date": "2011-10-02",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "tetris-effect-connected": {
+   "date": "2018-11-09",
+   "source": "Ronjan"
+  },
+  "texas-hold-em": {
+   "date": "2006-08-23",
+   "source": "IGDB clean match"
+  },
+  "that-dragon-cancer": {
+   "date": "2016-01-11",
+   "source": "IGDB + store agree"
+  },
+  "the-bigs": {
+   "date": "2007-06-25",
+   "source": "pre-selected, kept"
+  },
+  "the-bigs-2": {
+   "date": "2009-07-07",
+   "source": "IGDB clean match"
+  },
+  "the-binding-of-isaac-rebirth": {
+   "date": "2014-11-04",
+   "source": "IGDB clean match"
+  },
+  "the-elder-scrolls-iv-oblivion": {
+   "date": "2006-03-20",
+   "source": "IGDB clean match"
+  },
+  "the-elder-scrolls-v-skyrim": {
+   "date": "2011-11-10",
+   "source": "IGDB clean match"
+  },
+  "the-great-ace-attorney-chronicles": {
+   "date": "2021-07-26",
+   "source": "IGDB clean match"
+  },
+  "the-jackbox-party-pack": {
+   "date": "2014-11-18",
+   "source": "IGDB clean match"
+  },
+  "the-jackbox-party-pack-3": {
+   "date": "2016-10-18",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "the-jackbox-party-pack-8": {
+   "date": "2021-10-14",
+   "source": "IGDB clean match"
+  },
+  "the-last-of-us": {
+   "date": "2013-06-14",
+   "source": "IGDB clean match"
+  },
+  "the-last-of-us-part-ii": {
+   "date": "2020-06-19",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda": {
+   "date": "1987-08-22",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-a-link-between-worlds": {
+   "date": "2013-11-22",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-a-link-to-the-past": {
+   "date": "1992-04-13",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-breath-of-the-wild": {
+   "date": "2017-03-03",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "the-legend-of-zelda-echoes-of-wisdom": {
+   "date": "2024-09-26",
+   "source": "IGDB + store agree"
+  },
+  "the-legend-of-zelda-link-s-awakening": {
+   "date": "2019-09-20",
+   "source": "IGDB + store agree"
+  },
+  "the-legend-of-zelda-majora-s-mask-3d": {
+   "date": "2015-02-12",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-ocarina-of-time": {
+   "date": "1998-11-23",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-ocarina-of-time-2": {
+   "date": "2026-11-05",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-ocarina-of-time-3d": {
+   "date": "2011-06-19",
+   "source": "IGDB clean match"
+  },
+  "the-legend-of-zelda-skyward-sword-hd": {
+   "date": "2021-07-16",
+   "source": "IGDB + store agree"
+  },
+  "the-legend-of-zelda-tears-of-the-kingdom": {
+   "date": "2023-05-12",
+   "source": "IGDB original, store has a later version"
+  },
+  "the-legend-of-zelda-the-wind-waker-hd": {
+   "date": "2013-09-20",
+   "source": "IGDB clean match"
+  },
+  "the-lego-movie-videogame": {
+   "date": "2014-02-07",
+   "source": "IGDB clean match"
+  },
+  "the-matrix-awakens-an-unreal-engine-5-experience": {
+   "date": "2021-12-06",
+   "source": "IGDB clean match"
+  },
+  "the-simpsons-game": {
+   "date": "2007-10-30",
+   "source": "IGDB clean match"
+  },
+  "the-sims-4": {
+   "date": "2014-09-02",
+   "source": "IGDB clean match"
+  },
+  "the-swapper": {
+   "date": "2013-05-30",
+   "source": "IGDB clean match"
+  },
+  "the-walking-dead-season-1": {
+   "date": "2012-04-24",
+   "source": "pre-selected, kept"
+  },
+  "the-walking-dead-season-2": {
+   "date": "2013-12-17",
+   "source": "Ronjan picked IGDB The Walking Dead: Season Two"
+  },
+  "the-witcher-3-wild-hunt": {
+   "date": "2015-05-19",
+   "source": "IGDB + store agree"
+  },
+  "the-witness": {
+   "date": "2016-01-26",
+   "source": "IGDB clean match"
+  },
+  "the-wolf-among-us": {
+   "date": "2013-10-11",
+   "source": "IGDB clean match"
+  },
+  "theatrhythm-final-bar-line": {
+   "date": "2023-02-16",
+   "source": "IGDB clean match"
+  },
+  "tiger-woods-pga-tour-07": {
+   "date": "2006-10-10",
+   "source": "IGDB clean match"
+  },
+  "titan-attacks": {
+   "date": "2006-03-13",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "tmnt-1989-arcade": {
+   "date": "1989-10-11",
+   "source": "Ronjan"
+  },
+  "to-be-or-not-to-be": {
+   "date": "2015-02-04",
+   "source": "pre-selected, kept"
+  },
+  "tomb-raider": {
+   "date": "2013-03-05",
+   "source": "IGDB clean match"
+  },
+  "tomb-raider-legend": {
+   "date": "2006-04-11",
+   "source": "IGDB clean match"
+  },
+  "tomodachi-life": {
+   "date": "2014-06-05",
+   "source": "IGDB clean match"
+  },
+  "top-spin-4": {
+   "date": "2011-03-15",
+   "source": "IGDB clean match"
+  },
+  "topspin-2k25": {
+   "date": "2024-04-26",
+   "source": "IGDB + store agree"
+  },
+  "toy-story-3": {
+   "date": "2010-06-15",
+   "source": "IGDB/store + Wikipedia agree"
+  },
+  "transistor": {
+   "date": "2014-05-20",
+   "source": "IGDB + store agree"
+  },
+  "trombone-champ": {
+   "date": "2022-09-15",
+   "source": "IGDB + store agree"
+  },
+  "tropico-5": {
+   "date": "2014-05-23",
+   "source": "IGDB clean match"
+  },
+  "tunic": {
+   "date": "2022-03-16",
+   "source": "IGDB clean match"
+  },
+  "twelve-minutes": {
+   "date": "2021-08-19",
+   "source": "IGDB clean match"
+  },
+  "ufo-50": {
+   "date": "2024-09-18",
+   "source": "pre-selected, kept"
+  },
+  "ultimate-chicken-horse": {
+   "date": "2016-03-04",
+   "source": "IGDB clean match"
+  },
+  "ultimate-marvel-vs-capcom-3": {
+   "date": "2011-11-15",
+   "source": "IGDB clean match"
+  },
+  "ultimate-nes-remix": {
+   "date": "2014-12-04",
+   "source": "IGDB clean match"
+  },
+  "ultra-street-fighter-ii-the-final-challengers": {
+   "date": "2017-05-26",
+   "source": "IGDB + store agree"
+  },
+  "uncharted-2-among-thieves": {
+   "date": "2009-10-13",
+   "source": "IGDB clean match"
+  },
+  "uncharted-3-drake-s-deception": {
+   "date": "2011-11-01",
+   "source": "IGDB clean match"
+  },
+  "uncharted-4-a-thief-s-end": {
+   "date": "2016-05-10",
+   "source": "IGDB clean match"
+  },
+  "uncharted-drake-s-fortune": {
+   "date": "2007-11-16",
+   "source": "IGDB clean match"
+  },
+  "uncharted-golden-abyss": {
+   "date": "2012-02-15",
+   "source": "IGDB clean match"
+  },
+  "uncharted-the-lost-legacy": {
+   "date": "2017-08-22",
+   "source": "IGDB clean match"
+  },
+  "undertale": {
+   "date": "2015-09-15",
+   "source": "IGDB + store agree"
+  },
+  "uno": {
+   "date": "2006-05-09",
+   "source": "IGDB clean match"
+  },
+  "until-dawn": {
+   "date": "2015-08-25",
+   "source": "IGDB clean match"
+  },
+  "untitled-goose-game": {
+   "date": "2019-09-20",
+   "source": "IGDB + store agree"
+  },
+  "valiant-hearts-the-great-war": {
+   "date": "2014-06-24",
+   "source": "IGDB clean match"
+  },
+  "velocity-2x": {
+   "date": "2014-09-02",
+   "source": "IGDB clean match"
+  },
+  "viva-pi-ata": {
+   "date": "2006-11-09",
+   "source": "IGDB clean match"
+  },
+  "viva-pi-ata-trouble-in-paradise": {
+   "date": "2008-09-02",
+   "source": "IGDB clean match"
+  },
+  "wario-land-super-mario-land-3": {
+   "date": "1994-03-13",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "welcome-park": {
+   "date": "2012-02-15",
+   "source": "IGDB clean match"
+  },
+  "what-remains-of-edith-finch": {
+   "date": "2017-04-24",
+   "source": "IGDB clean match"
+  },
+  "what-the-dub": {
+   "date": "2021-04-08",
+   "source": "IGDB + store agree"
+  },
+  "what-the-golf": {
+   "date": "2019-09-19",
+   "source": "IGDB clean match, store has a later version"
+  },
+  "wii-sports-club": {
+   "date": "2014-07-25",
+   "source": "IGDB clean match"
+  },
+  "wordle": {
+   "date": "2021-10-01",
+   "source": "Ronjan"
+  },
+  "wwe-2k16": {
+   "date": "2015-10-27",
+   "source": "IGDB clean match"
+  },
+  "yakuza-0": {
+   "date": "2017-01-24",
+   "source": "IGDB clean match"
+  },
+  "yakuza-like-a-dragon": {
+   "date": "2020-11-10",
+   "source": "IGDB clean match"
+  },
+  "yaris": {
+   "date": "2007-10-10",
+   "source": "IGDB clean match"
+  },
+  "yoku-s-island-express": {
+   "date": "2018-05-29",
+   "source": "IGDB clean match"
+  },
+  "yooka-laylee": {
+   "date": "2017-04-11",
+   "source": "Wikipedia, pre-selected and kept"
+  },
+  "yooka-laylee-and-the-impossible-lair": {
+   "date": "2019-10-08",
+   "source": "IGDB + store agree"
+  },
+  "yooka-replaylee": {
+   "date": "2025-10-09",
+   "source": "IGDB clean match"
+  },
+  "yoshi-s-crafted-world": {
+   "date": "2019-03-29",
+   "source": "IGDB + store agree"
+  },
+  "yoshi-s-island-super-mario-advance-3": {
+   "date": "2002-09-24",
+   "source": "IGDB clean match"
+  },
+  "yoshi-s-new-island": {
+   "date": "2014-03-13",
+   "source": "IGDB clean match"
+  },
+  "you-don-t-know-jack": {
+   "date": "2011-02-08",
+   "source": "Ronjan"
+  },
+  "your-shape-fitness-evolved": {
+   "date": "2010-11-04",
+   "source": "IGDB clean match"
+  },
+  "zoo-tycoon": {
+   "date": "2013-11-22",
+   "source": "IGDB clean match"
+  }
+ }
+}
