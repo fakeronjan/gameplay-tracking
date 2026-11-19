@@ -1876,6 +1876,28 @@
    "time": "2020-07-12T17:22:13"
   },
   {
+   "uuid": "562A1532-5B6E-42E3-B1CE-9EF92EA12709",
+   "game": "NCAA Football 2004",
+   "time": "2020-07-19T09:58:13"
+  },
+  {
+   "uuid": "58D631EC-9796-45BB-BBA6-A7632371D5BA",
+   "game": "NCAA Football 2004",
+   "time": "2020-07-19T09:58:14"
+  },
+  {
+   "uuid": "588B025F-0092-46A5-B5BF-F5B8317C8EAF",
+   "game": "NCAA Football 2004",
+   "time": "2020-07-19T10:05:57",
+   "tall": true
+  },
+  {
+   "uuid": "90AF353B-DF8A-40CF-BDE8-553E294F74AD",
+   "game": "NCAA Football 2004",
+   "time": "2020-07-19T10:05:57",
+   "tall": true
+  },
+  {
    "uuid": "9FB49D1A-017A-408A-8B75-A03BDFDD5F11",
    "game": "NBA Live 96",
    "time": "2020-07-19T10:46:04"
@@ -4512,6 +4534,7 @@
   "Mario Paint",
   "My Singing Monsters Composer",
   "NBA Live 96",
+  "NCAA Football 2004",
   "Panel de Pon",
   "Pokémon Puzzle League",
   "StarTropics",
