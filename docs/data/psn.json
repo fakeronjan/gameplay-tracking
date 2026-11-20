@@ -2016,10 +2016,10 @@
    "concept_id": 10000730,
    "first_played": "2026-11-19T13:37:53.330000Z",
    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/9f51f0ccdb65bd29c36a0907a738c2902a712f03e2fd6470.png",
-   "last_played": "2026-11-19T14:34:02.290000Z",
-   "minutes": 56,
+   "last_played": "2026-11-20T03:26:13.060000Z",
+   "minutes": 74,
    "name": "Grand Theft Auto VI",
-   "play_count": 1,
+   "play_count": 2,
    "trophy_lists": [
     "NPWR21085_00"
    ]
@@ -24599,7 +24599,7 @@
     "silver": 0
    },
    "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png",
-   "last_updated": "2026-11-19T14:33:30Z",
+   "last_updated": "2026-11-20T03:23:09Z",
    "name": "Grand Theft Auto VI",
    "platform": "PS5",
    "progress": 1,
@@ -24612,7 +24612,7 @@
      "icon": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/54be3243-2d20-4b5c-8c26-f4208c365aee.png",
      "id": 1,
      "name": "Just Like Paradise",
-     "rarity": 95.4,
+     "rarity": 97.6,
      "type": "bronze"
     }
    ]
@@ -33654,5 +33654,5 @@
    ]
   }
  },
- "updated": "2026-11-19T21:47:28Z"
+ "updated": "2026-11-20T10:43:15Z"
 }
