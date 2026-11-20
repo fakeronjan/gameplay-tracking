@@ -33,7 +33,7 @@ def fetch(kind, url):
     if out.exists():
         return True
     try:
-        req = urllib.request.Request(url, headers={"User-Agent": "fakeronjan-gameplay-tracking"})
+        req = urllib.request.Request(url, headers={"User-Agent": "fakeronjan-gameplay-tracking/1.0 (https://fakeronjan.com)"})
         data = urllib.request.urlopen(req, timeout=30).read()
         im = Image.open(io.BytesIO(data)).convert("RGBA")
         im.thumbnail((SIZES[kind], SIZES[kind]))

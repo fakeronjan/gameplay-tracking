@@ -30625,6 +30625,104 @@
   "img": "img/g/41339aceaccb3768.webp"
  },
  {
+  "id": "beat-saber",
+  "name": "Beat Saber",
+  "art": "https://upload.wikimedia.org/wikipedia/en/5/58/Beat_Saber_logo.jpg",
+  "first": "2022-04-20",
+  "last": "2023-01-22",
+  "days": [
+   "2022-04-20",
+   "2022-04-28",
+   "2022-04-30",
+   "2022-05-01",
+   "2022-05-20",
+   "2023-01-22"
+  ],
+  "families": [
+   "Meta"
+  ],
+  "days_by_family": {
+   "Meta": [
+    "2022-04-20",
+    "2022-04-28",
+    "2022-04-30",
+    "2022-05-01",
+    "2022-05-20",
+    "2023-01-22"
+   ]
+  },
+  "days_by_platform": {
+   "Meta|Quest|": 6
+  },
+  "days_played": 6,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "meta:Beat Saber",
+    "family": "Meta",
+    "platform": "Quest",
+    "name": "Beat Saber",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://upload.wikimedia.org/wikipedia/en/5/58/Beat_Saber_logo.jpg",
+    "first": "2022-04-20",
+    "last": "2023-01-22"
+   }
+  ],
+  "img": "img/g/cae063b944be729e.webp"
+ },
+ {
+  "id": "creed-rise-to-glory",
+  "name": "Creed: Rise to Glory",
+  "art": "https://upload.wikimedia.org/wikipedia/en/9/90/Creed_Rise_to_Glory.png",
+  "first": "2023-01-17",
+  "last": "2023-01-17",
+  "days": [
+   "2023-01-17"
+  ],
+  "families": [
+   "Meta"
+  ],
+  "days_by_family": {
+   "Meta": [
+    "2023-01-17"
+   ]
+  },
+  "days_by_platform": {
+   "Meta|Quest|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "meta:Creed: Rise to Glory",
+    "family": "Meta",
+    "platform": "Quest",
+    "name": "Creed: Rise to Glory",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://upload.wikimedia.org/wikipedia/en/9/90/Creed_Rise_to_Glory.png",
+    "first": "2023-01-17",
+    "last": "2023-01-17"
+   }
+  ],
+  "img": "img/g/d58d3d34663f24ae.webp"
+ },
+ {
   "id": "god-of-war-ragnar-k",
   "name": "God of War Ragnarök",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR22392_00/e7fdc8c6-d6ee-4345-b174-3ccb46f617b0.png",
@@ -30742,6 +30840,94 @@
   ],
   "released": "2022-11-11",
   "img": "img/g/dbeb4c1860d92ecb.webp"
+ },
+ {
+  "id": "resident-evil-4",
+  "name": "Resident Evil 4",
+  "art": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
+  "first": "2022-11-16",
+  "last": "2022-11-16",
+  "days": [
+   "2022-11-16"
+  ],
+  "families": [
+   "Meta"
+  ],
+  "days_by_family": {
+   "Meta": [
+    "2022-11-16"
+   ]
+  },
+  "days_by_platform": {
+   "Meta|Quest|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "meta:Resident Evil 4",
+    "family": "Meta",
+    "platform": "Quest",
+    "name": "Resident Evil 4",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
+    "first": "2022-11-16",
+    "last": "2022-11-16"
+   }
+  ],
+  "img": "img/g/f1d18ab7107a183a.webp"
+ },
+ {
+  "id": "marvel-s-iron-man-vr",
+  "name": "Marvel's Iron Man VR",
+  "art": "https://upload.wikimedia.org/wikipedia/en/f/f0/Iron_Man_VR_cover_art.jpg",
+  "first": "2022-11-16",
+  "last": "2022-11-16",
+  "days": [
+   "2022-11-16"
+  ],
+  "families": [
+   "Meta"
+  ],
+  "days_by_family": {
+   "Meta": [
+    "2022-11-16"
+   ]
+  },
+  "days_by_platform": {
+   "Meta|Quest|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "meta:Marvel's Iron Man VR",
+    "family": "Meta",
+    "platform": "Quest",
+    "name": "Marvel's Iron Man VR",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://upload.wikimedia.org/wikipedia/en/f/f0/Iron_Man_VR_cover_art.jpg",
+    "first": "2022-11-16",
+    "last": "2022-11-16"
+   }
+  ],
+  "img": "img/g/ebf62a1022369e61.webp"
  },
  {
   "id": "rare-replay",
@@ -34851,6 +35037,210 @@
   "img": "img/g/1607a164d494f62e.webp"
  },
  {
+  "id": "vader-immortal-episode-i",
+  "name": "Vader Immortal: Episode I",
+  "art": "https://upload.wikimedia.org/wikipedia/en/5/5a/Vader_immortal.jpg",
+  "first": "2022-05-14",
+  "last": "2022-05-14",
+  "days": [
+   "2022-05-14"
+  ],
+  "families": [
+   "Meta"
+  ],
+  "days_by_family": {
+   "Meta": [
+    "2022-05-14"
+   ]
+  },
+  "days_by_platform": {
+   "Meta|Quest|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "meta:Vader Immortal: Episode I",
+    "family": "Meta",
+    "platform": "Quest",
+    "name": "Vader Immortal: Episode I",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://upload.wikimedia.org/wikipedia/en/5/5a/Vader_immortal.jpg",
+    "first": "2022-05-14",
+    "last": "2022-05-14"
+   }
+  ],
+  "img": "img/g/17b29ed024180fb6.webp"
+ },
+ {
+  "id": "tetris-effect-connected",
+  "name": "Tetris Effect: Connected",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/CBF6CD6842EECE7811EA3BC7F710DAA80C97009D.PNG",
+  "first": "2020-04-04",
+  "last": "2022-05-01",
+  "days": [
+   "2020-04-04",
+   "2020-06-23",
+   "2020-11-08",
+   "2020-11-12",
+   "2020-11-28",
+   "2020-11-29",
+   "2020-12-01",
+   "2022-02-06",
+   "2022-05-01"
+  ],
+  "families": [
+   "Meta",
+   "PlayStation",
+   "Xbox"
+  ],
+  "days_by_family": {
+   "Meta": [
+    "2022-05-01"
+   ],
+   "PlayStation": [
+    "2020-04-04",
+    "2020-06-23",
+    "2020-11-08"
+   ],
+   "Xbox": [
+    "2020-11-12",
+    "2020-11-28",
+    "2020-11-29",
+    "2020-12-01",
+    "2022-02-06"
+   ]
+  },
+  "days_by_platform": {
+   "PlayStation|PS4|": 3,
+   "Xbox|Xbox|fakeronjan": 5,
+   "Meta|Quest|": 1
+  },
+  "days_played": 9,
+  "spans": [
+   [
+    "2020-04-04",
+    "2020-11-08",
+    "PlayStation"
+   ],
+   [
+    "2020-11-12",
+    "2022-02-06",
+    "Xbox"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 5.4,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": 3,
+  "entries": [
+   {
+    "id": "psn-played:CUSA13594_00",
+    "family": "PlayStation",
+    "platform": "PS4",
+    "name": "Tetris Effect: Connected",
+    "minutes": 32,
+    "sessions": 3,
+    "earned": null,
+    "total": null,
+    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2006/Jjqj4oIcWvyV4jGpDQkTsSag.png",
+    "modeled_hours": {
+     "2020-04": 8.5,
+     "2020-05": 3.2,
+     "2020-06": 6.1,
+     "2020-07": 3.0,
+     "2020-08": 1.0,
+     "2020-09": 1.1,
+     "2020-10": 5.0,
+     "2020-11": 4.0
+    },
+    "span": [
+     "2020-04-04",
+     "2020-11-08"
+    ],
+    "first": "2020-04-04",
+    "last": "2020-11-08"
+   },
+   {
+    "id": "psn:NPWR16646_00",
+    "family": "PlayStation",
+    "platform": "PS4",
+    "name": "Tetris Effect",
+    "minutes": null,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/CBF6CD6842EECE7811EA3BC7F710DAA80C97009D.PNG",
+    "earned": 4,
+    "total": 43,
+    "first": "2020-04-04",
+    "last": "2020-06-23",
+    "earned_by_year": {
+     "2020": 4
+    }
+   },
+   {
+    "id": "xbox:fakeronjan:1819798709",
+    "family": "Xbox",
+    "platform": "Xbox",
+    "name": "Tetris Effect: Connected",
+    "minutes": 294,
+    "earned": 10,
+    "total": 0,
+    "gamertag": "fakeronjan",
+    "art": "http://store-images.s-microsoft.com/image/apps.62047.14331659527374482.009c90f5-1029-4e90-879f-365d3684bc53.2b3c7222-0106-4a9f-9be3-d3796edfcdb9",
+    "modeled_hours": {
+     "2020-11": 110.6,
+     "2020-12": 89.5,
+     "2021-01": 15.2,
+     "2021-02": 5.5,
+     "2021-03": 4.1,
+     "2021-04": 3.1,
+     "2021-05": 2.5,
+     "2021-06": 2.0,
+     "2021-07": 1.7,
+     "2021-08": 1.4,
+     "2021-09": 1.1,
+     "2021-10": 1.0,
+     "2021-11": 1.2,
+     "2021-12": 4.1,
+     "2022-01": 32.0,
+     "2022-02": 19.0
+    },
+    "span": [
+     "2020-11-12",
+     "2022-02-06"
+    ],
+    "first": "2020-11-12",
+    "last": "2022-02-06"
+   },
+   {
+    "id": "meta:Tetris Effect: Connected",
+    "family": "Meta",
+    "platform": "Quest",
+    "name": "Tetris Effect: Connected",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://upload.wikimedia.org/wikipedia/en/a/ae/Tetris_Effect_cover.jpg",
+    "first": "2022-05-01",
+    "last": "2022-05-01"
+   }
+  ],
+  "released": "2018-11-09",
+  "series": [
+   "tetris"
+  ],
+  "img": "img/g/500950605903270a.webp"
+ },
+ {
   "id": "quordle",
   "name": "Quordle",
   "art": "https://www.merriam-webster.com/games/quordle/favicon-192.png",
@@ -35340,148 +35730,6 @@
   ],
   "released": "2021-10-01",
   "img": "img/g/bb18be817c8c3eb6.webp"
- },
- {
-  "id": "tetris-effect-connected",
-  "name": "Tetris Effect: Connected",
-  "art": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/CBF6CD6842EECE7811EA3BC7F710DAA80C97009D.PNG",
-  "first": "2020-04-04",
-  "last": "2022-02-06",
-  "days": [
-   "2020-04-04",
-   "2020-06-23",
-   "2020-11-08",
-   "2020-11-12",
-   "2020-11-28",
-   "2020-11-29",
-   "2020-12-01",
-   "2022-02-06"
-  ],
-  "families": [
-   "PlayStation",
-   "Xbox"
-  ],
-  "days_by_family": {
-   "PlayStation": [
-    "2020-04-04",
-    "2020-06-23",
-    "2020-11-08"
-   ],
-   "Xbox": [
-    "2020-11-12",
-    "2020-11-28",
-    "2020-11-29",
-    "2020-12-01",
-    "2022-02-06"
-   ]
-  },
-  "days_by_platform": {
-   "PlayStation|PS4|": 3,
-   "Xbox|Xbox|fakeronjan": 5
-  },
-  "days_played": 8,
-  "spans": [
-   [
-    "2020-04-04",
-    "2020-11-08",
-    "PlayStation"
-   ],
-   [
-    "2020-11-12",
-    "2022-02-06",
-    "Xbox"
-   ]
-  ],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": 5.4,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": 3,
-  "entries": [
-   {
-    "id": "psn-played:CUSA13594_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Tetris Effect: Connected",
-    "minutes": 32,
-    "sessions": 3,
-    "earned": null,
-    "total": null,
-    "art": "https://image.api.playstation.com/vulcan/ap/rnd/202301/2006/Jjqj4oIcWvyV4jGpDQkTsSag.png",
-    "modeled_hours": {
-     "2020-04": 8.5,
-     "2020-05": 3.2,
-     "2020-06": 6.1,
-     "2020-07": 3.0,
-     "2020-08": 1.0,
-     "2020-09": 1.1,
-     "2020-10": 5.0,
-     "2020-11": 4.0
-    },
-    "span": [
-     "2020-04-04",
-     "2020-11-08"
-    ],
-    "first": "2020-04-04",
-    "last": "2020-11-08"
-   },
-   {
-    "id": "psn:NPWR16646_00",
-    "family": "PlayStation",
-    "platform": "PS4",
-    "name": "Tetris Effect",
-    "minutes": null,
-    "art": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/CBF6CD6842EECE7811EA3BC7F710DAA80C97009D.PNG",
-    "earned": 4,
-    "total": 43,
-    "first": "2020-04-04",
-    "last": "2020-06-23",
-    "earned_by_year": {
-     "2020": 4
-    }
-   },
-   {
-    "id": "xbox:fakeronjan:1819798709",
-    "family": "Xbox",
-    "platform": "Xbox",
-    "name": "Tetris Effect: Connected",
-    "minutes": 294,
-    "earned": 10,
-    "total": 0,
-    "gamertag": "fakeronjan",
-    "art": "http://store-images.s-microsoft.com/image/apps.62047.14331659527374482.009c90f5-1029-4e90-879f-365d3684bc53.2b3c7222-0106-4a9f-9be3-d3796edfcdb9",
-    "modeled_hours": {
-     "2020-11": 110.6,
-     "2020-12": 89.5,
-     "2021-01": 15.2,
-     "2021-02": 5.5,
-     "2021-03": 4.1,
-     "2021-04": 3.1,
-     "2021-05": 2.5,
-     "2021-06": 2.0,
-     "2021-07": 1.7,
-     "2021-08": 1.4,
-     "2021-09": 1.1,
-     "2021-10": 1.0,
-     "2021-11": 1.2,
-     "2021-12": 4.1,
-     "2022-01": 32.0,
-     "2022-02": 19.0
-    },
-    "span": [
-     "2020-11-12",
-     "2022-02-06"
-    ],
-    "first": "2020-11-12",
-    "last": "2022-02-06"
-   }
-  ],
-  "released": "2018-11-09",
-  "series": [
-   "tetris"
-  ],
-  "img": "img/g/500950605903270a.webp"
  },
  {
   "id": "life-is-strange",

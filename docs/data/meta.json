@@ -1,0 +1,95 @@
+{
+ "games": {
+  "Beat Saber": {
+   "art": "https://upload.wikimedia.org/wikipedia/en/5/58/Beat_Saber_logo.jpg",
+   "days": [
+    "2022-04-20",
+    "2022-04-28",
+    "2022-04-30",
+    "2022-05-01",
+    "2022-05-20",
+    "2023-01-22"
+   ],
+   "evidence": {
+    "2022-04-20": [
+     "first opened Tutorial"
+    ],
+    "2022-04-28": [
+     "first opened Boulevard Of Broken Dreams - Normal"
+    ],
+    "2022-04-30": [
+     "first opened Boulevard Of Broken Dreams - Easy"
+    ],
+    "2022-05-01": [
+     "first opened Campaign",
+     "first opened Boulevard Of Broken Dreams - Hard"
+    ],
+    "2022-05-20": [
+     "first cloud save"
+    ],
+    "2023-01-22": [
+     "first opened Main Menu",
+     "first opened American Idiot - Hard",
+     "first opened Country Rounds - Hard",
+     "first opened Beat Saber - Hard"
+    ]
+   }
+  },
+  "Creed: Rise to Glory": {
+   "art": "https://upload.wikimedia.org/wikipedia/en/9/90/Creed_Rise_to_Glory.png",
+   "days": [
+    "2023-01-17"
+   ],
+   "evidence": {
+    "2023-01-17": [
+     "first cloud save"
+    ]
+   }
+  },
+  "Marvel's Iron Man VR": {
+   "art": "https://upload.wikimedia.org/wikipedia/en/f/f0/Iron_Man_VR_cover_art.jpg",
+   "days": [
+    "2022-11-16"
+   ],
+   "evidence": {
+    "2022-11-16": [
+     "first cloud save"
+    ]
+   }
+  },
+  "Resident Evil 4": {
+   "art": "https://upload.wikimedia.org/wikipedia/en/d/d9/Resi4-gc-cover.jpg",
+   "days": [
+    "2022-11-16"
+   ],
+   "evidence": {
+    "2022-11-16": [
+     "first cloud save"
+    ]
+   }
+  },
+  "Tetris Effect: Connected": {
+   "art": "https://upload.wikimedia.org/wikipedia/en/a/ae/Tetris_Effect_cover.jpg",
+   "days": [
+    "2022-05-01"
+   ],
+   "evidence": {
+    "2022-05-01": [
+     "first cloud save"
+    ]
+   }
+  },
+  "Vader Immortal: Episode I": {
+   "art": "https://upload.wikimedia.org/wikipedia/en/5/5a/Vader_immortal.jpg",
+   "days": [
+    "2022-05-14"
+   ],
+   "evidence": {
+    "2022-05-14": [
+     "first cloud save"
+    ]
+   }
+  }
+ },
+ "note": "Meta Quest: first cloud-save day per game, plus Beat Saber level first-visit days. No hours."
+}

@@ -435,6 +435,13 @@ def entries_and_unlocks(cfg=None):
                                       "captures": sum(1 for c in g["captures"] if "dup_of" not in c),
                                       **({"estimated": True, "estimated_from": ["iOS stats"]} if mins else {})}
 
+    # Meta Quest: one-time import from Meta's data export (tools/build_meta.py, picks in
+    # config/meta_games.json). Days are first cloud-save days plus Beat Saber level visits; no hours
+    if (DATA / "meta.json").exists():
+        for name, g in load("meta.json")["games"].items():
+            entries[f"meta:{name}"] = {"family": "Meta", "platform": "Quest", "name": name, "days": g["days"],
+                                       "minutes": None, "earned": None, "total": None, "art": g.get("art")}
+
     # Games with no platform data that Ronjan wrote about: a row just for the post screenshots
     # (config/blog_shots.json; build_gallery.py puts the screenshots on the game page)
     blog = json.loads((HERE / "config" / "blog_shots.json").read_text())
@@ -721,7 +728,7 @@ def build():
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
-        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "blog": 7, "camera": 8}
+        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "meta": 6.5, "blog": 7, "camera": 8}
         arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
             "id": game_id, "name": name, "art": arts[0][1] if arts else None,

@@ -1,0 +1,11 @@
+{
+  "_about": "Meta Quest games kept from the 2026-11-20 Meta data export (Ronjan's picks 2026-11-20): only Quest-era titles with a cloud save, minus YouTube, MLK: Now is the Time and Xtadium (not games). Gear VR era (2015-2019) left out entirely. A play day is the first cloud-save day, plus (Beat Saber only) the first visit to each level, which the export ties to Beat Saber's app id. Achievement days are not used: the export has no game or achievement names. No hours: the export has no play time.",
+  "games": [
+    {"name": "Beat Saber", "export_name": "Beat Saber", "app_id": "2448060205267927", "wiki": "Beat_Saber"},
+    {"name": "Tetris Effect: Connected", "export_name": "Tetris® Effect: Connected", "wiki": "Tetris_Effect"},
+    {"name": "Vader Immortal: Episode I", "export_name": "Vader Immortal: Episode I", "wiki": "Vader_Immortal"},
+    {"name": "Resident Evil 4", "export_name": "Resident Evil 4", "wiki": "Resident_Evil_4"},
+    {"name": "Marvel's Iron Man VR", "export_name": "Marvel's Iron Man VR", "wiki": "Marvel%27s_Iron_Man_VR"},
+    {"name": "Creed: Rise to Glory", "export_name": "Creed: Rise to Glory - Championship Edition™", "wiki": "Creed:_Rise_to_Glory"}
+  ]
+}
