@@ -1,0 +1,923 @@
+{
+ "_about": "Systems tab (Gameplay Stats), Ronjan's decisions 2026-11-20. One card per system family, not per unit. A unit's first-played date is its purchase date, or the system's US launch date when it was bought before launch (a pre-order). 'launch' is the US launch of that model. 'hardware' says which play records ran on that system; 'rereleases' names a list in config/rereleases.json (its games played on later systems). Personal photos are his featured photos from the 'Video Game Systems (Email)' sheet (re-encoded, no EXIF). Stock photos are from Wikimedia Commons. Private fields (prices, who got each unit) are never stored here. Records Nintendo keeps for both Switch and Switch 2 are split at the Switch 2 launch, 6/5/2025. 'launched' (US launch) only orders a card whose first-played date is unknown.",
+ "systems": [
+  {
+   "id": "switch-2",
+   "name": "Switch 2",
+   "family": "Nintendo",
+   "versions": [
+    "Switch 2"
+   ],
+   "units": [
+    {
+     "label": "Switch 2 Mario Kart World Bundle",
+     "bought": "2025-04-24",
+     "launch": "2025-06-05",
+     "have": true
+    },
+    {
+     "label": "Switch 2",
+     "bought": "2026-06-03",
+     "launch": "2025-06-05",
+     "gone": [
+      "Sold",
+      "2026-10-30"
+     ]
+    },
+    {
+     "label": "Switch 2 Zelda 40th Anniversary Edition",
+     "bought": "2026-09-08",
+     "have": true
+    }
+   ],
+   "photos": [
+    [
+     "13999aeb",
+     "Switch 2 Mario Kart World Bundle",
+     "2025-06-06"
+    ],
+    [
+     "4c5774e7",
+     "Switch 2",
+     "2026-10-29"
+    ],
+    [
+     "17b8b458",
+     "Switch 2 Zelda 40th Anniversary Edition",
+     "2026-10-29"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "Switch 2",
+     "Switch, Switch 2"
+    ],
+    "split": {
+     "Switch, Switch 2": [
+      "2025-06-05",
+      null
+     ]
+    }
+   }
+  },
+  {
+   "id": "switch",
+   "name": "Switch",
+   "family": "Nintendo",
+   "versions": [
+    "Switch",
+    "Switch Lite",
+    "Switch OLED"
+   ],
+   "units": [
+    {
+     "label": "Switch",
+     "bought": "2017-01-12",
+     "launch": "2017-03-03",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "Switch Lite",
+     "bought": "2019-08-01",
+     "launch": "2019-09-20",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "Switch OLED",
+     "bought": "2022-02-18",
+     "launch": "2021-10-08",
+     "gone": [
+      "Sold",
+      null
+     ]
+    },
+    {
+     "label": "Switch OLED Zelda",
+     "gone": [
+      "Sold",
+      null
+     ]
+    },
+    {
+     "label": "Switch (Smash Bros.)",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "Switch (Animal Crossing)",
+     "have": true
+    }
+   ],
+   "photos": [
+    [
+     "2e56990d",
+     "Switch",
+     "2017-03-04"
+    ],
+    [
+     "89742338",
+     "Switch Lite",
+     "2020-10-11"
+    ],
+    [
+     "4ae77fd7",
+     "Switch (Smash Bros.)",
+     "2021-01-05"
+    ],
+    [
+     "80597195",
+     "Switch OLED",
+     "2022-12-11"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "Switch",
+     "Switch, Switch 2"
+    ],
+    "split": {
+     "Switch, Switch 2": [
+      null,
+      "2025-06-04"
+     ]
+    }
+   }
+  },
+  {
+   "id": "3ds",
+   "name": "3DS",
+   "family": "Nintendo",
+   "versions": [
+    "3DS",
+    "3DS XL",
+    "New 3DS"
+   ],
+   "units": [
+    {
+     "label": "3DS",
+     "bought": "2011-07-28",
+     "launch": "2011-03-27"
+    },
+    {
+     "label": "3DS XL"
+    },
+    {
+     "label": "3DS XL Zelda",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "New 3DS Mario Maker",
+     "have": true
+    }
+   ],
+   "photos": [
+    [
+     "1e717abe",
+     "3DS XL Zelda",
+     "2014-10-27"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "3DS"
+    ]
+   }
+  },
+  {
+   "id": "wii-u",
+   "name": "Wii U",
+   "family": "Nintendo",
+   "versions": [
+    "Wii U"
+   ],
+   "units": [
+    {
+     "label": "Wii U",
+     "gone": [
+      "Sold",
+      "2022-12-18"
+     ]
+    },
+    {
+     "label": "Wii U"
+    }
+   ],
+   "photos": [
+    [
+     "5f86d2a4",
+     "Wii U",
+     "2022-12-06"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "Wii U"
+    ]
+   }
+  },
+  {
+   "id": "wii",
+   "name": "Wii",
+   "family": "Nintendo",
+   "versions": [
+    "Wii",
+    "Wii Mini"
+   ],
+   "units": [
+    {
+     "label": "Wii",
+     "bought": "2007-01-12",
+     "launch": "2006-11-19"
+    },
+    {
+     "label": "Wii"
+    },
+    {
+     "label": "Wii"
+    },
+    {
+     "label": "Wii Mini",
+     "bought": "2014-02-21",
+     "launch": "2013-11-10"
+    }
+   ],
+   "photos": [],
+   "rereleases": "Wii"
+  },
+  {
+   "id": "ds",
+   "name": "DS",
+   "family": "Nintendo",
+   "versions": [
+    "DS",
+    "DS Lite",
+    "DSi"
+   ],
+   "units": [
+    {
+     "label": "DS"
+    },
+    {
+     "label": "DS Lite"
+    },
+    {
+     "label": "DSi"
+    }
+   ],
+   "photos": [],
+   "rereleases": "DS",
+   "first_played": null,
+   "launched": "2004-11-21"
+  },
+  {
+   "id": "gamecube",
+   "name": "GameCube",
+   "family": "Nintendo",
+   "versions": [
+    "GameCube"
+   ],
+   "units": [
+    {
+     "label": "GameCube",
+     "gone": [
+      "Sold",
+      null
+     ]
+    }
+   ],
+   "photos": [],
+   "rereleases": "GameCube",
+   "first_played": null,
+   "launched": "2001-11-18"
+  },
+  {
+   "id": "n64",
+   "name": "Nintendo 64",
+   "family": "Nintendo",
+   "versions": [
+    "Nintendo 64"
+   ],
+   "units": [
+    {
+     "label": "Nintendo 64",
+     "gone": [
+      "Sold",
+      null
+     ]
+    }
+   ],
+   "photos": [],
+   "rereleases": "Nintendo 64",
+   "first_played": null,
+   "launched": "1996-09-29"
+  },
+  {
+   "id": "gba",
+   "name": "Game Boy Advance",
+   "family": "Nintendo",
+   "versions": [
+    "Game Boy Advance SP"
+   ],
+   "units": [
+    {
+     "label": "Game Boy Advance SP (NES Classic Edition)",
+     "bought": "2021-06-23",
+     "launch": "2004-12-01",
+     "gone": [
+      "Given away",
+      null
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "2658fcab",
+     "Game Boy Advance SP",
+     "2021-07-10"
+    ]
+   ],
+   "rereleases": "Game Boy Advance"
+  },
+  {
+   "id": "game-boy",
+   "name": "Game Boy",
+   "family": "Nintendo",
+   "versions": [
+    "Game Boy",
+    "Analogue Pocket"
+   ],
+   "units": [
+    {
+     "label": "Game Boy",
+     "gone": [
+      "Sold",
+      null
+     ]
+    },
+    {
+     "label": "Game Boy",
+     "gone": [
+      "Lost",
+      null
+     ]
+    },
+    {
+     "label": "Analogue Pocket (White)",
+     "bought": "2021-12-27",
+     "launch": "2021-12-13",
+     "gone": [
+      "Sold",
+      null
+     ]
+    },
+    {
+     "label": "Analogue Pocket (Transparent Green)",
+     "bought": "2023-09-29",
+     "launch": "2021-12-13",
+     "gone": [
+      "Sold",
+      "2026-05-31"
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "5097fa65",
+     "Analogue Pocket (White)",
+     "2022-01-03"
+    ],
+    [
+     "8d793dcb",
+     "Analogue Pocket (Transparent Green)",
+     "2026-05-31"
+    ]
+   ],
+   "rereleases": "Game Boy (and Game Boy Color)",
+   "first_played": null,
+   "launched": "1989-07-31"
+  },
+  {
+   "id": "snes",
+   "name": "Super NES",
+   "family": "Nintendo",
+   "versions": [
+    "Super NES",
+    "SNES Classic",
+    "Super NT"
+   ],
+   "first_played": "1991-08-23",
+   "units": [
+    {
+     "label": "Super NES",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "SNES Classic (UK version)",
+     "bought": "2017-09-05",
+     "launch": "2017-09-29"
+    },
+    {
+     "label": "Super Famicom Mini",
+     "bought": "2019-06-17",
+     "launch": "2017-10-05",
+     "gone": [
+      "Sold",
+      "2022-12-06"
+     ]
+    },
+    {
+     "label": "Super NT",
+     "bought": "2021-08-09",
+     "launch": "2017-02-24",
+     "gone": [
+      "Sold",
+      "2022-12-06"
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "cae50eb3",
+     "Super NES",
+     "2017-05-26"
+    ],
+    [
+     "fa0b8288",
+     "SNES Classic",
+     "2017-10-17"
+    ],
+    [
+     "0ce15c51",
+     "SNES Classic (Super Famicom Mini)",
+     "2022-11-29"
+    ],
+    [
+     "5694457b",
+     "Super NT",
+     "2022-11-29"
+    ]
+   ],
+   "rereleases": "SNES"
+  },
+  {
+   "id": "nes",
+   "name": "NES",
+   "family": "Nintendo",
+   "versions": [
+    "NES",
+    "NES Classic",
+    "Famicom Mini"
+   ],
+   "units": [
+    {
+     "label": "NES",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "NES Classic",
+     "bought": "2016-08-15",
+     "launch": "2016-11-11",
+     "have": true
+    },
+    {
+     "label": "Famicom Mini",
+     "gone": [
+      "Given away",
+      null
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "b4a35dce",
+     "NES Classic",
+     "2016-11-17"
+    ]
+   ],
+   "rereleases": "NES",
+   "first_played": null,
+   "launched": "1985-10-18"
+  },
+  {
+   "id": "ps5",
+   "name": "PS5",
+   "family": "PlayStation",
+   "versions": [
+    "PS5",
+    "PS5 Slim",
+    "PlayStation Portal"
+   ],
+   "units": [
+    {
+     "label": "PS5 Digital",
+     "bought": "2022-07-04",
+     "launch": "2020-11-12",
+     "have": true
+    },
+    {
+     "label": "PS5 Slim Digital",
+     "bought": "2024-07-18",
+     "launch": "2023-11-10",
+     "gone": [
+      "Sold",
+      "2025-07-02"
+     ]
+    },
+    {
+     "label": "PlayStation Portal",
+     "bought": "2025-07-02",
+     "launch": "2023-11-15",
+     "gone": [
+      "Sold",
+      "2025-11-04"
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "163b4cf6",
+     "PlayStation Portal",
+     "2025-11-04"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "PS5",
+     "PS5,PSPC"
+    ]
+   }
+  },
+  {
+   "id": "ps4",
+   "name": "PS4",
+   "family": "PlayStation",
+   "versions": [
+    "PS4",
+    "PS4 Slim",
+    "PS4 Pro"
+   ],
+   "units": [
+    {
+     "label": "PS4",
+     "bought": "2013-06-10",
+     "launch": "2013-11-15"
+    },
+    {
+     "label": "PS4 Slim",
+     "gone": [
+      "Sold",
+      "2023-01-23"
+     ]
+    },
+    {
+     "label": "PS4 Pro"
+    }
+   ],
+   "photos": [
+    [
+     "d736e10b",
+     "PS4",
+     "2013-11-21"
+    ],
+    [
+     "45fd7d7d",
+     "PS4 Slim",
+     "2023-01-17"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "PS4"
+    ]
+   }
+  },
+  {
+   "id": "vita",
+   "name": "Vita",
+   "family": "PlayStation",
+   "versions": [
+    "PS Vita"
+   ],
+   "units": [
+    {
+     "label": "PS Vita",
+     "bought": "2012-02-24",
+     "launch": "2012-02-22",
+     "gone": [
+      "Sold",
+      "2012-08-07"
+     ]
+    },
+    {
+     "label": "PS Vita (Aqua Blue)",
+     "bought": "2016-03-20",
+     "launch": "2012-02-22",
+     "gone": [
+      "Traded",
+      null
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "1eccf657",
+     "PS Vita",
+     "2012-08-07"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "Vita",
+     "Vita,PS4"
+    ]
+   }
+  },
+  {
+   "id": "ps3",
+   "name": "PS3",
+   "family": "PlayStation",
+   "versions": [
+    "PS3",
+    "PS3 Slim"
+   ],
+   "units": [
+    {
+     "label": "PS3"
+    },
+    {
+     "label": "PS3 Slim",
+     "bought": "2012-03-28",
+     "launch": "2009-09-01"
+    }
+   ],
+   "photos": [],
+   "hardware": {
+    "platforms": [
+     "PS3",
+     "PS3,PS4",
+     "PS3,Vita",
+     "PS3,Vita,PS4"
+    ]
+   }
+  },
+  {
+   "id": "ps2",
+   "name": "PS2",
+   "family": "PlayStation",
+   "versions": [
+    "PlayStation 2"
+   ],
+   "units": [
+    {
+     "label": "PlayStation 2"
+    }
+   ],
+   "photos": [],
+   "rereleases": "PlayStation 2",
+   "first_played": null,
+   "launched": "2000-10-26"
+  },
+  {
+   "id": "ps1",
+   "name": "PS1",
+   "family": "PlayStation",
+   "versions": [
+    "PlayStation",
+    "PlayStation Classic"
+   ],
+   "units": [
+    {
+     "label": "PlayStation"
+    },
+    {
+     "label": "PlayStation Classic",
+     "bought": "2019-01-06",
+     "launch": "2018-12-03",
+     "gone": [
+      "Sold",
+      null
+     ]
+    }
+   ],
+   "photos": [],
+   "rereleases": "PlayStation (PS1)",
+   "first_played": null,
+   "launched": "1995-09-09"
+  },
+  {
+   "id": "xbox-series",
+   "name": "Xbox Series X|S",
+   "family": "Xbox",
+   "versions": [
+    "Xbox Series X",
+    "Xbox Series S"
+   ],
+   "units": [
+    {
+     "label": "Xbox Series X",
+     "bought": "2020-11-09",
+     "launch": "2020-11-10",
+     "gone": [
+      "Traded",
+      null
+     ]
+    },
+    {
+     "label": "Xbox Series S",
+     "gone": [
+      "Given away",
+      null
+     ]
+    }
+   ],
+   "photos": [],
+   "hardware": {
+    "platforms": [
+     "Xbox"
+    ],
+    "from": "2020-11-09"
+   }
+  },
+  {
+   "id": "xbox-one",
+   "name": "Xbox One",
+   "family": "Xbox",
+   "versions": [
+    "Xbox One",
+    "Xbox One S"
+   ],
+   "units": [
+    {
+     "label": "Xbox One"
+    },
+    {
+     "label": "Xbox One S",
+     "bought": "2019-02-06",
+     "launch": "2016-08-02",
+     "gone": [
+      "Traded",
+      "2020-10-07"
+     ]
+    }
+   ],
+   "photos": [],
+   "hardware": {
+    "platforms": [
+     "Xbox"
+    ],
+    "until": "2020-11-08"
+   }
+  },
+  {
+   "id": "xbox-360",
+   "name": "Xbox 360",
+   "family": "Xbox",
+   "versions": [
+    "Xbox 360"
+   ],
+   "units": [
+    {
+     "label": "Xbox 360",
+     "bought": "2006-03-13",
+     "launch": "2005-11-22"
+    },
+    {
+     "label": "Xbox 360",
+     "gone": [
+      "Sold",
+      null
+     ]
+    }
+   ],
+   "photos": [],
+   "hardware": {
+    "platforms": [
+     "360"
+    ]
+   },
+   "rereleases": "Xbox 360"
+  },
+  {
+   "id": "xbox",
+   "name": "Xbox",
+   "family": "Xbox",
+   "versions": [
+    "Xbox"
+   ],
+   "units": [
+    {
+     "label": "Xbox",
+     "gone": [
+      "Sold",
+      null
+     ]
+    }
+   ],
+   "photos": [],
+   "rereleases": "Xbox (original)",
+   "first_played": null,
+   "launched": "2001-11-15"
+  },
+  {
+   "id": "steam",
+   "name": "Steam (including Steam Deck)",
+   "family": "Steam",
+   "versions": [
+    "PC",
+    "Steam Deck",
+    "Steam Deck OLED"
+   ],
+   "units": [
+    {
+     "label": "Steam Deck",
+     "bought": "2022-11-23",
+     "launch": "2022-02-25",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "Steam Deck OLED",
+     "bought": "2025-04-17",
+     "launch": "2023-11-16",
+     "gone": [
+      "Sold",
+      "2025-06-27"
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "880f761d",
+     "Steam Deck",
+     "2022-11-27"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "PC"
+    ]
+   },
+   "still_used": true
+  },
+  {
+   "id": "quest",
+   "name": "Quest",
+   "family": "Meta",
+   "versions": [
+    "Quest 2",
+    "Quest Pro"
+   ],
+   "units": [
+    {
+     "label": "Quest 2",
+     "bought": "2022-03-11",
+     "launch": "2020-10-13",
+     "gone": [
+      "Given away",
+      null
+     ]
+    },
+    {
+     "label": "Quest Pro",
+     "bought": "2022-11-03",
+     "launch": "2022-10-25",
+     "gone": [
+      "Given away",
+      null
+     ]
+    }
+   ],
+   "photos": [
+    [
+     "e341e531",
+     "Quest 2",
+     "2022-03-16"
+    ]
+   ],
+   "hardware": {
+    "platforms": [
+     "Quest"
+    ]
+   }
+  }
+ ]
+}

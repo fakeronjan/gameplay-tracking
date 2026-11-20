@@ -1,0 +1,361 @@
+{
+ "_about": "Which games played on later hardware count toward each original system's card on the planned Systems tab. Ronjan's decisions 2026-11-20 via the Re-release Mapping review page. Match by entry where noted (Vice City: PS4 classic only; Mass Effect 1/2: 360 versions only; KOTOR: Xbox play only). Rules: remasters and remakes are out; collections of the exact originals are in, and a mixed collection goes to the system that got most of its play.",
+ "systems": {
+  "NES": [
+   {
+    "game": "Switch Online NES",
+    "note": ""
+   },
+   {
+    "game": "Super Mario Bros.",
+    "note": ""
+   },
+   {
+    "game": "Mega Man Legacy Collection",
+    "note": "All six games are NES games"
+   },
+   {
+    "game": "Super Mario Bros. 3",
+    "note": ""
+   },
+   {
+    "game": "Punch-Out!! Featuring Mr. Dream",
+    "note": ""
+   },
+   {
+    "game": "The Legend of Zelda",
+    "note": ""
+   },
+   {
+    "game": "Metroid",
+    "note": ""
+   },
+   {
+    "game": "Castlevania Anniversary Collection",
+    "note": "Three NES games plus Game Boy, SNES, and Genesis games"
+   },
+   {
+    "game": "Contra Anniversary Collection",
+    "note": "Mostly NES games plus arcade, SNES, and Game Boy"
+   }
+  ],
+  "SNES": [
+   {
+    "game": "Switch Online SNES",
+    "note": ""
+   },
+   {
+    "game": "Super Mario World",
+    "note": ""
+   },
+   {
+    "game": "Donkey Kong Country",
+    "note": ""
+   },
+   {
+    "game": "The Legend of Zelda: A Link to the Past",
+    "note": ""
+   },
+   {
+    "game": "Super Mario Kart",
+    "note": ""
+   },
+   {
+    "game": "EarthBound",
+    "note": ""
+   },
+   {
+    "game": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "note": ""
+   },
+   {
+    "game": "Super Punch-Out!!",
+    "note": ""
+   },
+   {
+    "game": "Super Mario RPG: Legend of the Seven Stars",
+    "note": ""
+   },
+   {
+    "game": "Donkey Kong Country 3: Dixie Kong's Double Trouble",
+    "note": ""
+   },
+   {
+    "game": "Super Metroid",
+    "note": ""
+   },
+   {
+    "game": "Street Fighter II Turbo Hyper Fighting",
+    "note": "The SNES version"
+   },
+   {
+    "game": "F-Zero",
+    "note": ""
+   },
+   {
+    "game": "Collection of Mana",
+    "note": "One Game Boy game and two Super Famicom games"
+   },
+   {
+    "game": "Disney Classic Games: Aladdin and The Lion King",
+    "note": "Mostly Genesis versions, plus SNES and Game Boy"
+   }
+  ],
+  "Game Boy (and Game Boy Color)": [
+   {
+    "game": "Wario Land: Super Mario Land 3",
+    "note": ""
+   },
+   {
+    "game": "Switch Online Game Boy",
+    "note": "Includes Game Boy Color games"
+   },
+   {
+    "game": "Super Mario Land",
+    "note": ""
+   },
+   {
+    "game": "Pokémon Yellow Version",
+    "note": ""
+   },
+   {
+    "game": "Donkey Kong (1994)",
+    "note": ""
+   }
+  ],
+  "Game Boy Advance": [
+   {
+    "game": "Metroid: Zero Mission",
+    "note": ""
+   },
+   {
+    "game": "Switch Online Game Boy Advance",
+    "note": ""
+   },
+   {
+    "game": "Mario & Luigi: Superstar Saga",
+    "note": ""
+   },
+   {
+    "game": "Yoshi's Island: Super Mario Advance 3",
+    "note": ""
+   },
+   {
+    "game": "Metroid Fusion",
+    "note": ""
+   }
+  ],
+  "Nintendo 64": [
+   {
+    "game": "Switch Online Nintendo 64",
+    "note": ""
+   },
+   {
+    "game": "Paper Mario",
+    "note": ""
+   },
+   {
+    "game": "Super Mario 64",
+    "note": ""
+   },
+   {
+    "game": "The Legend of Zelda: Ocarina of Time (N64)",
+    "note": ""
+   },
+   {
+    "game": "Donkey Kong 64",
+    "note": ""
+   },
+   {
+    "game": "Mario Tennis",
+    "note": ""
+   },
+   {
+    "game": "GoldenEye 007 (1997)",
+    "note": "The 2023 Xbox release of the N64 game"
+   },
+   {
+    "game": "Banjo-Kazooie",
+    "note": "The Xbox 360 port of the N64 game, played on Xbox One"
+   },
+   {
+    "game": "Banjo-Tooie",
+    "note": "The Xbox 360 port of the N64 game, played on Xbox One"
+   }
+  ],
+  "GameCube": [
+   {
+    "game": "Switch Online GameCube",
+    "note": ""
+   }
+  ],
+  "Wii": [
+   {
+    "game": "Super Mario Galaxy 2",
+    "note": ""
+   },
+   {
+    "game": "Punch-Out!! (2009)",
+    "note": ""
+   },
+   {
+    "game": "Super Mario Galaxy",
+    "note": ""
+   },
+   {
+    "game": "Super Paper Mario",
+    "note": ""
+   },
+   {
+    "game": "Metroid Prime: Trilogy",
+    "note": ""
+   }
+  ],
+  "DS": [
+   {
+    "game": "Big Brain Academy",
+    "note": ""
+   }
+  ],
+  "PlayStation (PS1)": [
+   {
+    "game": "Castlevania: Symphony of the Night",
+    "note": "The Xbox 360 port of the PS1 game"
+   },
+   {
+    "game": "Final Fantasy VII",
+    "note": ""
+   },
+   {
+    "game": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
+    "note": "The PS1 game plus a PC Engine game"
+   }
+  ],
+  "PlayStation 2": [
+   {
+    "game": "PaRappa the Rapper 2",
+    "note": ""
+   },
+   {
+    "game": "Grand Theft Auto: Vice City",
+    "note": "Only the 2016 PS4 version. The 2026 Definitive Edition doesn't count"
+   },
+   {
+    "game": "God of War (2005)",
+    "note": "The PS3 HD collection"
+   },
+   {
+    "game": "God of War II",
+    "note": "The PS3 HD collection"
+   },
+   {
+    "game": "Sly Cooper and the Thievius Raccoonus",
+    "note": "The PS3 HD collection"
+   },
+   {
+    "game": "Jak and Daxter: The Precursor Legacy",
+    "note": "The HD collection"
+   }
+  ],
+  "Xbox (original)": [
+   {
+    "game": "Star Wars: Knights of the Old Republic",
+    "note": "Only the Xbox play; the PC and Switch play doesn't count"
+   },
+   {
+    "game": "Conker: Live and Reloaded",
+    "note": ""
+   },
+   {
+    "game": "Star Wars: Knights of the Old Republic II: The Sith Lords",
+    "note": ""
+   }
+  ],
+  "Xbox 360": [
+   {
+    "game": "Mass Effect 2",
+    "note": "Only the 360 version, not the Legendary Edition"
+   },
+   {
+    "game": "Street Fighter IV + Super Street Fighter IV + Ultra Street Fighter IV",
+    "note": "Super Street Fighter IV Arcade Edition, the 360 version"
+   },
+   {
+    "game": "Mass Effect",
+    "note": "Only the 360 version, not the Legendary Edition"
+   },
+   {
+    "game": "Heavy Weapon",
+    "note": ""
+   },
+   {
+    "game": "Dragon Age: Origins",
+    "note": ""
+   },
+   {
+    "game": "Final Fantasy XIII",
+    "note": ""
+   },
+   {
+    "game": "Alice: Madness Returns",
+    "note": ""
+   },
+   {
+    "game": "Viva Piñata",
+    "note": ""
+   },
+   {
+    "game": "Grand Theft Auto IV",
+    "note": ""
+   },
+   {
+    "game": "Fight Night Champion",
+    "note": ""
+   },
+   {
+    "game": "Hexic HD",
+    "note": ""
+   },
+   {
+    "game": "Kameo",
+    "note": ""
+   },
+   {
+    "game": "Peggle",
+    "note": ""
+   },
+   {
+    "game": "Geometry Wars Evolved",
+    "note": ""
+   },
+   {
+    "game": "Jetpac Refuelled",
+    "note": ""
+   },
+   {
+    "game": "Plants vs. Zombies",
+    "note": ""
+   },
+   {
+    "game": "Banjo-Kazooie: Nuts & Bolts",
+    "note": ""
+   },
+   {
+    "game": "Fallout: New Vegas",
+    "note": ""
+   },
+   {
+    "game": "Star Wars: The Force Unleashed",
+    "note": ""
+   },
+   {
+    "game": "Toy Story 3",
+    "note": ""
+   },
+   {
+    "game": "Viva Piñata: Trouble in Paradise",
+    "note": ""
+   }
+  ]
+ }
+}

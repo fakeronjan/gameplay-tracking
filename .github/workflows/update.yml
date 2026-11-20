@@ -43,6 +43,11 @@ jobs:
         if: always()
         run: python build_games.py
 
+      # One card per system for the Systems tab (needs games.json)
+      - name: Build systems
+        if: always()
+        run: python build_systems.py
+
       # Local copies of new trophy icons and game art (docs/img/)
       - name: Fetch images
         if: always()
