@@ -3394,10 +3394,10 @@
   },
   "on": {
    "games": 81,
-   "hours": 1138,
+   "hours": 1139,
    "est": false,
    "first": "2022-07-08",
-   "last": "2026-11-19",
+   "last": "2026-11-21",
    "top": "EA Sports College Football 25",
    "top_id": "ea-sports-college-football-25",
    "rows": [
@@ -3908,6 +3908,17 @@
      "on": "PS5"
     },
     {
+     "id": "grand-theft-auto-vi",
+     "name": "Grand Theft Auto VI",
+     "img": null,
+     "hours": 2.1,
+     "est": false,
+     "first": "2026-11-19",
+     "last": "2026-11-21",
+     "family_play": false,
+     "on": "PS5"
+    },
+    {
      "id": "madden-nfl-26",
      "name": "Madden NFL 26",
      "img": null,
@@ -4003,17 +4014,6 @@
      "est": false,
      "first": "2026-04-12",
      "last": "2026-04-12",
-     "family_play": false,
-     "on": "PS5"
-    },
-    {
-     "id": "grand-theft-auto-vi",
-     "name": "Grand Theft Auto VI",
-     "img": null,
-     "hours": 1.2,
-     "est": false,
-     "first": "2026-11-19",
-     "last": "2026-11-19",
      "family_play": false,
      "on": "PS5"
     },
