@@ -4,10 +4,10 @@
   "name": "Grand Theft Auto VI",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR21085_00/a71143e7-a67a-434e-b61d-38653cf9608f.png",
   "first": "2026-11-19",
-  "last": "2026-11-21",
+  "last": "2026-11-22",
   "days": [
    "2026-11-19",
-   "2026-11-21"
+   "2026-11-22"
   ],
   "families": [
    "PlayStation"
@@ -15,7 +15,7 @@
   "days_by_family": {
    "PlayStation": [
     "2026-11-19",
-    "2026-11-21"
+    "2026-11-22"
    ]
   },
   "days_by_platform": {
@@ -25,36 +25,36 @@
   "spans": [
    [
     "2026-11-19",
-    "2026-11-21",
+    "2026-11-22",
     "PlayStation"
    ]
   ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 2.1,
+  "hours": 4.9,
   "hours_estimated": false,
   "estimated_from": [],
-  "sessions": 3,
+  "sessions": 6,
   "entries": [
    {
     "id": "psn-played:PPSA01547_00",
     "family": "PlayStation",
     "platform": "PS5",
     "name": "Grand Theft Auto VI",
-    "minutes": 128,
-    "sessions": 3,
+    "minutes": 296,
+    "sessions": 6,
     "earned": null,
     "total": null,
     "art": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/9f51f0ccdb65bd29c36a0907a738c2902a712f03e2fd6470.png",
     "modeled_hours": {
-     "2026-11": 128.0
+     "2026-11": 296.0
     },
     "span": [
      "2026-11-19",
-     "2026-11-21"
+     "2026-11-22"
     ],
     "first": "2026-11-19",
-    "last": "2026-11-21"
+    "last": "2026-11-22"
    },
    {
     "id": "psn:NPWR21085_00",

@@ -3394,10 +3394,10 @@
   },
   "on": {
    "games": 81,
-   "hours": 1139,
+   "hours": 1141,
    "est": false,
    "first": "2022-07-08",
-   "last": "2026-11-21",
+   "last": "2026-11-22",
    "top": "EA Sports College Football 25",
    "top_id": "ea-sports-college-football-25",
    "rows": [
@@ -3820,6 +3820,17 @@
      "on": "PS5"
     },
     {
+     "id": "grand-theft-auto-vi",
+     "name": "Grand Theft Auto VI",
+     "img": null,
+     "hours": 4.9,
+     "est": false,
+     "first": "2026-11-19",
+     "last": "2026-11-22",
+     "family_play": false,
+     "on": "PS5"
+    },
+    {
      "id": "007-first-light",
      "name": "007 First Light",
      "img": null,
@@ -3904,17 +3915,6 @@
      "est": false,
      "first": "2023-02-05",
      "last": "2023-02-11",
-     "family_play": false,
-     "on": "PS5"
-    },
-    {
-     "id": "grand-theft-auto-vi",
-     "name": "Grand Theft Auto VI",
-     "img": null,
-     "hours": 2.1,
-     "est": false,
-     "first": "2026-11-19",
-     "last": "2026-11-21",
      "family_play": false,
      "on": "PS5"
     },
