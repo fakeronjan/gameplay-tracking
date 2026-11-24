@@ -667,6 +667,14 @@
   ]
  },
  {
+  "id": "retro-bowl",
+  "name": "Retro Bowl",
+  "games": [
+   "retro-bowl",
+   "retro-bowl-college"
+  ]
+ },
+ {
   "id": "rock-band",
   "name": "Rock Band",
   "games": [

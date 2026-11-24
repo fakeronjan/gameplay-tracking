@@ -41638,28 +41638,6 @@
   "img": "img/u/b32cdd0b97bf30e3.webp"
  },
  {
-  "entry": "ios:Retro Bowl",
-  "name": "Win the Retro Bowl",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win the NFC title",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
   "entry": "ios:Retro Bowl College",
   "name": "Win the Major Subdivision",
   "detail": "",
@@ -41667,18 +41645,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win the AFC title",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41689,18 +41656,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win a playoff game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41711,7 +41667,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41722,18 +41678,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41744,29 +41689,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win a division",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 50 games",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41777,18 +41700,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 5 games",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41799,51 +41711,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 5 Retro Bowl titles",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 3 Retro Bowls in 3 seasons",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 3 Retro Bowl titles",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 25 games",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41854,29 +41722,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 2 Retro Bowls in 2 seasons",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 100 games",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41887,18 +41733,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 10 games",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41909,29 +41744,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Win 10 Retro Bowl titles",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Upgrade your training facilities",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41942,18 +41755,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Upgrade your stadium facilities",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41964,18 +41766,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Upgrade your rehab facilities",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -41986,40 +41777,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Trading a player out",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Trading a player in",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Throw 50 touchdowns in a season",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42030,18 +41788,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Take charge of a new team",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42052,18 +41799,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Stop opponent from scoring",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42074,40 +41810,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Sign a free agent",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Sign a 5 star free agent",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a touchdown with the QB",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42118,7 +41821,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42129,18 +41832,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a touchdown",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42151,18 +41843,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a field goal",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42173,18 +41854,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a 60 yard field goal",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42195,18 +41865,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a 50 yard field goal",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42217,18 +41876,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a 25 yard field goal",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42239,18 +41887,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a 2 point conversion",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42261,18 +41898,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score a 1 point conversion",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42283,18 +41909,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 500 career touchdowns",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42305,18 +41920,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 50 points in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42327,18 +41931,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 50 career touchdowns",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42349,18 +41942,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 5 touchdowns in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42371,18 +41953,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 3 touchdowns in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42393,18 +41964,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 250 career touchdowns",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42415,18 +41975,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Score 100 career touchdowns",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42437,18 +41986,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Rush for 50 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42459,18 +41997,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Rush for 150 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42481,18 +42008,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Rush for 100 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42503,40 +42019,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Retro Bowl without star player",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Retro Bowl without a star QB",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Perfect regular season",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42547,18 +42030,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Pass for 500 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42569,18 +42041,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Pass for 400 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42591,18 +42052,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Pass for 300 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42613,18 +42063,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Pass for 200 yards in a game",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42635,7 +42074,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42646,18 +42085,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Max out your stadium facilities",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42668,18 +42096,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Max out your rehab facilities",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42690,18 +42107,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a pass",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42712,7 +42118,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42723,18 +42129,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a 50 yard passing play",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42745,7 +42140,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42756,18 +42151,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a 5 yard running play",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42778,18 +42162,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a 25 yard passing play",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42800,7 +42173,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42811,18 +42184,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a 15 yard running play",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42833,18 +42195,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a 10 yard running play",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42855,18 +42206,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Make a 10 yard passing play",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42877,18 +42217,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Hire an offensive coordinator",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42899,18 +42228,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Hire a defensive coordinator",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42921,29 +42239,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Hire a 5 star offensive coordinator",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Hire a 5 star defensive coordinator",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42954,7 +42250,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42965,18 +42261,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Have a winning season",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42987,7 +42272,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -42998,7 +42283,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43009,7 +42294,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43020,7 +42305,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43031,7 +42316,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43042,7 +42327,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43053,7 +42338,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43064,18 +42349,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Extend a coaches contract",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43086,29 +42360,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Draft a player",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Doink a field goal",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43119,18 +42371,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Cut a player",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43141,18 +42382,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Complete a full season",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43163,18 +42393,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Complete 5 full seasons",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43185,29 +42404,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Complete 20 full seasons",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
-  "img": null
- },
- {
-  "entry": "ios:Retro Bowl",
-  "name": "Complete 10 full seasons",
-  "detail": "",
-  "kind": "achievement",
-  "rarity": null,
-  "earned": null,
-  "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43218,7 +42415,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43229,7 +42426,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43240,7 +42437,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43251,7 +42448,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43262,7 +42459,7 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
   "img": null
  },
  {
@@ -43273,7 +42470,810 @@
   "rarity": null,
   "earned": null,
   "icon": null,
-  "game": "retro-bowl-retro-bowl-college",
+  "game": "retro-bowl-college",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win the Retro Bowl",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win the NFC title",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win the AFC title",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win a playoff game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win a division",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 50 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 5 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 5 Retro Bowl titles",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 3 Retro Bowls in 3 seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 3 Retro Bowl titles",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 25 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 2 Retro Bowls in 2 seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 100 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 10 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win 10 Retro Bowl titles",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Upgrade your training facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Upgrade your stadium facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Upgrade your rehab facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Trading a player out",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Trading a player in",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Throw 50 touchdowns in a season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Take charge of a new team",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Stop opponent from scoring",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Sign a free agent",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Sign a 5 star free agent",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a touchdown with the QB",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a touchdown",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a 60 yard field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a 50 yard field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a 25 yard field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a 2 point conversion",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a 1 point conversion",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 500 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 50 points in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 50 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 5 touchdowns in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 3 touchdowns in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 250 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score 100 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Rush for 50 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Rush for 150 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Rush for 100 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Retro Bowl without star player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Retro Bowl without a star QB",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Perfect regular season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Pass for 500 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Pass for 400 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Pass for 300 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Pass for 200 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Max out your stadium facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Max out your rehab facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a pass",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 50 yard passing play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 5 yard running play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 25 yard passing play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 15 yard running play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 10 yard running play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 10 yard passing play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Hire an offensive coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Hire a defensive coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Hire a 5 star offensive coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Hire a 5 star defensive coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Have a winning season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Extend a coaches contract",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Draft a player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Doink a field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Cut a player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Complete a full season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Complete 5 full seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Complete 20 full seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Complete 10 full seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
   "img": null
  },
  {

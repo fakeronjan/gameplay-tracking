@@ -475,8 +475,8 @@
      "on": "Switch"
     },
     {
-     "id": "retro-bowl-retro-bowl-college",
-     "name": "Retro Bowl + Retro Bowl College",
+     "id": "retro-bowl",
+     "name": "Retro Bowl",
      "img": null,
      "hours": 24.1,
      "est": false,
