@@ -435,6 +435,22 @@ def entries_and_unlocks(cfg=None):
                                       "captures": sum(1 for c in g["captures"] if "dup_of" not in c),
                                       **({"estimated": True, "estimated_from": ["iOS stats"]} if mins else {})}
 
+    # iOS Game Center: one-time import from Apple's data export (tools/build_game_center.py, picks in
+    # config/game_center_games.json, Ronjan 2026-11-24). Days are launch-log days (10/2022 on),
+    # achievement unlock days, and the last-played date. No hours: games with unlock days get the
+    # same unlock-day estimate as PSN/Xbox/Steam (Ronjan 2026-11-24). No descriptions or icons.
+    if (DATA / "game_center.json").exists():
+        for name, g in load("game_center.json")["games"].items():
+            eid = f"gc:{name}"
+            for a in g["achievements"]:
+                unlocks.append({"entry": eid, "name": a["name"], "detail": "", "kind": "achievement",
+                                "rarity": None, "earned": a["earned"], "icon": None})
+            days = {et_day(t) for t in g["launch_times"]} | {et_day(a["earned"]) for a in g["achievements"]} \
+                | {et_day(g["last_played"])}
+            entries[eid] = {"family": "Apple", "platform": "iOS", "name": name, "days": sorted(days),
+                            "minutes": None, "earned": len(g["achievements"]) if g["total"] else None,
+                            "total": g["total"] or None, "art": g.get("art")}
+
     # Meta Quest: one-time import from Meta's data export (tools/build_meta.py, picks in
     # config/meta_games.json). Days are first cloud-save days plus Beat Saber level visits; no hours
     if (DATA / "meta.json").exists():
@@ -728,7 +744,7 @@ def build():
             or display_name([{**entries[i], "id": i} for i in ids])
         game_id = re.sub(r"[^a-z0-9]+", "-", key(name)).strip("-") or min(ids)
         mins = [e["minutes"] for e in es if e["minutes"]]
-        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "meta": 6.5, "blog": 7, "camera": 8}
+        rank = {"switch": 0, "nintendo": 0.5, "psn": 1, "xbox": 2, "psn-played": 3, "miiverse": 4, "steam": 5, "ios": 6, "gc": 6.2, "meta": 6.5, "blog": 7, "camera": 8}
         arts = sorted((rank[i.split(":")[0]], entries[i]["art"]) for i in ids if entries[i].get("art"))
         games.append({
             "id": game_id, "name": name, "art": arts[0][1] if arts else None,

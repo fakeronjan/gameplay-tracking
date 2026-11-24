@@ -204,19 +204,44 @@
    "2024-07-06",
    "2024-07-07",
    "2024-09-01",
+   "2024-09-26",
+   "2024-09-28",
+   "2024-09-29",
+   "2024-09-30",
    "2024-10-01",
+   "2024-10-02",
+   "2024-10-03",
+   "2024-10-04",
+   "2024-10-05",
+   "2024-10-06",
    "2024-10-12",
    "2024-10-13",
+   "2024-10-23",
    "2024-10-25",
+   "2024-10-26",
+   "2024-11-02",
+   "2024-11-03",
+   "2024-11-06",
+   "2024-11-07",
+   "2024-11-08",
    "2024-11-09",
+   "2024-11-10",
+   "2024-11-12",
+   "2024-11-14",
    "2024-11-16",
+   "2024-11-23",
+   "2024-11-26",
    "2024-11-27",
+   "2024-11-28",
    "2024-11-29",
    "2024-11-30",
    "2024-12-07",
+   "2024-12-08",
    "2024-12-14",
+   "2024-12-15",
    "2024-12-16",
    "2024-12-17",
+   "2024-12-18",
    "2024-12-20",
    "2024-12-21",
    "2024-12-27",
@@ -231,6 +256,7 @@
    "2025-02-09",
    "2025-02-25",
    "2025-03-15",
+   "2026-11-07",
    "2026-11-18"
   ],
   "families": [
@@ -241,23 +267,50 @@
   ],
   "days_by_family": {
    "Apple": [
+    "2024-09-26",
+    "2024-09-28",
+    "2024-09-29",
+    "2024-09-30",
     "2024-10-01",
+    "2024-10-02",
+    "2024-10-03",
+    "2024-10-04",
+    "2024-10-05",
+    "2024-10-06",
     "2024-10-12",
     "2024-10-13",
+    "2024-10-23",
     "2024-10-25",
+    "2024-10-26",
+    "2024-11-02",
+    "2024-11-03",
+    "2024-11-06",
+    "2024-11-07",
+    "2024-11-08",
     "2024-11-09",
+    "2024-11-10",
+    "2024-11-12",
+    "2024-11-14",
     "2024-11-16",
+    "2024-11-23",
+    "2024-11-26",
     "2024-11-27",
+    "2024-11-28",
     "2024-11-29",
     "2024-11-30",
     "2024-12-07",
+    "2024-12-08",
     "2024-12-14",
+    "2024-12-15",
     "2024-12-16",
     "2024-12-17",
+    "2024-12-18",
     "2024-12-20",
     "2024-12-21",
     "2025-01-22",
-    "2025-02-04"
+    "2025-02-04",
+    "2026-11-07",
+    "2026-11-18"
    ],
    "Nintendo": [
     "2024-04-03",
@@ -323,9 +376,9 @@
    "PlayStation|PS5|": 10,
    "Steam|PC|": 12,
    "Nintendo|Switch|": 35,
-   "Apple|iOS|": 17
+   "Apple|iOS|": 44
   },
-  "days_played": 71,
+  "days_played": 97,
   "spans": [
    [
     "2024-02-27",
@@ -475,6 +528,21 @@
     "last": "2024-12-16"
    },
    {
+    "id": "gc:Balatro",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Balatro",
+    "minutes": null,
+    "earned": 12,
+    "total": 12,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a7/c0/1aa7c0eb-434a-5a6a-774c-b02a6b702fc1/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "first": "2024-09-26",
+    "last": "2026-11-18",
+    "earned_by_year": {
+     "2024": 12
+    }
+   },
+   {
     "id": "ios:Balatro",
     "family": "Apple",
     "platform": "iOS",
@@ -489,11 +557,11 @@
      "iOS stats"
     ],
     "modeled_hours": {
-     "2024-10": 910.5,
-     "2024-11": 1016.2,
-     "2024-12": 1276.4,
-     "2025-01": 607.5,
-     "2025-02": 89.4
+     "2024-10": 1274.0,
+     "2024-11": 927.3,
+     "2024-12": 1100.7,
+     "2025-01": 521.4,
+     "2025-02": 76.6
     },
     "span": [
      "2024-10-01",
@@ -789,6 +857,93 @@
    "mario-kart"
   ],
   "img": "img/g/7f43968270908821.webp"
+ },
+ {
+  "id": "disney-emoji-blitz",
+  "name": "Disney Emoji Blitz",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/62/ee/2662ee42-28fa-4c71-4a74-8795656ea739/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2025-05-25",
+  "last": "2026-11-08",
+  "days": [
+   "2025-05-25",
+   "2025-06-10",
+   "2026-03-03",
+   "2026-11-07",
+   "2026-11-08"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2025-05-25",
+    "2025-06-10",
+    "2026-03-03",
+    "2026-11-07",
+    "2026-11-08"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 5
+  },
+  "days_played": 5,
+  "spans": [
+   [
+    "2025-05-25",
+    "2026-11-08",
+    "Apple"
+   ]
+  ],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Disney Emoji Blitz",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Disney Emoji Blitz",
+    "minutes": 45,
+    "earned": 6,
+    "total": 15,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/62/ee/2662ee42-28fa-4c71-4a74-8795656ea739/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2025-05": 4.2,
+     "2025-06": 10.9,
+     "2025-07": 2.4,
+     "2025-08": 1.0,
+     "2025-09": 0.6,
+     "2025-10": 0.5,
+     "2025-11": 0.4,
+     "2025-12": 0.4,
+     "2026-01": 0.6,
+     "2026-02": 2.9,
+     "2026-03": 4.1,
+     "2026-04": 0.6,
+     "2026-05": 0.2,
+     "2026-06": 0.1,
+     "2026-07": 0.1,
+     "2026-08": 0.2,
+     "2026-09": 0.9,
+     "2026-10": 8.0,
+     "2026-11": 6.8
+    },
+    "span": [
+     "2025-05-25",
+     "2026-11-08"
+    ],
+    "first": "2025-05-25",
+    "last": "2026-11-08",
+    "earned_by_year": {
+     "2026": 6
+    }
+   }
+  ],
+  "img": "img/g/57b7c607dfea63d5.webp"
  },
  {
   "id": "animal-crossing-new-horizons",
@@ -14872,12 +15027,17 @@
    "2024-12-31",
    "2025-01-15",
    "2025-01-18",
+   "2025-02-08",
    "2026-03-21"
   ],
   "families": [
+   "Apple",
    "Steam"
   ],
   "days_by_family": {
+   "Apple": [
+    "2025-02-08"
+   ],
    "Steam": [
     "2024-12-31",
     "2025-01-15",
@@ -14886,9 +15046,10 @@
    ]
   },
   "days_by_platform": {
-   "Steam|PC|": 4
+   "Steam|PC|": 4,
+   "Apple|iOS|": 1
   },
-  "days_played": 4,
+  "days_played": 5,
   "spans": [
    [
     "2024-12-31",
@@ -14940,6 +15101,18 @@
      "2024": 1,
      "2025": 6
     }
+   },
+   {
+    "id": "gc:Luck be a Landlord",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Luck be a Landlord",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/91/00/8b910000-5772-1bfb-b6ed-381aa02ab87f/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+    "first": "2025-02-08",
+    "last": "2025-02-08"
    }
   ],
   "released": "2021-01-08",
@@ -19217,25 +19390,31 @@
   "id": "pocket-card-jockey-ride-on",
   "name": "Pocket Card Jockey Ride On!",
   "art": "https://img-eshop.cdn.nintendo.net/i/958868a3b326ab8cfc6ac93ae58def84edec41308b5f4a9bb00cd5fa9352fe7f.jpg",
-  "first": "2025-06-21",
+  "first": "2023-10-14",
   "last": "2025-06-28",
   "days": [
+   "2023-10-14",
    "2025-06-21",
    "2025-06-28"
   ],
   "families": [
+   "Apple",
    "Nintendo"
   ],
   "days_by_family": {
+   "Apple": [
+    "2023-10-14"
+   ],
    "Nintendo": [
     "2025-06-21",
     "2025-06-28"
    ]
   },
   "days_by_platform": {
-   "Nintendo|Switch|": 3
+   "Nintendo|Switch|": 3,
+   "Apple|iOS|": 1
   },
-  "days_played": 3,
+  "days_played": 4,
   "spans": [
    [
     "2025-06-21",
@@ -19250,6 +19429,18 @@
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "gc:Pocket Card Jockey Ride On!",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Pocket Card Jockey Ride On!",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c5/6d/c6/c56dc613-1bf9-7398-1d9d-b5d590f6125a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "first": "2023-10-14",
+    "last": "2023-10-14"
+   },
    {
     "id": "nintendo:010099501c132000",
     "family": "Nintendo",
@@ -22266,6 +22457,173 @@
   "img": "img/g/261495e4d5933874.webp"
  },
  {
+  "id": "flow-free",
+  "name": "Flow Free",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/36/0f/83360ff0-8a7e-eb18-7e61-499dce2e1f57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+  "first": "2020-11-10",
+  "last": "2025-03-27",
+  "days": [
+   "2020-11-10",
+   "2020-11-14",
+   "2020-11-15",
+   "2021-09-16",
+   "2022-05-28",
+   "2022-11-06",
+   "2022-12-10",
+   "2022-12-11",
+   "2022-12-16",
+   "2022-12-18",
+   "2022-12-30",
+   "2022-12-31",
+   "2023-01-07",
+   "2023-02-12",
+   "2023-02-13",
+   "2023-02-25",
+   "2023-03-17",
+   "2023-03-25",
+   "2023-04-12",
+   "2023-05-13",
+   "2023-05-14",
+   "2023-06-03",
+   "2023-06-25",
+   "2024-06-24",
+   "2025-02-01",
+   "2025-03-27"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2020-11-10",
+    "2020-11-14",
+    "2020-11-15",
+    "2021-09-16",
+    "2022-05-28",
+    "2022-11-06",
+    "2022-12-10",
+    "2022-12-11",
+    "2022-12-16",
+    "2022-12-18",
+    "2022-12-30",
+    "2022-12-31",
+    "2023-01-07",
+    "2023-02-12",
+    "2023-02-13",
+    "2023-02-25",
+    "2023-03-17",
+    "2023-03-25",
+    "2023-04-12",
+    "2023-05-13",
+    "2023-05-14",
+    "2023-06-03",
+    "2023-06-25",
+    "2024-06-24",
+    "2025-02-01",
+    "2025-03-27"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 26
+  },
+  "days_played": 26,
+  "spans": [
+   [
+    "2020-11-10",
+    "2025-03-27",
+    "Apple"
+   ]
+  ],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": 13.4,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Flow Free",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Flow Free",
+    "minutes": 806,
+    "earned": 11,
+    "total": 11,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/36/0f/83360ff0-8a7e-eb18-7e61-499dce2e1f57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2020-11": 72.1,
+     "2020-12": 23.6,
+     "2021-01": 5.6,
+     "2021-02": 2.8,
+     "2021-03": 2.2,
+     "2021-04": 1.7,
+     "2021-05": 1.4,
+     "2021-06": 1.1,
+     "2021-07": 1.3,
+     "2021-08": 5.0,
+     "2021-09": 20.1,
+     "2021-10": 5.1,
+     "2021-11": 0.8,
+     "2021-12": 0.3,
+     "2022-01": 0.2,
+     "2022-02": 0.2,
+     "2022-03": 0.4,
+     "2022-04": 2.0,
+     "2022-05": 16.3,
+     "2022-06": 10.4,
+     "2022-07": 1.3,
+     "2022-08": 0.4,
+     "2022-09": 1.4,
+     "2022-10": 12.0,
+     "2022-11": 42.4,
+     "2022-12": 119.0,
+     "2023-01": 72.9,
+     "2023-02": 66.7,
+     "2023-03": 64.9,
+     "2023-04": 46.3,
+     "2023-05": 58.5,
+     "2023-06": 40.4,
+     "2023-07": 11.8,
+     "2023-08": 1.3,
+     "2023-09": 0.2,
+     "2023-10": 0.1,
+     "2023-11": 0.1,
+     "2023-12": 0.1,
+     "2024-01": 0.1,
+     "2024-02": 0.1,
+     "2024-03": 0.1,
+     "2024-04": 0.3,
+     "2024-05": 2.5,
+     "2024-06": 17.7,
+     "2024-07": 8.4,
+     "2024-08": 1.0,
+     "2024-09": 0.2,
+     "2024-10": 0.1,
+     "2024-11": 0.2,
+     "2024-12": 1.5,
+     "2025-01": 13.6,
+     "2025-02": 17.7,
+     "2025-03": 30.0
+    },
+    "span": [
+     "2020-11-10",
+     "2025-03-27"
+    ],
+    "first": "2020-11-10",
+    "last": "2025-03-27",
+    "earned_by_year": {
+     "2020": 6,
+     "2021": 7,
+     "2022": 8,
+     "2023": 10,
+     "2025": 11
+    }
+   }
+  ],
+  "img": "img/g/5f7fdf40854277d2.webp"
+ },
+ {
   "id": "persona-5-royal",
   "name": "Persona 5 + Royal",
   "art": "https://image.api.playstation.com/trophy/np/NPWR11866_00_000EB95B770A10AF09E728F291E77DD56FA7631434/0FFFD099BD9AA2B138C175D6EDB0287A7EB3ED33.PNG",
@@ -22898,6 +23256,116 @@
   "img": "img/g/77d7a62316745c2e.webp"
  },
  {
+  "id": "flipflop-solitaire",
+  "name": "Flipflop Solitaire",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6f/59/c56f5922-ac30-0889-86d9-611b0c9053a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-04-26",
+  "last": "2025-01-23",
+  "days": [
+   "2021-04-26",
+   "2021-04-30",
+   "2021-05-01",
+   "2021-05-20",
+   "2021-05-22",
+   "2021-06-12",
+   "2021-06-13",
+   "2021-06-15",
+   "2021-06-19",
+   "2021-07-04",
+   "2021-07-16",
+   "2021-08-05",
+   "2021-08-07",
+   "2021-08-20",
+   "2021-08-21",
+   "2021-08-28",
+   "2021-09-25",
+   "2024-12-30",
+   "2025-01-02",
+   "2025-01-03",
+   "2025-01-04",
+   "2025-01-07",
+   "2025-01-15",
+   "2025-01-16",
+   "2025-01-17",
+   "2025-01-18",
+   "2025-01-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-04-26",
+    "2021-04-30",
+    "2021-05-01",
+    "2021-05-20",
+    "2021-05-22",
+    "2021-06-12",
+    "2021-06-13",
+    "2021-06-15",
+    "2021-06-19",
+    "2021-07-04",
+    "2021-07-16",
+    "2021-08-05",
+    "2021-08-07",
+    "2021-08-20",
+    "2021-08-21",
+    "2021-08-28",
+    "2021-09-25",
+    "2024-12-30",
+    "2025-01-02",
+    "2025-01-03",
+    "2025-01-04",
+    "2025-01-07",
+    "2025-01-15",
+    "2025-01-16",
+    "2025-01-17",
+    "2025-01-18",
+    "2025-01-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 27
+  },
+  "days_played": 27,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "ios:Flipflop Solitaire",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Flipflop Solitaire",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6f/59/c56f5922-ac30-0889-86d9-611b0c9053a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "captures": 20,
+    "first": "2021-04-26",
+    "last": "2021-09-25"
+   },
+   {
+    "id": "gc:Flipflop Solitaire",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Flipflop Solitaire",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/d7/c7/62d7c7e1-dc65-eb72-1536-ed74f61bd24e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "first": "2024-12-30",
+    "last": "2025-01-23"
+   }
+  ],
+  "released": "2017-11-09",
+  "img": "img/g/878df98dfe9a1a9a.webp"
+ },
+ {
   "id": "octodad-dadliest-catch",
   "name": "Octodad: Dadliest Catch",
   "art": "https://image.api.playstation.com/trophy/np/NPWR06369_00_003DE234DA69DA54567925E3E5A48ECE56CB5A35EC/2EA473544F82CD5CBA42B38BD60DE1F068C00F67.PNG",
@@ -23002,6 +23470,50 @@
   ],
   "released": "2014-01-30",
   "img": "img/g/9a515b889543edb8.webp"
+ },
+ {
+  "id": "disney-heroes-battle-mode",
+  "name": "Disney Heroes: Battle Mode",
+  "art": null,
+  "first": "2025-01-11",
+  "last": "2025-01-11",
+  "days": [
+   "2025-01-11"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2025-01-11"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Disney Heroes: Battle Mode",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Disney Heroes: Battle Mode",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2025-01-11",
+    "last": "2025-01-11"
+   }
+  ],
+  "img": null
  },
  {
   "id": "linkedin-games",
@@ -23345,6 +23857,52 @@
   ],
   "released": "2019-10-29",
   "img": "img/g/72a89eaec6219cf9.webp"
+ },
+ {
+  "id": "nba-2k-mobile",
+  "name": "NBA 2K Mobile",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/5d/a2/b85da242-9493-b821-399e-a482e1925fab/AppIcon-0-0-1x_U007epad-0-1-512MB-85-220.png/512x512bb.jpg",
+  "first": "2024-11-27",
+  "last": "2024-12-18",
+  "days": [
+   "2024-11-27",
+   "2024-12-18"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2024-11-27",
+    "2024-12-18"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:NBA 2K Mobile",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "NBA 2K Mobile",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/5d/a2/b85da242-9493-b821-399e-a482e1925fab/AppIcon-0-0-1x_U007epad-0-1-512MB-85-220.png/512x512bb.jpg",
+    "first": "2024-11-27",
+    "last": "2024-12-18"
+   }
+  ],
+  "img": "img/g/c1ecf895824b5d39.webp"
  },
  {
   "id": "nba-2k25",
@@ -25664,6 +26222,78 @@
   "img": "img/g/7eb27d9db04bef7a.webp"
  },
  {
+  "id": "nfl-2k-playmakers",
+  "name": "NFL 2K Playmakers",
+  "art": null,
+  "first": "2024-01-31",
+  "last": "2024-06-13",
+  "days": [
+   "2024-01-31",
+   "2024-02-01",
+   "2024-02-02",
+   "2024-02-03",
+   "2024-02-04",
+   "2024-02-05",
+   "2024-02-10",
+   "2024-02-15",
+   "2024-03-21",
+   "2024-04-22",
+   "2024-05-01",
+   "2024-05-14",
+   "2024-05-15",
+   "2024-05-17",
+   "2024-06-13"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2024-01-31",
+    "2024-02-01",
+    "2024-02-02",
+    "2024-02-03",
+    "2024-02-04",
+    "2024-02-05",
+    "2024-02-10",
+    "2024-02-15",
+    "2024-03-21",
+    "2024-04-22",
+    "2024-05-01",
+    "2024-05-14",
+    "2024-05-15",
+    "2024-05-17",
+    "2024-06-13"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 15
+  },
+  "days_played": 15,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:NFL 2K Playmakers",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "NFL 2K Playmakers",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2024-01-31",
+    "last": "2024-06-13"
+   }
+  ],
+  "img": null
+ },
+ {
   "id": "ea-sports-fc-24",
   "name": "EA Sports FC 24",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR35517_00/b2ccd7b3-3191-4ea7-a81a-c88072a2d56f.png",
@@ -26988,6 +27618,56 @@
   "img": "img/g/fb3271c134ac5002.webp"
  },
  {
+  "id": "sudoku-by-mobilityware",
+  "name": "Sudoku by MobilityWare",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/84/b8/1c84b821-08cb-672e-bc40-c2a0af39142c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2023-10-14",
+  "last": "2023-11-25",
+  "days": [
+   "2023-10-14",
+   "2023-11-21",
+   "2023-11-22",
+   "2023-11-25"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2023-10-14",
+    "2023-11-21",
+    "2023-11-22",
+    "2023-11-25"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 4
+  },
+  "days_played": 4,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Sudoku by MobilityWare",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Sudoku by MobilityWare",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/84/b8/1c84b821-08cb-672e-bc40-c2a0af39142c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "first": "2023-10-14",
+    "last": "2023-11-25"
+   }
+  ],
+  "img": "img/g/a9225d4cab6581a8.webp"
+ },
+ {
   "id": "the-jackbox-party-pack",
   "name": "The Jackbox Party Pack",
   "art": "https://image.api.playstation.com/trophy/np/NPWR07665_00_00079AC830F6FE090A8B0732DBE18AB898D123FBE6/495816AA211D2E97D69207AAA24A2F28B3BB4F68.PNG",
@@ -27448,6 +28128,50 @@
   ],
   "released": "2011-07-26",
   "img": "img/g/f0ae5b4e9808a954.webp"
+ },
+ {
+  "id": "the-sims-mobile",
+  "name": "The Sims Mobile",
+  "art": null,
+  "first": "2023-10-14",
+  "last": "2023-10-14",
+  "days": [
+   "2023-10-14"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2023-10-14"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:The Sims Mobile",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "The Sims Mobile",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2023-10-14",
+    "last": "2023-10-14"
+   }
+  ],
+  "img": null
  },
  {
   "id": "f-zero-99",
@@ -28428,6 +29152,76 @@
   ],
   "released": "2011-08-16",
   "img": "img/g/ca0aeef95e2ef2dd.webp"
+ },
+ {
+  "id": "super-plexis",
+  "name": "Super Plexis",
+  "art": null,
+  "first": "2022-10-01",
+  "last": "2023-06-25",
+  "days": [
+   "2022-10-01",
+   "2022-10-22",
+   "2022-10-29",
+   "2022-11-06",
+   "2022-11-20",
+   "2022-12-24",
+   "2022-12-29",
+   "2023-01-26",
+   "2023-02-21",
+   "2023-02-23",
+   "2023-02-24",
+   "2023-02-25",
+   "2023-04-12",
+   "2023-06-25"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2022-10-01",
+    "2022-10-22",
+    "2022-10-29",
+    "2022-11-06",
+    "2022-11-20",
+    "2022-12-24",
+    "2022-12-29",
+    "2023-01-26",
+    "2023-02-21",
+    "2023-02-23",
+    "2023-02-24",
+    "2023-02-25",
+    "2023-04-12",
+    "2023-06-25"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 14
+  },
+  "days_played": 14,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Super Plexis",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Super Plexis",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2022-10-01",
+    "last": "2023-06-25"
+   }
+  ],
+  "img": null
  },
  {
   "id": "pga-tour-2k23",
@@ -30058,6 +30852,12 @@
     "art": "http://store-images.s-microsoft.com/image/apps.11203.64328607019611073.e14cd0bb-1ff0-4081-ac4c-74cce6c02cd4.16f73b52-5f65-4faa-b26b-50c36e86e54d",
     "first": null,
     "last": null
+   }
+  ],
+  "versions": [
+   {
+    "id": "puzzle-fighter",
+    "name": "Puzzle Fighter (2017)"
    }
   ],
   "released": "2007-08-30",
@@ -31967,6 +32767,141 @@
   "img": "img/g/a26aa04d41149203.webp"
  },
  {
+  "id": "super-mario-run",
+  "name": "Super Mario Run",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/55/50/ae5550ee-25a2-f00d-685d-ab061349bd51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2017-12-02",
+  "last": "2022-08-14",
+  "days": [
+   "2017-12-02",
+   "2018-01-06",
+   "2018-01-16",
+   "2018-01-29",
+   "2018-02-03",
+   "2018-02-10",
+   "2018-05-15",
+   "2020-03-24",
+   "2022-08-14"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-12-02",
+    "2018-01-06",
+    "2018-01-16",
+    "2018-01-29",
+    "2018-02-03",
+    "2018-02-10",
+    "2018-05-15",
+    "2020-03-24",
+    "2022-08-14"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 9
+  },
+  "days_played": 9,
+  "spans": [
+   [
+    "2017-12-02",
+    "2022-08-14",
+    "Apple"
+   ]
+  ],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": 16.4,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Super Mario Run",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Super Mario Run",
+    "minutes": 982,
+    "earned": 9,
+    "total": 9,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/55/50/ae5550ee-25a2-f00d-685d-ab061349bd51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2017-12": 161.3,
+     "2018-01": 261.1,
+     "2018-02": 178.4,
+     "2018-03": 37.4,
+     "2018-04": 24.8,
+     "2018-05": 71.3,
+     "2018-06": 17.4,
+     "2018-07": 4.8,
+     "2018-08": 2.7,
+     "2018-09": 2.0,
+     "2018-10": 1.6,
+     "2018-11": 1.2,
+     "2018-12": 1.0,
+     "2019-01": 0.8,
+     "2019-02": 0.6,
+     "2019-03": 0.6,
+     "2019-04": 0.5,
+     "2019-05": 0.4,
+     "2019-06": 0.4,
+     "2019-07": 0.3,
+     "2019-08": 0.3,
+     "2019-09": 0.3,
+     "2019-10": 0.2,
+     "2019-11": 0.2,
+     "2019-12": 0.3,
+     "2020-01": 1.2,
+     "2020-02": 8.2,
+     "2020-03": 60.5,
+     "2020-04": 25.5,
+     "2020-05": 3.2,
+     "2020-06": 0.5,
+     "2020-07": 0.2,
+     "2020-08": 0.2,
+     "2020-09": 0.2,
+     "2020-10": 0.2,
+     "2020-11": 0.2,
+     "2020-12": 0.2,
+     "2021-01": 0.2,
+     "2021-02": 0.2,
+     "2021-03": 0.2,
+     "2021-04": 0.2,
+     "2021-05": 0.2,
+     "2021-06": 0.2,
+     "2021-07": 0.2,
+     "2021-08": 0.2,
+     "2021-09": 0.2,
+     "2021-10": 0.2,
+     "2021-11": 0.2,
+     "2021-12": 0.2,
+     "2022-01": 0.2,
+     "2022-02": 0.2,
+     "2022-03": 0.2,
+     "2022-04": 0.2,
+     "2022-05": 0.6,
+     "2022-06": 4.0,
+     "2022-07": 35.7,
+     "2022-08": 68.5
+    },
+    "span": [
+     "2017-12-02",
+     "2022-08-14"
+    ],
+    "first": "2017-12-02",
+    "last": "2022-08-14",
+    "earned_by_year": {
+     "2017": 1,
+     "2018": 8,
+     "2020": 9
+    }
+   }
+  ],
+  "img": "img/g/b1d1fdfcea3a644c.webp"
+ },
+ {
   "id": "nba-2k22",
   "name": "NBA 2K22",
   "art": "https://psnobj.prod.dl.playstation.net/psnobj/NPWR24245_00/2e8b8dda-4efd-4b07-8c2e-f1e2c03798c5.png",
@@ -32298,15 +33233,20 @@
    "2014-06-30",
    "2014-07-01",
    "2014-07-06",
+   "2019-06-09",
    "2021-02-13",
    "2021-02-14",
    "2022-07-17"
   ],
   "families": [
+   "Apple",
    "PlayStation",
    "Xbox"
   ],
   "days_by_family": {
+   "Apple": [
+    "2019-06-09"
+   ],
    "PlayStation": [
     "2014-06-28",
     "2014-06-29",
@@ -32322,9 +33262,10 @@
   },
   "days_by_platform": {
    "PlayStation|PS4|": 6,
-   "Xbox|Xbox|fakeronjan": 2
+   "Xbox|Xbox|fakeronjan": 2,
+   "Apple|iOS|": 1
   },
-  "days_played": 8,
+  "days_played": 9,
   "spans": [
    [
     "2014-06-28",
@@ -32475,6 +33416,18 @@
     "earned_by_year": {
      "2014": 16
     }
+   },
+   {
+    "id": "gc:Valiant Hearts: The Great War",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Valiant Hearts: The Great War",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/e3/ac/efe3ac7b-68d8-cc42-ede6-c7eb65db4ef1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "first": "2019-06-09",
+    "last": "2019-06-09"
    },
    {
     "id": "xbox:fakeronjan:1211542442",
@@ -35096,6 +36049,50 @@
   "img": "img/g/17b29ed024180fb6.webp"
  },
  {
+  "id": "animal-crossing-pocket-camp",
+  "name": "Animal Crossing: Pocket Camp",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2022-05-14",
+  "last": "2022-05-14",
+  "days": [
+   "2022-05-14"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2022-05-14"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Animal Crossing: Pocket Camp",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Animal Crossing: Pocket Camp",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "first": "2022-05-14",
+    "last": "2022-05-14"
+   }
+  ],
+  "img": "img/g/ca201a74ef19af37.webp"
+ },
+ {
   "id": "tetris-effect-connected",
   "name": "Tetris Effect: Connected",
   "art": "https://image.api.playstation.com/trophy/np/NPWR16646_00_00A5B72F0AFE074EB8E919219DF65AC0742A3FE260/CBF6CD6842EECE7811EA3BC7F710DAA80C97009D.PNG",
@@ -35348,6 +36345,50 @@
   "img": "img/g/d45aef0cc6beb06b.webp"
  },
  {
+  "id": "kenken-classic",
+  "name": "KenKen Classic",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/42/1b/c1421b04-f454-5067-dc69-9d2db13cbfc0/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "first": "2022-04-10",
+  "last": "2022-04-10",
+  "days": [
+   "2022-04-10"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2022-04-10"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:KenKen Classic",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "KenKen Classic",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/42/1b/c1421b04-f454-5067-dc69-9d2db13cbfc0/AppIcon-0-0-1x_U007emarketing-0-0-0-2-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "first": "2022-04-10",
+    "last": "2022-04-10"
+   }
+  ],
+  "img": "img/g/fef23d41e272c0cb.webp"
+ },
+ {
   "id": "yooka-laylee-and-the-impossible-lair",
   "name": "Yooka-Laylee and the Impossible Lair",
   "art": "https://img-eshop.cdn.nintendo.net/i/278e76a1da63eed268a9f078c90df0a2ff44aaf47b1e5a245bd0756ccbc0ece6.jpg",
@@ -35554,6 +36595,50 @@
    "paper-mario"
   ],
   "img": "img/g/222b2c24a6d2f735.webp"
+ },
+ {
+  "id": "star-wars-galaxy-of-heroes",
+  "name": "Star Wars: Galaxy of Heroes",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/c7/db/10c7dbcf-eaea-f965-c9c3-7d0894e72ab1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2022-03-24",
+  "last": "2022-03-24",
+  "days": [
+   "2022-03-24"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2022-03-24"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Star Wars: Galaxy of Heroes",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Star Wars: Galaxy of Heroes",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/c7/db/10c7dbcf-eaea-f965-c9c3-7d0894e72ab1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "first": "2022-03-24",
+    "last": "2022-03-24"
+   }
+  ],
+  "img": "img/g/fbf52dc946bcc053.webp"
  },
  {
   "id": "kenken",
@@ -37001,6 +38086,114 @@
   "img": "img/g/2eca1cce26c1ffdf.webp"
  },
  {
+  "id": "threes",
+  "name": "Threes!",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/87/17/828717c4-7aa6-495a-069e-2e031d09c698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2014-02-12",
+  "last": "2021-12-23",
+  "days": [
+   "2014-02-12",
+   "2014-02-13",
+   "2014-07-31",
+   "2021-12-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-02-12",
+    "2014-02-13",
+    "2014-07-31",
+    "2021-12-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 4
+  },
+  "days_played": 4,
+  "spans": [
+   [
+    "2014-02-12",
+    "2021-12-23",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 3.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Threes!",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Threes!",
+    "minutes": 230,
+    "earned": 8,
+    "total": 8,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/87/17/828717c4-7aa6-495a-069e-2e031d09c698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2014-02": 69.4,
+     "2014-03": 31.7,
+     "2014-04": 8.2,
+     "2014-05": 5.0,
+     "2014-06": 5.7,
+     "2014-07": 23.9,
+     "2014-08": 21.8,
+     "2014-09": 3.7,
+     "2014-10": 1.5,
+     "2014-11": 1.0,
+     "2014-12": 0.8,
+     "2015-01": 0.6,
+     "2015-02": 0.4,
+     "2015-03": 0.4,
+     "2015-04": 0.3,
+     "2015-05": 0.3,
+     "2015-06": 0.2,
+     "2015-07": 0.2,
+     "2015-08": 0.1,
+     "2015-09": 0.1,
+     "2015-10": 0.1,
+     "2015-11": 0.1,
+     "2015-12": 0.1,
+     "2016-01": 0.1,
+     "2016-02": 0.1,
+     "2016-03": 0.1,
+     "2016-04": 0.1,
+     "2016-05": 0.1,
+     "2016-06": 0.1,
+     "2016-07": 0.1,
+     "2016-08": 0.1,
+     "2016-09": 0.1,
+     "2016-10": 0.1,
+     "2016-12": 0.1,
+     "2017-01": 0.1,
+     "2017-03": 0.1,
+     "2021-07": 0.1,
+     "2021-08": 0.1,
+     "2021-09": 0.2,
+     "2021-10": 1.1,
+     "2021-11": 8.7,
+     "2021-12": 41.0
+    },
+    "span": [
+     "2014-02-12",
+     "2021-12-23"
+    ],
+    "first": "2014-02-12",
+    "last": "2021-12-23",
+    "earned_by_year": {
+     "2014": 8
+    }
+   }
+  ],
+  "img": "img/g/74c8da29705d19f7.webp"
+ },
+ {
   "id": "toy-story-3",
   "name": "Toy Story 3",
   "art": "http://store-images.s-microsoft.com/image/apps.10300.71617544322015264.ba31deda-5977-4617-be7f-fa37568dd1a1.0c51fa14-510c-4cca-a830-afdff87c7ad8",
@@ -37481,6 +38674,157 @@
   "img": "img/g/b4e00a68b62ee575.webp"
  },
  {
+  "id": "mario-kart-tour",
+  "name": "Mario Kart Tour",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/48/c0/4748c061-b137-af00-38f5-5ce0d223b522/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+  "first": "2021-11-25",
+  "last": "2021-11-26",
+  "days": [
+   "2021-11-25",
+   "2021-11-26"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-11-25",
+    "2021-11-26"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2021-11-25",
+    "2021-11-26",
+    "Apple"
+   ]
+  ],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Mario Kart Tour",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Mario Kart Tour",
+    "minutes": 45,
+    "earned": 1,
+    "total": 1,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/48/c0/4748c061-b137-af00-38f5-5ce0d223b522/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2021-11": 45.0
+    },
+    "span": [
+     "2021-11-25",
+     "2021-11-26"
+    ],
+    "first": "2021-11-25",
+    "last": "2021-11-26",
+    "earned_by_year": {
+     "2021": 1
+    }
+   }
+  ],
+  "img": "img/g/a40e8b0a68cb2081.webp"
+ },
+ {
+  "id": "crossy-road",
+  "name": "Crossy Road",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/be/a6/9cbea604-b46c-7213-1850-6a103623ce02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-11-26",
+  "last": "2021-11-26",
+  "days": [
+   "2021-11-26"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-11-26"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Crossy Road",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Crossy Road",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/be/a6/9cbea604-b46c-7213-1850-6a103623ce02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "first": "2021-11-26",
+    "last": "2021-11-26"
+   }
+  ],
+  "img": "img/g/493af78fe2601e2d.webp"
+ },
+ {
+  "id": "castlevania-grimoire-of-souls",
+  "name": "Castlevania: Grimoire of Souls",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "first": "2021-11-26",
+  "last": "2021-11-26",
+  "days": [
+   "2021-11-26"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-11-26"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Castlevania: Grimoire of Souls",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Castlevania: Grimoire of Souls",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "first": "2021-11-26",
+    "last": "2021-11-26"
+   }
+  ],
+  "img": "img/g/4209d4bc7b936cec.webp"
+ },
+ {
   "id": "river-city-girls",
   "name": "River City Girls",
   "art": "http://store-images.s-microsoft.com/image/apps.49662.13744198789091182.d176867c-ff91-4e0a-b1f7-00b2797de9c7.04b933de-5767-4c30-a842-b2f537387c78",
@@ -37932,84 +39276,6 @@
   "img": "img/g/7c03775fde66bae5.webp"
  },
  {
-  "id": "flipflop-solitaire",
-  "name": "Flipflop Solitaire",
-  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6f/59/c56f5922-ac30-0889-86d9-611b0c9053a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-  "first": "2021-04-26",
-  "last": "2021-09-25",
-  "days": [
-   "2021-04-26",
-   "2021-04-30",
-   "2021-05-01",
-   "2021-05-20",
-   "2021-05-22",
-   "2021-06-12",
-   "2021-06-13",
-   "2021-06-15",
-   "2021-06-19",
-   "2021-07-04",
-   "2021-07-16",
-   "2021-08-05",
-   "2021-08-07",
-   "2021-08-20",
-   "2021-08-21",
-   "2021-08-28",
-   "2021-09-25"
-  ],
-  "families": [
-   "Apple"
-  ],
-  "days_by_family": {
-   "Apple": [
-    "2021-04-26",
-    "2021-04-30",
-    "2021-05-01",
-    "2021-05-20",
-    "2021-05-22",
-    "2021-06-12",
-    "2021-06-13",
-    "2021-06-15",
-    "2021-06-19",
-    "2021-07-04",
-    "2021-07-16",
-    "2021-08-05",
-    "2021-08-07",
-    "2021-08-20",
-    "2021-08-21",
-    "2021-08-28",
-    "2021-09-25"
-   ]
-  },
-  "days_by_platform": {
-   "Apple|iOS|": 17
-  },
-  "days_played": 17,
-  "spans": [],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": null,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "ios:Flipflop Solitaire",
-    "family": "Apple",
-    "platform": "iOS",
-    "name": "Flipflop Solitaire",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/6f/59/c56f5922-ac30-0889-86d9-611b0c9053a6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-    "captures": 20,
-    "first": "2021-04-26",
-    "last": "2021-09-25"
-   }
-  ],
-  "released": "2017-11-09",
-  "img": "img/g/878df98dfe9a1a9a.webp"
- },
- {
   "id": "the-legend-of-zelda-skyward-sword-hd",
   "name": "The Legend of Zelda: Skyward Sword HD",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/a3c15ebb3cca41b4bd9f0e39c3260ddd_512",
@@ -38130,6 +39396,98 @@
    "lego"
   ],
   "img": "img/g/cd0987931bbb8f54.webp"
+ },
+ {
+  "id": "nba-2k21-arcade-edition",
+  "name": "NBA 2K21 Arcade Edition",
+  "art": null,
+  "first": "2021-08-23",
+  "last": "2021-08-23",
+  "days": [
+   "2021-08-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-08-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:NBA 2K21 Arcade Edition",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "NBA 2K21 Arcade Edition",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2021-08-23",
+    "last": "2021-08-23"
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "angry-birds-reloaded",
+  "name": "Angry Birds Reloaded",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/ce/06/fdce06c7-2c8a-2e3b-0272-fe15e2ea2be0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-08-14",
+  "last": "2021-08-14",
+  "days": [
+   "2021-08-14"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-08-14"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Angry Birds Reloaded",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Angry Birds Reloaded",
+    "minutes": 45,
+    "earned": 1,
+    "total": 1,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/ce/06/fdce06c7-2c8a-2e3b-0272-fe15e2ea2be0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "first": "2021-08-14",
+    "last": "2021-08-14",
+    "earned_by_year": {
+     "2021": 1
+    }
+   }
+  ],
+  "img": "img/g/8a82de09818794f8.webp"
  },
  {
   "id": "disney-infinity-3-0",
@@ -38413,6 +39771,54 @@
   ],
   "released": "2015-08-30",
   "img": "img/g/10b4bd11612a9bdd.webp"
+ },
+ {
+  "id": "cut-the-rope",
+  "name": "Cut the Rope Remastered",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/e1/c7/abe1c71b-1835-b225-5810-5abeb20eaf05/AppIcon-0-1x_U007emarketing-0-85-220-10.png/512x512bb.jpg",
+  "first": "2021-08-03",
+  "last": "2021-08-03",
+  "days": [
+   "2021-08-03"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-08-03"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Cut the Rope Remastered",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Cut the Rope Remastered",
+    "minutes": 45,
+    "earned": 1,
+    "total": 9,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/e1/c7/abe1c71b-1835-b225-5810-5abeb20eaf05/AppIcon-0-1x_U007emarketing-0-85-220-10.png/512x512bb.jpg",
+    "estimated": true,
+    "first": "2021-08-03",
+    "last": "2021-08-03",
+    "earned_by_year": {
+     "2021": 1
+    }
+   }
+  ],
+  "img": "img/g/e30c9f335990ac7b.webp"
  },
  {
   "id": "disneyland-adventures",
@@ -38817,6 +40223,50 @@
   "img": "img/g/3984dd52af054b70.webp"
  },
  {
+  "id": "dr-mario-world",
+  "name": "Dr. Mario World",
+  "art": null,
+  "first": "2021-06-27",
+  "last": "2021-06-27",
+  "days": [
+   "2021-06-27"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-06-27"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Dr. Mario World",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Dr. Mario World",
+    "minutes": null,
+    "earned": 0,
+    "total": 5,
+    "art": null,
+    "first": "2021-06-27",
+    "last": "2021-06-27"
+   }
+  ],
+  "img": null
+ },
+ {
   "id": "death-s-door",
   "name": "Death's Door",
   "art": "http://store-images.s-microsoft.com/image/apps.37438.13605204887272793.456e749a-524b-4372-bb98-1e7f5fac0947.476204f2-bfa7-4ae9-b73f-a3878fca4ac1",
@@ -39196,30 +40646,61 @@
   "name": "Good Sudoku",
   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/70/17/437017e8-5daa-8bd5-0503-4cbca0531f5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
   "first": "2021-05-22",
-  "last": "2021-05-22",
+  "last": "2021-05-30",
   "days": [
-   "2021-05-22"
+   "2021-05-22",
+   "2021-05-30"
   ],
   "families": [
    "Apple"
   ],
   "days_by_family": {
    "Apple": [
-    "2021-05-22"
+    "2021-05-22",
+    "2021-05-30"
    ]
   },
   "days_by_platform": {
-   "Apple|iOS|": 1
+   "Apple|iOS|": 2
   },
-  "days_played": 1,
-  "spans": [],
+  "days_played": 2,
+  "spans": [
+   [
+    "2021-05-22",
+    "2021-05-30",
+    "Apple"
+   ]
+  ],
   "family_play": false,
   "timeline_always": false,
-  "hours": null,
-  "hours_estimated": false,
+  "hours": 0.8,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "gc:Good Sudoku",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Good Sudoku",
+    "minutes": 45,
+    "earned": 2,
+    "total": 2,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/df/10/9adf10e9-b819-83e5-6766-d257526b9ab2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2021-05": 45.0
+    },
+    "span": [
+     "2021-05-22",
+     "2021-05-30"
+    ],
+    "first": "2021-05-22",
+    "last": "2021-05-30",
+    "earned_by_year": {
+     "2021": 2
+    }
+   },
    {
     "id": "ios:Good Sudoku",
     "family": "Apple",
@@ -39372,9 +40853,6 @@
    }
   ],
   "released": "1997-10-02",
-  "series": [
-   "castlevania"
-  ],
   "img": "img/g/928d6a290a544753.webp"
  },
  {
@@ -39522,6 +41000,54 @@
   "img": "img/g/209ae495f287004e.webp"
  },
  {
+  "id": "risk-global-domination",
+  "name": "Risk: Global Domination",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/93/82/819382bf-33e9-1c98-1489-2ddbd420252a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-04-23",
+  "last": "2021-04-23",
+  "days": [
+   "2021-04-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-04-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:RISK: Global Domination",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Risk: Global Domination",
+    "minutes": 45,
+    "earned": 2,
+    "total": 2,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/93/82/819382bf-33e9-1c98-1489-2ddbd420252a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "first": "2021-04-23",
+    "last": "2021-04-23",
+    "earned_by_year": {
+     "2021": 2
+    }
+   }
+  ],
+  "img": "img/g/4697fb82d764b9b0.webp"
+ },
+ {
   "id": "castlevania-anniversary-collection",
   "name": "Castlevania Anniversary Collection",
   "art": "http://store-images.s-microsoft.com/image/apps.12176.14228995659094666.f9dbdd46-31e2-41df-8e45-9ff64797f94c.79e854ea-50db-4d6a-8bd6-094d2a9eef72",
@@ -39615,6 +41141,240 @@
   ],
   "released": "2018-06-11",
   "img": "img/g/dd742c4544e77022.webp"
+ },
+ {
+  "id": "word-laces",
+  "name": "Word Laces",
+  "art": null,
+  "first": "2021-03-31",
+  "last": "2021-04-04",
+  "days": [
+   "2021-03-31",
+   "2021-04-04"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-03-31",
+    "2021-04-04"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2021-03-31",
+    "2021-04-04",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Word Laces",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Word Laces",
+    "minutes": 45,
+    "earned": 1,
+    "total": 1,
+    "art": null,
+    "estimated": true,
+    "modeled_hours": {
+     "2021-03": 9.0,
+     "2021-04": 36.0
+    },
+    "span": [
+     "2021-03-31",
+     "2021-04-04"
+    ],
+    "first": "2021-03-31",
+    "last": "2021-04-04",
+    "earned_by_year": {
+     "2021": 1
+    }
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "star-trek-legends",
+  "name": "Star Trek: Legends",
+  "art": null,
+  "first": "2021-04-04",
+  "last": "2021-04-04",
+  "days": [
+   "2021-04-04"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-04-04"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Star Trek: Legends",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Star Trek: Legends",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2021-04-04",
+    "last": "2021-04-04"
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "the-oregon-trail",
+  "name": "The Oregon Trail",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/d8/f4/6cd8f488-f4d8-e425-78bc-392909753b8e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "first": "2021-04-02",
+  "last": "2021-04-02",
+  "days": [
+   "2021-04-02"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-04-02"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:The Oregon Trail",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "The Oregon Trail",
+    "minutes": 45,
+    "earned": 1,
+    "total": 6,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/d8/f4/6cd8f488-f4d8-e425-78bc-392909753b8e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "estimated": true,
+    "first": "2021-04-02",
+    "last": "2021-04-02",
+    "earned_by_year": {
+     "2021": 1
+    }
+   },
+   {
+    "id": "camera:The Oregon Trail",
+    "family": "Photos",
+    "platform": "",
+    "name": "The Oregon Trail",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "blog_only": true,
+    "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-b265c089-6ac1.webp",
+    "first": null,
+    "last": null
+   }
+  ],
+  "img": "img/g/e68cdd15ccf74eda.webp"
+ },
+ {
+  "id": "mini-motorways",
+  "name": "Mini Motorways",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/84/a7/a584a72b-1583-cb45-6008-1119c309e539/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-03-07",
+  "last": "2021-03-31",
+  "days": [
+   "2021-03-07",
+   "2021-03-14",
+   "2021-03-31"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-03-07",
+    "2021-03-14",
+    "2021-03-31"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2021-03-07",
+    "2021-03-31",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 2.1,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Mini Motorways",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Mini Motorways",
+    "minutes": 126,
+    "earned": 5,
+    "total": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/84/a7/a584a72b-1583-cb45-6008-1119c309e539/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2021-03": 126.0
+    },
+    "span": [
+     "2021-03-07",
+     "2021-03-31"
+    ],
+    "first": "2021-03-07",
+    "last": "2021-03-31",
+    "earned_by_year": {
+     "2021": 5
+    }
+   }
+  ],
+  "img": "img/g/41f2b0474d0c89f4.webp"
  },
  {
   "id": "dragon-age-origins",
@@ -40112,6 +41872,69 @@
    "fallout"
   ],
   "img": "img/g/9cf86dfec5841caf.webp"
+ },
+ {
+  "id": "sp-ng",
+  "name": "Sp!Ng",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/72/4d/dd724d37-0f35-5e42-6f58-adc1072fffd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2021-03-07",
+  "last": "2021-03-13",
+  "days": [
+   "2021-03-07",
+   "2021-03-13"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2021-03-07",
+    "2021-03-13"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2021-03-07",
+    "2021-03-13",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:SP!NG",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Sp!Ng",
+    "minutes": 45,
+    "earned": 2,
+    "total": 2,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/72/4d/dd724d37-0f35-5e42-6f58-adc1072fffd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2021-03": 45.0
+    },
+    "span": [
+     "2021-03-07",
+     "2021-03-13"
+    ],
+    "first": "2021-03-07",
+    "last": "2021-03-13",
+    "earned_by_year": {
+     "2021": 2
+    }
+   }
+  ],
+  "img": "img/g/4506d14bb4369f20.webp"
  },
  {
   "id": "fight-night-champion",
@@ -42075,6 +43898,167 @@
   "img": "img/g/2d42625ff0ed2fdb.webp"
  },
  {
+  "id": "shantae-and-the-seven-sirens",
+  "name": "Shantae and the Seven Sirens",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/65/64/5e6564e3-2ffe-e30c-e6c7-d2216c283d46/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+  "first": "2020-10-23",
+  "last": "2020-10-23",
+  "days": [
+   "2020-10-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2020-10-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Shantae and the Seven Sirens",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Shantae and the Seven Sirens",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/65/64/5e6564e3-2ffe-e30c-e6c7-d2216c283d46/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "first": "2020-10-23",
+    "last": "2020-10-23"
+   }
+  ],
+  "img": "img/g/b57917101c2252e8.webp"
+ },
+ {
+  "id": "rayman-mini",
+  "name": "Rayman Mini",
+  "art": null,
+  "first": "2020-10-23",
+  "last": "2020-10-23",
+  "days": [
+   "2020-10-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2020-10-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Rayman Mini",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Rayman Mini",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2020-10-23",
+    "last": "2020-10-23"
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "castlevania-symphony-of-the-night-2",
+  "name": "Castlevania: Symphony of the Night",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "first": "2020-03-08",
+  "last": "2020-10-23",
+  "days": [
+   "2020-03-08",
+   "2020-10-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2020-03-08",
+    "2020-10-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2020-03-08",
+    "2020-10-23",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Castlevania: Symphony of the Night",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Castlevania: Symphony of the Night",
+    "minutes": 45,
+    "earned": 2,
+    "total": 2,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2020-03": 14.9,
+     "2020-04": 5.1,
+     "2020-05": 2.5,
+     "2020-06": 1.7,
+     "2020-07": 1.5,
+     "2020-08": 1.5,
+     "2020-09": 3.8,
+     "2020-10": 14.1
+    },
+    "span": [
+     "2020-03-08",
+     "2020-10-23"
+    ],
+    "first": "2020-03-08",
+    "last": "2020-10-23",
+    "earned_by_year": {
+     "2020": 2
+    }
+   }
+  ],
+  "series": [
+   "castlevania"
+  ],
+  "img": "img/g/4209d4bc7b936cec.webp"
+ },
+ {
   "id": "ultimate-marvel-vs-capcom-3",
   "name": "Ultimate Marvel vs. Capcom 3",
   "art": "https://image.api.playstation.com/trophy/np/NPWR10646_00_00F8C86729D6D61068C1DB7C48E2E6D3B9BAEA0FD5/18CD6CF85AFB67A0C0219D25DD5D50490998D4A2.PNG",
@@ -43554,31 +45538,72 @@
   "id": "what-the-golf",
   "name": "What the Golf?",
   "art": "https://img-eshop.cdn.nintendo.net/i/b1ba06bf80ba89e36311dc70178a98c51b2cdcbdc13b0ea28dcaced74b460b45.jpg",
-  "first": "2020-06-20",
+  "first": "2019-09-21",
   "last": "2020-06-20",
   "days": [
+   "2019-09-21",
+   "2020-01-01",
    "2020-06-20"
   ],
   "families": [
+   "Apple",
    "Nintendo"
   ],
   "days_by_family": {
+   "Apple": [
+    "2019-09-21",
+    "2020-01-01"
+   ],
    "Nintendo": [
     "2020-06-20"
    ]
   },
   "days_by_platform": {
-   "Nintendo|Switch|": 1
+   "Nintendo|Switch|": 1,
+   "Apple|iOS|": 2
   },
-  "days_played": 1,
-  "spans": [],
+  "days_played": 3,
+  "spans": [
+   [
+    "2019-09-21",
+    "2020-01-01",
+    "Apple"
+   ]
+  ],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.6,
-  "hours_estimated": false,
+  "hours": 1.4,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "gc:What the Golf?",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "What the Golf?",
+    "minutes": 45,
+    "earned": 2,
+    "total": 2,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/65/61/a3656164-6ca8-f831-5633-1551de43861d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2019-09": 9.3,
+     "2019-10": 11.2,
+     "2019-11": 5.8,
+     "2019-12": 17.4,
+     "2020-01": 1.3
+    },
+    "span": [
+     "2019-09-21",
+     "2020-01-01"
+    ],
+    "first": "2019-09-21",
+    "last": "2020-01-01",
+    "earned_by_year": {
+     "2019": 2
+    }
+   },
    {
     "id": "nintendo:01002c000e35e000",
     "family": "Nintendo",
@@ -44294,6 +46319,77 @@
   "img": "img/g/0f8ddf84e32c06be.webp"
  },
  {
+  "id": "subway-surfers",
+  "name": "Subway Surfers",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f4/67/0ef4676a-cb15-b8ec-d758-f2ccd62fe751/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2019-09-16",
+  "last": "2020-04-17",
+  "days": [
+   "2019-09-16",
+   "2020-04-17"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2019-09-16",
+    "2020-04-17"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2019-09-16",
+    "2020-04-17",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 2.1,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Subway Surfers",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Subway Surfers",
+    "minutes": 126,
+    "earned": 2,
+    "total": 22,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f4/67/0ef4676a-cb15-b8ec-d758-f2ccd62fe751/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2019-09": 32.5,
+     "2019-10": 21.3,
+     "2019-11": 7.9,
+     "2019-12": 5.5,
+     "2020-01": 4.5,
+     "2020-02": 4.6,
+     "2020-03": 15.3,
+     "2020-04": 34.4
+    },
+    "span": [
+     "2019-09-16",
+     "2020-04-17"
+    ],
+    "first": "2019-09-16",
+    "last": "2020-04-17",
+    "earned_by_year": {
+     "2019": 1,
+     "2020": 2
+    }
+   }
+  ],
+  "img": "img/g/c0a7ba350224a6a2.webp"
+ },
+ {
   "id": "castlevania-requiem-symphony-of-the-night-and-rondo-of-blood",
   "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
   "art": "https://image.api.playstation.com/trophy/np/NPWR16410_00_0052FF80CB779E5745AB3FBE511AD4F99AE5A505F7/9AEF53D9FFE280060E6107931A7759C57D2ADFDF.PNG",
@@ -44672,13 +46768,18 @@
    "2016-11-05",
    "2018-11-16",
    "2018-11-26",
+   "2019-06-07",
    "2020-03-08"
   ],
   "families": [
+   "Apple",
    "Nintendo",
    "Steam"
   ],
   "days_by_family": {
+   "Apple": [
+    "2019-06-07"
+   ],
    "Nintendo": [
     "2018-11-16",
     "2018-11-26"
@@ -44690,9 +46791,10 @@
   },
   "days_by_platform": {
    "Steam|PC|": 2,
-   "Nintendo|Switch|": 4
+   "Nintendo|Switch|": 4,
+   "Apple|iOS|": 1
   },
-  "days_played": 6,
+  "days_played": 7,
   "spans": [
    [
     "2016-11-05",
@@ -44813,6 +46915,18 @@
     "captures": 2,
     "first": "2018-11-16",
     "last": "2018-11-16"
+   },
+   {
+    "id": "gc:Sid Meier's Civilization VI",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Sid Meier's Civilization VI",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/58/b2/7a58b274-5c46-f16a-6054-5917b28d8cee/AppIcon-1x_U007emarketing-0-7-0-85-220-0.jpeg/512x512bb.jpg",
+    "first": "2019-06-07",
+    "last": "2019-06-07"
    }
   ],
   "released": "2016-10-20",
@@ -49787,6 +51901,94 @@
   "img": "img/g/4e85f4d72ed66140.webp"
  },
  {
+  "id": "ace-attorney-trilogy-hd",
+  "name": "Ace Attorney Trilogy HD",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+  "first": "2018-11-04",
+  "last": "2018-11-04",
+  "days": [
+   "2018-11-04"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2018-11-04"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Ace Attorney Trilogy HD",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Ace Attorney Trilogy HD",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "first": "2018-11-04",
+    "last": "2018-11-04"
+   }
+  ],
+  "img": "img/g/8003396c4cd14fa5.webp"
+ },
+ {
+  "id": "reigns-game-of-thrones",
+  "name": "Reigns: Game of Thrones",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/2d/41/0c2d413c-a3ff-9f45-68d0-b892cdbe4b3f/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+  "first": "2018-10-31",
+  "last": "2018-10-31",
+  "days": [
+   "2018-10-31"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2018-10-31"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Reigns: Game of Thrones",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Reigns: Game of Thrones",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/2d/41/0c2d413c-a3ff-9f45-68d0-b892cdbe4b3f/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+    "first": "2018-10-31",
+    "last": "2018-10-31"
+   }
+  ],
+  "img": "img/g/91f0f7be5f9fa329.webp"
+ },
+ {
   "id": "super-mario-kart",
   "name": "Super Mario Kart",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/063dc42092d2a1a798a41cba29ee5c35.png",
@@ -53662,6 +55864,50 @@
   "img": "img/g/c3a323ed6705108d.webp"
  },
  {
+  "id": "jurassic-world-alive",
+  "name": "Jurassic World Alive",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/c5/23/90c5236d-8ba7-dc44-d5e3-5b4789dcfd7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2018-06-04",
+  "last": "2018-06-04",
+  "days": [
+   "2018-06-04"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2018-06-04"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Jurassic World Alive",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Jurassic World Alive",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/c5/23/90c5236d-8ba7-dc44-d5e3-5b4789dcfd7e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "first": "2018-06-04",
+    "last": "2018-06-04"
+   }
+  ],
+  "img": "img/g/4949e78f4b6ececa.webp"
+ },
+ {
   "id": "retro-city-rampage",
   "name": "Retro City Rampage",
   "art": "https://image.api.playstation.com/trophy/np/NPWR03593_00_0009511A03DEBD9927A6EC24081685307924CEAED8/3AA02B23EA6540136B87D19EA42CBF746F6D078A.PNG",
@@ -55476,14 +57722,19 @@
   "last": "2018-03-08",
   "days": [
    "2016-01-23",
+   "2017-06-09",
    "2018-01-26",
    "2018-03-08"
   ],
   "families": [
+   "Apple",
    "Nintendo",
    "Steam"
   ],
   "days_by_family": {
+   "Apple": [
+    "2017-06-09"
+   ],
    "Nintendo": [
     "2018-01-26",
     "2018-03-08"
@@ -55494,14 +57745,15 @@
   },
   "days_by_platform": {
    "Steam|PC|": 1,
-   "Nintendo|Switch|": 2
+   "Nintendo|Switch|": 2,
+   "Apple|iOS|": 1
   },
-  "days_played": 3,
+  "days_played": 4,
   "spans": [],
   "family_play": false,
   "timeline_always": false,
-  "hours": 0.4,
-  "hours_estimated": false,
+  "hours": 1.2,
+  "hours_estimated": true,
   "estimated_from": [],
   "sessions": null,
   "entries": [
@@ -55516,6 +57768,22 @@
     "art": "https://cdn.cloudflare.steamstatic.com/steam/apps/416690/header.jpg",
     "first": "2016-01-23",
     "last": "2016-01-23"
+   },
+   {
+    "id": "gc:Oh...Sir! The Insult Simulator",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Oh...Sir! The Insult Simulator",
+    "minutes": 45,
+    "earned": 1,
+    "total": 1,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/ce/77/99/ce7799eb-30b8-ace3-cc8b-371e846196b7/mzl.kvnqcfry.png/512x512bb.jpg",
+    "estimated": true,
+    "first": "2017-06-09",
+    "last": "2017-06-09",
+    "earned_by_year": {
+     "2017": 1
+    }
    },
    {
     "id": "nintendo:0100782005a44000",
@@ -56631,6 +58899,182 @@
   "img": "img/g/61b4fab7897cd86b.webp"
  },
  {
+  "id": "puzzle-fighter",
+  "name": "Puzzle Fighter (2017)",
+  "art": null,
+  "first": "2018-01-29",
+  "last": "2018-01-29",
+  "days": [
+   "2018-01-29"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2018-01-29"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Puzzle Fighter (2017)",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Puzzle Fighter (2017)",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2018-01-29",
+    "last": "2018-01-29"
+   }
+  ],
+  "versions": [
+   {
+    "id": "puzzle-fighter-hd",
+    "name": "Puzzle Fighter HD"
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "temple-run-2",
+  "name": "Temple Run 2",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/35/7b/b1357b16-9dbf-953a-0ce8-0b07c74e62be/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+  "first": "2013-12-24",
+  "last": "2018-01-27",
+  "days": [
+   "2013-12-24",
+   "2013-12-25",
+   "2013-12-26",
+   "2013-12-27",
+   "2013-12-28",
+   "2014-01-26",
+   "2014-07-04",
+   "2018-01-27"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2013-12-24",
+    "2013-12-25",
+    "2013-12-26",
+    "2013-12-27",
+    "2013-12-28",
+    "2014-01-26",
+    "2014-07-04",
+    "2018-01-27"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 8
+  },
+  "days_played": 8,
+  "spans": [
+   [
+    "2013-12-24",
+    "2018-01-27",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 16.4,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Temple Run 2",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Temple Run 2",
+    "minutes": 982,
+    "earned": 44,
+    "total": 44,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/35/7b/b1357b16-9dbf-953a-0ce8-0b07c74e62be/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2013-12": 236.9,
+     "2014-01": 368.9,
+     "2014-02": 76.7,
+     "2014-03": 20.5,
+     "2014-04": 10.2,
+     "2014-05": 11.6,
+     "2014-06": 42.8,
+     "2014-07": 63.3,
+     "2014-08": 10.2,
+     "2014-09": 3.3,
+     "2014-10": 2.2,
+     "2014-11": 1.7,
+     "2014-12": 1.4,
+     "2015-01": 1.1,
+     "2015-02": 0.8,
+     "2015-03": 0.8,
+     "2015-04": 0.6,
+     "2015-05": 0.6,
+     "2015-06": 0.5,
+     "2015-07": 0.4,
+     "2015-08": 0.4,
+     "2015-09": 0.3,
+     "2015-10": 0.3,
+     "2015-11": 0.3,
+     "2015-12": 0.3,
+     "2016-01": 0.3,
+     "2016-02": 0.2,
+     "2016-03": 0.3,
+     "2016-04": 0.2,
+     "2016-05": 0.2,
+     "2016-06": 0.2,
+     "2016-07": 0.2,
+     "2016-08": 0.2,
+     "2016-09": 0.2,
+     "2016-10": 0.2,
+     "2016-11": 0.2,
+     "2016-12": 0.2,
+     "2017-01": 0.2,
+     "2017-02": 0.2,
+     "2017-03": 0.2,
+     "2017-04": 0.2,
+     "2017-05": 0.2,
+     "2017-06": 0.2,
+     "2017-07": 0.2,
+     "2017-08": 0.2,
+     "2017-09": 0.2,
+     "2017-10": 0.4,
+     "2017-11": 1.9,
+     "2017-12": 15.8,
+     "2018-01": 103.0
+    },
+    "span": [
+     "2013-12-24",
+     "2018-01-27"
+    ],
+    "first": "2013-12-24",
+    "last": "2018-01-27",
+    "earned_by_year": {
+     "2013": 36,
+     "2014": 38,
+     "2018": 44
+    }
+   }
+  ],
+  "img": "img/g/8e5f14ec8befcdb0.webp"
+ },
+ {
   "id": "uncharted-the-lost-legacy",
   "name": "Uncharted: The Lost Legacy",
   "art": "https://image.api.playstation.com/trophy/np/NPWR13408_00_0048C6FBCAAB8AD3570530BDE9AF5F503C79A1985A/5B82A3F92DE117928614487FAE5CA140A7A26A81.PNG",
@@ -57132,6 +59576,94 @@
   ],
   "released": "2016-02-26",
   "img": "img/g/31b3c4375235315e.webp"
+ },
+ {
+  "id": "organ-trail",
+  "name": "Organ Trail: Director's Cut",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple22/v4/a1/f4/23/a1f42365-9c7a-7b69-09f0-8c6775a5b80f/mzm.dmsdeeix.png/512x512bb.jpg",
+  "first": "2017-12-09",
+  "last": "2017-12-09",
+  "days": [
+   "2017-12-09"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-12-09"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Organ Trail: Director's Cut",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Organ Trail: Director's Cut",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple22/v4/a1/f4/23/a1f42365-9c7a-7b69-09f0-8c6775a5b80f/mzm.dmsdeeix.png/512x512bb.jpg",
+    "first": "2017-12-09",
+    "last": "2017-12-09"
+   }
+  ],
+  "img": "img/g/16e432c0918ede50.webp"
+ },
+ {
+  "id": "dictator-revolt",
+  "name": "Dictator: Revolt",
+  "art": null,
+  "first": "2017-12-09",
+  "last": "2017-12-09",
+  "days": [
+   "2017-12-09"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-12-09"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Dictator: Revolt",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Dictator: Revolt",
+    "minutes": null,
+    "earned": 0,
+    "total": 9,
+    "art": null,
+    "first": "2017-12-09",
+    "last": "2017-12-09"
+   }
+  ],
+  "img": null
  },
  {
   "id": "injustice-2",
@@ -57789,6 +60321,321 @@
   "img": "img/g/b7df796f9f06e756.webp"
  },
  {
+  "id": "office-space-idle-profits",
+  "name": "Office Space: Idle Profits",
+  "art": null,
+  "first": "2017-04-22",
+  "last": "2017-04-26",
+  "days": [
+   "2017-04-22",
+   "2017-04-24",
+   "2017-04-26"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-04-22",
+    "2017-04-24",
+    "2017-04-26"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2017-04-22",
+    "2017-04-26",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 2.1,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Office Space: Idle Profits",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Office Space: Idle Profits",
+    "minutes": 126,
+    "earned": 3,
+    "total": 3,
+    "art": null,
+    "estimated": true,
+    "modeled_hours": {
+     "2017-04": 126.0
+    },
+    "span": [
+     "2017-04-22",
+     "2017-04-26"
+    ],
+    "first": "2017-04-22",
+    "last": "2017-04-26",
+    "earned_by_year": {
+     "2017": 3
+    }
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "lara-croft-relic-run",
+  "name": "Lara Croft: Relic Run",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/57/6e/6c576ed1-8b9e-42b2-704e-edca242394ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2017-04-09",
+  "last": "2017-04-09",
+  "days": [
+   "2017-04-09"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-04-09"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Lara Croft: Relic Run",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Lara Croft: Relic Run",
+    "minutes": null,
+    "earned": 0,
+    "total": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/57/6e/6c576ed1-8b9e-42b2-704e-edca242394ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "first": "2017-04-09",
+    "last": "2017-04-09"
+   }
+  ],
+  "img": "img/g/4bb2e013c12352bd.webp"
+ },
+ {
+  "id": "angry-birds-epic-rpg",
+  "name": "Angry Birds Epic RPG",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a5/9b/d4a59b3d-7062-1581-dab0-ceda283e8e82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2014-08-29",
+  "last": "2017-04-03",
+  "days": [
+   "2014-08-29",
+   "2014-08-30",
+   "2014-09-01",
+   "2017-04-03"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-08-29",
+    "2014-08-30",
+    "2014-09-01",
+    "2017-04-03"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 4
+  },
+  "days_played": 4,
+  "spans": [
+   [
+    "2014-08-29",
+    "2017-04-03",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 3.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Angry Birds Epic RPG",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Angry Birds Epic RPG",
+    "minutes": 230,
+    "earned": 5,
+    "total": 5,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a5/9b/d4a59b3d-7062-1581-dab0-ceda283e8e82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2014-08": 25.3,
+     "2014-09": 108.3,
+     "2014-10": 18.4,
+     "2014-11": 6.2,
+     "2014-12": 4.1,
+     "2015-01": 3.1,
+     "2015-02": 2.2,
+     "2015-03": 2.0,
+     "2015-04": 1.5,
+     "2015-05": 1.2,
+     "2015-06": 1.0,
+     "2015-07": 0.8,
+     "2015-08": 0.7,
+     "2015-09": 0.5,
+     "2015-10": 0.5,
+     "2015-11": 0.4,
+     "2015-12": 0.3,
+     "2016-01": 0.3,
+     "2016-02": 0.2,
+     "2016-03": 0.2,
+     "2016-04": 0.2,
+     "2016-05": 0.2,
+     "2016-06": 0.2,
+     "2016-07": 0.2,
+     "2016-08": 0.2,
+     "2016-09": 0.2,
+     "2016-10": 0.2,
+     "2016-11": 0.2,
+     "2016-12": 0.2,
+     "2017-01": 0.7,
+     "2017-02": 4.0,
+     "2017-03": 36.6,
+     "2017-04": 9.8
+    },
+    "span": [
+     "2014-08-29",
+     "2017-04-03"
+    ],
+    "first": "2014-08-29",
+    "last": "2017-04-03",
+    "earned_by_year": {
+     "2014": 5
+    }
+   }
+  ],
+  "img": "img/g/d499ea76e54edc56.webp"
+ },
+ {
+  "id": "family-guy-the-quest-for-stuff",
+  "name": "Family Guy: The Quest for Stuff",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ef/d1/7defd14a-4d83-fca2-3ed3-1ee7ddf43ddb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "first": "2017-04-01",
+  "last": "2017-04-02",
+  "days": [
+   "2017-04-01",
+   "2017-04-02"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-04-01",
+    "2017-04-02"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2017-04-01",
+    "2017-04-02",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Family Guy: The Quest for Stuff",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Family Guy: The Quest for Stuff",
+    "minutes": 45,
+    "earned": 5,
+    "total": 7,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ef/d1/7defd14a-4d83-fca2-3ed3-1ee7ddf43ddb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2017-04": 45.0
+    },
+    "span": [
+     "2017-04-01",
+     "2017-04-02"
+    ],
+    "first": "2017-04-01",
+    "last": "2017-04-02",
+    "earned_by_year": {
+     "2017": 5
+    }
+   }
+  ],
+  "img": "img/g/3630b4ca710c438c.webp"
+ },
+ {
+  "id": "futurama-game-of-drones",
+  "name": "Futurama: Game of Drones",
+  "art": null,
+  "first": "2017-04-01",
+  "last": "2017-04-01",
+  "days": [
+   "2017-04-01"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-04-01"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Futurama: Game of Drones",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Futurama: Game of Drones",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2017-04-01",
+    "last": "2017-04-01"
+   }
+  ],
+  "img": null
+ },
+ {
   "id": "human-resource-machine",
   "name": "Human Resource Machine",
   "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/9765b4561fb74013af90d61f53e979e5_512",
@@ -57854,6 +60701,54 @@
   ],
   "released": "2015-10-29",
   "img": "img/g/eb1ae8bf9dc67f78.webp"
+ },
+ {
+  "id": "rayman-adventures",
+  "name": "Rayman Adventures",
+  "art": null,
+  "first": "2017-02-26",
+  "last": "2017-02-26",
+  "days": [
+   "2017-02-26"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2017-02-26"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Rayman Adventures",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Rayman Adventures",
+    "minutes": 45,
+    "earned": 1,
+    "total": 1,
+    "art": null,
+    "estimated": true,
+    "first": "2017-02-26",
+    "last": "2017-02-26",
+    "earned_by_year": {
+     "2017": 1
+    }
+   }
+  ],
+  "img": null
  },
  {
   "id": "yoshi-s-new-island",
@@ -58733,6 +61628,100 @@
   "img": "img/g/45ffcf49a13207f2.webp"
  },
  {
+  "id": "angry-birds-hd",
+  "name": "Angry Birds HD",
+  "art": null,
+  "first": "2014-02-22",
+  "last": "2016-09-24",
+  "days": [
+   "2014-02-22",
+   "2016-09-24"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-02-22",
+    "2016-09-24"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2014-02-22",
+    "2016-09-24",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Angry Birds HD",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Angry Birds HD",
+    "minutes": 45,
+    "earned": 5,
+    "total": 5,
+    "art": null,
+    "estimated": true,
+    "modeled_hours": {
+     "2014-02": 6.6,
+     "2014-03": 10.7,
+     "2014-04": 2.9,
+     "2014-05": 1.7,
+     "2014-06": 1.2,
+     "2014-07": 1.0,
+     "2014-08": 0.8,
+     "2014-09": 0.6,
+     "2014-10": 0.5,
+     "2014-11": 0.4,
+     "2014-12": 0.3,
+     "2015-01": 0.2,
+     "2015-02": 0.2,
+     "2015-03": 0.2,
+     "2015-04": 0.1,
+     "2015-05": 0.1,
+     "2015-06": 0.1,
+     "2015-07": 0.1,
+     "2015-08": 0.1,
+     "2015-09": 0.1,
+     "2015-10": 0.1,
+     "2015-11": 0.1,
+     "2015-12": 0.1,
+     "2016-01": 0.1,
+     "2016-02": 0.1,
+     "2016-03": 0.1,
+     "2016-04": 0.1,
+     "2016-05": 0.1,
+     "2016-06": 0.1,
+     "2016-07": 0.3,
+     "2016-08": 2.7,
+     "2016-09": 13.6
+    },
+    "span": [
+     "2014-02-22",
+     "2016-09-24"
+    ],
+    "first": "2014-02-22",
+    "last": "2016-09-24",
+    "earned_by_year": {
+     "2014": 5
+    }
+   }
+  ],
+  "img": null
+ },
+ {
   "id": "pok-mon-yellow-version",
   "name": "Pokémon Yellow Version",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/d7f6e57fb6ee4229f588a5f9f5b6a61d.png",
@@ -59112,6 +62101,214 @@
    "kinect-sports"
   ],
   "img": "img/g/09f80edd26ff3694.webp"
+ },
+ {
+  "id": "tiny-wings",
+  "name": "Tiny Wings",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1b/5d/a71b5d5b-a5f2-a17c-9bc9-22d529b5de98/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+  "first": "2012-01-10",
+  "last": "2016-08-07",
+  "days": [
+   "2012-01-10",
+   "2012-01-27",
+   "2016-08-07"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2012-01-10",
+    "2012-01-27",
+    "2016-08-07"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2012-01-10",
+    "2016-08-07",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 2.1,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Tiny Wings",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Tiny Wings",
+    "minutes": 126,
+    "earned": 10,
+    "total": 10,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1b/5d/a71b5d5b-a5f2-a17c-9bc9-22d529b5de98/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2012-01": 47.4,
+     "2012-02": 21.9,
+     "2012-03": 6.0,
+     "2012-04": 3.1,
+     "2012-05": 2.3,
+     "2012-06": 1.7,
+     "2012-07": 1.4,
+     "2012-08": 1.1,
+     "2012-09": 0.8,
+     "2012-10": 0.7,
+     "2012-11": 0.5,
+     "2012-12": 0.4,
+     "2013-01": 0.4,
+     "2013-02": 0.3,
+     "2013-03": 0.2,
+     "2013-04": 0.2,
+     "2013-05": 0.2,
+     "2013-06": 0.1,
+     "2013-07": 0.1,
+     "2013-08": 0.1,
+     "2013-09": 0.1,
+     "2013-10": 0.1,
+     "2013-11": 0.1,
+     "2013-12": 0.1,
+     "2014-01": 0.1,
+     "2014-02": 0.1,
+     "2014-03": 0.1,
+     "2014-04": 0.1,
+     "2014-05": 0.1,
+     "2014-06": 0.1,
+     "2014-07": 0.1,
+     "2014-08": 0.1,
+     "2014-09": 0.1,
+     "2014-10": 0.1,
+     "2014-11": 0.1,
+     "2014-12": 0.1,
+     "2015-01": 0.1,
+     "2015-02": 0.1,
+     "2015-03": 0.1,
+     "2015-04": 0.1,
+     "2015-05": 0.1,
+     "2015-06": 0.1,
+     "2015-07": 0.1,
+     "2015-08": 0.1,
+     "2015-09": 0.1,
+     "2015-10": 0.1,
+     "2015-11": 0.1,
+     "2015-12": 0.1,
+     "2016-01": 0.1,
+     "2016-02": 0.1,
+     "2016-03": 0.1,
+     "2016-04": 0.1,
+     "2016-05": 0.3,
+     "2016-06": 2.1,
+     "2016-07": 18.8,
+     "2016-08": 13.7
+    },
+    "span": [
+     "2012-01-10",
+     "2016-08-07"
+    ],
+    "first": "2012-01-10",
+    "last": "2016-08-07",
+    "earned_by_year": {
+     "2012": 10
+    }
+   }
+  ],
+  "img": "img/g/4015676506467bac.webp"
+ },
+ {
+  "id": "labyrinth-2-hd-lite",
+  "name": "Labyrinth 2 HD Lite",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/45/61/9345611b-48d6-c828-9a2b-d9725f559748/AppIcon_-_iPad_Lite-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+  "first": "2016-08-07",
+  "last": "2016-08-07",
+  "days": [
+   "2016-08-07"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2016-08-07"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Labyrinth 2 HD Lite",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Labyrinth 2 HD Lite",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/93/45/61/9345611b-48d6-c828-9a2b-d9725f559748/AppIcon_-_iPad_Lite-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "first": "2016-08-07",
+    "last": "2016-08-07"
+   }
+  ],
+  "img": "img/g/4aec2c49fbc699f8.webp"
+ },
+ {
+  "id": "lego-harry-potter-years-1-4",
+  "name": "LEGO Harry Potter: Years 1-4",
+  "art": null,
+  "first": "2016-08-07",
+  "last": "2016-08-07",
+  "days": [
+   "2016-08-07"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2016-08-07"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": true,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:LEGO Harry Potter: Years 1-4",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "LEGO Harry Potter: Years 1-4",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2016-08-07",
+    "last": "2016-08-07"
+   }
+  ],
+  "img": null
  },
  {
   "id": "viva-pi-ata",
@@ -63490,6 +66687,72 @@
   "img": "img/g/1e8dedfb8d0c7f9b.webp"
  },
  {
+  "id": "two-dots",
+  "name": "Two Dots",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/02/4e/74024ed7-ea37-8963-190f-c267aa3accd7/AppIcon-0-0-1x_U007emarketing-0-1-85-220.png/512x512bb.jpg",
+  "first": "2014-08-30",
+  "last": "2014-09-22",
+  "days": [
+   "2014-08-30",
+   "2014-08-31",
+   "2014-09-22"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-08-30",
+    "2014-08-31",
+    "2014-09-22"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2014-08-30",
+    "2014-09-22",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 2.1,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Two Dots",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Two Dots",
+    "minutes": 126,
+    "earned": 4,
+    "total": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/02/4e/74024ed7-ea37-8963-190f-c267aa3accd7/AppIcon-0-0-1x_U007emarketing-0-1-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2014-08": 13.3,
+     "2014-09": 112.7
+    },
+    "span": [
+     "2014-08-30",
+     "2014-09-22"
+    ],
+    "first": "2014-08-30",
+    "last": "2014-09-22",
+    "earned_by_year": {
+     "2014": 4
+    }
+   }
+  ],
+  "img": "img/g/ff41573fe909ef5c.webp"
+ },
+ {
   "id": "sportsfriends",
   "name": "Sportsfriends",
   "art": "https://image.api.playstation.com/trophy/np/NPWR06223_00_00FA424541C78E1634592157E927E6E0F0BE944F41/E79C3CC55A09F0A04E8478B28E131EAF5C1E5186.PNG",
@@ -64401,6 +67664,156 @@
   "img": "img/g/bb36f1ba12b53b46.webp"
  },
  {
+  "id": "real-racing-3",
+  "name": "Real Racing 3",
+  "art": null,
+  "first": "2014-03-12",
+  "last": "2014-05-09",
+  "days": [
+   "2014-03-12",
+   "2014-03-13",
+   "2014-03-22",
+   "2014-03-23",
+   "2014-03-25",
+   "2014-03-28",
+   "2014-04-26",
+   "2014-05-09"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-03-12",
+    "2014-03-13",
+    "2014-03-22",
+    "2014-03-23",
+    "2014-03-25",
+    "2014-03-28",
+    "2014-04-26",
+    "2014-05-09"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 8
+  },
+  "days_played": 8,
+  "spans": [
+   [
+    "2014-03-12",
+    "2014-05-09",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 13.4,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Real Racing 3",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Real Racing 3",
+    "minutes": 806,
+    "earned": 15,
+    "total": 15,
+    "art": null,
+    "estimated": true,
+    "modeled_hours": {
+     "2014-03": 404.1,
+     "2014-04": 311.2,
+     "2014-05": 90.7
+    },
+    "span": [
+     "2014-03-12",
+     "2014-05-09"
+    ],
+    "first": "2014-03-12",
+    "last": "2014-05-09",
+    "earned_by_year": {
+     "2014": 15
+    }
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "bad-piggies-hd",
+  "name": "Bad Piggies HD",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f2/d0/86f2d00b-a564-747c-b5ad-934d9c417e0c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+  "first": "2014-02-22",
+  "last": "2014-04-27",
+  "days": [
+   "2014-02-22",
+   "2014-03-14",
+   "2014-03-15",
+   "2014-03-17",
+   "2014-03-29",
+   "2014-04-27"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-02-22",
+    "2014-03-14",
+    "2014-03-15",
+    "2014-03-17",
+    "2014-03-29",
+    "2014-04-27"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 6
+  },
+  "days_played": 6,
+  "spans": [
+   [
+    "2014-02-22",
+    "2014-04-27",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 8.2,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Bad Piggies HD",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Bad Piggies HD",
+    "minutes": 490,
+    "earned": 10,
+    "total": 10,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f2/d0/86f2d00b-a564-747c-b5ad-934d9c417e0c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2014-02": 54.1,
+     "2014-03": 278.9,
+     "2014-04": 157.0
+    },
+    "span": [
+     "2014-02-22",
+     "2014-04-27"
+    ],
+    "first": "2014-02-22",
+    "last": "2014-04-27",
+    "earned_by_year": {
+     "2014": 10
+    }
+   }
+  ],
+  "img": "img/g/5a11fa39a41fdf29.webp"
+ },
+ {
   "id": "nba-2k14",
   "name": "NBA 2K14",
   "art": "https://image.api.playstation.com/trophy/np/NPWR04773_00_00BDAB0EFBD968B29D4EA3B9678808ECD48A6252E7/7FC9340B36EE9C385FBA2C763CFCEFF7574B27E4.PNG",
@@ -64510,6 +67923,214 @@
    "nba-2k"
   ],
   "img": "img/g/65123018509f4b84.webp"
+ },
+ {
+  "id": "xcom-enemy-unknown",
+  "name": "XCOM: Enemy Unknown",
+  "art": "https://image.api.playstation.com/trophy/np/NPWR03580_00_00B99D09CFEC4BD556DCD9D36A6EE4A9A023F0DC94/C272E5FC7C1F30F7BFF84B6F2C483CB9A54EBB37.PNG",
+  "first": "2014-03-16",
+  "last": "2014-04-12",
+  "days": [
+   "2014-03-16",
+   "2014-03-20",
+   "2014-04-12"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-03-16",
+    "2014-03-20",
+    "2014-04-12"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2014-03-16",
+    "2014-04-12",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 3.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:XCOM: Enemy Unknown",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "XCOM: Enemy Unknown",
+    "minutes": 230,
+    "earned": 6,
+    "total": 6,
+    "art": null,
+    "estimated": true,
+    "modeled_hours": {
+     "2014-03": 138.9,
+     "2014-04": 91.1
+    },
+    "span": [
+     "2014-03-16",
+     "2014-04-12"
+    ],
+    "first": "2014-03-16",
+    "last": "2014-04-12",
+    "earned_by_year": {
+     "2014": 6
+    }
+   },
+   {
+    "id": "psn:NPWR03580_00",
+    "family": "PlayStation",
+    "platform": "PS3",
+    "name": "XCOM: Enemy Unknown",
+    "minutes": null,
+    "art": "https://image.api.playstation.com/trophy/np/NPWR03580_00_00B99D09CFEC4BD556DCD9D36A6EE4A9A023F0DC94/C272E5FC7C1F30F7BFF84B6F2C483CB9A54EBB37.PNG",
+    "earned": 0,
+    "total": 56,
+    "first": null,
+    "last": null
+   }
+  ],
+  "img": "img/g/2f7afccfd9a72aba.webp"
+ },
+ {
+  "id": "civilization-revolution",
+  "name": "Civilization Revolution",
+  "art": null,
+  "first": "2014-02-05",
+  "last": "2014-04-12",
+  "days": [
+   "2014-02-05",
+   "2014-03-23",
+   "2014-04-12"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-02-05",
+    "2014-03-23",
+    "2014-04-12"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 3
+  },
+  "days_played": 3,
+  "spans": [
+   [
+    "2014-02-05",
+    "2014-04-12",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 3.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Civilization Revolution",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Civilization Revolution",
+    "minutes": 230,
+    "earned": 22,
+    "total": 22,
+    "art": null,
+    "estimated": true,
+    "modeled_hours": {
+     "2014-02": 74.7,
+     "2014-03": 97.6,
+     "2014-04": 57.7
+    },
+    "span": [
+     "2014-02-05",
+     "2014-04-12"
+    ],
+    "first": "2014-02-05",
+    "last": "2014-04-12",
+    "earned_by_year": {
+     "2014": 22
+    }
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "game-of-thrones-ascent",
+  "name": "Game of Thrones Ascent",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a7/40/91a74041-7921-670a-3d5b-af4429b809eb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+  "first": "2014-04-08",
+  "last": "2014-04-09",
+  "days": [
+   "2014-04-08",
+   "2014-04-09"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-04-08",
+    "2014-04-09"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2014-04-08",
+    "2014-04-09",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Game of Thrones Ascent",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Game of Thrones Ascent",
+    "minutes": 45,
+    "earned": 4,
+    "total": 4,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a7/40/91a74041-7921-670a-3d5b-af4429b809eb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2014-04": 45.0
+    },
+    "span": [
+     "2014-04-08",
+     "2014-04-09"
+    ],
+    "first": "2014-04-08",
+    "last": "2014-04-09",
+    "earned_by_year": {
+     "2014": 4
+    }
+   }
+  ],
+  "img": "img/g/d84d59dcb9922f0e.webp"
  },
  {
   "id": "fez",
@@ -64727,6 +68348,50 @@
   ],
   "released": "2014-03-04",
   "img": "img/g/35f45a9dc045f391.webp"
+ },
+ {
+  "id": "word-puttz",
+  "name": "Word Puttz",
+  "art": null,
+  "first": "2014-02-23",
+  "last": "2014-02-23",
+  "days": [
+   "2014-02-23"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2014-02-23"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Word Puttz",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Word Puttz",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2014-02-23",
+    "last": "2014-02-23"
+   }
+  ],
+  "img": null
  },
  {
   "id": "tomb-raider",
@@ -65985,6 +69650,74 @@
   "img": "img/g/e776be6bb27a17bc.webp"
  },
  {
+  "id": "hundreds",
+  "name": "Hundreds",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/e7/83/6c/e7836ca5-374d-0b01-3f36-9479270f4743/mzl.ctyqmaij.png/512x512bb.jpg",
+  "first": "2013-01-09",
+  "last": "2013-06-29",
+  "days": [
+   "2013-01-09",
+   "2013-06-29"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2013-01-09",
+    "2013-06-29"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 2
+  },
+  "days_played": 2,
+  "spans": [
+   [
+    "2013-01-09",
+    "2013-06-29",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Hundreds",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Hundreds",
+    "minutes": 45,
+    "earned": 2,
+    "total": 2,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/e7/83/6c/e7836ca5-374d-0b01-3f36-9479270f4743/mzl.ctyqmaij.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2013-01": 14.9,
+     "2013-02": 5.3,
+     "2013-03": 2.9,
+     "2013-04": 2.2,
+     "2013-05": 3.6,
+     "2013-06": 16.0
+    },
+    "span": [
+     "2013-01-09",
+     "2013-06-29"
+    ],
+    "first": "2013-01-09",
+    "last": "2013-06-29",
+    "earned_by_year": {
+     "2013": 2
+    }
+   }
+  ],
+  "img": "img/g/f2ee17922a127bdb.webp"
+ },
+ {
   "id": "professor-layton-and-the-miracle-mask",
   "name": "Professor Layton and the Miracle Mask",
   "art": "https://idbe-img-lp1.cdn.nintendo.net/3ds/59188beed6611cc5235c16d66aaef33b.png",
@@ -66142,6 +69875,98 @@
    "nba-2k"
   ],
   "img": "img/g/3dab7a08a15df3b7.webp"
+ },
+ {
+  "id": "life-is-magic",
+  "name": "Life is Magic",
+  "art": null,
+  "first": "2013-01-12",
+  "last": "2013-01-12",
+  "days": [
+   "2013-01-12"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2013-01-12"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": null,
+  "hours_estimated": false,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Life is Magic",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Life is Magic",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "first": "2013-01-12",
+    "last": "2013-01-12"
+   }
+  ],
+  "img": null
+ },
+ {
+  "id": "the-curse",
+  "name": "The Curse",
+  "art": null,
+  "first": "2013-01-05",
+  "last": "2013-01-05",
+  "days": [
+   "2013-01-05"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2013-01-05"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 1
+  },
+  "days_played": 1,
+  "spans": [],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 0.8,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:The Curse",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "The Curse",
+    "minutes": 45,
+    "earned": 1,
+    "total": 1,
+    "art": null,
+    "estimated": true,
+    "first": "2013-01-05",
+    "last": "2013-01-05",
+    "earned_by_year": {
+     "2013": 1
+    }
+   }
+  ],
+  "img": null
  },
  {
   "id": "red-dead-redemption",
@@ -67048,6 +70873,92 @@
    "uncharted"
   ],
   "img": "img/g/8a429552a705fbd0.webp"
+ },
+ {
+  "id": "temple-run",
+  "name": "Temple Run",
+  "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/26/ae/e626ae74-c53a-d9c1-7abd-f3199db65b24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+  "first": "2012-03-10",
+  "last": "2012-05-02",
+  "days": [
+   "2012-03-10",
+   "2012-03-20",
+   "2012-03-22",
+   "2012-03-26",
+   "2012-04-17",
+   "2012-05-02"
+  ],
+  "families": [
+   "Apple"
+  ],
+  "days_by_family": {
+   "Apple": [
+    "2012-03-10",
+    "2012-03-20",
+    "2012-03-22",
+    "2012-03-26",
+    "2012-04-17",
+    "2012-05-02"
+   ]
+  },
+  "days_by_platform": {
+   "Apple|iOS|": 6
+  },
+  "days_played": 6,
+  "spans": [
+   [
+    "2012-03-10",
+    "2012-05-02",
+    "Apple"
+   ]
+  ],
+  "family_play": false,
+  "timeline_always": false,
+  "hours": 8.2,
+  "hours_estimated": true,
+  "estimated_from": [],
+  "sessions": null,
+  "entries": [
+   {
+    "id": "gc:Temple Run",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Temple Run",
+    "minutes": 490,
+    "earned": 21,
+    "total": 32,
+    "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/26/ae/e626ae74-c53a-d9c1-7abd-f3199db65b24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+    "estimated": true,
+    "modeled_hours": {
+     "2012-03": 243.7,
+     "2012-04": 229.5,
+     "2012-05": 16.8
+    },
+    "span": [
+     "2012-03-10",
+     "2012-05-02"
+    ],
+    "first": "2012-03-10",
+    "last": "2012-05-02",
+    "earned_by_year": {
+     "2012": 21
+    }
+   },
+   {
+    "id": "camera:Temple Run",
+    "family": "Photos",
+    "platform": "",
+    "name": "Temple Run",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "blog_only": true,
+    "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-9c57f037-5018.webp",
+    "first": null,
+    "last": null
+   }
+  ],
+  "img": "img/g/4bef4d19d078a1b2.webp"
  },
  {
   "id": "sly-cooper-and-the-thievius-raccoonus",
@@ -72293,41 +76204,6 @@
   "img": "img/g/666cf463985f5418.webp"
  },
  {
-  "id": "the-oregon-trail",
-  "name": "The Oregon Trail",
-  "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-b265c089-6ac1.webp",
-  "first": null,
-  "last": null,
-  "days": [],
-  "families": [],
-  "days_by_family": {},
-  "days_by_platform": {},
-  "days_played": 0,
-  "spans": [],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": null,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "camera:The Oregon Trail",
-    "family": "Photos",
-    "platform": "",
-    "name": "The Oregon Trail",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "blog_only": true,
-    "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-b265c089-6ac1.webp",
-    "first": null,
-    "last": null
-   }
-  ],
-  "img": "img/g/e42cf7f3a2ee6ae7.webp"
- },
- {
   "id": "tetris-attack",
   "name": "Tetris Attack",
   "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-3add37b2-3545.webp",
@@ -72472,41 +76348,6 @@
    }
   ],
   "img": "img/g/92f6cc1d0e83f32c.webp"
- },
- {
-  "id": "temple-run",
-  "name": "Temple Run",
-  "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-9c57f037-5018.webp",
-  "first": null,
-  "last": null,
-  "days": [],
-  "families": [],
-  "days_by_family": {},
-  "days_by_platform": {},
-  "days_played": 0,
-  "spans": [],
-  "family_play": false,
-  "timeline_always": false,
-  "hours": null,
-  "hours_estimated": false,
-  "estimated_from": [],
-  "sessions": null,
-  "entries": [
-   {
-    "id": "camera:Temple Run",
-    "family": "Photos",
-    "platform": "",
-    "name": "Temple Run",
-    "minutes": null,
-    "earned": null,
-    "total": null,
-    "blog_only": true,
-    "art": "https://fakeronjan.github.io/gameplay-screenshots/t/cam-9c57f037-5018.webp",
-    "first": null,
-    "last": null
-   }
-  ],
-  "img": "img/g/aa74bb161360630a.webp"
  },
  {
   "id": "tecmo-super-nba-basketball",

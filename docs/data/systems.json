@@ -7361,10 +7361,10 @@
   "on": null,
   "elsewhere": {
    "games": 3,
-   "hours": 64,
+   "hours": 51,
    "est": true,
-   "first": "2007-03-21",
-   "last": "2021-05-16",
+   "first": "2015-12-23",
+   "last": "2020-10-23",
    "top": "Final Fantasy VII",
    "top_id": "final-fantasy-vii",
    "rows": [
@@ -7380,17 +7380,6 @@
      "on": "PS4"
     },
     {
-     "id": "castlevania-symphony-of-the-night",
-     "name": "Castlevania: Symphony of the Night",
-     "img": null,
-     "hours": 13.4,
-     "est": true,
-     "first": "2007-03-21",
-     "last": "2021-05-16",
-     "family_play": false,
-     "on": "360, Xbox"
-    },
-    {
      "id": "castlevania-requiem-symphony-of-the-night-and-rondo-of-blood",
      "name": "Castlevania Requiem: Symphony of the Night & Rondo of Blood",
      "img": null,
@@ -7400,6 +7389,17 @@
      "last": "2020-04-05",
      "family_play": false,
      "on": "PS4"
+    },
+    {
+     "id": "castlevania-symphony-of-the-night-2",
+     "name": "Castlevania: Symphony of the Night",
+     "img": null,
+     "hours": 0.8,
+     "est": true,
+     "first": "2020-03-08",
+     "last": "2020-10-23",
+     "family_play": false,
+     "on": "iOS"
     }
    ],
    "family_play": false

@@ -1,0 +1,356 @@
+{
+ "_about": "Game Center games from Apple's data export (arrived 2026-11-24), picked by Ronjan on the Game Center Review page (https://claude.ai/artifact/9Ys56wCCNjgLy5oLpMFpsE, picks saved in local/apple_export/review/picks.json). Every export game is listed: 'row' is the page row it joins (same display name as an existing row merges into it), family_play marks rows other family members played. Civilization Revolution's iPhone and iPad versions are one row (Ronjan 11/24). TSM Game is The Sims Mobile (launch log names com.ea.ios.simsmobile). Puzzle Fighter (2017 mobile) is its own row, linked to Puzzle Fighter HD under Other versions.",
+ "games": {
+  "The Oregon Trail": {
+   "row": "The Oregon Trail",
+   "app_id": 307519882,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/d8/f4/6cd8f488-f4d8-e425-78bc-392909753b8e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg"
+  },
+  "Labyrinth 2 HD Lite": {
+   "row": "Labyrinth 2 HD Lite",
+   "app_id": 365526686,
+   "family_play": false
+  },
+  "LEGO Harry Potter: Years 1-4": {
+   "row": "LEGO Harry Potter: Years 1-4",
+   "app_id": 404086528,
+   "family_play": true
+  },
+  "Tiny Wings": {
+   "row": "Tiny Wings",
+   "app_id": 417817520,
+   "family_play": false
+  },
+  "Temple Run": {
+   "row": "Temple Run",
+   "app_id": 420009108,
+   "family_play": false
+  },
+  "AB Classic HD": {
+   "row": "Angry Birds HD",
+   "app_id": 364234221,
+   "family_play": false
+  },
+  "Bad Piggies HD": {
+   "row": "Bad Piggies HD",
+   "app_id": 545229893,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f2/d0/86f2d00b-a564-747c-b5ad-934d9c417e0c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg"
+  },
+  "Life is Magic": {
+   "row": "Life is Magic",
+   "app_id": 549877045,
+   "family_play": false
+  },
+  "The Curse": {
+   "row": "The Curse",
+   "app_id": 548001324,
+   "family_play": false
+  },
+  "Hundreds": {
+   "row": "Hundreds",
+   "app_id": 493536432,
+   "family_play": false
+  },
+  "Subway Surfers": {
+   "row": "Subway Surfers",
+   "app_id": 512939461,
+   "family_play": false
+  },
+  "Temple Run 2": {
+   "row": "Temple Run 2",
+   "app_id": 572395608,
+   "family_play": false
+  },
+  "Civilization Revolution": {
+   "row": "Civilization Revolution",
+   "app_id": 324563544,
+   "family_play": false
+  },
+  "Threes!": {
+   "row": "Threes!",
+   "app_id": 779157948,
+   "family_play": false
+  },
+  "Word Puttz": {
+   "row": "Word Puttz",
+   "app_id": 708388086,
+   "family_play": false
+  },
+  "Real Racing 3: Car Race Game": {
+   "row": "Real Racing 3",
+   "app_id": 556164008,
+   "family_play": false
+  },
+  "XCOM®: Enemy Unknown": {
+   "row": "XCOM: Enemy Unknown",
+   "app_id": 639544885,
+   "family_play": false
+  },
+  "Civilization Revolution for iPad": {
+   "row": "Civilization Revolution",
+   "app_id": 364150646,
+   "family_play": false
+  },
+  "Game of Thrones Ascent": {
+   "row": "Game of Thrones Ascent",
+   "app_id": 799145075,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a7/40/91a74041-7921-670a-3d5b-af4429b809eb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg"
+  },
+  "Angry Birds Epic RPG": {
+   "row": "Angry Birds Epic RPG",
+   "app_id": 767319014,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a5/9b/d4a59b3d-7062-1581-dab0-ceda283e8e82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "Two Dots - Connect the Colors": {
+   "row": "Two Dots",
+   "app_id": 880178264,
+   "family_play": false
+  },
+  "Super Mario Run": {
+   "row": "Super Mario Run",
+   "app_id": 1145275343,
+   "family_play": true
+  },
+  "Valiant Hearts: The Great War": {
+   "row": "Valiant Hearts: The Great War",
+   "app_id": 840190360,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/e3/ac/efe3ac7b-68d8-cc42-ede6-c7eb65db4ef1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg"
+  },
+  "Rayman Adventures": {
+   "row": "Rayman Adventures",
+   "app_id": 1043589663,
+   "family_play": false
+  },
+  "Futurama: Game of Drones": {
+   "row": "Futurama: Game of Drones",
+   "app_id": 1009200976,
+   "family_play": false
+  },
+  "Family Guy The Quest for Stuff": {
+   "row": "Family Guy: The Quest for Stuff",
+   "app_id": 838500730,
+   "family_play": false
+  },
+  "Lara Croft: Relic Run": {
+   "row": "Lara Croft: Relic Run",
+   "app_id": 960251959,
+   "family_play": false
+  },
+  "Office Space: Idle Profits": {
+   "row": "Office Space: Idle Profits",
+   "app_id": 1163059158,
+   "family_play": false
+  },
+  "Oh...Sir! The Insult Simulator": {
+   "row": "Oh...Sir! The Insult Simulator",
+   "app_id": 1118082679,
+   "family_play": false
+  },
+  "Animal Crossing: Pocket Camp": {
+   "row": "Animal Crossing: Pocket Camp",
+   "app_id": 1179915619,
+   "family_play": true,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/2d/5c/8e2d5cb5-de9a-4f0b-618d-696159bb922c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+  },
+  "Organ Trail: Director's Cut": {
+   "row": "Organ Trail: Director's Cut",
+   "app_id": 533024665,
+   "family_play": false
+  },
+  "Dictator: Revolt": {
+   "row": "Dictator: Revolt",
+   "app_id": 943419894,
+   "family_play": false
+  },
+  "Ace Attorney Trilogy HD": {
+   "row": "Ace Attorney Trilogy HD",
+   "app_id": 365681816,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/00/c6/6f/00c66fb0-2155-e80e-c811-b67de1795236/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg"
+  },
+  "Puzzle Fighter": {
+   "row": "Puzzle Fighter (2017)",
+   "app_id": 1227577793,
+   "family_play": false
+  },
+  "Jurassic World Alive": {
+   "row": "Jurassic World Alive",
+   "app_id": 1231085864,
+   "family_play": false
+  },
+  "Sid Meier's Civilization® VI": {
+   "row": "Sid Meier's Civilization VI",
+   "app_id": 1235863443,
+   "family_play": false
+  },
+  "Reigns: Game of Thrones": {
+   "row": "Reigns: Game of Thrones",
+   "app_id": 1342309192,
+   "family_play": false
+  },
+  "Disney Emoji Blitz Game": {
+   "row": "Disney Emoji Blitz",
+   "app_id": 1017551780,
+   "family_play": true
+  },
+  "TSM Game": {
+   "row": "The Sims Mobile",
+   "app_id": 1144258115,
+   "family_play": true
+  },
+  "Dr. Mario World": {
+   "row": "Dr. Mario World",
+   "app_id": 1440129313,
+   "family_play": false
+  },
+  "WHAT THE GOLF?": {
+   "row": "What the Golf?",
+   "app_id": 1415190483,
+   "family_play": false
+  },
+  "Rayman Mini": {
+   "row": "Rayman Mini",
+   "app_id": 1469537876,
+   "family_play": false
+  },
+  "Mario Kart Tour": {
+   "row": "Mario Kart Tour",
+   "app_id": 1293634699,
+   "family_play": true
+  },
+  "Castlevania: SotN": {
+   "row": "Castlevania: Symphony of the Night",
+   "app_id": 1435456830,
+   "family_play": false
+  },
+  "Shantae and the Seven Sirens": {
+   "row": "Shantae and the Seven Sirens",
+   "app_id": 1451660353,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/65/64/5e6564e3-2ffe-e30c-e6c7-d2216c283d46/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg"
+  },
+  "Flow Free": {
+   "row": "Flow Free",
+   "app_id": 526641427,
+   "family_play": true
+  },
+  "Star Wars™: Galaxy of Heroes": {
+   "row": "Star Wars: Galaxy of Heroes",
+   "app_id": 921022358,
+   "family_play": false
+  },
+  "Mini Motorways": {
+   "row": "Mini Motorways",
+   "app_id": 1453901000,
+   "family_play": false
+  },
+  "SP!NG": {
+   "row": "SP!NG",
+   "app_id": 1483542433,
+   "family_play": false
+  },
+  "KenKen Classic": {
+   "row": "KenKen Classic",
+   "app_id": 485694706,
+   "family_play": false
+  },
+  "Word Laces AA": {
+   "row": "Word Laces",
+   "app_id": 1442515267,
+   "family_play": false
+  },
+  "Star Trek: Legends": {
+   "row": "Star Trek: Legends",
+   "app_id": 1529664467,
+   "family_play": false
+  },
+  "RISK: Global Domination": {
+   "row": "RISK: Global Domination",
+   "app_id": 1051334048,
+   "family_play": false
+  },
+  "Flipflop Solitaire+": {
+   "row": "Flipflop Solitaire",
+   "app_id": 1551670425,
+   "family_play": false
+  },
+  "Good Sudoku+": {
+   "row": "Good Sudoku",
+   "app_id": 1551669399,
+   "family_play": false
+  },
+  "Cut the Rope Remastered": {
+   "row": "Cut the Rope Remastered",
+   "app_id": 1524615151,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/e1/c7/abe1c71b-1835-b225-5810-5abeb20eaf05/AppIcon-0-1x_U007emarketing-0-85-220-10.png/512x512bb.jpg"
+  },
+  "Angry Birds Reloaded": {
+   "row": "Angry Birds Reloaded",
+   "app_id": 1539172625,
+   "family_play": false
+  },
+  "NBA 2K21 Arcade Edition": {
+   "row": "NBA 2K21 Arcade Edition",
+   "app_id": 1555650987,
+   "family_play": false
+  },
+  "Super Plexis": {
+   "row": "Super Plexis",
+   "app_id": 1155953418,
+   "family_play": false
+  },
+  "Castlevania: Grimoire of Souls": {
+   "row": "Castlevania: Grimoire of Souls",
+   "app_id": 1552347138,
+   "family_play": false,
+   "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+  },
+  "Crossy Road+": {
+   "row": "Crossy Road",
+   "app_id": 1559490508,
+   "family_play": false
+  },
+  "Disney Heroes: Battle Mode": {
+   "row": "Disney Heroes: Battle Mode",
+   "app_id": 1327925104,
+   "family_play": true
+  },
+  "Luck be a Landlord": {
+   "row": "Luck be a Landlord",
+   "app_id": 6450724928,
+   "family_play": false
+  },
+  "Sudoku by MobilityWare+": {
+   "row": "Sudoku by MobilityWare",
+   "app_id": 1556715970,
+   "family_play": false
+  },
+  "Pocket Card Jockey: Ride On!": {
+   "row": "Pocket Card Jockey Ride On!",
+   "app_id": 1604577143,
+   "family_play": false
+  },
+  "NFL 2K Playmakers": {
+   "row": "NFL 2K Playmakers",
+   "app_id": 6443885876,
+   "family_play": false
+  },
+  "Balatro": {
+   "row": "Balatro",
+   "app_id": 6502453075,
+   "family_play": false
+  },
+  "NBA 2K Mobile Basketball Game": {
+   "row": "NBA 2K Mobile",
+   "app_id": 1252850847,
+   "family_play": false
+  }
+ },
+ "skip": []
+}
