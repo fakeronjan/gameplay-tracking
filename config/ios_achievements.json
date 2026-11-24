@@ -1,5 +1,5 @@
 {
- "_about": "In-game achievement lists read from Ronjan's iOS screenshots (no platform records them). The screenshots show which were earned, not when, so unlocks are undated (Earned '-', Ronjan 2026-11-24). Retro Bowl College: 7 Yearbook pages, 1/29/2024, 'ACHIEVEMENTS 97%' (76 of 78; dimmed = not earned). Retro Bowl (base): 100% on 3/7/2021, but only the first 12 names were on screen, so the 73 names come from the Fandom wiki; the wiki may not match the game's list in March 2021 exactly.",
+ "_about": "In-game achievement lists read from Ronjan's iOS screenshots (no platform records them). The screenshots show which were earned, not when, so unlocks are undated (Earned '-', Ronjan 2026-11-24). Retro Bowl College: 7 Yearbook pages, 1/29/2024, 'ACHIEVEMENTS 97%' (76 of 78; dimmed = not earned). Retro Bowl (base): 100% on 3/7/2021, but only the first 12 names were on screen, so the 73 names come from the Fandom wiki; the wiki may not match the game's list in March 2021 exactly. 'year': every unlock in the list falls in that year, so it counts toward that year's completion on the Timeline without a day. Retro Bowl College: downloaded 1/8/2024, 97% on 1/29/2024, so 0 to 97% in 2024 (Ronjan 11/24). Retro Bowl spans 10/2020 to 3/2021, so no year.",
  "lists": {
   "ios:Retro Bowl": {
    "screenshots": "2021-03-07",
@@ -615,7 +615,8 @@
      "earned": true
     }
    ],
-   "screenshots": "2024-01-29"
+   "screenshots": "2024-01-29",
+   "year": "2024"
   }
  }
 }

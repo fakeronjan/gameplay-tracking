@@ -445,7 +445,8 @@ def entries_and_unlocks(cfg=None):
         for a in lst["achievements"]:  # in the game's own list order
             if a["earned"]:  # no day: the screenshots show only that it was earned (Ronjan 11/24: Earned "-")
                 unlocks.append({"entry": eid, "name": a["name"], "detail": "", "kind": "achievement", "rarity": None,
-                                "earned": None, "icon": None})
+                                "earned": None, "icon": None,
+                                **({"earned_year": lst["year"]} if lst.get("year") else {})})
         e["earned"] = sum(1 for a in lst["achievements"] if a["earned"])
         e["total"] = len(lst["achievements"])
 
@@ -824,6 +825,8 @@ def build():
     for u in unlocks:
         if u["earned"]:
             by_year[u["entry"]][u["earned"][:4]] += 1
+        elif u.get("earned_year"):  # undated, but the whole list falls inside one year (ios_achievements.json)
+            by_year[u["entry"]][u["earned_year"]] += 1
     # A trophy list whose platinum is earned, with its date (PlayStation; Platinum pills on the
     # Games tab, and on the Timeline from that year on)
     platinum = {u["entry"]: u["earned"][:10] for u in unlocks if u["earned"] and u.get("kind") == "platinum"}
