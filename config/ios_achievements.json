@@ -1,0 +1,621 @@
+{
+ "_about": "In-game achievement lists read from Ronjan's iOS screenshots (no platform records them). The screenshots show which were earned, not when, so unlocks are undated (Earned '-', Ronjan 2026-11-24). Retro Bowl College: 7 Yearbook pages, 1/29/2024, 'ACHIEVEMENTS 97%' (76 of 78; dimmed = not earned). Retro Bowl (base): 100% on 3/7/2021, but only the first 12 names were on screen, so the 73 names come from the Fandom wiki; the wiki may not match the game's list in March 2021 exactly.",
+ "lists": {
+  "ios:Retro Bowl": {
+   "screenshots": "2021-03-07",
+   "source": "Hall of Fame screenshots 3/7/2021 ('ACHIEVEMENTS 100%', first 12 names visible); full list from the Retro Bowl Fandom wiki (pasted by Ronjan 2026-11-24), worded to match the game where College or a 1/1/2021 pop-up shows the same achievement",
+   "achievements": [
+    {
+     "name": "Score a touchdown",
+     "earned": true
+    },
+    {
+     "name": "Score 3 touchdowns in a game",
+     "earned": true
+    },
+    {
+     "name": "Score 5 touchdowns in a game",
+     "earned": true
+    },
+    {
+     "name": "Score a field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 25 yard field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 50 yard field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 60 yard field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 1 point conversion",
+     "earned": true
+    },
+    {
+     "name": "Score a 2 point conversion",
+     "earned": true
+    },
+    {
+     "name": "Score 50 points in a game",
+     "earned": true
+    },
+    {
+     "name": "Score a touchdown with the QB",
+     "earned": true
+    },
+    {
+     "name": "Doink a field goal",
+     "earned": true
+    },
+    {
+     "name": "Stop opponent from scoring",
+     "earned": true
+    },
+    {
+     "name": "Make a pass",
+     "earned": true
+    },
+    {
+     "name": "Make a 10 yard passing play",
+     "earned": true
+    },
+    {
+     "name": "Make a 25 yard passing play",
+     "earned": true
+    },
+    {
+     "name": "Make a 50 yard passing play",
+     "earned": true
+    },
+    {
+     "name": "Pass for 200 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Pass for 300 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Pass for 400 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Pass for 500 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Make a 5 yard running play",
+     "earned": true
+    },
+    {
+     "name": "Make a 10 yard running play",
+     "earned": true
+    },
+    {
+     "name": "Make a 15 yard running play",
+     "earned": true
+    },
+    {
+     "name": "Rush for 50 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Rush for 100 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Rush for 150 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Win a game",
+     "earned": true
+    },
+    {
+     "name": "Win 5 games",
+     "earned": true
+    },
+    {
+     "name": "Win 10 games",
+     "earned": true
+    },
+    {
+     "name": "Win 25 games",
+     "earned": true
+    },
+    {
+     "name": "Win 50 games",
+     "earned": true
+    },
+    {
+     "name": "Win 100 games",
+     "earned": true
+    },
+    {
+     "name": "Complete a full season",
+     "earned": true
+    },
+    {
+     "name": "Complete 5 full seasons",
+     "earned": true
+    },
+    {
+     "name": "Complete 10 full seasons",
+     "earned": true
+    },
+    {
+     "name": "Complete 20 full seasons",
+     "earned": true
+    },
+    {
+     "name": "Have a winning season",
+     "earned": true
+    },
+    {
+     "name": "Perfect regular season",
+     "earned": true
+    },
+    {
+     "name": "Take charge of a new team",
+     "earned": true
+    },
+    {
+     "name": "Win a division",
+     "earned": true
+    },
+    {
+     "name": "Win a playoff game",
+     "earned": true
+    },
+    {
+     "name": "Win the AFC title",
+     "earned": true
+    },
+    {
+     "name": "Win the NFC title",
+     "earned": true
+    },
+    {
+     "name": "Win the Retro Bowl",
+     "earned": true
+    },
+    {
+     "name": "Win 3 Retro Bowl titles",
+     "earned": true
+    },
+    {
+     "name": "Win 5 Retro Bowl titles",
+     "earned": true
+    },
+    {
+     "name": "Win 10 Retro Bowl titles",
+     "earned": true
+    },
+    {
+     "name": "Win 2 Retro Bowls in 2 seasons",
+     "earned": true
+    },
+    {
+     "name": "Win 3 Retro Bowls in 3 seasons",
+     "earned": true
+    },
+    {
+     "name": "Retro Bowl without a star QB",
+     "earned": true
+    },
+    {
+     "name": "Retro Bowl without star player",
+     "earned": true
+    },
+    {
+     "name": "Score 50 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Score 100 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Score 250 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Score 500 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Throw 50 touchdowns in a season",
+     "earned": true
+    },
+    {
+     "name": "Draft a player",
+     "earned": true
+    },
+    {
+     "name": "Sign a free agent",
+     "earned": true
+    },
+    {
+     "name": "Sign a 5 star free agent",
+     "earned": true
+    },
+    {
+     "name": "Trading a player in",
+     "earned": true
+    },
+    {
+     "name": "Trading a player out",
+     "earned": true
+    },
+    {
+     "name": "Cut a player",
+     "earned": true
+    },
+    {
+     "name": "Upgrade your stadium facilities",
+     "earned": true
+    },
+    {
+     "name": "Upgrade your training facilities",
+     "earned": true
+    },
+    {
+     "name": "Upgrade your rehab facilities",
+     "earned": true
+    },
+    {
+     "name": "Max out your stadium facilities",
+     "earned": true
+    },
+    {
+     "name": "Max out your rehab facilities",
+     "earned": true
+    },
+    {
+     "name": "Hire an offensive coordinator",
+     "earned": true
+    },
+    {
+     "name": "Hire a defensive coordinator",
+     "earned": true
+    },
+    {
+     "name": "Hire a 5 star offensive coordinator",
+     "earned": true
+    },
+    {
+     "name": "Hire a 5 star defensive coordinator",
+     "earned": true
+    },
+    {
+     "name": "Extend a coaches contract",
+     "earned": true
+    }
+   ]
+  },
+  "ios:Retro Bowl College": {
+   "source": "Yearbook screenshots, 1/29/2024",
+   "achievements": [
+    {
+     "name": "Make a pass",
+     "earned": true
+    },
+    {
+     "name": "Score a touchdown",
+     "earned": true
+    },
+    {
+     "name": "Score 3 touchdowns in a game",
+     "earned": true
+    },
+    {
+     "name": "Score 5 touchdowns in a game",
+     "earned": true
+    },
+    {
+     "name": "Score a field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 25 yard field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 50 yard field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 60 yard field goal",
+     "earned": true
+    },
+    {
+     "name": "Score a 1 point conversion",
+     "earned": true
+    },
+    {
+     "name": "Score a 2 point conversion",
+     "earned": true
+    },
+    {
+     "name": "Win a game",
+     "earned": true
+    },
+    {
+     "name": "Win 5 games",
+     "earned": true
+    },
+    {
+     "name": "Win 10 games",
+     "earned": true
+    },
+    {
+     "name": "Win 25 games",
+     "earned": true
+    },
+    {
+     "name": "Win 50 games",
+     "earned": true
+    },
+    {
+     "name": "Win 100 games",
+     "earned": true
+    },
+    {
+     "name": "Complete a full season",
+     "earned": true
+    },
+    {
+     "name": "Complete 5 full seasons",
+     "earned": true
+    },
+    {
+     "name": "Complete 10 full seasons",
+     "earned": true
+    },
+    {
+     "name": "Complete 20 full seasons",
+     "earned": false
+    },
+    {
+     "name": "Cut a player",
+     "earned": true
+    },
+    {
+     "name": "Score 50 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Score 100 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Score 250 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Score 500 career touchdowns",
+     "earned": true
+    },
+    {
+     "name": "Upgrade your stadium facilities",
+     "earned": true
+    },
+    {
+     "name": "Upgrade your training facilities",
+     "earned": true
+    },
+    {
+     "name": "Upgrade your rehab facilities",
+     "earned": true
+    },
+    {
+     "name": "Max out your stadium facilities",
+     "earned": true
+    },
+    {
+     "name": "Max out your training facilities",
+     "earned": true
+    },
+    {
+     "name": "Max out your rehab facilities",
+     "earned": true
+    },
+    {
+     "name": "Have a winning season",
+     "earned": true
+    },
+    {
+     "name": "Perfect regular season",
+     "earned": true
+    },
+    {
+     "name": "Build 5 star offense",
+     "earned": true
+    },
+    {
+     "name": "Build 5 star defense",
+     "earned": true
+    },
+    {
+     "name": "Achieve 100% team morale",
+     "earned": true
+    },
+    {
+     "name": "Get 100% fan rating",
+     "earned": true
+    },
+    {
+     "name": "Hire an offensive coordinator",
+     "earned": true
+    },
+    {
+     "name": "Hire a defensive coordinator",
+     "earned": true
+    },
+    {
+     "name": "Hire a 5 star OF coordinator",
+     "earned": true
+    },
+    {
+     "name": "Hire a 5 star DF coordinator",
+     "earned": true
+    },
+    {
+     "name": "Make a 10 yard passing play",
+     "earned": true
+    },
+    {
+     "name": "Make a 25 yard passing play",
+     "earned": true
+    },
+    {
+     "name": "Make a 50 yard passing play",
+     "earned": true
+    },
+    {
+     "name": "Make a 5 yard running play",
+     "earned": true
+    },
+    {
+     "name": "Make a 10 yard running play",
+     "earned": true
+    },
+    {
+     "name": "Make a 15 yard running play",
+     "earned": true
+    },
+    {
+     "name": "Pass for 200 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Pass for 300 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Pass for 400 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Pass for 500 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "100% pass completion in a game",
+     "earned": true
+    },
+    {
+     "name": "Rush for 50 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Rush for 100 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Rush for 150 yards in a game",
+     "earned": true
+    },
+    {
+     "name": "Take charge of a new team",
+     "earned": true
+    },
+    {
+     "name": "Stop opponent from scoring",
+     "earned": true
+    },
+    {
+     "name": "Score 50 points in a game",
+     "earned": true
+    },
+    {
+     "name": "Extend a coach contract",
+     "earned": true
+    },
+    {
+     "name": "Win a game without a star QB",
+     "earned": true
+    },
+    {
+     "name": "Win a game without a star player",
+     "earned": true
+    },
+    {
+     "name": "Score a touchdown with the QB",
+     "earned": true
+    },
+    {
+     "name": "Throw 50 touchdowns in a season",
+     "earned": true
+    },
+    {
+     "name": "Doink a field goal",
+     "earned": true
+    },
+    {
+     "name": "Make a 25 yard kickoff return",
+     "earned": true
+    },
+    {
+     "name": "Make a 50 yard kickoff return",
+     "earned": true
+    },
+    {
+     "name": "Make a 75 yard kickoff return",
+     "earned": true
+    },
+    {
+     "name": "Score a touchdown return",
+     "earned": true
+    },
+    {
+     "name": "Add a new Freshman to the Roster",
+     "earned": true
+    },
+    {
+     "name": "Have a Senior drafted as a R1 pick",
+     "earned": true
+    },
+    {
+     "name": "Have a Senior drafted as a R2 pick",
+     "earned": true
+    },
+    {
+     "name": "Have a Senior drafted as a R3 pick",
+     "earned": true
+    },
+    {
+     "name": "Have a Senior player graduate",
+     "earned": true
+    },
+    {
+     "name": "Have a Junior player drafted",
+     "earned": true
+    },
+    {
+     "name": "Win the Major Subdivision",
+     "earned": true
+    },
+    {
+     "name": "Win the Minor Subdivision",
+     "earned": false
+    },
+    {
+     "name": "Finish top of a Division or Conf.",
+     "earned": true
+    },
+    {
+     "name": "Win any Bowl game",
+     "earned": true
+    }
+   ],
+   "screenshots": "2024-01-29"
+  }
+ }
+}

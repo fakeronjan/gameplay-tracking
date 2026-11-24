@@ -297,7 +297,7 @@
    "why": "PS5 Legacy of Thieves: one list, trophy groups per game"
   }
  },
- "_family_play": "Rows other family members also played (Ronjan, 2026-11-12): Disney Infinity 3.0, Street Fighter V, Octopath Traveler 0. Any listed entry marks its whole row; the page shows 'Includes significant play time from other family members'. Nintendo ones are in config/nintendo_overrides.json. Game Center (Ronjan 2026-11-24): Animal Crossing: Pocket Camp, Disney Emoji Blitz, Disney Heroes, Flow Free, LEGO Harry Potter: Years 1-4, Mario Kart Tour, Super Mario Run, The Sims Mobile.",
+ "_family_play": "Rows other family members also played (Ronjan, 2026-11-12): Disney Infinity 3.0, Street Fighter V, Octopath Traveler 0. Any listed entry marks its whole row; the page shows 'Includes significant play time from other family members'. Nintendo ones are in config/nintendo_overrides.json. Game Center (Ronjan 2026-11-24): Animal Crossing: Pocket Camp, Disney Emoji Blitz, Disney Heroes, Flow Free, LEGO Harry Potter: Years 1-4, Mario Kart Tour, Super Mario Run, The Sims Mobile, Super Plexis.",
  "family_play": [
   "psn-played:CUSA01705_00",
   "psn-played:CUSA02038_00",
@@ -309,7 +309,8 @@
   "gc:LEGO Harry Potter: Years 1-4",
   "gc:Mario Kart Tour",
   "gc:Super Mario Run",
-  "gc:The Sims Mobile"
+  "gc:The Sims Mobile",
+  "gc:Super Plexis"
  ],
  "_versions": "Other versions of the same game kept as their own rows (remakes): each game page links to the rest (Ronjan 2026-11-12). Any entry id in a row stands for that row. Final Fantasy VII, Remake, and Rebirth linked 2026-11-18 (Ronjan). Tetris Attack and Panel de Pon linked 2026-11-19 (Ronjan: the same game). Puzzle Fighter HD (2007) and Puzzle Fighter (2017 mobile) link to each other (Ronjan 2026-11-24).",
  "versions": [

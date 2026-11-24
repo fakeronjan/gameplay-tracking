@@ -435,6 +435,20 @@ def entries_and_unlocks(cfg=None):
                                       "captures": sum(1 for c in g["captures"] if "dup_of" not in c),
                                       **({"estimated": True, "estimated_from": ["iOS stats"]} if mins else {})}
 
+    # In-game achievement lists read from iOS screenshots (config/ios_achievements.json): the
+    # screenshots show which were earned but not when, so these unlocks have no date
+    ios_ach = json.loads((HERE / "config" / "ios_achievements.json").read_text())
+    for eid, lst in ios_ach["lists"].items():
+        e = entries.get(eid)
+        if e is None:
+            raise SystemExit(f"config/ios_achievements.json names {eid}, which has no play record")
+        for a in lst["achievements"]:  # in the game's own list order
+            if a["earned"]:  # no day: the screenshots show only that it was earned (Ronjan 11/24: Earned "-")
+                unlocks.append({"entry": eid, "name": a["name"], "detail": "", "kind": "achievement", "rarity": None,
+                                "earned": None, "icon": None})
+        e["earned"] = sum(1 for a in lst["achievements"] if a["earned"])
+        e["total"] = len(lst["achievements"])
+
     # iOS Game Center: one-time import from Apple's data export (tools/build_game_center.py, picks in
     # config/game_center_games.json, Ronjan 2026-11-24). Days are launch-log days (10/2022 on),
     # achievement unlock days, and the last-played date. No hours: games with unlock days get the

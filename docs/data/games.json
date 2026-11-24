@@ -27410,8 +27410,8 @@
     "platform": "iOS",
     "name": "Retro Bowl",
     "minutes": 3240,
-    "earned": null,
-    "total": null,
+    "earned": 73,
+    "total": 73,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7d/d8/197dd8db-93d4-f20b-b99b-fd809f070698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "captures": 277,
     "estimated": true,
@@ -27500,8 +27500,8 @@
     "platform": "iOS",
     "name": "Retro Bowl College",
     "minutes": 360,
-    "earned": null,
-    "total": null,
+    "earned": 76,
+    "total": 78,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/6d/57/156d5757-df57-1b9b-1bbe-ae73bb98c3f9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "captures": 20,
     "estimated": true,
@@ -29157,9 +29157,10 @@
   "id": "super-plexis",
   "name": "Super Plexis",
   "art": null,
-  "first": "2022-10-01",
+  "first": "2022-08-17",
   "last": "2023-06-25",
   "days": [
+   "2022-08-17",
    "2022-10-01",
    "2022-10-22",
    "2022-10-29",
@@ -29180,6 +29181,7 @@
   ],
   "days_by_family": {
    "Apple": [
+    "2022-08-17",
     "2022-10-01",
     "2022-10-22",
     "2022-10-29",
@@ -29197,17 +29199,30 @@
    ]
   },
   "days_by_platform": {
-   "Apple|iOS|": 14
+   "Apple|iOS|": 15
   },
-  "days_played": 14,
+  "days_played": 15,
   "spans": [],
-  "family_play": false,
+  "family_play": true,
   "timeline_always": false,
   "hours": null,
   "hours_estimated": false,
   "estimated_from": [],
   "sessions": null,
   "entries": [
+   {
+    "id": "ios:Super Plexis",
+    "family": "Apple",
+    "platform": "iOS",
+    "name": "Super Plexis",
+    "minutes": null,
+    "earned": null,
+    "total": null,
+    "art": null,
+    "captures": 2,
+    "first": "2022-08-17",
+    "last": "2022-08-17"
+   },
    {
     "id": "gc:Super Plexis",
     "family": "Apple",
