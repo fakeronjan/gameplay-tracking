@@ -31941,8 +31941,8 @@
     "platform": "iOS",
     "name": "Retro Bowl",
     "minutes": 3240,
-    "earned": 73,
-    "total": 73,
+    "earned": 85,
+    "total": 85,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/7d/d8/197dd8db-93d4-f20b-b99b-fd809f070698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "captures": 277,
     "estimated": true,
@@ -31980,8 +31980,8 @@
     "platform": "Switch",
     "name": "Retro Bowl",
     "minutes": 1448,
-    "earned": null,
-    "total": null,
+    "earned": 80,
+    "total": 85,
     "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/342ddeb68c3b42839555f8f50bf951b0_512",
     "days_played": 26,
     "family_play": false,
@@ -32010,7 +32010,10 @@
     },
     "day_minutes": {},
     "first": "2022-07-30",
-    "last": "2022-10-27"
+    "last": "2022-10-27",
+    "earned_by_year": {
+     "2022": 80
+    }
    },
    {
     "id": "switch:F71343E393314FD6E37E8D19DA678A69",

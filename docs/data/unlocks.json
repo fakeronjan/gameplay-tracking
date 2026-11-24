@@ -42561,6 +42561,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win the Retro Bowl",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win the NFC title",
   "detail": "",
@@ -42583,13 +42595,83 @@
   "img": null
  },
  {
-  "entry": "ios:Retro Bowl",
-  "name": "Win a playoff game",
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win the AFC title",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
   "earned": null,
   "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win a play-off game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win a play-off game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win a game without a star player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win a game without a star player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Win a game without a star QB",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win a game without a star QB",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42605,6 +42687,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win a division",
   "detail": "",
@@ -42612,6 +42706,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win a division",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42627,6 +42733,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 50 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win 5 games",
   "detail": "",
@@ -42634,6 +42752,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 5 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42649,6 +42779,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 5 Retro Bowl titles",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win 3 Retro Bowls in 3 seasons",
   "detail": "",
@@ -42656,6 +42798,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 3 Retro Bowls in 3 seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42671,6 +42825,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 3 Retro Bowl titles",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win 25 games",
   "detail": "",
@@ -42678,6 +42844,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 25 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42693,6 +42871,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 2 Retro Bowls in 2 seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win 100 games",
   "detail": "",
@@ -42700,6 +42890,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 100 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42715,6 +42917,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 10 games",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Win 10 Retro Bowl titles",
   "detail": "",
@@ -42722,6 +42936,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Win 10 Retro Bowl titles",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42737,6 +42963,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Upgrade your training facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Upgrade your stadium facilities",
   "detail": "",
@@ -42744,6 +42982,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Upgrade your stadium facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42759,8 +43009,20 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Upgrade your rehab facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
-  "name": "Trading a player out",
+  "name": "Trade a player out",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
@@ -42770,13 +43032,37 @@
   "img": null
  },
  {
-  "entry": "ios:Retro Bowl",
-  "name": "Trading a player in",
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Trade a player out",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
   "earned": null,
   "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Trade a player in",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Trade a player in",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42788,6 +43074,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Throw 50 touchdowns in a season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42814,6 +43112,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Stop opponent from scoring",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Sign a free agent",
   "detail": "",
@@ -42821,6 +43131,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Sign a free agent",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42836,6 +43158,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Sign a 5 star free agent",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score a touchdown with the QB",
   "detail": "",
@@ -42843,6 +43177,41 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a touchdown with the QB",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Score a touchdown return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a touchdown return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42858,6 +43227,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a touchdown",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score a field goal",
   "detail": "",
@@ -42865,6 +43246,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42891,6 +43284,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a 50 yard field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score a 25 yard field goal",
   "detail": "",
@@ -42898,6 +43303,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a 25 yard field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42913,6 +43330,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a 2 point conversion",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score a 1 point conversion",
   "detail": "",
@@ -42920,6 +43349,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score a 1 point conversion",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42935,6 +43376,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 500 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score 50 points in a game",
   "detail": "",
@@ -42942,6 +43395,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 50 points in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42957,6 +43422,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 50 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score 5 touchdowns in a game",
   "detail": "",
@@ -42964,6 +43441,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 5 touchdowns in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -42979,6 +43468,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 3 touchdowns in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Score 250 career touchdowns",
   "detail": "",
@@ -42986,6 +43487,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 250 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43001,6 +43514,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Score 100 career touchdowns",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Rush for 50 yards in a game",
   "detail": "",
@@ -43008,6 +43533,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Rush for 50 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43023,6 +43560,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Rush for 150 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Rush for 100 yards in a game",
   "detail": "",
@@ -43030,6 +43579,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Rush for 100 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43046,12 +43607,24 @@
  },
  {
   "entry": "ios:Retro Bowl",
-  "name": "Retro Bowl without a star QB",
+  "name": "Retro Bowl without star QB",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Retro Bowl without star QB",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43067,6 +43640,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Perfect regular season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Pass for 500 yards in a game",
   "detail": "",
@@ -43074,6 +43659,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Pass for 500 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43089,6 +43686,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Pass for 400 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Pass for 300 yards in a game",
   "detail": "",
@@ -43096,6 +43705,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Pass for 300 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43111,6 +43732,41 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Pass for 200 yards in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Max out your training facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Max out your training facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Max out your stadium facilities",
   "detail": "",
@@ -43118,6 +43774,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Max out your stadium facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43133,6 +43801,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Max out your rehab facilities",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Make a pass",
   "detail": "",
@@ -43140,6 +43820,41 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a pass",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 75 yard kickoff return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 75 yard kickoff return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43155,6 +43870,41 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 50 yard passing play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 50 yard kickoff return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 50 yard kickoff return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Make a 5 yard running play",
   "detail": "",
@@ -43162,6 +43912,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 5 yard running play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43177,6 +43939,41 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 25 yard passing play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Make a 25 yard kickoff return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 25 yard kickoff return",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Make a 15 yard running play",
   "detail": "",
@@ -43184,6 +43981,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 15 yard running play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43199,6 +44008,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 10 yard running play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Make a 10 yard passing play",
   "detail": "",
@@ -43206,6 +44027,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Make a 10 yard passing play",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43221,6 +44054,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Hire an offensive coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Hire a defensive coordinator",
   "detail": "",
@@ -43232,8 +44077,20 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Hire a defensive coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
-  "name": "Hire a 5 star offensive coordinator",
+  "name": "Hire a 5 star OF coordinator",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
@@ -43243,13 +44100,37 @@
   "img": null
  },
  {
-  "entry": "ios:Retro Bowl",
-  "name": "Hire a 5 star defensive coordinator",
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Hire a 5 star OF coordinator",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
   "earned": null,
   "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Hire a 5 star DF coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Hire a 5 star DF coordinator",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43265,13 +44146,60 @@
   "img": null
  },
  {
-  "entry": "ios:Retro Bowl",
-  "name": "Extend a coaches contract",
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Have a winning season",
   "detail": "",
   "kind": "achievement",
   "rarity": null,
   "earned": null,
   "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Get 100% fan rating",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Get 100% fan rating",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Extend a coach contract",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Extend a coach contract",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43287,6 +44215,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Draft a player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Doink a field goal",
   "detail": "",
@@ -43294,6 +44234,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Doink a field goal",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43309,6 +44261,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Cut a player",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Complete a full season",
   "detail": "",
@@ -43320,6 +44284,18 @@
   "img": null
  },
  {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Complete a full season",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
   "entry": "ios:Retro Bowl",
   "name": "Complete 5 full seasons",
   "detail": "",
@@ -43327,6 +44303,18 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Complete 5 full seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
@@ -43349,6 +44337,110 @@
   "rarity": null,
   "earned": null,
   "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Complete 10 full seasons",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Build 5 star offense",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Build 5 star offense",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Build 5 star defense",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Build 5 star defense",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "Achieve 100% team morale",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "Achieve 100% team morale",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "ios:Retro Bowl",
+  "name": "100% pass completion in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "game": "retro-bowl",
+  "img": null
+ },
+ {
+  "entry": "nintendo:0100c5b016e30000",
+  "name": "100% pass completion in a game",
+  "detail": "",
+  "kind": "achievement",
+  "rarity": null,
+  "earned": null,
+  "icon": null,
+  "earned_year": "2022",
   "game": "retro-bowl",
   "img": null
  },
