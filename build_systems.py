@@ -10,7 +10,7 @@ Rules (Ronjan, 2026-11-20):
   - A unit's first-played date is its purchase date, or the model's US launch date when it was
     bought before launch (a pre-order). A system's first played is the earliest of its units and
     its first day of recorded play; a config "first_played" overrides it (null = unknown).
-  - Last used: "Still have one" if any unit is kept; else the last day of play recorded on the
+  - Last played: the latest play of the system's games anywhere (see below). Formerly "Still have one" / the last day of play recorded on the
     hardware; else the latest dated sale, gift, or trade.
   - Hours are the headline number. Play on the hardware and play of its games elsewhere are
     separate; the same hour can count on both a Wii U card and the SNES card.
@@ -143,11 +143,14 @@ def main():
             if on and on["first"]:
                 starts.append(on["first"])
             first = min(starts) if starts else None
-        # Last used
-        if any(u.get("have") for u in s["units"]):
-            last = {"kind": "have"}
-        elif on and on["last"]:
-            last = {"kind": "played", "date": on["last"]}
+        # Last played (Ronjan 2026-11-25): the latest day any of this system's games was played, on its
+        # own hardware or anywhere else (a PS4 game on a PS5, SNES games on Switch Online), so a system
+        # stays current as long as its games do. Whether a unit is still on hand only shows as the year
+        # range ending "now" (have). A system with no recorded play at all falls back to when it went.
+        have = any(u.get("have") for u in s["units"])
+        played = max(filter(None, [on["last"] if on else None, elsewhere["last"] if elsewhere else None]), default=None)
+        if played:
+            last = {"kind": "played", "date": played}
         else:
             gone = sorted((u["gone"][1], u["gone"][0]) for u in s["units"] if u.get("gone") and u["gone"][1])
             last = {"kind": gone[-1][1], "date": gone[-1][0]} if gone else None
@@ -156,7 +159,7 @@ def main():
             "id": s["id"], "name": s["name"], "family": s["family"], "versions": s["versions"],
             "img": f"img/systems/stock-{s['id']}.jpg",
             "photos": [{"img": f"img/systems/photo-{p[0]}.jpg", "caption": p[1], "date": p[2]} for p in s["photos"]],
-            "first": first, "launched": s.get("launched"), "last": last, "on": on, "elsewhere": elsewhere,
+            "first": first, "launched": s.get("launched"), "last": last, "have": have, "on": on, "elsewhere": elsewhere,
         })
         for p in s["photos"]:
             if not (HERE / "docs" / "img" / "systems" / f"photo-{p[0]}.jpg").exists():
