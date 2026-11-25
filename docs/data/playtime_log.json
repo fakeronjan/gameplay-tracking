@@ -118,5 +118,13 @@
   "name": "Grand Theft Auto VI",
   "platform": "psn",
   "time": "2026-11-23T10:43:12Z"
+ },
+ {
+  "id": "0100c5b016e30000",
+  "minutes_delta": 2,
+  "minutes_total": 1450,
+  "name": "Retro Bowl",
+  "platform": "nintendo",
+  "time": "2026-11-25T02:18:00Z"
  }
 ]

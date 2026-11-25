@@ -217,7 +217,7 @@
    "hours": 2432,
    "est": false,
    "first": "2017-03-04",
-   "last": "2026-10-29",
+   "last": "2026-11-24",
    "top": "Animal Crossing: New Horizons",
    "top_id": "animal-crossing-new-horizons",
    "rows": [
@@ -478,10 +478,10 @@
      "id": "retro-bowl",
      "name": "Retro Bowl",
      "img": null,
-     "hours": 24.1,
+     "hours": 24.2,
      "est": false,
      "first": "2022-07-30",
-     "last": "2022-10-27",
+     "last": "2026-11-24",
      "family_play": false,
      "on": "Switch"
     },

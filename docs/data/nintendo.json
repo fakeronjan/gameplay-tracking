@@ -1802,12 +1802,12 @@
    "platform": "Switch"
   },
   "0100c5b016e30000": {
-   "days_played": 26,
+   "days_played": 27,
    "family_play": false,
    "first_played": "2022-07-30T13:27:53Z",
    "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/342ddeb68c3b42839555f8f50bf951b0_512",
-   "last_played": "2022-10-28T01:23:04Z",
-   "minutes": 1448,
+   "last_played": "2026-11-24T22:46:15Z",
+   "minutes": 1450,
    "name": "Retro Bowl",
    "platform": "Switch"
   },
@@ -2095,7 +2095,7 @@
    "days_played": 12,
    "family_play": false,
    "first_played": "2025-06-06T01:26:51Z",
-   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/30a80dde4c284db6b014986fa6f01e9e_512",
+   "image": "https://atum-img-lp1.cdn.nintendo.net/i/c/1c78026466904a5f87b96724979b7d85_512",
    "last_played": "2026-09-06T14:37:22Z",
    "minutes": 182,
    "name": "Nintendo GameCube – Nintendo Classics",
@@ -2172,5 +2172,5 @@
    "platform": "Switch 2"
   }
  },
- "updated": "2026-11-24T23:15:39Z"
+ "updated": "2026-11-25T02:18:00Z"
 }

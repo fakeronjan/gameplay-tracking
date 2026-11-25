@@ -1,11 +1,9 @@
 {
- "failed": [
-  "psn"
- ],
- "nintendo_ok": "2026-11-24T23:15:39Z",
+ "failed": [],
+ "nintendo_ok": "2026-11-25T02:18:00Z",
  "nintendo_token_expires": "2028-11-11",
- "psn_npsso_expires": "2027-01-07",
- "psn_ok": "2026-11-24T10:43:11Z",
- "steam_ok": "2026-11-24T23:15:39Z",
- "updated": "2026-11-24T23:15:39Z"
+ "psn_npsso_expires": "2027-01-23",
+ "psn_ok": "2026-11-25T02:18:00Z",
+ "steam_ok": "2026-11-25T02:18:00Z",
+ "updated": "2026-11-25T02:18:00Z"
 }
