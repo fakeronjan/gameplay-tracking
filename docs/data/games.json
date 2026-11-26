@@ -1167,7 +1167,7 @@
  {
   "id": "mario-kart-world",
   "name": "Mario Kart World",
-  "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
+  "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/80d69094899f494c86a8b6a35c3d63ef_512",
   "first": "2025-06-07",
   "last": "2026-11-13",
   "days": [
@@ -1209,7 +1209,7 @@
     "minutes": 625,
     "earned": null,
     "total": null,
-    "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/e1def375c7254d669bcd65ff10170151_512",
+    "art": "https://atum-img-lp1.cdn.nintendo.net/i/c/80d69094899f494c86a8b6a35c3d63ef_512",
     "days_played": 17,
     "family_play": false,
     "span": [
@@ -1302,7 +1302,7 @@
   "series": [
    "mario-kart"
   ],
-  "img": "img/g/7f43968270908821.webp"
+  "img": "img/g/395509e2e00a6b04.webp"
  },
  {
   "id": "disney-emoji-blitz",
