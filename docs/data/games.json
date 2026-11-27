@@ -980,13 +980,10 @@
     "name": "Balatro",
     "minutes": null,
     "earned": 12,
-    "total": 12,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1a/a7/c0/1aa7c0eb-434a-5a6a-774c-b02a6b702fc1/iOS_AppIcon_Premium-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "first": "2024-09-26",
-    "last": "2026-11-18",
-    "earned_by_year": {
-     "2024": 12
-    }
+    "last": "2026-11-18"
    },
    {
     "id": "ios:Balatro",
@@ -1354,7 +1351,7 @@
     "name": "Disney Emoji Blitz",
     "minutes": 45,
     "earned": 6,
-    "total": 15,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/26/62/ee/2662ee42-28fa-4c71-4a74-8795656ea739/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -1383,10 +1380,7 @@
      "2026-11-08"
     ],
     "first": "2025-05-25",
-    "last": "2026-11-08",
-    "earned_by_year": {
-     "2026": 6
-    }
+    "last": "2026-11-08"
    }
   ],
   "img": "img/g/57b7c607dfea63d5.webp"
@@ -22994,7 +22988,7 @@
     "name": "Flow Free",
     "minutes": 806,
     "earned": 11,
-    "total": 11,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/36/0f/83360ff0-8a7e-eb18-7e61-499dce2e1f57/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -23057,14 +23051,7 @@
      "2025-03-27"
     ],
     "first": "2020-11-10",
-    "last": "2025-03-27",
-    "earned_by_year": {
-     "2020": 6,
-     "2021": 7,
-     "2022": 8,
-     "2023": 10,
-     "2025": 11
-    }
+    "last": "2025-03-27"
    }
   ],
   "img": "img/g/5f7fdf40854277d2.webp"
@@ -33080,7 +33067,7 @@
     "name": "Super Mario Run",
     "minutes": 982,
     "earned": 9,
-    "total": 9,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/55/50/ae5550ee-25a2-f00d-685d-ab061349bd51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -33147,12 +33134,7 @@
      "2022-08-14"
     ],
     "first": "2017-12-02",
-    "last": "2022-08-14",
-    "earned_by_year": {
-     "2017": 1,
-     "2018": 8,
-     "2020": 9
-    }
+    "last": "2022-08-14"
    }
   ],
   "img": "img/g/b1d1fdfcea3a644c.webp"
@@ -38389,7 +38371,7 @@
     "name": "Threes!",
     "minutes": 230,
     "earned": 8,
-    "total": 8,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/87/17/828717c4-7aa6-495a-069e-2e031d09c698/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -38441,10 +38423,7 @@
      "2021-12-23"
     ],
     "first": "2014-02-12",
-    "last": "2021-12-23",
-    "earned_by_year": {
-     "2014": 8
-    }
+    "last": "2021-12-23"
    }
   ],
   "img": "img/g/74c8da29705d19f7.webp"
@@ -38973,7 +38952,7 @@
     "name": "Mario Kart Tour",
     "minutes": 45,
     "earned": 1,
-    "total": 1,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/48/c0/4748c061-b137-af00-38f5-5ce0d223b522/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -38984,10 +38963,7 @@
      "2021-11-26"
     ],
     "first": "2021-11-25",
-    "last": "2021-11-26",
-    "earned_by_year": {
-     "2021": 1
-    }
+    "last": "2021-11-26"
    }
   ],
   "img": "img/g/a40e8b0a68cb2081.webp"
@@ -39733,14 +39709,11 @@
     "name": "Angry Birds Reloaded",
     "minutes": 45,
     "earned": 1,
-    "total": 1,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/ce/06/fdce06c7-2c8a-2e3b-0272-fe15e2ea2be0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "first": "2021-08-14",
-    "last": "2021-08-14",
-    "earned_by_year": {
-     "2021": 1
-    }
+    "last": "2021-08-14"
    }
   ],
   "img": "img/g/8a82de09818794f8.webp"
@@ -40064,14 +40037,11 @@
     "name": "Cut the Rope Remastered",
     "minutes": 45,
     "earned": 1,
-    "total": 9,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/e1/c7/abe1c71b-1835-b225-5810-5abeb20eaf05/AppIcon-0-1x_U007emarketing-0-85-220-10.png/512x512bb.jpg",
     "estimated": true,
     "first": "2021-08-03",
-    "last": "2021-08-03",
-    "earned_by_year": {
-     "2021": 1
-    }
+    "last": "2021-08-03"
    }
   ],
   "img": "img/g/e30c9f335990ac7b.webp"
@@ -40513,8 +40483,8 @@
     "platform": "iOS",
     "name": "Dr. Mario World",
     "minutes": null,
-    "earned": 0,
-    "total": 5,
+    "earned": null,
+    "total": null,
     "art": null,
     "first": "2021-06-27",
     "last": "2021-06-27"
@@ -40941,7 +40911,7 @@
     "name": "Good Sudoku",
     "minutes": 45,
     "earned": 2,
-    "total": 2,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9a/df/10/9adf10e9-b819-83e5-6766-d257526b9ab2/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -40952,10 +40922,7 @@
      "2021-05-30"
     ],
     "first": "2021-05-22",
-    "last": "2021-05-30",
-    "earned_by_year": {
-     "2021": 2
-    }
+    "last": "2021-05-30"
    },
    {
     "id": "ios:Good Sudoku",
@@ -41291,14 +41258,11 @@
     "name": "Risk: Global Domination",
     "minutes": 45,
     "earned": 2,
-    "total": 2,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/93/82/819382bf-33e9-1c98-1489-2ddbd420252a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "first": "2021-04-23",
-    "last": "2021-04-23",
-    "earned_by_year": {
-     "2021": 2
-    }
+    "last": "2021-04-23"
    }
   ],
   "img": "img/g/4697fb82d764b9b0.webp"
@@ -41442,7 +41406,7 @@
     "name": "Word Laces",
     "minutes": 45,
     "earned": 1,
-    "total": 1,
+    "total": null,
     "art": null,
     "estimated": true,
     "modeled_hours": {
@@ -41454,10 +41418,7 @@
      "2021-04-04"
     ],
     "first": "2021-03-31",
-    "last": "2021-04-04",
-    "earned_by_year": {
-     "2021": 1
-    }
+    "last": "2021-04-04"
    }
   ],
   "img": null
@@ -41542,14 +41503,11 @@
     "name": "The Oregon Trail",
     "minutes": 45,
     "earned": 1,
-    "total": 6,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/d8/f4/6cd8f488-f4d8-e425-78bc-392909753b8e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
     "estimated": true,
     "first": "2021-04-02",
-    "last": "2021-04-02",
-    "earned_by_year": {
-     "2021": 1
-    }
+    "last": "2021-04-02"
    },
    {
     "id": "camera:The Oregon Trail",
@@ -41613,7 +41571,7 @@
     "name": "Mini Motorways",
     "minutes": 126,
     "earned": 5,
-    "total": 5,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a5/84/a7/a584a72b-1583-cb45-6008-1119c309e539/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -41624,10 +41582,7 @@
      "2021-03-31"
     ],
     "first": "2021-03-07",
-    "last": "2021-03-31",
-    "earned_by_year": {
-     "2021": 5
-    }
+    "last": "2021-03-31"
    }
   ],
   "img": "img/g/41f2b0474d0c89f4.webp"
@@ -42173,7 +42128,7 @@
     "name": "Sp!Ng",
     "minutes": 45,
     "earned": 2,
-    "total": 2,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/72/4d/dd724d37-0f35-5e42-6f58-adc1072fffd8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -42184,10 +42139,7 @@
      "2021-03-13"
     ],
     "first": "2021-03-07",
-    "last": "2021-03-13",
-    "earned_by_year": {
-     "2021": 2
-    }
+    "last": "2021-03-13"
    }
   ],
   "img": "img/g/4506d14bb4369f20.webp"
@@ -44285,7 +44237,7 @@
     "name": "Castlevania: Symphony of the Night",
     "minutes": 45,
     "earned": 2,
-    "total": 2,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/c5/2d/80c52d32-8ec5-d278-bbcf-e3b385177385/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -44303,10 +44255,7 @@
      "2020-10-23"
     ],
     "first": "2020-03-08",
-    "last": "2020-10-23",
-    "earned_by_year": {
-     "2020": 2
-    }
+    "last": "2020-10-23"
    }
   ],
   "series": [
@@ -45840,7 +45789,7 @@
     "name": "What the Golf?",
     "minutes": 45,
     "earned": 2,
-    "total": 2,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/65/61/a3656164-6ca8-f831-5633-1551de43861d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -45855,10 +45804,7 @@
      "2020-01-01"
     ],
     "first": "2019-09-21",
-    "last": "2020-01-01",
-    "earned_by_year": {
-     "2019": 2
-    }
+    "last": "2020-01-01"
    },
    {
     "id": "nintendo:01002c000e35e000",
@@ -46618,7 +46564,7 @@
     "name": "Subway Surfers",
     "minutes": 126,
     "earned": 2,
-    "total": 22,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/f4/67/0ef4676a-cb15-b8ec-d758-f2ccd62fe751/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -46636,11 +46582,7 @@
      "2020-04-17"
     ],
     "first": "2019-09-16",
-    "last": "2020-04-17",
-    "earned_by_year": {
-     "2019": 1,
-     "2020": 2
-    }
+    "last": "2020-04-17"
    }
   ],
   "img": "img/g/c0a7ba350224a6a2.webp"
@@ -58032,14 +57974,11 @@
     "name": "Oh...Sir! The Insult Simulator",
     "minutes": 45,
     "earned": 1,
-    "total": 1,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/ce/77/99/ce7799eb-30b8-ace3-cc8b-371e846196b7/mzl.kvnqcfry.png/512x512bb.jpg",
     "estimated": true,
     "first": "2017-06-09",
-    "last": "2017-06-09",
-    "earned_by_year": {
-     "2017": 1
-    }
+    "last": "2017-06-09"
    },
    {
     "id": "nintendo:0100782005a44000",
@@ -59260,7 +59199,7 @@
     "name": "Temple Run 2",
     "minutes": 982,
     "earned": 44,
-    "total": 44,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/35/7b/b1357b16-9dbf-953a-0ce8-0b07c74e62be/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -59320,12 +59259,7 @@
      "2018-01-27"
     ],
     "first": "2013-12-24",
-    "last": "2018-01-27",
-    "earned_by_year": {
-     "2013": 36,
-     "2014": 38,
-     "2018": 44
-    }
+    "last": "2018-01-27"
    }
   ],
   "img": "img/g/8e5f14ec8befcdb0.webp"
@@ -59912,8 +59846,8 @@
     "platform": "iOS",
     "name": "Dictator: Revolt",
     "minutes": null,
-    "earned": 0,
-    "total": 9,
+    "earned": null,
+    "total": null,
     "art": null,
     "first": "2017-12-09",
     "last": "2017-12-09"
@@ -60622,7 +60556,7 @@
     "name": "Office Space: Idle Profits",
     "minutes": 126,
     "earned": 3,
-    "total": 3,
+    "total": null,
     "art": null,
     "estimated": true,
     "modeled_hours": {
@@ -60633,10 +60567,7 @@
      "2017-04-26"
     ],
     "first": "2017-04-22",
-    "last": "2017-04-26",
-    "earned_by_year": {
-     "2017": 3
-    }
+    "last": "2017-04-26"
    }
   ],
   "img": null
@@ -60676,8 +60607,8 @@
     "platform": "iOS",
     "name": "Lara Croft: Relic Run",
     "minutes": null,
-    "earned": 0,
-    "total": 5,
+    "earned": null,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6c/57/6e/6c576ed1-8b9e-42b2-704e-edca242394ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "first": "2017-04-09",
     "last": "2017-04-09"
@@ -60733,7 +60664,7 @@
     "name": "Angry Birds Epic RPG",
     "minutes": 230,
     "earned": 5,
-    "total": 5,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/a5/9b/d4a59b3d-7062-1581-dab0-ceda283e8e82/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -60776,10 +60707,7 @@
      "2017-04-03"
     ],
     "first": "2014-08-29",
-    "last": "2017-04-03",
-    "earned_by_year": {
-     "2014": 5
-    }
+    "last": "2017-04-03"
    }
   ],
   "img": "img/g/d499ea76e54edc56.webp"
@@ -60828,7 +60756,7 @@
     "name": "Family Guy: The Quest for Stuff",
     "minutes": 45,
     "earned": 5,
-    "total": 7,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/ef/d1/7defd14a-4d83-fca2-3ed3-1ee7ddf43ddb/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -60839,10 +60767,7 @@
      "2017-04-02"
     ],
     "first": "2017-04-01",
-    "last": "2017-04-02",
-    "earned_by_year": {
-     "2017": 5
-    }
+    "last": "2017-04-02"
    }
   ],
   "img": "img/g/3630b4ca710c438c.webp"
@@ -60994,14 +60919,11 @@
     "name": "Rayman Adventures",
     "minutes": 45,
     "earned": 1,
-    "total": 1,
+    "total": null,
     "art": null,
     "estimated": true,
     "first": "2017-02-26",
-    "last": "2017-02-26",
-    "earned_by_year": {
-     "2017": 1
-    }
+    "last": "2017-02-26"
    }
   ],
   "img": null
@@ -61927,7 +61849,7 @@
     "name": "Angry Birds HD",
     "minutes": 45,
     "earned": 5,
-    "total": 5,
+    "total": null,
     "art": null,
     "estimated": true,
     "modeled_hours": {
@@ -61969,10 +61891,7 @@
      "2016-09-24"
     ],
     "first": "2014-02-22",
-    "last": "2016-09-24",
-    "earned_by_year": {
-     "2014": 5
-    }
+    "last": "2016-09-24"
    }
   ],
   "img": null
@@ -62404,7 +62323,7 @@
     "name": "Tiny Wings",
     "minutes": 126,
     "earned": 10,
-    "total": 10,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/1b/5d/a71b5d5b-a5f2-a17c-9bc9-22d529b5de98/AppIcon-1-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -62470,10 +62389,7 @@
      "2016-08-07"
     ],
     "first": "2012-01-10",
-    "last": "2016-08-07",
-    "earned_by_year": {
-     "2012": 10
-    }
+    "last": "2016-08-07"
    }
   ],
   "img": "img/g/4015676506467bac.webp"
@@ -66988,7 +66904,7 @@
     "name": "Two Dots",
     "minutes": 126,
     "earned": 4,
-    "total": 4,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/02/4e/74024ed7-ea37-8963-190f-c267aa3accd7/AppIcon-0-0-1x_U007emarketing-0-1-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -67000,10 +66916,7 @@
      "2014-09-22"
     ],
     "first": "2014-08-30",
-    "last": "2014-09-22",
-    "earned_by_year": {
-     "2014": 4
-    }
+    "last": "2014-09-22"
    }
   ],
   "img": "img/g/ff41573fe909ef5c.webp"
@@ -67975,7 +67888,7 @@
     "name": "Real Racing 3",
     "minutes": 806,
     "earned": 15,
-    "total": 15,
+    "total": null,
     "art": null,
     "estimated": true,
     "modeled_hours": {
@@ -67988,10 +67901,7 @@
      "2014-05-09"
     ],
     "first": "2014-03-12",
-    "last": "2014-05-09",
-    "earned_by_year": {
-     "2014": 15
-    }
+    "last": "2014-05-09"
    }
   ],
   "img": null
@@ -68048,7 +67958,7 @@
     "name": "Bad Piggies HD",
     "minutes": 490,
     "earned": 10,
-    "total": 10,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/86/f2/d0/86f2d00b-a564-747c-b5ad-934d9c417e0c/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -68061,10 +67971,7 @@
      "2014-04-27"
     ],
     "first": "2014-02-22",
-    "last": "2014-04-27",
-    "earned_by_year": {
-     "2014": 10
-    }
+    "last": "2014-04-27"
    }
   ],
   "img": "img/g/5a11fa39a41fdf29.webp"
@@ -68226,7 +68133,7 @@
     "name": "XCOM: Enemy Unknown",
     "minutes": 230,
     "earned": 6,
-    "total": 6,
+    "total": null,
     "art": null,
     "estimated": true,
     "modeled_hours": {
@@ -68238,10 +68145,7 @@
      "2014-04-12"
     ],
     "first": "2014-03-16",
-    "last": "2014-04-12",
-    "earned_by_year": {
-     "2014": 6
-    }
+    "last": "2014-04-12"
    },
    {
     "id": "psn:NPWR03580_00",
@@ -68304,7 +68208,7 @@
     "name": "Civilization Revolution",
     "minutes": 230,
     "earned": 22,
-    "total": 22,
+    "total": null,
     "art": null,
     "estimated": true,
     "modeled_hours": {
@@ -68317,10 +68221,7 @@
      "2014-04-12"
     ],
     "first": "2014-02-05",
-    "last": "2014-04-12",
-    "earned_by_year": {
-     "2014": 22
-    }
+    "last": "2014-04-12"
    }
   ],
   "img": null
@@ -68369,7 +68270,7 @@
     "name": "Game of Thrones Ascent",
     "minutes": 45,
     "earned": 4,
-    "total": 4,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/a7/40/91a74041-7921-670a-3d5b-af4429b809eb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -68380,10 +68281,7 @@
      "2014-04-09"
     ],
     "first": "2014-04-08",
-    "last": "2014-04-09",
-    "earned_by_year": {
-     "2014": 4
-    }
+    "last": "2014-04-09"
    }
   ],
   "img": "img/g/d84d59dcb9922f0e.webp"
@@ -69949,7 +69847,7 @@
     "name": "Hundreds",
     "minutes": 45,
     "earned": 2,
-    "total": 2,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/e7/83/6c/e7836ca5-374d-0b01-3f36-9479270f4743/mzl.ctyqmaij.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -69965,10 +69863,7 @@
      "2013-06-29"
     ],
     "first": "2013-01-09",
-    "last": "2013-06-29",
-    "earned_by_year": {
-     "2013": 2
-    }
+    "last": "2013-06-29"
    }
   ],
   "img": "img/g/f2ee17922a127bdb.webp"
@@ -70212,14 +70107,11 @@
     "name": "The Curse",
     "minutes": 45,
     "earned": 1,
-    "total": 1,
+    "total": null,
     "art": null,
     "estimated": true,
     "first": "2013-01-05",
-    "last": "2013-01-05",
-    "earned_by_year": {
-     "2013": 1
-    }
+    "last": "2013-01-05"
    }
   ],
   "img": null
@@ -71182,7 +71074,7 @@
     "name": "Temple Run",
     "minutes": 490,
     "earned": 21,
-    "total": 32,
+    "total": null,
     "art": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/26/ae/e626ae74-c53a-d9c1-7abd-f3199db65b24/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
     "estimated": true,
     "modeled_hours": {
@@ -71195,10 +71087,7 @@
      "2012-05-02"
     ],
     "first": "2012-03-10",
-    "last": "2012-05-02",
-    "earned_by_year": {
-     "2012": 21
-    }
+    "last": "2012-05-02"
    },
    {
     "id": "camera:Temple Run",

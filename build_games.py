@@ -463,8 +463,11 @@ def entries_and_unlocks(cfg=None):
             days = {et_day(t) for t in g["launch_times"]} | {et_day(a["earned"]) for a in g["achievements"]} \
                 | {et_day(g["last_played"])}
             entries[eid] = {"family": "Apple", "platform": "iOS", "name": name, "days": sorted(days),
-                            "minutes": None, "earned": len(g["achievements"]) if g["total"] else None,
-                            "total": g["total"] or None, "art": g.get("art")}
+                            "minutes": None, "earned": len(g["achievements"]) or None,
+                            # No total: Apple's export only lists achievements with some progress, so
+                            # its count is a floor (Tiny Wings: 10 listed, 30 in the game). The page shows
+                            # the earned count alone (Ronjan 2026-11-27)
+                            "total": None, "art": g.get("art")}
 
     # Meta Quest: one-time import from Meta's data export (tools/build_meta.py, picks in
     # config/meta_games.json). Days are first cloud-save days plus Beat Saber level visits; no hours
